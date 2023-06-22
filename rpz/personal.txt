@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.personal. hostmaster.hagezi.personal. 1687422360 86400 3600 604800 30
+@ SOA rpz.hagezi.personal. hostmaster.hagezi.personal. 1687472880 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Personal DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 22 Jun 2023 08:26 UTC
-; Version: 2023.0622.0826.05
+; Last modified: 22 Jun 2023 22:28 UTC
+; Version: 2023.0622.2228.20
 ; Syntax: RPZ
-; Number of entries: 86762
+; Number of entries: 86900
 ;
 marketing.globalpointofcare.abbott CNAME .
 *.marketing.globalpointofcare.abbott CNAME .
@@ -4340,6 +4340,8 @@ clientlog3.music.163.com CNAME .
 *.clientlog3.music.163.com CNAME .
 nex.163.com CNAME .
 *.nex.163.com CNAME .
+dl.reg.163.com CNAME .
+*.dl.reg.163.com CNAME .
 temp.163.com CNAME .
 *.temp.163.com CNAME .
 yaolu.yuedu.163.com CNAME .
@@ -4406,6 +4408,8 @@ ssp.1nmob.com CNAME .
 *.1rtb.com CNAME .
 1sapp.com CNAME .
 *.1sapp.com CNAME .
+1shoppingcart.com CNAME .
+*.1shoppingcart.com CNAME .
 1startfiledownload1.com CNAME .
 *.1startfiledownload1.com CNAME .
 jzprtb.1stdibs.com CNAME .
@@ -13038,10 +13042,8 @@ analytics.brave.com CNAME .
 *.analytics.brave.com CNAME .
 brave-evolution.com CNAME .
 *.brave-evolution.com CNAME .
-assets.bravenet.com CNAME .
-*.assets.bravenet.com CNAME .
-pub16.bravenet.com CNAME .
-*.pub16.bravenet.com CNAME .
+bravenet.com CNAME .
+*.bravenet.com CNAME .
 bravetense.com CNAME .
 *.bravetense.com CNAME .
 bravospots.com CNAME .
@@ -14066,6 +14068,8 @@ carpatree.com CNAME .
 *.carpatree.com CNAME .
 carpentercomparison.com CNAME .
 *.carpentercomparison.com CNAME .
+smetrics.carphonewarehouse.com CNAME .
+*.smetrics.carphonewarehouse.com CNAME .
 signals.carrefoursa.com CNAME .
 *.signals.carrefoursa.com CNAME .
 carrellsubdit.com CNAME .
@@ -18352,8 +18356,6 @@ diplic.com CNAME .
 *.diplic.com CNAME .
 diplomahawaii.com CNAME .
 *.diplomahawaii.com CNAME .
-diploms-rusian.com CNAME .
-*.diploms-rusian.com CNAME .
 dipseymontia.com CNAME .
 *.dipseymontia.com CNAME .
 dircont3.com CNAME .
@@ -19442,6 +19444,8 @@ smetrics.dxc.com CNAME .
 *.smetrics.dxc.com CNAME .
 bn.dxlive.com CNAME .
 *.bn.dxlive.com CNAME .
+tags.dxmdp.com CNAME .
+*.tags.dxmdp.com CNAME .
 dxmjyxksvc.com CNAME .
 *.dxmjyxksvc.com CNAME .
 dxraceroutlet.com CNAME .
@@ -24034,6 +24038,8 @@ w88.go.com CNAME .
 *.w88.go.com CNAME .
 api.telemetry.watchabc.go.com CNAME .
 *.api.telemetry.watchabc.go.com CNAME .
+go-to-website.com CNAME .
+*.go-to-website.com CNAME .
 go2affise.com CNAME .
 *.go2affise.com CNAME .
 go2offer-1.com CNAME .
@@ -27664,8 +27670,6 @@ instabug.com CNAME .
 *.instabug.com CNAME .
 assets.instacart.com CNAME .
 *.assets.instacart.com CNAME .
-countly.server.sftp.instacart.com CNAME .
-*.countly.server.sftp.instacart.com CNAME .
 shoppers.instacartemail.com CNAME .
 *.shoppers.instacartemail.com CNAME .
 instagramm.com CNAME .
@@ -33848,6 +33852,140 @@ mkt9942.com CNAME .
 *.mkt9942.com CNAME .
 mkt9999.com CNAME .
 *.mkt9999.com CNAME .
+mkto-ab010012.com CNAME .
+*.mkto-ab010012.com CNAME .
+mkto-ab020242.com CNAME .
+*.mkto-ab020242.com CNAME .
+mkto-ab030222.com CNAME .
+*.mkto-ab030222.com CNAME .
+mkto-ab040147.com CNAME .
+*.mkto-ab040147.com CNAME .
+mkto-ab060144.com CNAME .
+*.mkto-ab060144.com CNAME .
+mkto-ab100016.com CNAME .
+*.mkto-ab100016.com CNAME .
+mkto-ab100192.com CNAME .
+*.mkto-ab100192.com CNAME .
+mkto-ab110007.com CNAME .
+*.mkto-ab110007.com CNAME .
+mkto-ab110049.com CNAME .
+*.mkto-ab110049.com CNAME .
+mkto-ab140180.com CNAME .
+*.mkto-ab140180.com CNAME .
+mkto-ab180024.com CNAME .
+*.mkto-ab180024.com CNAME .
+mkto-ab190021.com CNAME .
+*.mkto-ab190021.com CNAME .
+mkto-ab200129.com CNAME .
+*.mkto-ab200129.com CNAME .
+mkto-ab250105.com CNAME .
+*.mkto-ab250105.com CNAME .
+mkto-ab250163.com CNAME .
+*.mkto-ab250163.com CNAME .
+mkto-ab250167.com CNAME .
+*.mkto-ab250167.com CNAME .
+mkto-ab260134.com CNAME .
+*.mkto-ab260134.com CNAME .
+mkto-ab300154.com CNAME .
+*.mkto-ab300154.com CNAME .
+mkto-ab320104.com CNAME .
+*.mkto-ab320104.com CNAME .
+mkto-ab320137.com CNAME .
+*.mkto-ab320137.com CNAME .
+mkto-ab330006.com CNAME .
+*.mkto-ab330006.com CNAME .
+mkto-ab330152.com CNAME .
+*.mkto-ab330152.com CNAME .
+mkto-ab330197.com CNAME .
+*.mkto-ab330197.com CNAME .
+mkto-ab340022.com CNAME .
+*.mkto-ab340022.com CNAME .
+mkto-ab390155.com CNAME .
+*.mkto-ab390155.com CNAME .
+mkto-ab390175.com CNAME .
+*.mkto-ab390175.com CNAME .
+mkto-ab420081.com CNAME .
+*.mkto-ab420081.com CNAME .
+mkto-ab470202.com CNAME .
+*.mkto-ab470202.com CNAME .
+mkto-ab540059.com CNAME .
+*.mkto-ab540059.com CNAME .
+mkto-ab540064.com CNAME .
+*.mkto-ab540064.com CNAME .
+mkto-ab550067.com CNAME .
+*.mkto-ab550067.com CNAME .
+mkto-ab550140.com CNAME .
+*.mkto-ab550140.com CNAME .
+mkto-ab550168.com CNAME .
+*.mkto-ab550168.com CNAME .
+mkto-abm0016.com CNAME .
+*.mkto-abm0016.com CNAME .
+mkto-abm0229.com CNAME .
+*.mkto-abm0229.com CNAME .
+mkto-connect.com CNAME .
+*.mkto-connect.com CNAME .
+mkto-d0170.com CNAME .
+*.mkto-d0170.com CNAME .
+mkto-j0126.com CNAME .
+*.mkto-j0126.com CNAME .
+mkto-k0023.com CNAME .
+*.mkto-k0023.com CNAME .
+mkto-lon040152.com CNAME .
+*.mkto-lon040152.com CNAME .
+mkto-lon090082.com CNAME .
+*.mkto-lon090082.com CNAME .
+mkto-lon100159.com CNAME .
+*.mkto-lon100159.com CNAME .
+mkto-lon100168.com CNAME .
+*.mkto-lon100168.com CNAME .
+mkto-nld1010023.com CNAME .
+*.mkto-nld1010023.com CNAME .
+mkto-sj030214.com CNAME .
+*.mkto-sj030214.com CNAME .
+mkto-sj040252.com CNAME .
+*.mkto-sj040252.com CNAME .
+mkto-sj050105.com CNAME .
+*.mkto-sj050105.com CNAME .
+mkto-sj070130.com CNAME .
+*.mkto-sj070130.com CNAME .
+mkto-sj100138.com CNAME .
+*.mkto-sj100138.com CNAME .
+mkto-sj160145.com CNAME .
+*.mkto-sj160145.com CNAME .
+mkto-sj180011.com CNAME .
+*.mkto-sj180011.com CNAME .
+mkto-sj190104.com CNAME .
+*.mkto-sj190104.com CNAME .
+mkto-sj200192.com CNAME .
+*.mkto-sj200192.com CNAME .
+mkto-sj230006.com CNAME .
+*.mkto-sj230006.com CNAME .
+mkto-sj240021.com CNAME .
+*.mkto-sj240021.com CNAME .
+mkto-sj250172.com CNAME .
+*.mkto-sj250172.com CNAME .
+mkto-sj270080.com CNAME .
+*.mkto-sj270080.com CNAME .
+mkto-sj270172.com CNAME .
+*.mkto-sj270172.com CNAME .
+mkto-sj310059.com CNAME .
+*.mkto-sj310059.com CNAME .
+mkto-sj320047.com CNAME .
+*.mkto-sj320047.com CNAME .
+mkto-sj320055.com CNAME .
+*.mkto-sj320055.com CNAME .
+mkto-sj330006.com CNAME .
+*.mkto-sj330006.com CNAME .
+mkto-sj360076.com CNAME .
+*.mkto-sj360076.com CNAME .
+mkto-sj370153.com CNAME .
+*.mkto-sj370153.com CNAME .
+mkto-sj380030.com CNAME .
+*.mkto-sj380030.com CNAME .
+mkto-sj390015.com CNAME .
+*.mkto-sj390015.com CNAME .
+mkto-test.com CNAME .
+*.mkto-test.com CNAME .
 mktoresp.com CNAME .
 *.mktoresp.com CNAME .
 mktorest.com CNAME .
@@ -35714,8 +35852,6 @@ rtb2-apac.newchallenges-dsp.com CNAME .
 *.rtb2-apac.newchallenges-dsp.com CNAME .
 static-rtb2.newchallenges-dsp.com CNAME .
 *.static-rtb2.newchallenges-dsp.com CNAME .
-newcialed.com CNAME .
-*.newcialed.com CNAME .
 newdompet.com CNAME .
 *.newdompet.com CNAME .
 ad.newegg.com CNAME .
@@ -42260,8 +42396,6 @@ resigndictationhorns.com CNAME .
 *.resigndictationhorns.com CNAME .
 resignedsauna.com CNAME .
 *.resignedsauna.com CNAME .
-resigt.com CNAME .
-*.resigt.com CNAME .
 resistcorrectly.com CNAME .
 *.resistcorrectly.com CNAME .
 resnubdreich.com CNAME .
@@ -43416,6 +43550,8 @@ s-onetag.com CNAME .
 *.s-onetag.com CNAME .
 s1cta.com CNAME .
 *.s1cta.com CNAME .
+media01.s24.com CNAME .
+*.media01.s24.com CNAME .
 widget.s24.com CNAME .
 *.widget.s24.com CNAME .
 s2517.com CNAME .
@@ -51292,8 +51428,6 @@ unlimitedteacup.com CNAME .
 *.unlimitedteacup.com CNAME .
 unlock-protocol.com CNAME .
 *.unlock-protocol.com CNAME .
-unmetalised.com CNAME .
-*.unmetalised.com CNAME .
 unmightboxen.com CNAME .
 *.unmightboxen.com CNAME .
 unnumelom.com CNAME .
@@ -52568,6 +52702,8 @@ visionplusapps.com CNAME .
 *.visionplusapps.com CNAME .
 visistat.com CNAME .
 *.visistat.com CNAME .
+visit-website.com CNAME .
+*.visit-website.com CNAME .
 marketing.visitbatonrouge.com CNAME .
 *.marketing.visitbatonrouge.com CNAME .
 marketing.visitcorpuschristi.com CNAME .
@@ -58958,6 +59094,8 @@ hoggeepilies.digital CNAME .
 *.hoggeepilies.digital CNAME .
 hylomysslipper.digital CNAME .
 *.hylomysslipper.digital CNAME .
+ileacfaretta.digital CNAME .
+*.ileacfaretta.digital CNAME .
 wl-pixel.index.digital CNAME .
 *.wl-pixel.index.digital CNAME .
 ineuntkilnman.digital CNAME .
@@ -60000,8 +60138,6 @@ swebmetrics.oklahoma.gov CNAME .
 *.swebmetrics.oklahoma.gov CNAME .
 smetrics.catalog.usmint.gov CNAME .
 *.smetrics.catalog.usmint.gov CNAME .
-deugahat.gq CNAME .
-*.deugahat.gq CNAME .
 jandin.gq CNAME .
 *.jandin.gq CNAME .
 kallarann.gq CNAME .
@@ -61058,8 +61194,6 @@ w.gtrconf.info CNAME .
 *.w.gtrconf.info CNAME .
 haitingshospi.info CNAME .
 *.haitingshospi.info CNAME .
-harib-eir.info CNAME .
-*.harib-eir.info CNAME .
 harn8.info CNAME .
 *.harn8.info CNAME .
 hasdarot.info CNAME .
@@ -62056,6 +62190,8 @@ ftz.io CNAME .
 *.ftz.io CNAME .
 funnelytics.io CNAME .
 *.funnelytics.io CNAME .
+futureads.io CNAME .
+*.futureads.io CNAME .
 fx-elitetrader.io CNAME .
 *.fx-elitetrader.io CNAME .
 gameads.io CNAME .
@@ -74870,6 +75006,8 @@ cdn.shareaholic.net CNAME .
 *.cdn.shareaholic.net CNAME .
 sharethis.net CNAME .
 *.sharethis.net CNAME .
+sherv.net CNAME .
+*.sherv.net CNAME .
 shopas.net CNAME .
 *.shopas.net CNAME .
 shopback.net CNAME .
@@ -77500,8 +77638,6 @@ marketing.washington.org CNAME .
 *.marketing.washington.org CNAME .
 info.washingtoninstitute.org CNAME .
 *.info.washingtoninstitute.org CNAME .
-web-telegramm.org CNAME .
-*.web-telegramm.org CNAME .
 webogram.org CNAME .
 *.webogram.org CNAME .
 webvisor.org CNAME .
@@ -82900,6 +83036,8 @@ avdpmeated.uno CNAME .
 *.avdpmeated.uno CNAME .
 barkaryglaiket.uno CNAME .
 *.barkaryglaiket.uno CNAME .
+botongfuff.uno CNAME .
+*.botongfuff.uno CNAME .
 bracketknolls.uno CNAME .
 *.bracketknolls.uno CNAME .
 brissapogaic.uno CNAME .
@@ -83152,6 +83290,8 @@ aldi-life.vip CNAME .
 *.aldi-life.vip CNAME .
 amazonnow.vip CNAME .
 *.amazonnow.vip CNAME .
+asdasdwqer21sd.vip CNAME .
+*.asdasdwqer21sd.vip CNAME .
 bestfilms.vip CNAME .
 *.bestfilms.vip CNAME .
 cma88.vip CNAME .
@@ -86600,8 +86740,6 @@ xvrvgod.xyz CNAME .
 *.xvrvgod.xyz CNAME .
 xwbspx.xyz CNAME .
 *.xwbspx.xyz CNAME .
-xxaparfuel.xyz CNAME .
-*.xxaparfuel.xyz CNAME .
 xxtalp.xyz CNAME .
 *.xxtalp.xyz CNAME .
 xylkpj.xyz CNAME .

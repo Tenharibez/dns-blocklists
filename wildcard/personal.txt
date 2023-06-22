@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 Jun 2023 08:26 UTC
-# Version: 2023.0622.0826.05
+# Last modified: 22 Jun 2023 22:28 UTC
+# Version: 2023.0622.2228.20
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 43381
+# Number of entries: 43450
 #
 *.000space.com
 *.000webhost.com
@@ -198,6 +198,7 @@
 *.clientlog.music.163.com
 *.clientlog3.music.163.com
 *.nex.163.com
+*.dl.reg.163.com
 *.temp.163.com
 *.yaolu.yuedu.163.com
 *.ac.dun.163yun.com
@@ -274,6 +275,7 @@
 *.1rxntv.io
 *.1sapp.com
 *.1serial.tv
+*.1shoppingcart.com
 *.1sqfobn52.de
 *.1st-mail.jp
 *.1startfiledownload1.com
@@ -4746,6 +4748,7 @@
 *.omniture.groceries.asda.com
 *.omniture-ssl.groceries.asda.com
 *.asdasdad.net
+*.asdasdwqer21sd.vip
 *.asdffe22.com
 *.asdguswfys.com
 *.asdnow.xyz
@@ -6848,6 +6851,7 @@
 *.botize.com
 *.botman.ninja
 *.botndm.nl
+*.botongfuff.uno
 *.bottlerobust.com
 *.bottlestonightapp.com
 *.boudja.com
@@ -6947,8 +6951,7 @@
 *.braun634.com
 *.analytics.brave.com
 *.brave-evolution.com
-*.assets.bravenet.com
-*.pub16.bravenet.com
+*.bravenet.com
 *.bravetense.com
 *.bravospots.com
 *.ijaabm.bravotv.com
@@ -7675,6 +7678,7 @@
 *.carpatree.com
 *.carpediem.fr
 *.carpentercomparison.com
+*.smetrics.carphonewarehouse.com
 *.content-strl.courses-en-ligne.carrefour.fr
 *.ea.carrefour.fr
 *.ea.online.carrefour.fr
@@ -14088,7 +14092,6 @@
 *.rec.detik.com
 *.detmir-stats.ru
 *.sxjfhh.detroitnews.com
-*.deugahat.gq
 *.data-a25b878079.deutsche-apotheker-zeitung.de
 *.aa.deutsche-bank.de
 *.at.deutsche-bank.de
@@ -14304,7 +14307,6 @@
 *.diplewhigged.com
 *.diplic.com
 *.diplomahawaii.com
-*.diploms-rusian.com
 *.dipseymontia.com
 *.dircont3.com
 *.direct-energy.ltd
@@ -15116,6 +15118,7 @@
 *.smetrics.dxc.com
 *.dxfxuywc.xyz
 *.bn.dxlive.com
+*.tags.dxmdp.com
 *.dxmjyxksvc.com
 *.dxraceroutlet.com
 *.rc.dxsvr.com
@@ -17896,6 +17899,7 @@
 *.futill.com
 *.future-marvellous.com
 *.futureadpro.com
+*.futureads.io
 *.bordeaux.futurecdn.net
 *.champagne.futurecdn.net
 *.trk.futureelectronics.com
@@ -18801,6 +18805,7 @@
 *.c.go-mpulse.net
 *.s.go-mpulse.net
 *.s2.go-mpulse.net
+*.go-to-website.com
 *.go1news.biz
 *.go2.global
 *.go2affise.com
@@ -19635,7 +19640,6 @@
 *.hardwaretakeoutintimidate.com
 *.hardwomen.com
 *.hardyload.com
-*.harib-eir.info
 *.hariken.co
 *.atarget.harley-davidson.com
 *.smetrics.harley-davidson.com
@@ -20989,6 +20993,7 @@
 *.ilaterdeallyi.info
 *.ilbanner.com
 *.ad.ilcdn.fi
+*.ileacfaretta.digital
 *.ileeckut.com
 *.ili.net
 *.iliifmido.xyz
@@ -21459,7 +21464,6 @@
 *.inspxtrc.com
 *.instabug.com
 *.assets.instacart.com
-*.countly.server.sftp.instacart.com
 *.shoppers.instacartemail.com
 *.instadrama.site
 *.instagram-my.ru
@@ -26296,6 +26300,73 @@
 *.mkt9752.com
 *.mkt9942.com
 *.mkt9999.com
+*.mkto-ab010012.com
+*.mkto-ab020242.com
+*.mkto-ab030222.com
+*.mkto-ab040147.com
+*.mkto-ab060144.com
+*.mkto-ab100016.com
+*.mkto-ab100192.com
+*.mkto-ab110007.com
+*.mkto-ab110049.com
+*.mkto-ab140180.com
+*.mkto-ab180024.com
+*.mkto-ab190021.com
+*.mkto-ab200129.com
+*.mkto-ab250105.com
+*.mkto-ab250163.com
+*.mkto-ab250167.com
+*.mkto-ab260134.com
+*.mkto-ab300154.com
+*.mkto-ab320104.com
+*.mkto-ab320137.com
+*.mkto-ab330006.com
+*.mkto-ab330152.com
+*.mkto-ab330197.com
+*.mkto-ab340022.com
+*.mkto-ab390155.com
+*.mkto-ab390175.com
+*.mkto-ab420081.com
+*.mkto-ab470202.com
+*.mkto-ab540059.com
+*.mkto-ab540064.com
+*.mkto-ab550067.com
+*.mkto-ab550140.com
+*.mkto-ab550168.com
+*.mkto-abm0016.com
+*.mkto-abm0229.com
+*.mkto-connect.com
+*.mkto-d0170.com
+*.mkto-j0126.com
+*.mkto-k0023.com
+*.mkto-lon040152.com
+*.mkto-lon090082.com
+*.mkto-lon100159.com
+*.mkto-lon100168.com
+*.mkto-nld1010023.com
+*.mkto-sj030214.com
+*.mkto-sj040252.com
+*.mkto-sj050105.com
+*.mkto-sj070130.com
+*.mkto-sj100138.com
+*.mkto-sj160145.com
+*.mkto-sj180011.com
+*.mkto-sj190104.com
+*.mkto-sj200192.com
+*.mkto-sj230006.com
+*.mkto-sj240021.com
+*.mkto-sj250172.com
+*.mkto-sj270080.com
+*.mkto-sj270172.com
+*.mkto-sj310059.com
+*.mkto-sj320047.com
+*.mkto-sj320055.com
+*.mkto-sj330006.com
+*.mkto-sj360076.com
+*.mkto-sj370153.com
+*.mkto-sj380030.com
+*.mkto-sj390015.com
+*.mkto-test.com
 *.mktoresp.com
 *.mktorest.com
 *.etui.fs.ml.com
@@ -27754,7 +27825,6 @@
 *.newcaptchahere.top
 *.rtb2-apac.newchallenges-dsp.com
 *.static-rtb2.newchallenges-dsp.com
-*.newcialed.com
 *.newdomain.center
 *.newdompet.com
 *.newdosug.eu
@@ -32861,7 +32931,6 @@
 *.residualpayments.com
 *.resigndictationhorns.com
 *.resignedsauna.com
-*.resigt.com
 *.resilesfuriant.guru
 *.resistcorrectly.com
 *.resniks.pro
@@ -33692,6 +33761,7 @@
 *.s-space.jp
 *.s1cta.com
 *.s1m4nohq.de
+*.media01.s24.com
 *.widget.s24.com
 *.pro-web-metrics.alias.s24cloud.net
 *.s2517.com
@@ -34665,6 +34735,7 @@
 *.shenbabao.com
 *.sherkhundi.com
 *.sherouscolvered.com
+*.sherv.net
 *.shesubscriptions.com
 *.shguy.cyou
 *.hm.e.shifen.com
@@ -39474,7 +39545,6 @@
 *.unlock-protocol.com
 *.unltdentertainment.co
 *.unmasksxyloma.uno
-*.unmetalised.com
 *.unmightboxen.com
 *.unmistdistune.guru
 *.unnumelom.com
@@ -40415,6 +40485,7 @@
 *.visioncriticalpanels.com
 *.visionplusapps.com
 *.visistat.com
+*.visit-website.com
 *.marketing.visitabq.org
 *.marketing.visitbatonrouge.com
 *.marketing.visitcorpuschristi.com
@@ -41091,7 +41162,6 @@
 *.web-guardian.xyz
 *.web-security.cloud
 *.web-stat.com
-*.web-telegramm.org
 *.web-trackers.com
 *.web0.eu
 *.web1000.com
@@ -42369,7 +42439,6 @@
 *.xwdsp.com
 *.xwqvytuiko.com
 *.xwuad.com
-*.xxaparfuel.xyz
 *.xxccdshj.com
 *.xxlargepop.com
 *.xxtalp.xyz
