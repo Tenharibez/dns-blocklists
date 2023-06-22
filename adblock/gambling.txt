@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 22 Jun 2023 07:26 UTC
-! Version: 2023.0622.0726.02
+! Last modified: 22 Jun 2023 21:16 UTC
+! Version: 2023.0622.2116.53
 ! Syntax: AdBlock
-! Number of entries: 133157
+! Number of entries: 133090
 !
 ||000000tyc.com^
 ||00000178.com^
@@ -80453,6 +80453,7 @@
 ||bwing18.com^
 ||bwing19.com^
 ||bwing20.com^
+||bwing88.com^
 ||bwinggiftcode.club^
 ||bwinggiftcode.live^
 ||bwinggiftcode.online^
@@ -82068,7 +82069,6 @@
 ||cl8686.com^
 ||cl8688.com^
 ||classyslots.com^
-||cldriowcdv.com^
 ||clearwaterplays.com^
 ||cleopatras-casino.com^
 ||cleopatraspalacecasino.com^
@@ -82112,7 +82112,6 @@
 ||clubv8.fun^
 ||clubvipcasino.com^
 ||clubw88fun.com^
-||clv5p.com^
 ||clxdwmq7.cfd^
 ||cm1xbet.com^
 ||cm1xbet.mobi^
@@ -82141,11 +82140,9 @@
 ||cmd368y.com^
 ||cmdbet.com^
 ||cmdhsyaoud598.com^
-||cmdm31.live^
 ||cmdvn368.com^
 ||cmdwang368.com^
 ||cmlvyou.net^
-||cmm2023.com^
 ||cmnx8ux.click^
 ||cmpwy.com^
 ||cmqf2z.com^
@@ -82188,8 +82185,6 @@
 ||cngzjg.com^
 ||cnhdpj.com^
 ||cnhg0088.com^
-||cnlzjx.com^
-||cnn2023.com^
 ||cnn3n.com^
 ||cnn889.com^
 ||cnnapps.com^
@@ -82298,14 +82293,10 @@
 ||cocowin.net^
 ||cocowin.org^
 ||coctk.com^
-||cod-bo.com^
 ||cod1525.com^
 ||cod5868.com^
-||cod6.vip^
-||cod8.vip^
 ||cod88x.com^
 ||cod898.com^
-||codcs.one^
 ||codecasino.com^
 ||codeiwin.com^
 ||codeotop.com^
@@ -82316,7 +82307,6 @@
 ||codetiwin.net^
 ||codewin.net^
 ||codewin79.com^
-||codzt.one^
 ||coebike.com^
 ||coffeebingo.com^
 ||cofoxy.xyz^
@@ -82387,7 +82377,6 @@
 ||zebrabet.com.au^
 ||zonadeazar.com.ar^
 ||com3456.com^
-||40598f.com44077z.com^
 ||combast.xyz^
 ||come188.net^
 ||comeon.com^
@@ -82504,7 +82493,6 @@
 ||cpb268.com^
 ||cpb27.com^
 ||cpb28.com^
-||cpb63.com^
 ||cpb83.com^
 ||cpb93.com^
 ||cpearzc.xyz^
@@ -82716,15 +82704,11 @@
 ||cpw8895.vip^
 ||cpw8897.vip^
 ||cpxidumqtn.com^
-||cq32t.com^
 ||cqa9qr.vip^
-||cqboan.net^
 ||cqccyhxqpo.com^
 ||cqewkfaljx.com^
 ||cqidc.wang^
 ||cqkrc.com^
-||cqldcuajdg.com^
-||cqqiankun.com^
 ||cqrunner.cn^
 ||cqsbm.com^
 ||cquanmeiyus.net^
@@ -82867,14 +82851,12 @@
 ||csj448.com^
 ||csj449.com^
 ||csj551.com^
-||csj69.quest^
 ||csj6cp.com^
 ||csj82.com^
 ||csj8800.com^
 ||csj8855.com^
 ||csj8866.com^
 ||csj8877.com^
-||csj98.quest^
 ||cslm001.com^
 ||cslm002.com^
 ||cslm003.com^
@@ -82888,7 +82870,6 @@
 ||csredsea1.com^
 ||csredseayhbv222.com^
 ||csrvwot.xyz^
-||css2023.com^
 ||csslwh.com^
 ||csssu.com^
 ||csvqc.com^
@@ -82899,7 +82880,6 @@
 ||ctevile.xyz^
 ||ctl3sz.vip^
 ||ctnpz.win^
-||ctt2023.com^
 ||cu7cln.vip^
 ||cuan88.bet^
 ||cuan88.com^
@@ -82947,13 +82927,11 @@
 ||cuteivy.xyz^
 ||cutgeek.xyz^
 ||cutmr.com^
-||cuu2023.com^
 ||cv1781.com^
 ||cv2gf.biz^
 ||cv88.com^
 ||cv88.vip^
 ||cvbewhjqbxaaclkyeatroyqgavwdnh6729.com^
-||cvmflirlkd.com^
 ||cvn2.com^
 ||cvn9.com^
 ||cwddg.com^
@@ -82978,8 +82956,6 @@
 ||cwin777.com^
 ||cwin999.com^
 ||cwpqgundmc.com^
-||cww2023.com^
-||cwxbixgvls.com^
 ||cwyo382ctp.com^
 ||cx2cp.com^
 ||cx666.vip^
@@ -83182,13 +83158,9 @@
 ||cxonjerqas.com^
 ||cxq242171.vip^
 ||cxqlt.com^
-||cxx2023.com^
-||cxx8r.com^
 ||cxzksk3366.com^
 ||cxzwe.tel^
-||cy-1xbet.com^
 ||cy116688.com^
-||cy1xbet.com^
 ||cy336688.com^
 ||cy479.com^
 ||cy556688.com^
@@ -83197,17 +83169,9 @@
 ||cy88.org^
 ||cy91.com^
 ||cy94.com^
-||cyafzdbpta.com^
 ||cyber.bet^
 ||cyberbetcasino.com^
 ||cybersportsbet.com^
-||cycmrlyyuw.com^
-||cyh1122.com^
-||cyh1155.com^
-||cyh1199.com^
-||cyh2222.com^
-||cyh2299.com^
-||cyh6699.com^
 ||cyjvg.win^
 ||cym57.wang^
 ||cypsbvsm.xyz^
@@ -83218,10 +83182,8 @@
 ||cz967.net^
 ||czcppjlbjk.com^
 ||czcww9srd3.com^
-||czdmdnmyqc.com^
 ||cze42.net^
 ||czf66.com^
-||czjc50999.com^
 ||czjumai.com^
 ||czk85.net^
 ||czkne.org^
@@ -83245,7 +83207,6 @@
 ||d178.info^
 ||d188xj.com^
 ||d19789.com^
-||d1pbl.vip^
 ||d2201.com^
 ||d22261.com^
 ||d2323.com^
@@ -83254,7 +83215,6 @@
 ||d2421.com^
 ||d2588.com^
 ||d2666.com^
-||d26777.app^
 ||d2698.com^
 ||d2727.com^
 ||d2929.com^
@@ -83267,7 +83227,6 @@
 ||d32g5x.com^
 ||d333666.com^
 ||d34034.com^
-||d34j5n.live^
 ||d3572.com^
 ||d35fd28djlak.com^
 ||d35jkw94sz9cnk4oxfn3lx0c3.com^
@@ -83336,7 +83295,6 @@
 ||d43439.com^
 ||d464646.com^
 ||d4vevqdijq.com^
-||d51bet.bet^
 ||d5443r.com^
 ||d555000.com^
 ||d5656l.com^
@@ -83368,13 +83326,10 @@
 ||d6q55i5sn1.com^
 ||d7219.com^
 ||d753n.com^
-||d77796.com^
-||d77798.com^
 ||d7826.com^
 ||d78785.com^
 ||d789365.com^
 ||d78baggzzy88q52tmc.com^
-||d7c.net^
 ||d7mnv.com^
 ||d81866.com^
 ||d8228.net^
@@ -83397,7 +83352,6 @@
 ||d88118.com^
 ||d8812.com^
 ||d8815.com^
-||d88158.com^
 ||d8817.com^
 ||d88288.com^
 ||d88388.com^
@@ -83410,7 +83364,6 @@
 ||d8888a.com^
 ||d8888c.com^
 ||d8888d.com^
-||d889.app^
 ||d889.com^
 ||d8897.com^
 ||d88988.net^
@@ -83451,7 +83404,6 @@
 ||d9bet88.com^
 ||d9e99c5.com^
 ||d9f87342jhds786gh3458921csbh76324bmds9832hv89ds7.com^
-||d9pl6w.live^
 ||d9s9r7.com^
 ||da1112.com^
 ||da1113.com^
@@ -83480,13 +83432,10 @@
 ||dadaookk.com^
 ||dadaookk1.com^
 ||daddyskins.com^
-||dadi88.com^
 ||dadji.xyz^
 ||dadobet.com^
 ||dadzo88.com^
-||dafa-bet.com^
 ||dafa-bet.net^
-||dafa-bet.org^
 ||dafa01.net^
 ||dafa07.net^
 ||dafa08.net^
@@ -83543,8 +83492,6 @@
 ||dafafa8.com^
 ||dafafc.com^
 ||dafafootball.com^
-||dafafootball.net^
-||dafafootball.org^
 ||dafafwc.com^
 ||dafagiaitri.com^
 ||dafagoal.com^
@@ -83578,7 +83525,6 @@
 ||dafapoker.com^
 ||cmkt.dafapromo.com^
 ||dafasiam.com^
-||dafasoccer.com^
 ||dafasoccer.net^
 ||dafasomot.com^
 ||dafasport.asia^
@@ -83592,9 +83538,6 @@
 ||dafathailand.com^
 ||dafathongtin.com^
 ||dafatiyu.com^
-||dafatiyu.net^
-||dafatiyu.org^
-||dafatouzhu.com^
 ||dafauudai.com^
 ||dafavip.asia^
 ||dafavip8.com^
@@ -83604,8 +83547,6 @@
 ||dafawin.com^
 ||dafawinner.com^
 ||dafaworld.com^
-||dafazuqiu.net^
-||dafazuqiu.org^
 ||dafeihuang.com^
 ||dafmh.fun^
 ||dafouchen.com^
@@ -83683,7 +83624,6 @@
 ||dangkynhanh88.com^
 ||dangkythabet.com^
 ||dangkywin2888.vip^
-||danhbaidoithuongizi.com^
 ||danhlodewin2888.net^
 ||danhloo.com^
 ||danhngay.com^
@@ -83704,11 +83644,7 @@
 ||dapang8786.com^
 ||daredfarfwegsgreretrvsetrtrg32434.com^
 ||das9vwv3bf9css9bgn3mee9xqd9v.com^
-||dasgc956.com^
-||dasge569.com^
-||dasgf572.com^
 ||dashbet.com^
-||dasvg542.com^
 ||datcuoc247.com^
 ||datdrop.com^
 ||datflljzee.com^
@@ -83792,18 +83728,14 @@
 ||dc673.com^
 ||dc675.com^
 ||dc697.com^
-||dc69fj.live^
 ||dc735.com^
 ||dc7758.com^
 ||dc7763.com^
 ||dc7785.com^
-||dc7789.com^
 ||dc827.com^
 ||dc830.com^
 ||dc8585.com^
 ||dc865.com^
-||dc8815.com^
-||dc887.com^
 ||dc888win.com^
 ||dc88game.com^
 ||dc901.com^
@@ -83812,7 +83744,6 @@
 ||dc914.com^
 ||dc915.com^
 ||dc983.com^
-||dc9919.com^
 ||dcai888.com^
 ||dcbet550.com^
 ||dcbet555.com^
@@ -83867,7 +83798,6 @@
 ||dd202d.com^
 ||dd222222.com^
 ||dd260.org^
-||dd26777.app^
 ||dd2698.com^
 ||dd29685.com^
 ||dd31666.net^
@@ -84128,8 +84058,6 @@
 ||ddxevwqy93.com^
 ||ddymu.com^
 ||ddytik.net^
-||ddzchina.net^
-||ddzmacau.com^
 ||de-1xbet.com^
 ||de1852.com^
 ||de5604.com^
@@ -84205,8 +84133,6 @@
 ||deztuyn.xyz^
 ||df-access.com^
 ||df-app.com^
-||df-bet.com^
-||df-bet.net^
 ||df-bet.org^
 ||df-client.com^
 ||df-college.com^
@@ -84330,7 +84256,6 @@
 ||dfbkkclub.com^
 ||dfbocai.com^
 ||dfbocai.net^
-||dfbocai.org^
 ||dfbola888.com^
 ||dfbrs.top^
 ||dfbrs.vip^
@@ -84394,7 +84319,6 @@
 ||dftupian.com^
 ||dfvnvui.com^
 ||dfw99.com^
-||dfw9gwdmnj6eda3cr1fws9vsh8wf.com^
 ||dfwh8.com^
 ||dfworldcup.com^
 ||dfxnl.biz^
@@ -87083,6 +87007,7 @@
 ||fcb8.vip^
 ||fcb8.win^
 ||fcb88.com^
+||fcb88.vip^
 ||fcb88d.com^
 ||fcbqusyliz.com^
 ||fceoce.com^
@@ -108747,6 +108672,7 @@
 ||mu9.club^
 ||mu9.com^
 ||mu9.fun^
+||mu9.online^
 ||mu9.vip^
 ||mu90.com^
 ||mu92.com^
@@ -110697,6 +110623,7 @@
 ||one88.fun^
 ||one88.me^
 ||one88.top^
+||one88.uk^
 ||one88.us^
 ||one88.vin^
 ||one88.vip^
@@ -110895,6 +110822,7 @@
 ||owncasino.com^
 ||ownjbb.com^
 ||ox3.tech^
+||oxbet.cc^
 ||oxbet.club^
 ||oxbet.com^
 ||oxbet.me^
@@ -114302,6 +114230,7 @@
 ||red88.us^
 ||red88.vin^
 ||red88.vip^
+||red88e.com^
 ||redbet.com^
 ||redcoreltd.com^
 ||lobby.reddogcasino.com^
@@ -116256,6 +116185,7 @@
 ||sin88.cc^
 ||sin88.club^
 ||sin88.mobi^
+||sin88.uk^
 ||sin88.us^
 ||sin88.vip^
 ||sin88.win^
@@ -118583,6 +118513,7 @@
 ||tipsportholding.com^
 ||tipsportholding.net^
 ||tipssuksesbola.com^
+||tiptoday.com^
 ||tipuj.sk^
 ||tipwc2022.com^
 ||tipwin.com^
@@ -118816,6 +118747,7 @@
 ||top88a.vip^
 ||top88vn.net^
 ||top99.vip^
+||top9nhacai.top^
 ||topaffiliates.net^
 ||topaffy.com^
 ||topbet.eu^
@@ -122933,6 +122865,7 @@
 ||vuichoi68.com^
 ||vuicungdafa.com^
 ||vuicungdf.com^
+||vuigiaitri.online^
 ||vuixoso88.com^
 ||vulcun.com^
 ||vulkanvegas.com^
