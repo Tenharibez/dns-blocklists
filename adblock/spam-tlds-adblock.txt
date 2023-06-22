@@ -1,0 +1,68 @@
+! Title: HaGeZi's The World's Most Abused TLDs
+! Description: The Top Most Abused Top Level Domains, merged from Yokoffing, DandelionSprout and SpamHAUS. Only TLDs, without exclusion of possible false positive domains!
+! Source: https://www.spamhaus.org/statistics/tlds/
+!         https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt
+!         https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
+! Homepage: https://github.com/hagezi/dns-blocklists
+! Issues: https://github.com/hagezi/dns-blocklists/issues
+! Expires: 1 day
+! Last modified: 22 Jun 2023 14:39 UTC
+! Version: 2023.0622.1439.32
+! Syntax: AdBlock
+!
+||agency^
+||autos^
+||bar^
+||beauty^
+||bid^
+||biz^
+||boats^
+||boston^
+||boutique^
+||buzz^
+||cf^
+||cfd^
+||cyou^
+||dad^
+||dance^
+||degree^
+||discount^
+||esq^
+||fit^
+||foo^
+||fun^
+||fyi^
+||gdn^
+||gq^
+||hair^
+||haus^
+||life^
+||loan^
+||loans^
+||ml^
+||mom^
+||monster^
+||mov^
+||name^
+||nexus^
+||okinawa^
+||online^
+||ooo^
+||phd^
+||prof^
+||pw^
+||quest^
+||rest^
+||sbs^
+||site^
+||skin^
+||surf^
+||tk^
+||top^
+||uno^
+||voto^
+||wiki^
+||work^
+||wtf^
+||zip^
+||zone^
