@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1687418400 86400 3600 604800 30
+@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1687468200 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Enyrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 22 Jun 2023 07:20 UTC
-; Version: 2023.0622.0720.03
+; Last modified: 22 Jun 2023 21:10 UTC
+; Version: 2023.0622.2110.38
 ; Syntax: RPZ
-; Number of entries: 12188
+; Number of entries: 12190
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -2351,6 +2351,8 @@ dns.vmath.my.id CNAME .
 *.dns.vmath.my.id CNAME .
 doh.infotek.net.id CNAME .
 *.doh.infotek.net.id CNAME .
+kswro.web.id CNAME .
+*.kswro.web.id CNAME .
 doh.this.web.id CNAME .
 *.doh.this.web.id CNAME .
 doh.zephyrus.id CNAME .
