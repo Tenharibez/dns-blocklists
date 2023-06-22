@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1687418640 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1687468500 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 22 Jun 2023 07:24 UTC
-; Version: 2023.0622.0724.21
+; Last modified: 22 Jun 2023 21:15 UTC
+; Version: 2023.0622.2115.03
 ; Syntax: RPZ
-; Number of entries: 13536
+; Number of entries: 13520
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -5558,8 +5558,6 @@ boerse.cx CNAME .
 *.boerse.cx CNAME .
 burningseries.cx CNAME .
 *.burningseries.cx CNAME .
-cnp.cx CNAME .
-*.cnp.cx CNAME .
 cpabien.cx CNAME .
 *.cpabien.cx CNAME .
 aam-bt.dyns.cx CNAME .
@@ -7992,8 +7990,6 @@ tracker.ddunlimited.net CNAME .
 *.tracker.ddunlimited.net CNAME .
 deepseek.net CNAME .
 *.deepseek.net CNAME .
-derpyradio.net CNAME .
-*.derpyradio.net CNAME .
 deviloid.net CNAME .
 *.deviloid.net CNAME .
 bm.dfnbd.net CNAME .
@@ -9354,8 +9350,6 @@ coolmoviezone.online CNAME .
 *.coolmoviezone.online CNAME .
 tracker.corpscorp.online CNAME .
 *.tracker.corpscorp.online CNAME .
-cynemas.online CNAME .
-*.cynemas.online CNAME .
 ettv.online CNAME .
 *.ettv.online CNAME .
 filmzenstream.online CNAME .
@@ -9636,8 +9630,6 @@ clipmovie.org CNAME .
 *.clipmovie.org CNAME .
 clonebits.org CNAME .
 *.clonebits.org CNAME .
-torrent-comet.club-23.org CNAME .
-*.torrent-comet.club-23.org CNAME .
 colombo-bt.org CNAME .
 *.colombo-bt.org CNAME .
 comandotorrents.org CNAME .
@@ -9680,8 +9672,6 @@ cyberphoenix.org CNAME .
 *.cyberphoenix.org CNAME .
 danishbits.org CNAME .
 *.danishbits.org CNAME .
-danishtorrents.org CNAME .
-*.danishtorrents.org CNAME .
 datenreiter.org CNAME .
 *.datenreiter.org CNAME .
 ddl-warez.org CNAME .
@@ -11020,8 +11010,6 @@ animewarrior.pro CNAME .
 *.animewarrior.pro CNAME .
 atdhe.pro CNAME .
 *.atdhe.pro CNAME .
-coolmoviejagg.pro CNAME .
-*.coolmoviejagg.pro CNAME .
 cpasbien3.pro CNAME .
 *.cpasbien3.pro CNAME .
 europixhd.pro CNAME .
@@ -12812,10 +12800,6 @@ boerse.tw CNAME .
 *.boerse.tw CNAME .
 hd.club.tw CNAME .
 *.hd.club.tw CNAME .
-tracker1.wasabii.com.tw CNAME .
-*.tracker1.wasabii.com.tw CNAME .
-tracker2.wasabii.com.tw CNAME .
-*.tracker2.wasabii.com.tw CNAME .
 tracker.joybomb.tw CNAME .
 *.tracker.joybomb.tw CNAME .
 mayi.tw CNAME .

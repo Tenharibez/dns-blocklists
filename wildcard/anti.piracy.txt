@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 22 Jun 2023 07:24 UTC
-# Version: 2023.0622.0724.21
+# Last modified: 22 Jun 2023 21:15 UTC
+# Version: 2023.0622.2115.03
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 6768
+# Number of entries: 6760
 #
 *.zer0day.000webhostapp.com
 *.0123456789nonexistent.com
@@ -1232,7 +1232,6 @@
 *.cloudtorrents.com
 *.cloudvideo.tv
 *.hd.club.tw
-*.torrent-comet.club-23.org
 *.club-mst3k.com
 *.clubfilm.ir
 *.bruh.cluster.ws
@@ -1246,7 +1245,6 @@
 *.cmovieshd.net
 *.fh2.cmp-gaming.com
 *.cnetworkbd.net
-*.cnp.cx
 *.althub.co.za
 *.mirror.aptus.co.tz
 *.bioquantum.co.za
@@ -1328,8 +1326,6 @@
 *.thepiratebays.com.se
 *.tnetwork.com.bd
 *.triangle.com.bd
-*.tracker1.wasabii.com.tw
-*.tracker2.wasabii.com.tw
 *.watchmovies1.com.pk
 *.wormsblast.com.pl
 *.www.midea123.z-media.com.cn
@@ -1364,7 +1360,6 @@
 *.contego.ws
 *.convivea.com
 *.conway-sports.com
-*.coolmoviejagg.pro
 *.coolmoviezone.online
 *.coolwareznik.net
 *.coppersurfer.tk
@@ -1518,7 +1513,6 @@
 *.capital.cyberserver.hu
 *.cyberwarez.info
 *.cyclingtorrents.nl
-*.cynemas.online
 *.cyonix.to
 *.cytu.be
 *.torrents.czteam.ro
@@ -1540,7 +1534,6 @@
 *.danger.lv
 *.danimados.com
 *.danishbits.org
-*.danishtorrents.org
 *.dark-angel.ws
 *.darkanime.stream
 *.darkdata.net
@@ -1618,7 +1611,6 @@
 *.dendox.org
 *.azn-project.depthstrike.com
 *.derechosmadretierra.org
-*.derpyradio.net
 *.desfichiers.com
 *.deshonlinebd.com
 *.desi6.com
