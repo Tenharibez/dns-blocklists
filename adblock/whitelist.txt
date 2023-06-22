@@ -4093,3 +4093,7 @@
 ! https://jasonfeifer.beehiiv.com/p/the-thing-that-seems-like-a-bad-idea-maybe-try-it
 @@|media.beehiiv.com^
 
+! https://github.com/hagezi/dns-blocklists/issues/1195
+@@|notifiarr.wiki^
+@@|www.notifiarr.wiki^
+
