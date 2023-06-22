@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 22 Jun 2023 07:29 UTC
-# Version: 2023.0622.0729.52
+# Last modified: 22 Jun 2023 21:20 UTC
+# Version: 2023.0622.2120.07
 # Syntax: DNSMasq
-# Number of entries: 62
+# Number of entries: 61
 #
 address=/ubacollect-drcn.cloud.dbankcloud.cn/#
 address=/metrics-dre.data.dbankcloud.cn/#
@@ -22,7 +22,6 @@ address=/datacollector-drru.dt.dbankcloud.ru/#
 address=/hisearch-dra.dt.dbankcloud.com/#
 address=/metrics.dt.dbankcloud.cn/#
 address=/metrics-dra.dt.dbankcloud.cn/#
-address=/metrics-dre.dt.dbankcloud.asia/#
 address=/metrics-dre.dt.dbankcloud.cn/#
 address=/metrics1-drcn.dt.dbankcloud.cn/#
 address=/metrics5.dt.dbankcloud.ru/#

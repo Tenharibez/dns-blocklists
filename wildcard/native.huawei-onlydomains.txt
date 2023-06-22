@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 22 Jun 2023 07:29 UTC
-# Version: 2023.0622.0729.52
+# Last modified: 22 Jun 2023 21:20 UTC
+# Version: 2023.0622.2120.07
 # Syntax: Domains (without subdomains)
-# Number of entries: 62
+# Number of entries: 61
 #
 ubacollect-drcn.cloud.dbankcloud.cn
 metrics-dre.data.dbankcloud.cn
@@ -22,7 +22,6 @@ datacollector-drru.dt.dbankcloud.ru
 hisearch-dra.dt.dbankcloud.com
 metrics.dt.dbankcloud.cn
 metrics-dra.dt.dbankcloud.cn
-metrics-dre.dt.dbankcloud.asia
 metrics-dre.dt.dbankcloud.cn
 metrics1-drcn.dt.dbankcloud.cn
 metrics5.dt.dbankcloud.ru
