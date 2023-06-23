@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.dyndns. hostmaster.hagezi.dyndns. 1687468380 86400 3600 604800 30
+@ SOA rpz.hagezi.dyndns. hostmaster.hagezi.dyndns. 1687556880 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 22 Jun 2023 21:13 UTC
-; Version: 2023.0622.2113.12
+; Last modified: 23 Jun 2023 21:48 UTC
+; Version: 2023.0623.2148.27
 ; Syntax: RPZ
-; Number of entries: 3110
+; Number of entries: 3116
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -458,6 +458,8 @@ deaftone.com CNAME .
 *.deaftone.com CNAME .
 death-by-monkeys.com CNAME .
 *.death-by-monkeys.com CNAME .
+death-education.com CNAME .
+*.death-education.com CNAME .
 demosoftonline.com CNAME .
 *.demosoftonline.com CNAME .
 dh3.com CNAME .
@@ -1616,6 +1618,8 @@ cpsnet.cz CNAME .
 *.cpsnet.cz CNAME .
 2fine.de CNAME .
 *.2fine.de CNAME .
+bandweite.de CNAME .
+*.bandweite.de CNAME .
 dd-dns.de CNAME .
 *.dd-dns.de CNAME .
 ddnss.de CNAME .
@@ -2042,6 +2046,8 @@ coccimiglio.net CNAME .
 *.coccimiglio.net CNAME .
 computersforpeace.net CNAME .
 *.computersforpeace.net CNAME .
+ctproduction.net CNAME .
+*.ctproduction.net CNAME .
 cupddns.net CNAME .
 *.cupddns.net CNAME .
 custom-gaming.net CNAME .

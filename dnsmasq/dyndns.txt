@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 22 Jun 2023 21:13 UTC
-# Version: 2023.0622.2113.12
+# Last modified: 23 Jun 2023 21:48 UTC
+# Version: 2023.0623.2148.27
 # Syntax: DNSMasq
-# Number of entries: 1555
+# Number of entries: 1558
 #
 address=/0000000000000000000000.com/#
 address=/0rg.us/#
@@ -119,6 +119,7 @@ address=/baden.ru/#
 address=/bagus.org/#
 address=/baikabibai.com/#
 address=/bakli.ru/#
+address=/bandweite.de/#
 address=/barbaforte.org/#
 address=/barratella.com/#
 address=/barrel-of-knowledge.info/#
@@ -250,6 +251,7 @@ address=/cpsnet.cz/#
 address=/crabdance.com/#
 address=/crackedsidewalks.com/#
 address=/csproject.org/#
+address=/ctproduction.net/#
 address=/cuesinc.com/#
 address=/cupddns.net/#
 address=/custom-gaming.net/#
@@ -286,6 +288,7 @@ address=/de-a.org/#
 address=/deaftone.com/#
 address=/dearabba.org/#
 address=/death-by-monkeys.com/#
+address=/death-education.com/#
 address=/dedyn.io/#
 address=/demosoftonline.com/#
 address=/demoteam.ch/#

@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 22 Jun 2023 21:13 UTC
-! Version: 2023.0622.2113.12
+! Last modified: 23 Jun 2023 21:48 UTC
+! Version: 2023.0623.2148.27
 ! Syntax: AdBlock
-! Number of entries: 1555
+! Number of entries: 1558
 !
 ||0000000000000000000000.com^
 ||0rg.us^
@@ -119,6 +119,7 @@
 ||bagus.org^
 ||baikabibai.com^
 ||bakli.ru^
+||bandweite.de^
 ||barbaforte.org^
 ||barratella.com^
 ||barrel-of-knowledge.info^
@@ -250,6 +251,7 @@
 ||crabdance.com^
 ||crackedsidewalks.com^
 ||csproject.org^
+||ctproduction.net^
 ||cuesinc.com^
 ||cupddns.net^
 ||custom-gaming.net^
@@ -286,6 +288,7 @@
 ||deaftone.com^
 ||dearabba.org^
 ||death-by-monkeys.com^
+||death-education.com^
 ||dedyn.io^
 ||demosoftonline.com^
 ||demoteam.ch^
