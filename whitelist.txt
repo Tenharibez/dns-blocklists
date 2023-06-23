@@ -3756,3 +3756,6 @@ media.beehiiv.com
 # https://github.com/hagezi/dns-blocklists/issues/1195
 notifiarr.wiki
 
+# pics, movies in wetv app
+puui.qpic.cn
+
