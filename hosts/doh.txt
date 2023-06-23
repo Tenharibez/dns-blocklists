@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 22 Jun 2023 21:12 UTC
-# Version: 2023.0622.2112.02
+# Last modified: 23 Jun 2023 21:47 UTC
+# Version: 2023.0623.2147.11
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 877
+# Number of entries: 875
 #
 0.0.0.0 ns.00dani.me
 0.0.0.0 dns.0ooo.icu
@@ -120,7 +120,6 @@
 0.0.0.0 dohtrial.att.net
 0.0.0.0 secure.avastdns.com
 0.0.0.0 adguard.avdkishore.dev
-0.0.0.0 axaxa.fun
 0.0.0.0 dns.azsopro.net
 0.0.0.0 doh1.b-cdn.net
 0.0.0.0 doh2.b-cdn.net
@@ -425,7 +424,6 @@
 0.0.0.0 fly.io
 0.0.0.0 dns.flymc.cc
 0.0.0.0 gateway.fomichev.cloud
-0.0.0.0 dns.frank-ruan.com
 0.0.0.0 dns.froth.zone
 0.0.0.0 awan.ftp.sh
 0.0.0.0 doh.funil.de

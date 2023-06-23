@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh. hostmaster.hagezi.doh. 1687468320 86400 3600 604800 30
+@ SOA rpz.hagezi.doh. hostmaster.hagezi.doh. 1687556820 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 22 Jun 2023 21:12 UTC
-; Version: 2023.0622.2112.02
+; Last modified: 23 Jun 2023 21:47 UTC
+; Version: 2023.0623.2147.11
 ; Syntax: RPZ
-; Number of entries: 1504
+; Number of entries: 1500
 ;
 shield.afixer.app CNAME .
 *.shield.afixer.app CNAME .
@@ -331,8 +331,6 @@ dns.ellichua.com CNAME .
 *.dns.ellichua.com CNAME .
 dns.emiliyan.com CNAME .
 *.dns.emiliyan.com CNAME .
-dns.frank-ruan.com CNAME .
-*.dns.frank-ruan.com CNAME .
 gclouddns.com CNAME .
 *.gclouddns.com CNAME .
 doh-primary-pool.goodbyegambling.com CNAME .
@@ -737,8 +735,6 @@ dns.sellan.fr CNAME .
 *.dns.sellan.fr CNAME .
 pates.services.sfr.fr.casepp.sfr.fr CNAME .
 *.pates.services.sfr.fr.casepp.sfr.fr CNAME .
-axaxa.fun CNAME .
-*.axaxa.fun CNAME .
 doh.futa.gg CNAME .
 *.doh.futa.gg CNAME .
 8888.google CNAME .

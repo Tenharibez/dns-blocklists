@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 22 Jun 2023 21:12 UTC
-# Version: 2023.0622.2112.02
+# Last modified: 23 Jun 2023 21:47 UTC
+# Version: 2023.0623.2147.11
 # Syntax: DNSMasq
-# Number of entries: 752
+# Number of entries: 750
 #
 address=/ns.00dani.me/#
 address=/dns.0ooo.icu/#
@@ -92,7 +92,6 @@ address=/adguardhome.atakorah.com/#
 address=/dohtrial.att.net/#
 address=/secure.avastdns.com/#
 address=/adguard.avdkishore.dev/#
-address=/axaxa.fun/#
 address=/dns.azsopro.net/#
 address=/doh1.b-cdn.net/#
 address=/doh2.b-cdn.net/#
@@ -327,7 +326,6 @@ address=/ns2.flodns.net/#
 address=/fly.io/#
 address=/dns.flymc.cc/#
 address=/gateway.fomichev.cloud/#
-address=/dns.frank-ruan.com/#
 address=/dns.froth.zone/#
 address=/awan.ftp.sh/#
 address=/doh.funil.de/#
