@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 22 Jun 2023 21:10 UTC
-# Version: 2023.0622.2110.38
+# Last modified: 23 Jun 2023 21:45 UTC
+# Version: 2023.0623.2145.23
 # Syntax: Domains (without subdomains)
-# Number of entries: 6095
+# Number of entries: 6100
 #
 0000a-fast-proxy.de
 ns.00dani.me
@@ -32,6 +32,7 @@ doh003.280blocker.net
 2fastsurfer.eu
 2fastsurfer.us
 2proxy.de
+2proxy.us
 2ub.top
 33253.com
 doh.360.cn
@@ -42,6 +43,7 @@ dot.360.cn
 doh.42l.fr
 4everproxy.com
 4proxy.de
+4proxy.us
 dns.52306.org
 57824.com
 dns.5ososea.com
@@ -179,10 +181,10 @@ vpn.avg.tools.avast.com
 secure.avastdns.com
 adguard.avdkishore.dev
 avira-vpn.com
+avoidance.info
 awabo.com
 awebproxy.com
 awhoer.net
-axaxa.fun
 azirevpn.com
 dns.azsopro.net
 vpn.azure.com
@@ -202,6 +204,7 @@ jp-dns1.bancuh.com
 sg-dns1.bancuh.com
 base99.com
 bcandrade.ml
+bdns.at
 bdns.io
 bdns.link
 bdns.nu
@@ -210,6 +213,7 @@ bebasid.com
 beepassvpn.com
 beevpn.com
 adguard.beliefanx.cn
+bellproxy.com
 dns.belnet.be
 dns.benpro.fr
 bestfreevpn.com
@@ -277,6 +281,7 @@ browsec.com
 browserproxy.net
 doh.bt.com
 btguard.com
+bubbleset.com
 buffered.com
 bunkerbustervpn.com
 byewall.com
@@ -306,6 +311,7 @@ censurfridns.dk
 centidoo.com
 ibuki.cgnat.net
 changemyip.com
+changemyip.uk
 chaos-system.de
 checkpoint.com
 dns.chenu.ch
@@ -670,7 +676,6 @@ fortinet.com
 fortinet.net
 fortiwebcloud.net
 fproxy.net
-dns.frank-ruan.com
 free-proxy.com
 free-proxy.cz
 free-proxy.xyz

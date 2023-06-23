@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 22 Jun 2023 21:10 UTC
-# Version: 2023.0622.2110.38
+# Last modified: 23 Jun 2023 21:45 UTC
+# Version: 2023.0623.2145.23
 # Syntax: DNSMasq
-# Number of entries: 6095
+# Number of entries: 6100
 #
 address=/0000a-fast-proxy.de/#
 address=/ns.00dani.me/#
@@ -32,6 +32,7 @@ address=/2fastsurfer.com/#
 address=/2fastsurfer.eu/#
 address=/2fastsurfer.us/#
 address=/2proxy.de/#
+address=/2proxy.us/#
 address=/2ub.top/#
 address=/33253.com/#
 address=/doh.360.cn/#
@@ -42,6 +43,7 @@ address=/42kjb11.net/#
 address=/doh.42l.fr/#
 address=/4everproxy.com/#
 address=/4proxy.de/#
+address=/4proxy.us/#
 address=/dns.52306.org/#
 address=/57824.com/#
 address=/dns.5ososea.com/#
@@ -179,10 +181,10 @@ address=/vpn.avg.tools.avast.com/#
 address=/secure.avastdns.com/#
 address=/adguard.avdkishore.dev/#
 address=/avira-vpn.com/#
+address=/avoidance.info/#
 address=/awabo.com/#
 address=/awebproxy.com/#
 address=/awhoer.net/#
-address=/axaxa.fun/#
 address=/azirevpn.com/#
 address=/dns.azsopro.net/#
 address=/vpn.azure.com/#
@@ -202,6 +204,7 @@ address=/jp-dns1.bancuh.com/#
 address=/sg-dns1.bancuh.com/#
 address=/base99.com/#
 address=/bcandrade.ml/#
+address=/bdns.at/#
 address=/bdns.io/#
 address=/bdns.link/#
 address=/bdns.nu/#
@@ -210,6 +213,7 @@ address=/bebasid.com/#
 address=/beepassvpn.com/#
 address=/beevpn.com/#
 address=/adguard.beliefanx.cn/#
+address=/bellproxy.com/#
 address=/dns.belnet.be/#
 address=/dns.benpro.fr/#
 address=/bestfreevpn.com/#
@@ -277,6 +281,7 @@ address=/browsec.com/#
 address=/browserproxy.net/#
 address=/doh.bt.com/#
 address=/btguard.com/#
+address=/bubbleset.com/#
 address=/buffered.com/#
 address=/bunkerbustervpn.com/#
 address=/byewall.com/#
@@ -306,6 +311,7 @@ address=/censurfridns.dk/#
 address=/centidoo.com/#
 address=/ibuki.cgnat.net/#
 address=/changemyip.com/#
+address=/changemyip.uk/#
 address=/chaos-system.de/#
 address=/checkpoint.com/#
 address=/dns.chenu.ch/#
@@ -670,7 +676,6 @@ address=/fortinet.com/#
 address=/fortinet.net/#
 address=/fortiwebcloud.net/#
 address=/fproxy.net/#
-address=/dns.frank-ruan.com/#
 address=/free-proxy.com/#
 address=/free-proxy.cz/#
 address=/free-proxy.xyz/#

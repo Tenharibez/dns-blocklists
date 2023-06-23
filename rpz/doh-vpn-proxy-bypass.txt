@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1687468200 86400 3600 604800 30
+@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1687556700 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Enyrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 22 Jun 2023 21:10 UTC
-; Version: 2023.0622.2110.38
+; Last modified: 23 Jun 2023 21:45 UTC
+; Version: 2023.0623.2145.23
 ; Syntax: RPZ
-; Number of entries: 12190
+; Number of entries: 12200
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -53,6 +53,8 @@ tlz.asia CNAME .
 *.tlz.asia CNAME .
 vpn.asia CNAME .
 *.vpn.asia CNAME .
+bdns.at CNAME .
+*.bdns.at CNAME .
 ns1.dnsprivacy.at CNAME .
 *.ns1.dnsprivacy.at CNAME .
 ns2.dnsprivacy.at CNAME .
@@ -481,6 +483,8 @@ beepassvpn.com CNAME .
 *.beepassvpn.com CNAME .
 beevpn.com CNAME .
 *.beevpn.com CNAME .
+bellproxy.com CNAME .
+*.bellproxy.com CNAME .
 bestfreevpn.com CNAME .
 *.bestfreevpn.com CNAME .
 bestukvpn.com CNAME .
@@ -553,6 +557,8 @@ doh.bt.com CNAME .
 *.doh.bt.com CNAME .
 btguard.com CNAME .
 *.btguard.com CNAME .
+bubbleset.com CNAME .
+*.bubbleset.com CNAME .
 buffered.com CNAME .
 *.buffered.com CNAME .
 bunkerbustervpn.com CNAME .
@@ -771,8 +777,6 @@ flyvpn.com CNAME .
 *.flyvpn.com CNAME .
 fortinet.com CNAME .
 *.fortinet.com CNAME .
-dns.frank-ruan.com CNAME .
-*.dns.frank-ruan.com CNAME .
 free-proxy.com CNAME .
 *.free-proxy.com CNAME .
 free-proxyserver.com CNAME .
@@ -2271,8 +2275,6 @@ proxy.vpnmag.fr CNAME .
 *.proxy.vpnmag.fr CNAME .
 wez.fr CNAME .
 *.wez.fr CNAME .
-axaxa.fun CNAME .
-*.axaxa.fun CNAME .
 freedomvpn.ga CNAME .
 *.freedomvpn.ga CNAME .
 freevpns.ga CNAME .
@@ -2417,6 +2419,8 @@ anonymousblog.info CNAME .
 *.anonymousblog.info CNAME .
 anonymousvpn.info CNAME .
 *.anonymousvpn.info CNAME .
+avoidance.info CNAME .
+*.avoidance.info CNAME .
 bestvpnprovider.info CNAME .
 *.bestvpnprovider.info CNAME .
 bestyoutubeproxy.info CNAME .
@@ -11997,6 +12001,8 @@ virga.pp.ua CNAME .
 *.virga.pp.ua CNAME .
 zxcvb.pp.ua CNAME .
 *.zxcvb.pp.ua CNAME .
+changemyip.uk CNAME .
+*.changemyip.uk CNAME .
 adguard.aa4.co.uk CNAME .
 *.adguard.aa4.co.uk CNAME .
 www.dnsadguard.co.uk CNAME .
@@ -12035,6 +12041,10 @@ unblockit.uno CNAME .
 *.1proxy.us CNAME .
 2fastsurfer.us CNAME .
 *.2fastsurfer.us CNAME .
+2proxy.us CNAME .
+*.2proxy.us CNAME .
+4proxy.us CNAME .
+*.4proxy.us CNAME .
 anchorfree.us CNAME .
 *.anchorfree.us CNAME .
 bypasser.us CNAME .
