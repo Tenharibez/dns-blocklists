@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 22 Jun 2023 21:15 UTC
-# Version: 2023.0622.2115.03
+# Last modified: 23 Jun 2023 21:51 UTC
+# Version: 2023.0623.2151.40
 # Syntax: Domains (without subdomains)
-# Number of entries: 6760
+# Number of entries: 6793
 #
 zer0day.000webhostapp.com
 0123456789nonexistent.com
@@ -43,6 +43,7 @@ chihaya-heroku.120181311.xyz
 123movies.ag
 123movies.archi
 123movies.army
+123movies.church
 123movies.coach
 123movies.com
 123movies.domains
@@ -127,6 +128,7 @@ ipv6.1337.cx
 141jav.com
 147job.com
 107.182.30.76.16clouds.com
+freedom.1776.ga
 1bt.ru
 1clickdown.com
 1fichier.com
@@ -148,11 +150,13 @@ supaflix-series.1mt.top
 1watch-free.me
 1xstream.com
 20links.com
+23movies.xyz
 24-download.com
 24-downloads.com
 240x320.ru
 247pirate.org
 247prox.link
+247proxydl.org
 24warez.ru
 2600.com
 2bbit.com
@@ -173,14 +177,19 @@ danime.2ya.com
 tracker.3304399.com
 337hhh.xyz
 365watchtv.com
+36dm.club
+36dm.com
+tracker.3arbya.com
 3dmgame.com
 3dsdb.com
 bt.3kb.xyz
 3movierulz.sc
 3netbd.com
 3rcommunications.com
+3warez.com
 generatory.3xg.pl
 420project.org
+45rpmtorrents.com
 480mkv.com
 480ptvshows.com
 4allprograms.net
@@ -282,6 +291,7 @@ creative.7o7.cx
 87av.com
 open.8a.is
 8ebooks.net
+8hacks.com
 8kun.top
 8millimeters.com
 8putlocker.com
@@ -322,6 +332,7 @@ acglover.top
 acgnx.se
 opentracker.acgnx.com
 open.acgnxtracker.com
+acgsou.com
 open.acgtracker.com
 torrenttracker.nwc.acsalaska.net
 activembd.com
@@ -411,6 +422,7 @@ alphaomega.me
 alpharatio.cc
 alt-torrent.com
 altbinz.net
+altermind.net
 alterupload.com
 tracker.altrosky.nl
 amaderftp.net
@@ -423,6 +435,7 @@ amrbd.com
 anbudom.net
 andr.net
 androeed.ru
+androidkino.org
 androidrookies.com
 ani-tsuzuki.net
 anicloud.domains
@@ -499,6 +512,7 @@ animereborn.net
 animerush.tv
 animes.so
 torrents.animes-bg.com
+animesa.ga
 animeshow.tv
 animesim.com
 animesimple.com
@@ -539,6 +553,7 @@ anthousebd.net
 antsmarching.org
 anvilofsound.com
 anycracks.com
+anytv.live
 anzaq.com
 anzfile.net
 aostv.app
@@ -560,6 +575,7 @@ apkocean.net
 apkpure.com
 apksum.com
 appdb.to
+applelinkbd.net
 applenetbd.com
 appmeter.ru
 free.appnee.com
@@ -645,6 +661,7 @@ auratorrent.pl
 aurora-raws.com
 aussietorrents.com
 autobitx.com
+autocadbmjes.com
 autocadbmsa.com
 autocadbnaqk.com
 autocadgou.com
@@ -665,10 +682,12 @@ awesome-hd.com
 awesome-hd.me
 axell24.ru
 axemovies.net
+axxo.me
 axxomovies.org
 azibtorrent.com
 azm.to
 azmovies.xyz
+azshare.info
 b2s-share.com
 b98.tv
 baberepublic.com
@@ -752,6 +771,7 @@ bedownload.net
 bedro.cloud
 beeflix.biz
 tracker.beeimg.com
+beemp3.cc
 beemp3s.org
 beetvapk.net
 bellator.com
@@ -891,6 +911,7 @@ tracker.blacksparrowmedia.net
 blacktiesports.net
 tracker.blackunicorn.xyz
 blackz.ro
+blades-heaven.com
 blagblagblag.org
 blockbuster.to
 100-postal2.blogspot.com
@@ -948,6 +969,7 @@ blu-torrents.net
 bludv.com
 blue-bytez.com
 blue-whitegt.com
+blue1city.net
 bluebird-hd.org
 tracker.bluefrog.pw
 blues-brothers.biz
@@ -983,6 +1005,7 @@ bomplay.com
 bondhuitbd.com
 bonjourmissmary.com
 bonsaihd.fun
+bonsaihd.live
 bookddl.com
 bookgrill.com
 books-share.com
@@ -993,6 +1016,7 @@ bootytape.com
 bootytorrents.com
 labs.boramalper.org
 borntonull.com
+bossbd.live
 bossbd.net
 bosscast.eu
 bosscast.net
@@ -1088,6 +1112,7 @@ burningseries.ma
 burningseries.sx
 burningseries.vc
 bushtorrent.com
+scrapcomputers.busydizzys.com
 butterproject.org
 buycheapadobesoftware.com
 bwtorrents.com
@@ -1232,6 +1257,7 @@ tracker.cloudit.top
 cloudtorrents.com
 cloudvideo.tv
 hd.club.tw
+torrent-comet.club-23.org
 club-mst3k.com
 clubfilm.ir
 bruh.cluster.ws
@@ -1245,6 +1271,7 @@ cmovieshd.bz
 cmovieshd.net
 fh2.cmp-gaming.com
 cnetworkbd.net
+cnp.cx
 althub.co.za
 mirror.aptus.co.tz
 bioquantum.co.za
@@ -1326,6 +1353,8 @@ slnisp.com.bd
 thepiratebays.com.se
 tnetwork.com.bd
 triangle.com.bd
+tracker1.wasabii.com.tw
+tracker2.wasabii.com.tw
 watchmovies1.com.pk
 wormsblast.com.pl
 www.midea123.z-media.com.cn
@@ -1360,6 +1389,7 @@ conspiracyhub.com
 contego.ws
 convivea.com
 conway-sports.com
+coolmoviejagg.pro
 coolmoviezone.online
 coolwareznik.net
 coppersurfer.tk
@@ -1513,6 +1543,7 @@ cyberphoenix.org
 capital.cyberserver.hu
 cyberwarez.info
 cyclingtorrents.nl
+cynemas.online
 cyonix.to
 cytu.be
 torrents.czteam.ro
@@ -1534,6 +1565,7 @@ damedesuyo.com
 danger.lv
 danimados.com
 danishbits.org
+danishtorrents.org
 dark-angel.ws
 darkanime.stream
 darkdata.net
@@ -1611,6 +1643,7 @@ demons-eye.org
 dendox.org
 azn-project.depthstrike.com
 derechosmadretierra.org
+derpyradio.net
 desfichiers.com
 deshonlinebd.com
 desi6.com
