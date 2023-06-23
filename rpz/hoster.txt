@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.hoster. hostmaster.hagezi.hoster. 1687418580 86400 3600 604800 30
+@ SOA rpz.hagezi.hoster. hostmaster.hagezi.hoster. 1687556940 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 22 Jun 2023 07:23 UTC
-; Version: 2023.0622.0723.21
+; Last modified: 23 Jun 2023 21:49 UTC
+; Version: 2023.0623.2149.55
 ; Syntax: RPZ
-; Number of entries: 4118
+; Number of entries: 4120
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -3012,6 +3012,8 @@ blogspot.kr CNAME .
 *.blogspot.kr CNAME .
 webnode.kr CNAME .
 *.webnode.kr CNAME .
+c.la CNAME .
+*.c.la CNAME .
 1a.lc CNAME .
 *.1a.lc CNAME .
 24.lc CNAME .
