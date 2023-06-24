@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 23 Jun 2023 21:48 UTC
-# Version: 2023.0623.2148.27
+# Last modified: 24 Jun 2023 21:41 UTC
+# Version: 2023.0624.2141.11
 # Syntax: DNSMasq
-# Number of entries: 1558
+# Number of entries: 1564
 #
 address=/0000000000000000000000.com/#
 address=/0rg.us/#
@@ -280,6 +280,7 @@ address=/ddnsfree.com/#
 address=/ddnsgeek.com/#
 address=/ddnsguru.com/#
 address=/ddnsking.com/#
+address=/ddnslive.com/#
 address=/ddnss.ch/#
 address=/ddnss.de/#
 address=/ddnss.org/#
@@ -310,6 +311,8 @@ address=/dmchub.org/#
 address=/dmtr.ru/#
 address=/dnet.hu/#
 address=/dnmcoffman.com/#
+address=/dns.army/#
+address=/dns.navy/#
 address=/dns-auth.com/#
 address=/dns-auth.net/#
 address=/dns-cloud.net/#
@@ -342,6 +345,7 @@ address=/dnsis.us/#
 address=/dnsiskinky.com/#
 address=/dnsking.ch/#
 address=/dnslive.net/#
+address=/dnsnet.info/#
 address=/dnsnew.org/#
 address=/dnsomatic.com/#
 address=/dnspod.cn/#
@@ -438,6 +442,7 @@ address=/dyndns-server.com/#
 address=/dyndns-web.com/#
 address=/dyndns-wiki.com/#
 address=/dyndns-work.com/#
+address=/dyndnss.net/#
 address=/dyndnssec.de/#
 address=/dyndnsservices.com/#
 address=/dynect.net/#
@@ -459,6 +464,7 @@ address=/dynuddns.net/#
 address=/dynup.net/#
 address=/dynv4.net/#
 address=/dynv6.com/#
+address=/dynv6.net/#
 address=/dynvpn.de/#
 address=/dyyndns.net/#
 address=/e-m-a-i-l.org/#
