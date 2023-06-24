@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 23 Jun 2023 21:51 UTC
-# Version: 2023.0623.2151.40
+# Last modified: 24 Jun 2023 21:43 UTC
+# Version: 2023.0624.2143.12
 # Syntax: Domains (without subdomains)
-# Number of entries: 6793
+# Number of entries: 6813
 #
 zer0day.000webhostapp.com
 0123456789nonexistent.com
@@ -906,6 +906,7 @@ blackcats-games.net
 blackhatprotools.com
 blackhatprotools.net
 blackhatprotools.org
+blackphoenix.info
 blackrevolution.ro
 tracker.blacksparrowmedia.net
 blacktiesports.net
@@ -976,6 +977,7 @@ blues-brothers.biz
 bluewarez.pl
 blutopia.xyz
 bmitbd.com
+bmovies.is
 bmovies.nl
 bms-hosxp.com
 bmtorrents.net
@@ -1102,6 +1104,7 @@ bulextorrent.org
 bulkpeers.com
 bundesliga-live.stream
 bundesliga-streams.net
+buny.uk
 torrent.burgas.org
 tr.burnabyhighstar.com
 burningseries.ac
@@ -1119,6 +1122,7 @@ bwtorrents.com
 tracker.bwtorrents.tv
 byfiles.com
 bygfx.com
+bypassed.life
 bypassed.zone
 byte.to
 bytecollectors.com
@@ -1225,6 +1229,7 @@ cinematik.net
 tracker.cinemaz.to
 cinemitas.tv
 cinenews.info
+cinestreamz.com
 cinevood.cyou
 cinevood.work
 cinewhale.com
@@ -1413,6 +1418,7 @@ cpasbien.sh
 cpasbien.to
 cpasbien3.pro
 cpasbienss.fr
+cpleft.com
 cpturbo.org
 crack.ms
 crack.ru
@@ -1677,6 +1683,7 @@ dfox.it
 mixes.dfx.at
 dhakadownload.com
 dhakaftp.com
+dhakaiptv.com
 dhakamovie.com
 dhakasports.com
 dht.dhtclub.com
@@ -1785,6 +1792,7 @@ downloadarch.com
 popcorn-time.en.downloadastro.com
 downloademule.org
 downloadforum.com
+downloadfreenewmovies.info
 downloadinfo.org
 downloadjet.org
 downloadmart.org
@@ -1989,6 +1997,7 @@ retracker.nn.ertelecom.ru
 retracker.perm.ertelecom.ru
 elmellowebmaster.es.tl
 eshiel.com
+estrenoslatinos.com
 ethor.net
 tracker.etn.fm
 etorrentsmexico.com
@@ -2150,6 +2159,7 @@ filefactory.com
 filefound.com
 filejungle.com
 fileland.pl
+fileleechers.info
 filelist.io
 filelist.it
 filelist.org
@@ -2187,6 +2197,7 @@ filmheaven.com
 kinox.filmi.space
 filmi-torrents.com
 filmitorrent.net
+filmitorrent-org.site
 filmlicious.net
 filmobo.com
 filmoff.net
@@ -2288,6 +2299,7 @@ foggystream.com
 fonoon.org
 tv.foorty.net
 football-live.stream
+footballstream.to
 footybite.com
 foreverdrowning.com
 tracker.foreverpirates.co
@@ -2308,6 +2320,7 @@ free-telecharger.net
 free-telecharger.org
 free-telecharger.top
 free-telecharger.xyz
+open.free-tracker.ga
 free4pc.org
 freebfg.org
 freebookspot.es
@@ -2417,6 +2430,7 @@ gadget-vault.com
 galacticcentral.org
 gamato.info
 game-files.net
+game-torrent.info
 game3rb.com
 gameburnworld.com
 uploads.gamecoast.net
@@ -2528,12 +2542,14 @@ gogoanime.vc
 gogomovies.to
 gold-films.ru
 goldenshara.com
+goldesel.sx
 goldesel.to
 goldhiphop.pro
 goldmovies.to
 goldpravda.net
 goloady.com
 gomoviefree.sc
+gomovies.click
 gomovies.film
 gomovies.guru
 gomovies.kim
@@ -2556,6 +2572,7 @@ gostream-hd.xyz
 gotwoot.net
 gounlimited.me
 gounlimited.to
+govod.tv
 ipv6.govt.hu
 gowatchseries.ac
 gowatchseries.co
@@ -2570,6 +2587,7 @@ greek-torrent.net
 greek-tracker.com
 greekshare.net
 greencracks.com
+greetingsonlinebd.com
 tracker.grepler.com
 greylodge.org
 grifon.info
@@ -2658,6 +2676,7 @@ hdmovie2.com
 hdmovie99.co
 hdmoviesnow.com
 hdmuv.com
+hdonline.eu
 hdpopcorns.org
 tracker.hdpost.top
 hdreactor.info
@@ -2805,6 +2824,7 @@ iktin.ru
 ilcorsaronero.info
 ilcorsaronero.link
 tracker.ilibr.org
+illuminatenboard.com
 ilovetorrents.com
 imacapps.co
 imastudios.com
