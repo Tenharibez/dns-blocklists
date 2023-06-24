@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 23 Jun 2023 21:54 UTC
-! Version: 2023.0623.2154.16
+! Last modified: 24 Jun 2023 21:45 UTC
+! Version: 2023.0624.2145.55
 ! Syntax: AdBlock
-! Number of entries: 139690
+! Number of entries: 139788
 !
 ||000000tyc.com^
 ||00000178.com^
@@ -82272,6 +82272,7 @@
 ||bertil.com^
 ||best-man-speech.com^
 ||best-pronostic.com^
+||best1bapal.com^
 ||best365vip.fun^
 ||best365vip.net^
 ||best365vip.top^
@@ -82288,6 +82289,7 @@
 ||bestcasinocomps.com^
 ||bestcasinoguide.com^
 ||bestecasino.com^
+||bestegw.com^
 ||bestjbo.com^
 ||bestk8.com^
 ||bestk8vn.live^
@@ -82372,6 +82374,7 @@
 ||bet266.net^
 ||bet2766.com^
 ||bet2875.com^
+||bet29.club^
 ||bet29660.com^
 ||bet2affiliates.com^
 ||bet2nite.com^
@@ -83064,6 +83067,7 @@
 ||bettorodds.net^
 ||bettrojan.com^
 ||bettropics.com^
+||bettvs.com^
 ||betuniq.eu^
 ||beturbet.com^
 ||beturway.com^
@@ -83256,6 +83260,7 @@
 ||betwayxiazhu.com^
 ||betweapon.org^
 ||betweide.net^
+||betwent.com^
 ||betwin-poker.com^
 ||betwin036.com^
 ||betwin2888net.com^
@@ -83341,6 +83346,7 @@
 ||betyu18.com^
 ||betyu68.com^
 ||betyule365.com^
+||betzame.com^
 ||betzbig.com^
 ||betzerkala.com^
 ||betzest.com^
@@ -83747,6 +83753,7 @@
 ||biwei09.com^
 ||biwei1.com^
 ||biwei10.com^
+||biwei110.com^
 ||biwei1118.com^
 ||biwei116.com^
 ||biwei1188.com^
@@ -83895,6 +83902,7 @@
 ||biwei799.com^
 ||biwei80.com^
 ||biwei800.com^
+||biwei81.com^
 ||biwei811.com^
 ||biwei817.com^
 ||biwei82.com^
@@ -83923,6 +83931,7 @@
 ||biwei88eurocup.com^
 ||biwei88guanwang.com^
 ||biwei88tiyu.com^
+||biwei89.com^
 ||biwei8989.com^
 ||biwei9.com^
 ||biwei90.com^
@@ -84004,6 +84013,7 @@
 ||bj8811.com^
 ||bj9900.com^
 ||bj999.xyz^
+||bjchengxiang.com^
 ||bje247.com^
 ||bjewz.com^
 ||bjhyjg.com^
@@ -84029,7 +84039,9 @@
 ||bjlapp.com^
 ||bjlyx8.vip^
 ||bjlyyxzcw.com^
+||bjs5.com^
 ||bjs60.com^
+||bjs788.com^
 ||bjs95.com^
 ||bjtyby.com^
 ||bjwlcz.com^
@@ -84211,6 +84223,7 @@
 ||bmvip05.com^
 ||bmw0020.com^
 ||bmw003.net^
+||bmw010.net^
 ||bmw0101.com^
 ||bmw011.net^
 ||bmw012.net^
@@ -84258,6 +84271,7 @@
 ||bmw1141.com^
 ||bmw1142.com^
 ||bmw1143.com^
+||bmw1146.com^
 ||bmw1151.com^
 ||bmw1153.com^
 ||bmw1159.com^
@@ -84276,9 +84290,11 @@
 ||bmw155.com^
 ||bmw182.net^
 ||bmw258.com^
+||bmw286.net^
 ||bmw35.com^
 ||bmw433.com^
 ||bmw52.org^
+||bmw5222.com^
 ||bmw533.com^
 ||bmw536.net^
 ||bmw555.com^
@@ -86175,6 +86191,7 @@
 ||bw668s.com^
 ||bw66tiyu.com^
 ||bw676.com^
+||bw681.com^
 ||bw685.com^
 ||bw6868i.com^
 ||bw68vip.com^
@@ -86222,6 +86239,7 @@
 ||bw868wc.com^
 ||bw86i.com^
 ||bw86tiyu.com^
+||bw875.com^
 ||bw8786.com^
 ||bw8789.com^
 ||bw8801.com^
@@ -86276,6 +86294,7 @@
 ||bw9080.com^
 ||bw9090.com^
 ||bw90vip.com^
+||bw915.com^
 ||bw933.com^
 ||bw939393.com^
 ||bw94lsj.com^
@@ -86422,6 +86441,7 @@
 ||bway88worldcup.com^
 ||bway898.com^
 ||bway899.com^
+||bway907.com^
 ||bway92.com^
 ||bway923.com^
 ||bway928.com^
@@ -87192,6 +87212,7 @@
 ||c2f6f.com^
 ||c2hnk.com^
 ||c2q9q.org^
+||c2u1981.com^
 ||c307732.com^
 ||c32k.xyz^
 ||c32ty.com^
@@ -87584,6 +87605,7 @@
 ||casino1club.com^
 ||casino1lobby.com^
 ||casino21.com^
+||casino360.bet^
 ||casino599.com^
 ||casino6163.com^
 ||casino770.com^
@@ -88250,6 +88272,7 @@
 ||chen8012.com^
 ||chen8019.com^
 ||chen8020.com^
+||chendebao.com^
 ||chengdsadd134.com^
 ||chengduredcross.org^
 ||chengge.vip^
@@ -88629,6 +88652,7 @@
 ||clubdv8.net^
 ||clubfun88.com^
 ||clubhfgg66.com^
+||clubmardigrascasino.com^
 ||clubpoker.net^
 ||clubriches.com^
 ||clubriocasino.com^
@@ -88650,6 +88674,7 @@
 ||cmd368.com^
 ||cmd368.live^
 ||cmd368.net^
+||cmd368.online^
 ||cmd36888.com^
 ||cmd3688th.com^
 ||cmd368blog.com^
@@ -88668,6 +88693,7 @@
 ||cmdm31.live^
 ||cmdvn368.com^
 ||cmdwang368.com^
+||cmlive.net^
 ||cmlvyou.net^
 ||cmm2023.com^
 ||cmnx8ux.click^
@@ -88797,6 +88823,7 @@
 ||tab.co.nz^
 ||tabgold.co.za^
 ||thebettingguy.co.uk^
+||thecasinos.co.uk^
 ||tickerassist.co.uk^
 ||toals.co.uk^
 ||tote.co.uk^
@@ -90955,6 +90982,7 @@
 ||dgqcaijing.com^
 ||dgrer8.com^
 ||dgtnb.com^
+||dgtuh753.com^
 ||dgudgd7788l998.com^
 ||dh.bet^
 ||dh0009.com^
@@ -91275,6 +91303,7 @@
 ||doithuong666.com^
 ||doithuong688.com^
 ||doithuong999.com^
+||dola88.net^
 ||dola99.vip^
 ||dom99.club^
 ||domgame.com^
@@ -92433,6 +92462,7 @@
 ||ebnix.win^
 ||ebo234.com^
 ||ebo345.com^
+||ebo777.com^
 ||ebo78.com^
 ||ebo8888.com^
 ||ebofhqqovd.com^
@@ -92639,6 +92669,7 @@
 ||v8.ejdj12.com^
 ||ejf0p.org^
 ||ejg5m.com^
+||ejjdkfdzea02.com^
 ||ejrhgeru78589rehu-dhrer4.com^
 ||ejsajeddet.com^
 ||ek1tng.org^
@@ -92979,6 +93010,7 @@
 ||ewinner.pl^
 ||ewjck.vip^
 ||eworldcasino.com^
+||ewrffg.asia^
 ||ewrty.site^
 ||ewveczmxeq.com^
 ||ewvrv.com^
@@ -94134,6 +94166,7 @@
 ||fiestacasino.com^
 ||fifa0.com^
 ||fifa3979.com^
+||fifa500.com^
 ||fifa66.com^
 ||fifak8.com^
 ||fifaonline2.com^
@@ -95789,6 +95822,7 @@
 ||g5337.com^
 ||g5338.com^
 ||g5366.com^
+||g5501.com^
 ||g5528.com^
 ||g5535.com^
 ||g5571.com^
@@ -96210,6 +96244,7 @@
 ||gb318.com^
 ||gb323.com^
 ||gb327.com^
+||gb3279.com^
 ||gb3336.com^
 ||gb3338.com^
 ||gb3339.com^
@@ -96234,6 +96269,7 @@
 ||gb4unvk.com^
 ||gb5556.com^
 ||gb5558.com^
+||gb555888.com^
 ||gb5559.com^
 ||gb5604.com^
 ||gb6350.com^
@@ -96248,6 +96284,7 @@
 ||gb8111.com^
 ||gb8222.com^
 ||gb8333.com^
+||gb88999.com^
 ||gb890.com^
 ||gb893.com^
 ||gb894.com^
@@ -96580,6 +96617,11 @@
 ||ggbetcity.com^
 ||ggbetpromo.com^
 ||gge4c.vip^
+||gger45622.com^
+||gger45623.com^
+||gger45624.com^
+||gger45625.com^
+||gger45626.com^
 ||ggg001.com^
 ||ggg5604.com^
 ||ggg6731.com^
@@ -96792,6 +96834,7 @@
 ||cdn.gin.bet^
 ||poker.gioco888.com^
 ||giocodigitale.it^
+||giocoreale.com^
 ||gisfjpgw.com^
 ||noah-tech-ltd.github.io^
 ||giwggxu.xyz^
@@ -97163,6 +97206,7 @@
 ||grandlisboa9.com^
 ||grandni.xyz^
 ||grandonline.com^
+||grandscasinos.com^
 ||grandviewproducts.com^
 ||grandwild.com^
 ||grapewb.com^
@@ -97428,6 +97472,7 @@
 ||gx1258.vip^
 ||gx1ix.vip^
 ||gxawg.win^
+||gxcfmwysyavkts.com^
 ||gxf6268.com^
 ||gxfguu.xyz^
 ||gxq918.com^
@@ -97796,6 +97841,7 @@
 ||h28tyc.com^
 ||h2909.com^
 ||h2919.com^
+||h291tyc.com^
 ||h2924.com^
 ||h292tyc.com^
 ||h2946.com^
@@ -98460,6 +98506,7 @@
 ||h9884.com^
 ||h9885.com^
 ||h98888.com^
+||h9889.com^
 ||h98tyc.com^
 ||h99.bet^
 ||h9910.com^
@@ -98713,6 +98760,7 @@
 ||hb6010.com^
 ||hb6132.com^
 ||hb665888.com^
+||hb6666.com^
 ||hb6911.app^
 ||hb71886.com^
 ||hb72886.com^
@@ -98968,6 +99016,7 @@
 ||heji008.com^
 ||heji009.com^
 ||heji03.com^
+||heji06.com^
 ||heji08.vip^
 ||heji088.com^
 ||heji09.com^
@@ -99062,6 +99111,7 @@
 ||hennaoxin.com^
 ||hennxc.com^
 ||herabet13.com^
+||herewegou.cn^
 ||heritagesports.eu^
 ||hero88fun.com^
 ||hero88fun88.com^
@@ -99181,6 +99231,7 @@
 ||hg1323.com^
 ||hg13556.com^
 ||hg13678.com^
+||hg1525.com^
 ||hg1551.net^
 ||hg1585.com^
 ||hg16.vip^
@@ -99346,6 +99397,7 @@
 ||hg555g.app^
 ||hg555h.app^
 ||hg555i.app^
+||hg5579.com^
 ||hg558.com^
 ||hg558.org^
 ||hg5678.site^
@@ -99447,7 +99499,9 @@
 ||hg7612.com^
 ||hg7620.com^
 ||hg77007.com^
+||hg7719.com^
 ||hg777038.com^
+||hg77890.com^
 ||hg780001.com^
 ||hg780001.live^
 ||hg780001.vip^
@@ -99566,6 +99620,7 @@
 ||hg8jjjj.com^
 ||hg8k.net^
 ||hg8kk.com^
+||hg8kkk.com^
 ||hg8kkkk.com^
 ||hg8l.net^
 ||hg8ll.com^
@@ -99648,6 +99703,7 @@
 ||hg8zzzz.com^
 ||hg91234.com^
 ||hg9127.com^
+||hg9298.com^
 ||hg9393.biz^
 ||hg939302.com^
 ||hg939308.com^
@@ -100265,6 +100321,7 @@
 ||hj9tz.com^
 ||hjahsdiawbdbybg18.com^
 ||hjappjk.com^
+||hjc111.com^
 ||hjc151.com^
 ||hjc155.com^
 ||hjc166.com^
@@ -100273,6 +100330,7 @@
 ||hjc199.com^
 ||hjc215.com^
 ||hjc218.com^
+||hjc222.com^
 ||hjc226.com^
 ||hjc23.net^
 ||hjc24.net^
@@ -100289,6 +100347,7 @@
 ||hjc315.com^
 ||hjc331.com^
 ||hjc332.com^
+||hjc333.com^
 ||hjc337.com^
 ||hjc339.com^
 ||hjc355.com^
@@ -100309,6 +100368,7 @@
 ||hjc589.com^
 ||hjc6271.com^
 ||hjc660.com^
+||hjc666.com^
 ||hjc6662.com^
 ||hjc669.com^
 ||hjc670.com^
@@ -100836,6 +100896,15 @@
 ||hkcubuhnfu.com^
 ||hkehg.com^
 ||hkfnfzgbmr.com^
+||hkj000.com^
+||hkj111.com^
+||hkj551.com^
+||hkj552.com^
+||hkj553.com^
+||hkj555.com^
+||hkj558.com^
+||hkj559.com^
+||hkj777.com^
 ||hkj78.com^
 ||bet.hkjc.com^
 ||hkjc8.bet^
@@ -101013,6 +101082,7 @@
 ||hongtudi.org^
 ||hongwin.net^
 ||hongxingtech.com^
+||hongxinlong.cn^
 ||hongy518.com^
 ||hongyingcaipiao.com^
 ||hongyingcaipiao.vip^
@@ -101239,6 +101309,7 @@
 ||hrmlx.com^
 ||hrnfuzzmon.com^
 ||hrotat365.com^
+||hrthdgdg.com^
 ||hrvatska.bet^
 ||hrwager.ag^
 ||hrwj530.com^
@@ -101823,6 +101894,7 @@
 ||hz2050.com^
 ||hz977.com^
 ||hzd6w.com^
+||hzduolong.com^
 ||hzjd6.vip^
 ||hzrp.live^
 ||hzthg.win^
@@ -102350,6 +102422,7 @@
 ||income88.com^
 ||indcrickdf.net^
 ||indexbetting.net^
+||indiaamz.digital^
 ||indiacasino711.com^
 ||indiadafa.com^
 ||indiasoup.com^
@@ -102848,6 +102921,7 @@
 ||j2481.com^
 ||j2544.com^
 ||j25689.com^
+||j25856.com^
 ||j2633.com^
 ||j26361.com^
 ||j2657.com^
@@ -104789,6 +104863,7 @@
 ||jiangsummm.com^
 ||jiangsumnn.com^
 ||jiangzeliang.vip^
+||jias888.com^
 ||jiasutupian.com^
 ||jiayuopuke.com^
 ||jidongkuai.com^
@@ -105716,6 +105791,7 @@
 ||jsnhh.com^
 ||jsqy66.com^
 ||jss77.net^
+||jstako-fr.com^
 ||jsuuahjx8934y450jsy820qn89weuc-s09y5nfmc38.org^
 ||jsyd188.com^
 ||jsyefc.com^
@@ -105976,6 +106052,7 @@
 ||junbet583.com^
 ||junbet584.com^
 ||junbet88.com^
+||junelo.com^
 ||junfn.com^
 ||jupicasino.com^
 ||jupiter.com^
@@ -106055,6 +106132,7 @@
 ||jxkmu.win^
 ||jxmijl.live^
 ||jxntw.win^
+||jxsahb.com^
 ||jxulb.vip^
 ||jxykdg.com^
 ||jxzog.com^
@@ -106489,6 +106567,7 @@
 ||k66377.com^
 ||k6647.com^
 ||k6652.vip^
+||k6657.vip^
 ||k66577.com^
 ||k6662.vip^
 ||k6665.vip^
@@ -107184,6 +107263,7 @@
 ||k8best29.com^
 ||k8best30.com^
 ||k8bet.app^
+||k8bet.fun^
 ||k8bet.info^
 ||k8bet.online^
 ||k8bet00.com^
@@ -109177,6 +109257,7 @@
 ||k997.vip^
 ||k999233.com^
 ||k999365.com^
+||k9ab.com^
 ||k9cc.cloud^
 ||k9cc0.com^
 ||k9cc00.com^
@@ -109471,9 +109552,15 @@
 ||kf3663.com^
 ||kf3699.com^
 ||kf3773.com^
+||kf379.com^
 ||kf382.com^
+||kf384.com^
+||kf385.com^
+||kf387.com^
 ||kf388.com^
 ||kf3883.com^
+||kf392.com^
+||kf393.com^
 ||kf3993.com^
 ||kf425.com^
 ||kf4427.com^
@@ -109486,14 +109573,20 @@
 ||kf550.com^
 ||kf555b.com^
 ||kf555e.com^
+||kf571.com^
 ||kf587.com^
+||kf601.com^
+||kf609.com^
 ||kf6132.com^
 ||kf615.com^
+||kf622.com^
 ||kf625.com^
 ||kf631.com^
+||kf636.com^
 ||kf639.com^
 ||kf651.com^
 ||kf659.com^
+||kf663.com^
 ||kf66kj.com^
 ||kf698.app^
 ||kf698a.com^
@@ -110271,6 +110364,7 @@
 ||klik4d.club^
 ||klik4d.com^
 ||klik4d.link^
+||klik4d.top^
 ||klik4d.xyz^
 ||klik4donline.com^
 ||klik4dtogel.net^
@@ -110326,6 +110420,7 @@
 ||korj9.online^
 ||korm88.com^
 ||korss60.com^
+||kortubes.com^
 ||kosmonautcasino.com^
 ||kp0ojl.vip^
 ||kp1717.com^
@@ -110454,6 +110549,7 @@
 ||ks2375.com^
 ||ks239.com^
 ||ks24ads3i4mn43b886m6bm23b4fs908d8f324n.com^
+||ks25.net^
 ||ks27.net^
 ||ks273.com^
 ||ks276.com^
@@ -110840,6 +110936,7 @@
 ||kuw532hc.life^
 ||kuwdy.com^
 ||kuwin.bet^
+||kuzuanwang.com^
 ||kv7s5h.com^
 ||kv99.online^
 ||kv999.online^
@@ -131112,6 +131209,7 @@
 ||winbet77.bet^
 ||winbet91.com^
 ||winbet99.bet^
+||winbet99.co^
 ||winbetaffiliates.bg^
 ||winbph.com^
 ||www2.winbrokes.com^
