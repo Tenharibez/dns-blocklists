@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 23 Jun 2023 21:47 UTC
-# Version: 2023.0623.2147.11
+# Last modified: 24 Jun 2023 21:39 UTC
+# Version: 2023.0624.2139.53
 # Syntax: DNSMasq
-# Number of entries: 750
+# Number of entries: 749
 #
 address=/ns.00dani.me/#
 address=/dns.0ooo.icu/#
@@ -441,7 +441,6 @@ address=/externalmobiel.lekdijk.online/#
 address=/lelux.fi/#
 address=/doh.libredns.gr/#
 address=/dot.libredns.gr/#
-address=/dns.lightmaster.pw/#
 address=/sby-doh.limotelu.org/#
 address=/dns.linkr.ninja/#
 address=/n5.lsasss.com/#
