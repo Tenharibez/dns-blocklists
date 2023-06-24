@@ -53,6 +53,7 @@ https://fanboy.co.nz/enhancedstats.txt
 https://file-git.trli.club/ad-hosts/hosts
 https://filters.adavoid.org/ultimate-ad-filter.txt
 https://filters.adavoid.org/ultimate-privacy-filter.txt
+https://gist.githubusercontent.com/agneevX/8916103478369dd5966c84ec8665c30c/raw/bd91f4a2570579e5652f3dd7eb715534f4867e8c/blocklist.txt
 https://github.com/blocklistproject/Lists/blob/master/piracy.txt
 https://github.com/DRSDavidSoft/additional-hosts/raw/master/domains/blacklist/adservers-and-trackers.txt
 https://github.com/DRSDavidSoft/additional-hosts/raw/master/domains/blacklist/unwanted-iranian.txt
@@ -435,6 +436,7 @@ https://raw.githubusercontent.com/realodix/AdBlockID/main/dist/adblockid.adfl.tx
 https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt
 https://raw.githubusercontent.com/realodix/AdBlockID/master/src/adservers.adfl
 https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-ahnlab.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-akamai.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-amnenstytech.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certagid.txt
