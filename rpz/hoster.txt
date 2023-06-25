@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.hoster. hostmaster.hagezi.hoster. 1687556940 86400 3600 604800 30
+@ SOA rpz.hagezi.hoster. hostmaster.hagezi.hoster. 1687729560 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 23 Jun 2023 21:49 UTC
-; Version: 2023.0623.2149.55
+; Last modified: 25 Jun 2023 21:46 UTC
+; Version: 2023.0625.2146.16
 ; Syntax: RPZ
-; Number of entries: 4120
+; Number of entries: 4122
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -3782,6 +3782,8 @@ odrazuu.pl CNAME .
 *.odrazuu.pl CNAME .
 osc.pl CNAME .
 *.osc.pl CNAME .
+p2a.pl CNAME .
+*.p2a.pl CNAME .
 phorum.pl CNAME .
 *.phorum.pl CNAME .
 poradnia-empatia.pl CNAME .

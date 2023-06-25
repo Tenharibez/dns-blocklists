@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 23 Jun 2023 21:49 UTC
-# Version: 2023.0623.2149.55
+# Last modified: 25 Jun 2023 21:46 UTC
+# Version: 2023.0625.2146.16
 # Syntax: DNSMasq
-# Number of entries: 2060
+# Number of entries: 2061
 #
 address=/000a.de/#
 address=/000space.com/#
@@ -1481,6 +1481,7 @@ address=/overblog.net/#
 address=/own-free-website.com/#
 address=/ozq.de/#
 address=/p.gp/#
+address=/p2a.pl/#
 address=/p2blogs.com/#
 address=/pacbell.net/#
 address=/page.tl/#
