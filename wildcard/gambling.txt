@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 24 Jun 2023 21:45 UTC
-# Version: 2023.0624.2145.55
+# Last modified: 25 Jun 2023 21:49 UTC
+# Version: 2023.0625.2149.54
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 139788
+# Number of entries: 139856
 #
 *.000000tyc.com
 *.00000178.com
@@ -53747,6 +53747,7 @@
 *.67sk43y.net
 *.67sk4y.vip
 *.67ui82.info
+*.67win9.com
 *.67womh81.vip
 *.67yabo.com
 *.67z6.vip
@@ -62159,6 +62160,7 @@
 *.8006d88.com
 *.8006t.com
 *.8007189.com
+*.800774.com
 *.80080033.com
 *.80080055.com
 *.80080066.com
@@ -95402,6 +95404,7 @@
 *.fun98tiyu.com
 *.fun98vip.com
 *.fun98vvip.com
+*.fun99.vip
 *.fun9900.com
 *.fun9901.com
 *.fun9908.com
@@ -98772,6 +98775,7 @@
 *.hb8529.com
 *.hb88.dev
 *.hb88.link
+*.hb88017.com
 *.hb881.com
 *.hb8816.com
 *.hb8840.com
@@ -98804,6 +98808,7 @@
 *.hb88t.com
 *.hb88u.com
 *.hb88v.com
+*.hb88vn.co
 *.hb88vn.top
 *.hb88w.com
 *.hb88x.com
@@ -111016,6 +111021,7 @@
 *.ky500.net
 *.ky500.vip
 *.ky5111.com
+*.ky5187.com
 *.ky58277.com
 *.ky5ef.com
 *.ky60011.com
@@ -111212,6 +111218,7 @@
 *.lai86.com
 *.lai87.com
 *.laifun88.com
+*.lailiao.top
 *.laite89.com
 *.laiting120.com
 *.laixin66.com
@@ -111440,6 +111447,7 @@
 *.letou-qa.com
 *.letou247.com
 *.letou8868.com
+*.letou96.com
 *.letouvn.com
 *.letsbet.com
 *.lett.vip
@@ -111768,6 +111776,7 @@
 *.ligangmeiyudh.xyz
 *.ligapopuler.com
 *.lightbet.com
+*.lights-ws.com
 *.lihatbola23.com
 *.liji333.com
 *.liji444.com
@@ -111931,6 +111940,7 @@
 *.lite-1x27114193.top
 *.lite-1x283524.top
 *.lite-1x36781678.top
+*.lite-1x4635600.top
 *.lite-1x470660.top
 *.lite-1x520416.top
 *.lite-1x562968.top
@@ -111942,6 +111952,7 @@
 *.littlesixcasino.com
 *.liu723.vip
 *.liubeizc.com
+*.liubiwei.com
 *.liupeichen.com
 *.liuyong168.com
 *.live-racing-sbobet.com
@@ -112000,6 +112011,7 @@
 *.lixingyule.net
 *.lixingyule.vip
 *.liyong-huachang.com
+*.lj999111.com
 *.ljbz3.vip
 *.ljj11.com
 *.ljj22.com
@@ -113414,6 +113426,7 @@
 *.manasbotop.com
 *.manbet111.com
 *.manbet333.com
+*.manbet360.com
 *.manbet5.com
 *.manbeta.com
 *.manbetx20.bet
@@ -113443,8 +113456,10 @@
 *.manbo88.com
 *.manbobet.com
 *.mancala66.com
+*.manclub.live
 *.manclub.me
 *.manclub.us
+*.manclub.vin
 *.manclub1.com
 *.manclub1.net
 *.manclub1.top
@@ -113489,6 +113504,7 @@
 *.matchbets.com
 *.matchbook.com
 *.mathuong.com
+*.mavibet561.com
 *.max3c.live
 *.max3c.net
 *.max3c.vip
@@ -113985,6 +114001,7 @@
 *.meetaedai.com
 *.meethsau.com
 *.mega199.com
+*.mega88.bet
 *.mega888malaysia.app
 *.mega888new.com
 *.megacasino.com
@@ -114124,6 +114141,7 @@
 *.melbetorgbtwc.top
 *.melbetorgsrop.top
 *.melbetorlapwq.top
+*.melbetoronxbj.top
 *.melbetorqpnts.top
 *.melbetorsntac.top
 *.melbetpartners.com
@@ -114747,6 +114765,7 @@
 *.mgqxzvp.com
 *.mgsmk.com
 *.mgstj135.com
+*.mhbwh2.com
 *.mhdeyt.com
 *.mhg0088s.com
 *.mhg8085.com
@@ -114920,6 +114939,7 @@
 *.mk5288.com
 *.mk5289.com
 *.mk6543.com
+*.mk77.vip
 *.mk8686.com
 *.mkaad.com
 *.mkby618.com
@@ -114992,6 +115012,7 @@
 *.mm9448.com
 *.mm966.com
 *.mma79.com
+*.mmbetway.com
 *.mmd001.xyz
 *.mmd002.xyz
 *.mmd003.xyz
@@ -116002,6 +116023,7 @@
 *.ne65k.com
 *.ne6ggk.vip
 *.ne8uu.com
+*.nearom.com
 *.neatmc.xyz
 *.neatsa.xyz
 *.nederbet.com
@@ -116325,6 +116347,7 @@
 *.njinhyz.site
 *.njkndqjpdrv5qkmopqtqaatqi3ln7j3uejptjrzjokprrgndczmb22syjkbd.com
 *.njkozo.com
+*.njkzrfs.com
 *.njoy1688.net
 *.njskjx.com
 *.njuwq.win
@@ -117505,6 +117528,7 @@
 *.ouya888.com
 *.ov-game.com
 *.ovcopqj.xyz
+*.overbetwin.com
 *.overgamescan.com
 *.overtime888.com
 *.ovocasino.com
@@ -118804,6 +118828,7 @@
 *.phvipy.vip
 *.phvipz.vip
 *.phwdream.com
+*.phwfu768.com
 *.phwin1.com
 *.phwzq.com
 *.phxdream.com
@@ -119055,10 +119080,19 @@
 *.pj54.com
 *.pj555.com
 *.pj555.xyz
+*.pj55711.com
+*.pj55714.com
+*.pj55715.com
+*.pj55716.com
+*.pj55717.com
+*.pj55719.com
 *.pj557777.com
 *.pj5588.net
 *.pj559999.com
+*.pj5599a.com
 *.pj5599g.com
+*.pj5599l.com
+*.pj5599o.com
 *.pj5599u.com
 *.pj5599y.com
 *.pj56.com
@@ -119306,6 +119340,7 @@
 *.poile7.com
 *.pointcasino.com
 *.pointsbet.com
+*.pointspreadnews.com
 *.poiuy8462.com
 *.pojd1111.cc
 *.poker.com
@@ -119859,6 +119894,7 @@
 *.qahqo.com
 *.qajjqi.xyz
 *.qakuz.net
+*.qalive.net
 *.qamyl.com
 *.qan2.com
 *.qan7.com
@@ -120539,6 +120575,7 @@
 *.qwerb3499.com
 *.qwerh3499.com
 *.qweri3499.com
+*.qwertmed4.com
 *.qwerx3499.com
 *.qwf124.com
 *.qwf125.com
@@ -120556,6 +120593,7 @@
 *.qwf137.com
 *.qwf138.com
 *.qwf139.com
+*.qwlive.net
 *.qwqeyar.xyz
 *.qws3.com
 *.qws889.com
@@ -120911,6 +120949,7 @@
 *.readytobet.com
 *.realara.xyz
 *.realbet.eu
+*.realcasinosonline.com
 *.realdealbet.com
 *.realdept.xyz
 *.realsou.xyz
@@ -120957,10 +120996,13 @@
 *.refmobilog.com
 *.refpa.top
 *.refpa.website
+*.refpa02350.top
+*.refpa09208.top
 *.refpa1159681.top
 *.refpa1342653.top
 *.refpa13453.top
 *.refpa151885.top
+*.refpa16790.top
 *.refpa170071.top
 *.refpa1939303.top
 *.refpa21586.top
@@ -120970,23 +121012,31 @@
 *.refpa28543.top
 *.refpa28631.top
 *.refpa3055867.top
+*.refpa31055.top
+*.refpa34131.top
 *.refpa3849203.top
 *.refpa3966353.top
 *.refpa40043.top
 *.refpa41636.top
 *.refpa4556883.top
+*.refpa459079.top
 *.refpa4601782.top
 *.refpa4660743.top
 *.refpa47030.top
 *.refpa4954422.top
 *.refpa501467.top
+*.refpa50514.top
 *.refpa5120468.top
 *.refpa5194882.top
+*.refpa53058.top
+*.refpa53115.top
 *.refpa5362975.top
 *.refpa5454501.top
 *.refpa5469842.top
+*.refpa56620.top
 *.refpa57118.top
 *.refpa57912.top
+*.refpa58036.top
 *.refpa58351.top
 *.refpa585667.top
 *.refpa59720.top
@@ -120996,11 +121046,14 @@
 *.refpa6685054.top
 *.refpa6781648.top
 *.refpa67853.top
+*.refpa71853.top
+*.refpa72590.top
 *.refpa7337669.top
 *.refpa78403.top
 *.refpa7881382.top
 *.refpa8005782.top
 *.refpa8052801.top
+*.refpa82380.top
 *.refpa8811076.top
 *.refpa8900399.top
 *.refpa90728.top
@@ -121012,6 +121065,7 @@
 *.refpa9734104.top
 *.refpa9766975.top
 *.refpa9802173.top
+*.refpa99330.top
 *.refpaa.website
 *.refpaadbsb.top
 *.refpaakqwnch.top
@@ -121505,6 +121559,7 @@
 *.rtpvilaslot.com
 *.rtuba.win
 *.rtw6m.com
+*.rtwtywe.asia
 *.rtz9mh.com
 *.ru-1xbet.com
 *.ru1xbet.com
@@ -121518,6 +121573,7 @@
 *.rubybet.com
 *.rubyde.xyz
 *.rubyfortune.com
+*.rubylive.club
 *.rubyredfort.com
 *.rubyroyal.com
 *.ruddf.win
@@ -121905,6 +121961,7 @@
 *.s999365.com
 *.s9996.com
 *.s99965.com
+*.s9997.com
 *.s99977.com
 *.s99996.com
 *.s99997.com
@@ -122024,6 +122081,7 @@
 *.sajoo.fr
 *.sakld08a7a86d97a721b090a9d.com
 *.salecute.xyz
+*.salon5670.com
 *.salonli.xyz
 *.samfarha.com
 *.sampuxchina.com
@@ -122166,6 +122224,7 @@
 *.sbobet.mobi
 *.sbobet.net
 *.sbobet.tv
+*.sbobet-casino.online
 *.sbobetasia.com
 *.sbobeteu.com
 *.sbobethk.com
@@ -122284,8 +122343,10 @@
 *.scccc.biz
 *.scccc.name
 *.scfpy.win
+*.schyfs.com
 *.scocf.win
 *.scommessebetfair.it
+*.score99.net
 *.scorebig888.com
 *.scotbet.com
 *.scotop.com
@@ -122382,6 +122443,7 @@
 *.sdy2027.com
 *.sdy2029.com
 *.sdy22192.com
+*.sdy22195.com
 *.sdy222.com
 *.sdy22203.com
 *.sdy22213.com
@@ -122644,6 +122706,7 @@
 *.shbet.site
 *.shbet.vin
 *.shbet.vip
+*.shbet.website
 *.shbet.win
 *.shbet0.com
 *.shbet00.com
@@ -122831,6 +122894,7 @@
 *.shireair.xyz
 *.shishitong.com
 *.shjoby.com
+*.shjrd627.com
 *.shopping139.com
 *.shopping908.com
 *.shouxi-666.com
@@ -122996,6 +123060,7 @@
 *.skywinni.xyz
 *.sl18588.com
 *.sl4843.com
+*.sl6618.com
 *.sl888.live
 *.slashsun.xyz
 *.slb-babadi.com
@@ -123069,6 +123134,7 @@
 *.slotsmillion.com
 *.slotsons.com
 *.slotspalace1.com
+*.slotsricos1x.com
 *.slotstipper.com
 *.slottyvegas.com
 *.slotum39.com
@@ -123544,6 +123610,7 @@
 *.steamtj.org
 *.stepballthai.com
 *.stg6268.com
+*.stgatg.asia
 *.stguj.wang
 *.sthhsj.xyz
 *.stjce.com
@@ -123555,6 +123622,7 @@
 *.stormyslasermedspa.com
 *.storspelare.com
 *.storspiller.com
+*.strategie-casino.com
 *.strikeitluckycasino.com
 *.strikewin.com
 *.stroim-ufa.ru
