@@ -39,7 +39,18 @@
 @@|dcape-*.amazon.com^
 @@|dp-gw-*.amazon.com^
 @@|dxz5jxhrrzigf.cloudfront.net^
+@@|msh.amazon.ca^
+@@|msh.amazon.cn^
+@@|msh.amazon.co.jp^
+@@|msh.amazon.com^
+@@|msh.amazon.com.br^
+@@|msh.amazon.com.mx^
 @@|msh.amazon.co.uk^
+@@|msh.amazon.de^
+@@|msh.amazon.es^
+@@|msh.amazon.fr^
+@@|msh.amazon.in^
+@@|msh.amazon.it^
 @@|prod.amazoncrl.com^
 @@|web.diagnostic.networking.aws.dev^
 ! Hulu, possibly other services
@@ -4100,4 +4111,8 @@
 
 ! pics, movies in wetv app
 @@|puui.qpic.cn^
+
+! https://github.com/hagezi/dns-blocklists/issues/1199
+@@|manga18sx.com^
+@@|www.manga18sx.com^
 
