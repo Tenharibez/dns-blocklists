@@ -606,7 +606,7 @@
 @@||nextdns.io^
 
 ! ControlD
-@@||controld.com^
+@@|analytics.controld.com^
 
 ! Images in Nintendo Mails
 @@|a1843.g.akamai.net^
@@ -799,6 +799,7 @@
 
 ! required for steam purchases
 @@|t.paypal.com^
+@@||stats.paypal.com^
 
 ! https://github.com/hagezi/dns-blocklists/issues/26
 @@|cdn.elev.io^
