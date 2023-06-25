@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 24 Jun 2023 21:43 UTC
-! Version: 2023.0624.2143.12
+! Last modified: 25 Jun 2023 21:47 UTC
+! Version: 2023.0625.2147.43
 ! Syntax: AdBlock
-! Number of entries: 6813
+! Number of entries: 6833
 !
 ||zer0day.000webhostapp.com^
 ||0123456789nonexistent.com^
@@ -3233,6 +3233,7 @@
 ||licensesnkey.com^
 ||lickmytaint.com^
 ||lien-torrent.com^
+||lifanmoe.net^
 ||lifemovie.org^
 ||ligaxxi.xyz^
 ||tracker.lilithraws.cf^
@@ -3381,6 +3382,7 @@
 ||mahou-shoujo.moe^
 ||majin2007.com^
 ||majomparade.com^
+||makegreatmusic.net^
 ||malacka.com^
 ||mamahd.es^
 ||mamahd.org^
@@ -3425,6 +3427,7 @@
 ||fs1.mebd.net^
 ||mechopirate.com^
 ||medbit.ru^
+||media-sharing.com^
 ||media-torrent.org^
 ||mediaboxbd.com^
 ||mediaboxhd.net^
@@ -3492,6 +3495,7 @@
 ||midnight-scene.com^
 ||midnight-torrents.com^
 ||mikkisays.net^
+||milliontorrent.pl^
 ||mindwarppavilion.org^
 ||bt.mindwerks.net^
 ||newvoyages.mine.nu^
@@ -3527,6 +3531,7 @@
 ||mlmsoftwarez.in^
 ||tracker.mlsub.net^
 ||trackers.mlsub.net^
+||mlwbd.life^
 ||mlwbd.pw^
 ||mma-core.com^
 ||mma-torrents.com^
@@ -3667,6 +3672,7 @@
 ||movietopia.to^
 ||movietorrent.co^
 ||movietown.org^
+||movieultima.online^
 ||movieunlimited.net^
 ||moviewapi.in^
 ||moviewatcher.is^
@@ -3934,6 +3940,7 @@
 ||nmac.to^
 ||nms-bd.com^
 ||nmuca.org^
+||nnm.ru^
 ||nnm-club.info^
 ||nnm-club.me^
 ||nnm-club.ru^
@@ -4021,6 +4028,7 @@
 ||nulljungle.com^
 ||nullphp.net^
 ||nullphpscript.com^
+||tracker.nullrouted.me^
 ||nullscriptfullz.com^
 ||nullzone.fr^
 ||nunuyy.cc^
@@ -4126,6 +4134,7 @@
 ||onionplay.rs^
 ||onionplay.se^
 ||onionplay.si^
+||onionplay.to^
 ||onionplay.yt^
 ||online-fix.me^
 ||online-life.ru^
@@ -4294,6 +4303,7 @@
 ||pelisplus.org^
 ||pelisplusgt.com^
 ||pelisplushd.net^
+||pepecine.to^
 ||per-fect.nl^
 ||perfectddl.com^
 ||petaleech.com^
@@ -4317,6 +4327,7 @@
 ||pinoytorrents.net^
 ||piraat.xyz^
 ||piracyproxy.net^
+||piratbaytpb.one^
 ||piratbit.top^
 ||pirate-bay.info^
 ||pirate-bay.net^
@@ -4355,6 +4366,7 @@
 ||piratebayproxy.info^
 ||piratebayproxy.live^
 ||piratebayproxy.rocks^
+||piratebayproxy.top^
 ||piratebayproxyz.com^
 ||piratebays.org^
 ||piratebays.win^
@@ -4534,6 +4546,7 @@
 ||proxybay.bz^
 ||proxybay.gdn^
 ||proxybay.onl^
+||proxybay.page^
 ||proxybay.pro^
 ||proxybay.tech^
 ||proxybay.xyz^
@@ -4651,6 +4664,7 @@
 ||putlockershd.us^
 ||putlockerss.online^
 ||putlockertv.info^
+||putlockertv.ist^
 ||putlockertv.onl^
 ||putlockertv.to^
 ||puzo.org^
@@ -4767,6 +4781,7 @@
 ||d40969.acod.regrucolo.ru^
 ||rejetto.com^
 ||relizer.net^
+||reload-paradise.net^
 ||tracker.renfei.net^
 ||renrencili.com^
 ||repack.info^
@@ -4826,6 +4841,7 @@
 ||rom-world.com^
 ||romsnetwork.com^
 ||romtohome.com^
+||root-warez.com^
 ||rootsofts.com^
 ||rotorrent.ro^
 ||royal-orleans.com^
@@ -4841,6 +4857,7 @@
 ||run-ricky-run.com^
 ||rune-server.org^
 ||runwaybroadband.com^
+||rus-media.org^
 ||russianfilmhub.com^
 ||rustorka.com^
 ||rustorrents.info^
@@ -4901,6 +4918,7 @@
 ||sceneaccess.org^
 ||scenedemon.com^
 ||scenedemon.us^
+||scenefeed.org^
 ||scenefz.net^
 ||scenehd.org^
 ||sceneleech.org^
@@ -4984,6 +5002,7 @@
 ||serialsurf.com^
 ||serien.cam^
 ||serien.click^
+||serien.dev^
 ||serien.digital^
 ||serien.express^
 ||serien.fun^
@@ -5186,6 +5205,7 @@
 ||softmupparna.net^
 ||softpilot.win^
 ||softsapk.com^
+||softsclub.com^
 ||softserialskey.com^
 ||softswarez.com^
 ||softtorrents.org^
