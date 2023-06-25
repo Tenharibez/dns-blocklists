@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 24 Jun 2023 21:37 UTC
-# Version: 2023.0624.2137.55
+# Last modified: 25 Jun 2023 21:42 UTC
+# Version: 2023.0625.2142.41
 # Syntax: DNSMasq
-# Number of entries: 6106
+# Number of entries: 6109
 #
 address=/0000a-fast-proxy.de/#
 address=/ns.00dani.me/#
@@ -5225,6 +5225,7 @@ address=/opentunnel.net/#
 address=/openvpn.com/#
 address=/openvpn.net/#
 address=/openvpn-ssh.com/#
+address=/openzend.com/#
 address=/opera.com/#
 address=/opera.software/#
 address=/opera-api.com/#
@@ -5260,6 +5261,7 @@ address=/parrotsec.org/#
 address=/a.passcloud.xyz/#
 address=/i.passcloud.xyz/#
 address=/doh.gcp.pathofgrace.com/#
+address=/leo.paulmihaipavel.com/#
 address=/rpz-public-resolver1.rrdns.pch.net/#
 address=/peekatwork.com/#
 address=/fuchur.pentament.de/#
@@ -5499,6 +5501,7 @@ address=/rapidproxy.us/#
 address=/rayneau.fr/#
 address=/dns.reckoningslug.name/#
 address=/redschool.info/#
+address=/redus.info/#
 address=/relayon.org/#
 address=/remotedesktop.com/#
 address=/kaitain.restena.lu/#
