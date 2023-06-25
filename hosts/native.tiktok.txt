@@ -183,3 +183,4 @@
 0.0.0.0 xlog16-normal-c-useast2a.tiktokv.com
 0.0.0.0 xlog16-platform-ycru.tiktokv.com
 0.0.0.0 xlog16-tmp-normal-useast1a.tiktokv.com
+0.0.0.0 mon16-platform-useast5.us.tiktokv.com
