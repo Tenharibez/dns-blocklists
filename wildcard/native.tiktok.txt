@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 22 Jun 2023 07:30 UTC
-# Version: 2023.0622.0730.49
+# Last modified: 26 Jun 2023 21:30 UTC
+# Version: 2023.0626.2130.43
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 175
+# Number of entries: 176
 #
 *.gpm-mon-sg.byteoversea.com
 *.gpm-mon-va.byteoversea.com
@@ -60,6 +60,7 @@
 *.business-api.tiktok.com
 *.analytics.us.tiktok.com
 *.analytics-exp.us.tiktok.com
+*.analytics-ttp2.us.tiktok.com
 *.mssdk.us.tiktok.com
 *.log.tiktokv.com
 *.log-i18n.tiktokv.com
