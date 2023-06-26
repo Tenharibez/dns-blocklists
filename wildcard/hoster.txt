@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 25 Jun 2023 21:46 UTC
-# Version: 2023.0625.2146.16
+# Last modified: 26 Jun 2023 21:23 UTC
+# Version: 2023.0626.2123.06
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 2061
+# Number of entries: 2062
 #
 *.000a.de
 *.000space.com
@@ -1966,6 +1966,7 @@
 *.website.org
 *.website-home.ws
 *.website2.me
+*.websitehostfree.com
 *.webspawner.com
 *.webstarts.com
 *.webuda.com
