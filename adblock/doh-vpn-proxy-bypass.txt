@@ -4,10 +4,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 25 Jun 2023 21:42 UTC
-! Version: 2023.0625.2142.41
+! Last modified: 26 Jun 2023 21:19 UTC
+! Version: 2023.0626.2119.44
 ! Syntax: AdBlock
-! Number of entries: 6109
+! Number of entries: 6113
 !
 ||0000a-fast-proxy.de^
 ||ns.00dani.me^
@@ -5749,6 +5749,7 @@
 ||tigervpn.com^
 ||tiiner.com^
 ||tikvpn.com^
+||timetohide.me^
 ||timmes.nl^
 ||tk31z.com^
 ||dns.tls-data.de^
@@ -5878,6 +5879,7 @@
 ||galileo.math.unipd.it^
 ||unknownproxy.com^
 ||unlimitedvpnapp.com^
+||unrestrict.me^
 ||unrestrictedsurf.com^
 ||unrestrictor.com^
 ||resolver.unstoppable.io^
@@ -5899,6 +5901,7 @@
 ||userload.co^
 ||userproxy.com^
 ||usgo.info^
+||usproxies.info^
 ||usproxy.nu^
 ||neatdns.ustclug.org^
 ||usvpn.cf^
@@ -6007,6 +6010,7 @@
 ||wantaquddin.com^
 ||abel.waringer-atg.de^
 ||dns.warpnine.de^
+||warpproxy.com^
 ||watchproxy.com^
 ||kswro.web.id^
 ||doh.this.web.id^

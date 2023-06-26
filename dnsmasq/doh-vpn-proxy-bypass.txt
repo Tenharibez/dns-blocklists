@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 25 Jun 2023 21:42 UTC
-# Version: 2023.0625.2142.41
+# Last modified: 26 Jun 2023 21:19 UTC
+# Version: 2023.0626.2119.44
 # Syntax: DNSMasq
-# Number of entries: 6109
+# Number of entries: 6113
 #
 address=/0000a-fast-proxy.de/#
 address=/ns.00dani.me/#
@@ -5749,6 +5749,7 @@ address=/jp.tiarap.org/#
 address=/tigervpn.com/#
 address=/tiiner.com/#
 address=/tikvpn.com/#
+address=/timetohide.me/#
 address=/timmes.nl/#
 address=/tk31z.com/#
 address=/dns.tls-data.de/#
@@ -5878,6 +5879,7 @@ address=/unifiedvpn.com/#
 address=/galileo.math.unipd.it/#
 address=/unknownproxy.com/#
 address=/unlimitedvpnapp.com/#
+address=/unrestrict.me/#
 address=/unrestrictedsurf.com/#
 address=/unrestrictor.com/#
 address=/resolver.unstoppable.io/#
@@ -5899,6 +5901,7 @@ address=/use-application-dns.net/#
 address=/userload.co/#
 address=/userproxy.com/#
 address=/usgo.info/#
+address=/usproxies.info/#
 address=/usproxy.nu/#
 address=/neatdns.ustclug.org/#
 address=/usvpn.cf/#
@@ -6007,6 +6010,7 @@ address=/walln.com/#
 address=/wantaquddin.com/#
 address=/abel.waringer-atg.de/#
 address=/dns.warpnine.de/#
+address=/warpproxy.com/#
 address=/watchproxy.com/#
 address=/kswro.web.id/#
 address=/doh.this.web.id/#

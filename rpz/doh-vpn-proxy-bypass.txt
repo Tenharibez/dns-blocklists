@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1687729320 86400 3600 604800 30
+@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1687814340 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Enyrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 25 Jun 2023 21:42 UTC
-; Version: 2023.0625.2142.41
+; Last modified: 26 Jun 2023 21:19 UTC
+; Version: 2023.0626.2119.44
 ; Syntax: RPZ
-; Number of entries: 12218
+; Number of entries: 12226
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -1857,6 +1857,8 @@ walln.com CNAME .
 *.walln.com CNAME .
 wantaquddin.com CNAME .
 *.wantaquddin.com CNAME .
+warpproxy.com CNAME .
+*.warpproxy.com CNAME .
 watchproxy.com CNAME .
 *.watchproxy.com CNAME .
 1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com CNAME .
@@ -2623,6 +2625,8 @@ usafastproxy.info CNAME .
 *.usafastproxy.info CNAME .
 usgo.info CNAME .
 *.usgo.info CNAME .
+usproxies.info CNAME .
+*.usproxies.info CNAME .
 vpnanonym.info CNAME .
 *.vpnanonym.info CNAME .
 vpnapp.info CNAME .
@@ -2889,10 +2893,14 @@ ibksturm.synology.me CNAME .
 *.ibksturm.synology.me CNAME .
 ihctw.synology.me CNAME .
 *.ihctw.synology.me CNAME .
+timetohide.me CNAME .
+*.timetohide.me CNAME .
 tubeunblock.me CNAME .
 *.tubeunblock.me CNAME .
 unblocked.me CNAME .
 *.unblocked.me CNAME .
+unrestrict.me CNAME .
+*.unrestrict.me CNAME .
 uvpn.me CNAME .
 *.uvpn.me CNAME .
 vpnme.me CNAME .
