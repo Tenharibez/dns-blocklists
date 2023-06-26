@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 25 Jun 2023 21:49 UTC
-# Version: 2023.0625.2149.54
+# Last modified: 26 Jun 2023 21:26 UTC
+# Version: 2023.0626.2126.14
 # Syntax: Domains (without subdomains)
-# Number of entries: 139856
+# Number of entries: 139906
 #
 000000tyc.com
 00000178.com
@@ -112108,7 +112108,6 @@ lo5568.com
 lo5569.com
 loadsabingo.com
 lob2pgoiqq.vip
-loc88.fun
 loc89.fun
 loc89.vip
 lockdown168.co
@@ -124686,9 +124685,11 @@ taohuadao.bio
 taotaikhoan88.com
 taotianxia888.com
 taoxingmeifang.com
+tap88.club
 tapdy.win
 tatts.com
 taubu.site
+tawafuq-medical.com
 taypj.win
 tb074.com
 tb4409.com
@@ -124757,6 +124758,7 @@ tbshandong.com
 tbslots.online
 tbtaiwan.com
 tbtianjin.com
+tbtx.club
 tbupy.com
 tbw16.com
 tbwayesport.com
@@ -125097,6 +125099,7 @@ thecasinoweb.com
 thecl.net
 thecoach123.com
 thecricketdraft.com
+thedafagambling.net
 thedafanews.com
 thedafapokerexperience.com
 thegamblersedge.com
@@ -125128,6 +125131,7 @@ thethaobw.com
 thethaodabet.com
 thethaodafa.com
 thethaofb88.com
+thethaofi88.com
 thethaofun88.com
 thethaojbo.com
 thethaoviet88.com
@@ -125196,6 +125200,7 @@ thx69.com
 thx86.com
 thytt.com
 thzscl.com
+ti1668.com
 ti211.com
 ti9mfk.com
 ti9zb.com
@@ -126087,6 +126092,7 @@ tvzwl.vip
 tw422.net
 twbet88.com
 twdiabv.xyz
+twgules.com
 twgv6f.vip
 twin-dragon77.com
 twin007.com
@@ -126134,6 +126140,7 @@ twwvh.com
 tx-group.vip
 tx5557.com
 tx5558.com
+ag.tx5588.net
 tx6669.com
 tx668.vip
 tx68.vip
@@ -128291,6 +128298,7 @@ v9xlgv1.com
 va3ki2.com
 va88pro.com
 vacasino.com
+vacky.cc
 vacobqex.com
 vacquzjr.com
 vacqygb.com
@@ -128612,6 +128620,7 @@ villabet.com
 villento.com
 vin168.com
 vin68.com
+vinalottery.com
 vindercasino.dk
 vineeasy.xyz
 vinepipe.xyz
@@ -128680,6 +128689,7 @@ vip320.com
 vip327.com
 vip33138.com
 vip3317.com
+vip3368.com
 vip349.com
 vip357.net
 vip35t.com
@@ -129284,6 +129294,7 @@ vn9588.com
 vn9599.com
 vn9622.com
 vn9687.com
+vn969.com
 vn9888.com
 vn9988.vip
 vna188.com
@@ -130020,6 +130031,7 @@ w4cxpx.vip
 w5354.com
 w5461.com
 w556688.com
+w5691.com
 w56933.com
 w56955.com
 w5885.com
@@ -130234,6 +130246,7 @@ w83455.com
 w83795.com
 w83836.com
 w84.bet
+w8676.com
 w87137.com
 w87886.com
 w88.dev
@@ -130389,6 +130402,7 @@ w96b1.com
 w9771.com
 w97b7.com
 w98.bet
+w9824.com
 w989888.com
 w98b8.com
 w998888.com
@@ -131097,6 +131111,7 @@ wgh.ag
 wgwwlg.xyz
 wh-time.com
 wh1128.com
+wh1129.com
 wh1162.com
 wh3s9.com
 wh9659.com
@@ -131290,6 +131305,7 @@ winclub388.com
 winclub588.com
 winclub688.com
 winclub788.com
+wincocopahcasino.com
 wincph.com
 windph.com
 winds.moe
@@ -131552,6 +131568,7 @@ wns666i.com
 wns666j.com
 wns6682.com
 wns66c.com
+wns676.net
 wns7038.com
 wns707.com
 wns7338.com
@@ -132024,6 +132041,7 @@ www055099.com
 www100789.com
 www11110880.com
 www11330880.com
+www12898.com
 www12898app.com
 www14055.com
 www14055.net
@@ -132066,7 +132084,9 @@ www39bet.win
 www400500.com
 www43884.com
 www44330880.com
+www447266.com
 www457888.com
+www45tk.com
 www47169.com
 www518458.com
 www55110880.com
@@ -132104,6 +132124,7 @@ www88990880.com
 www891001.com
 www891002.com
 www891003.com
+www90898.com
 www910987.com
 www959049.com
 www9810088.com
@@ -134722,6 +134743,9 @@ xmf68.com
 xmg555.vip
 xmhig.win
 xmniez25fmzg.vip
+xmvip653.com
+xmvip668.com
+xmvip733.com
 xmxmvip.com
 xmyv588.com
 xn--0tr00kbso9k1c.xyz
@@ -135652,7 +135676,9 @@ xv629.com
 xv635.com
 xv637.com
 xv660.com
+xv661.com
 xv666888.com
+xv667.com
 xv683.com
 xv686.com
 xv68605.com
@@ -136373,6 +136399,7 @@ y94.app
 y95.app
 y96.app
 y97.app
+y9788.com
 y98.app
 y9887.com
 y98ix.com
@@ -136432,6 +136459,7 @@ yab67.com
 yab70.com
 yab76.com
 yab77.com
+yab777.com
 yab78.com
 yab789.com
 yab79.com
@@ -136444,6 +136472,13 @@ yab99.com
 yabet.com
 yabet0.com
 yabet00.com
+yabet001.com
+yabet002.com
+yabet003.com
+yabet004.com
+yabet005.com
+yabet006.com
+yabet007.com
 yabet0088.com
 yabet01.com
 yabet02.com
@@ -136635,6 +136670,7 @@ yabo120.net
 yabo120.vip
 yabo121.vip
 yabo122.com
+yabo123.cn
 yabo1234.com
 yabo12345.com
 yabo124.com
@@ -137081,12 +137117,14 @@ yabo62.com
 yabo620.com
 yabo64.com
 yabo65.com
+yabo66.cn
 yabo6600.com
 yabo6611.com
 yabo6622.com
 yabo6633.com
 yabo665.com
 yabo6655.com
+yabo6661.com
 yabo66666.com
 yabo6677.com
 yabo668.com
@@ -137129,6 +137167,7 @@ yabo774.com
 yabo775.com
 yabo7755.com
 yabo7766.com
+yabo777.cn
 yabo7777.com
 yabo778.com
 yabo7788.com
@@ -137223,6 +137262,7 @@ yb88807.com
 yb88808.com
 yb88809.com
 ybbbet.asia
+ybbbet.com
 ybbetway.com
 ybbway.com
 ybfx.live
@@ -137580,6 +137620,7 @@ ygl2222.com
 ygl5522.com
 ygr8z.com
 ygv3283.xyz
+ygvdr932.com
 yh-1888.com
 yh-2288.com
 yh-3388.com
@@ -138044,6 +138085,7 @@ yl6513.com
 yl6520.com
 yl65555.com
 yl656.com
+yl66.xyz
 yl66661.com
 yl6678.com
 yl67777.com
@@ -138052,6 +138094,7 @@ yl6782.xyz
 yl6783.xyz
 yl6899.com
 yl69999.com
+yl7111.com
 yl7199.com
 yl7299.com
 yl7399.com
@@ -138348,6 +138391,7 @@ ym181.com
 ym2233.com
 ym26928.com
 ym27283.com
+ym281.com
 ym308.com
 ym309.com
 ym3400.com
@@ -138504,6 +138548,7 @@ yry3hj.vip
 yryyqi.xyz
 yryzt.com
 yrzmh.com
+ys111c.com
 ys111d.com
 ys111g.com
 ys22222.com
@@ -138520,6 +138565,7 @@ ys77777.com
 ys8877.com
 ys8go.net
 ys9017.com
+ys9026.com
 ysb1020.com
 ysb1023.com
 ysb1024.com
@@ -138585,6 +138631,7 @@ ysb248.net
 ysb26.com
 ysb27.com
 ysb288.net
+ysb8q.com
 ysbgo.net
 ysbsport.com
 ysbsport.net
@@ -138745,6 +138792,7 @@ yx1k.com
 yx2qby.vip
 yx3505.net
 yx3778.com
+yx5090.com
 yx5556.com
 yx6238.com
 yx6550.net
@@ -139045,6 +139093,7 @@ z67.vip
 z671.vip
 z6727.com
 z6758.com
+z68.fun
 z68.vip
 z6812.com
 z6823.com
@@ -139616,6 +139665,7 @@ znuyk.vip
 znzxp.xyz
 zo.club
 zo1.win
+zo88.org
 zobet88.com
 zodgm.wang
 zodiacu.com
