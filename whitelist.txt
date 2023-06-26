@@ -3774,3 +3774,16 @@ puui.qpic.cn
 # https://github.com/hagezi/dns-blocklists/issues/1199
 manga18sx.com
 
+# https://github.com/hagezi/dns-blocklists/issues/1202
+messaginganalytics.athena.io
+
+# https://github.com/hagezi/dns-blocklists/issues/1201
+meatspin.com
+
+# CNAME for various sites / referral links
+cname.beehiiv.com
+link.mail.beehiiv.com
+
+# Needed to view the offerings from https://www.buerger.de/unternehmen/werksverkauf/werksverkauf-ditzingen/
+brgergmbhcokg.createsend1.com
+
