@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 25 Jun 2023 21:47 UTC
-# Version: 2023.0625.2147.43
+# Last modified: 26 Jun 2023 21:24 UTC
+# Version: 2023.0626.2124.20
 # Syntax: DNSMasq
-# Number of entries: 6833
+# Number of entries: 6843
 #
 address=/zer0day.000webhostapp.com/#
 address=/0123456789nonexistent.com/#
@@ -3713,7 +3713,6 @@ address=/mp3juicestv.com/#
 address=/mp3lion.ru/#
 address=/mp3menu.com/#
 address=/mp3menu.net/#
-address=/mp3menu.org/#
 address=/torrent.mp3quran.net/#
 address=/mp3rally.com/#
 address=/mp3scene.info/#
@@ -5574,6 +5573,8 @@ address=/thepiratebay11.org/#
 address=/thepiratebay2.to/#
 address=/thepiratebay3.org/#
 address=/thepiratebay3.to/#
+address=/thepiratebay9.info/#
+address=/thepiratebay9.net/#
 address=/thepiratebaya.com/#
 address=/thepiratebayorg.org/#
 address=/thepiratebayproxylist.se/#
@@ -5693,6 +5694,7 @@ address=/torfinder.net/#
 address=/torhd.com/#
 address=/tracker.toritraders.com/#
 address=/toriyamaworld.com/#
+address=/tr.torland.ga/#
 address=/torlock.com/#
 address=/torlock.live/#
 address=/torlock2.com/#
@@ -5877,6 +5879,7 @@ address=/torrentqq49.com/#
 address=/torrentqq51.com/#
 address=/torrentqq52.com/#
 address=/torrentqq53.com/#
+address=/torrentqq71.com/#
 address=/torrentqq74.com/#
 address=/torrentquest.com/#
 address=/torrentradar.org/#
@@ -6022,6 +6025,7 @@ address=/trec.to/#
 address=/tri-tavern.com/#
 address=/tribalmixes.com/#
 address=/tricitytorrents.com/#
+address=/triniwarez.com/#
 address=/triptorrents.com/#
 address=/tracker.trojangogogo.site/#
 address=/troypoint.com/#
@@ -6617,7 +6621,10 @@ address=/xmovies8.org/#
 address=/xmovies8.si/#
 address=/xn--80a4b.com/#
 address=/xn--thepratebay-fcb.com/#
+address=/budvartrekker.xn-s.eu/#
+address=/hd-hu.xn-s.eu/#
 address=/xoomtv.xyz/#
+address=/tterm.xorg.pl/#
 address=/xparadise.ru/#
 address=/xpau.se/#
 address=/xplorenetbd.com/#
@@ -6727,6 +6734,7 @@ address=/yts.ag/#
 address=/yts.ai/#
 address=/yts.am/#
 address=/yts.digital/#
+address=/yts.io/#
 address=/yts.la/#
 address=/yts.lat/#
 address=/yts.lc/#
@@ -6739,11 +6747,13 @@ address=/yts.pm/#
 address=/yts.re/#
 address=/yts.st/#
 address=/yts.to/#
+address=/yts.vc/#
 address=/yts.ws/#
 address=/yts.yt/#
 address=/yts.zone/#
 address=/yts-movie.cc/#
 address=/yts-torrents.org/#
+address=/ytshindi.xyz/#
 address=/ytsmovietorrent.com/#
 address=/ytsstreaming.com/#
 address=/ytstorrent.com/#

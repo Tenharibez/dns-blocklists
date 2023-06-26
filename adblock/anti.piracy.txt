@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 25 Jun 2023 21:47 UTC
-! Version: 2023.0625.2147.43
+! Last modified: 26 Jun 2023 21:24 UTC
+! Version: 2023.0626.2124.20
 ! Syntax: AdBlock
-! Number of entries: 6833
+! Number of entries: 6843
 !
 ||zer0day.000webhostapp.com^
 ||0123456789nonexistent.com^
@@ -3713,7 +3713,6 @@
 ||mp3lion.ru^
 ||mp3menu.com^
 ||mp3menu.net^
-||mp3menu.org^
 ||torrent.mp3quran.net^
 ||mp3rally.com^
 ||mp3scene.info^
@@ -5574,6 +5573,8 @@
 ||thepiratebay2.to^
 ||thepiratebay3.org^
 ||thepiratebay3.to^
+||thepiratebay9.info^
+||thepiratebay9.net^
 ||thepiratebaya.com^
 ||thepiratebayorg.org^
 ||thepiratebayproxylist.se^
@@ -5693,6 +5694,7 @@
 ||torhd.com^
 ||tracker.toritraders.com^
 ||toriyamaworld.com^
+||tr.torland.ga^
 ||torlock.com^
 ||torlock.live^
 ||torlock2.com^
@@ -5877,6 +5879,7 @@
 ||torrentqq51.com^
 ||torrentqq52.com^
 ||torrentqq53.com^
+||torrentqq71.com^
 ||torrentqq74.com^
 ||torrentquest.com^
 ||torrentradar.org^
@@ -6022,6 +6025,7 @@
 ||tri-tavern.com^
 ||tribalmixes.com^
 ||tricitytorrents.com^
+||triniwarez.com^
 ||triptorrents.com^
 ||tracker.trojangogogo.site^
 ||troypoint.com^
@@ -6617,7 +6621,10 @@
 ||xmovies8.si^
 ||xn--80a4b.com^
 ||xn--thepratebay-fcb.com^
+||budvartrekker.xn-s.eu^
+||hd-hu.xn-s.eu^
 ||xoomtv.xyz^
+||tterm.xorg.pl^
 ||xparadise.ru^
 ||xpau.se^
 ||xplorenetbd.com^
@@ -6727,6 +6734,7 @@
 ||yts.ai^
 ||yts.am^
 ||yts.digital^
+||yts.io^
 ||yts.la^
 ||yts.lat^
 ||yts.lc^
@@ -6739,11 +6747,13 @@
 ||yts.re^
 ||yts.st^
 ||yts.to^
+||yts.vc^
 ||yts.ws^
 ||yts.yt^
 ||yts.zone^
 ||yts-movie.cc^
 ||yts-torrents.org^
+||ytshindi.xyz^
 ||ytsmovietorrent.com^
 ||ytsstreaming.com^
 ||ytstorrent.com^
