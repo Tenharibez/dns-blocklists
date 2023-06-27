@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Jun 2023 21:32 UTC
-# Version: 2023.0626.2132.20
+# Last modified: 27 Jun 2023 21:17 UTC
+# Version: 2023.0627.2117.53
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 15740
+# Number of entries: 15715
 #
 *.009972.com
 *.100-solarni-lampa-cz.com
@@ -881,6 +881,7 @@
 *.asiapacificex.com
 *.asics-deutschland.com
 *.asics-schweiz.com
+*.asicsbotyeshop.cz
 *.asicsczechrepublic.cz
 *.asicsczeshop.cz
 *.asicsoutletosterreich.at
@@ -1844,7 +1845,6 @@
 *.bohoween.com
 *.boilingsmart.com
 *.boisdechauffage-express.com
-*.boisdechauffages-express.com
 *.boisylva.com
 *.bokerknife.com
 *.boldano.de
@@ -2077,7 +2077,6 @@
 *.btc-convert.com
 *.btc-markets.com
 *.nz04bg.btc-sys.com
-*.btc9339.com
 *.btceu.pro
 *.btcmarketcap.com
 *.btcprofitnow.com
@@ -2837,7 +2836,6 @@
 *.urhair.co.uk
 *.worldwidemoving.co.uk
 *.worldwidemoving.co.za
-*.coach-shopu.shop
 *.coarsesale.com
 *.coatfaith.com
 *.coborsdeyor.com
@@ -2892,6 +2890,7 @@
 *.coinovest.com
 *.coinpaymentfx.com
 *.coinpool.me
+*.coinrevenue.life
 *.coinrevfx.com
 *.coinsdeskfx.com
 *.coinstic.com
@@ -3238,7 +3237,6 @@
 *.cryptofoxa.com
 *.cryptofundfx.com
 *.cryptofxaitrades.com
-*.cryptofxasset.trade
 *.cryptofxsfinance.com
 *.cryptogold.bz
 *.cryptogrizzly.com
@@ -5114,7 +5112,6 @@
 *.finkerkette.de
 *.finlay.io
 *.finlibra.com
-*.finocapital.io
 *.finodax.com
 *.finomarkets.com
 *.finsainvestmentlimited.com
@@ -5978,7 +5975,6 @@
 *.goldenewelpen.com
 *.goldengoose.at
 *.goldengooseboty.cz
-*.goldenhawkgroup.com
 *.goldeninvestbroker.com
 *.goldenstockscapital.com
 *.goldf-tradex.com
@@ -6584,6 +6580,7 @@
 *.hokaboty.cz
 *.hokaboutique.shop
 *.hokacenter.com
+*.hokacz.cz
 *.hokadeutschland.de
 *.hokalaufschuhe.at
 *.hokaone-run.co
@@ -8477,7 +8474,6 @@
 *.majortrade.co
 *.majucash.xyz
 *.makeazt.com
-*.makeglamfg.com
 *.makeupgeneric.com
 *.makeupproductsshop.store
 *.makitabillig.de
@@ -8631,7 +8627,6 @@
 *.maxgiftery.com
 *.maxiholky.cz
 *.maxisizend.com
-*.maxitrade.com
 *.maxivyprodeje.cz
 *.easdm.maxlaza.com
 *.maxlife-fundacja.pl
@@ -10651,7 +10646,6 @@
 *.pillenpalast.com
 *.pillola-italia.com
 *.pillowcases.space
-*.pills-cheap-sale.com
 *.pillstock.net
 *.pillz888.org
 *.pilotgain.com
@@ -10670,7 +10664,6 @@
 *.pinkkola.com
 *.pinkmegan.com
 *.pinkmemoriess.com
-*.pinkni.com
 *.pinnarts.com
 *.pinoplay.de
 *.pinotsale.shop
@@ -10869,7 +10862,6 @@
 *.pr-ruehle.de
 *.practicalstores.com
 *.pradler-media.com
-*.pragueactivators.cz
 *.praiseglories.info
 *.prbcapitals.com
 *.precless.top
@@ -10913,9 +10905,7 @@
 *.prideearthone.com
 *.prigaudited.buzz
 *.primada.de
-*.primavergleich.de
 *.prime-autopack.com
-*.prime-coin.live
 *.prime-market.com
 *.prime-smog.com
 *.primebit-profit.org
@@ -11081,6 +11071,7 @@
 *.unless.purecap.xyz
 *.purelywave.com
 *.pureoiuo.com
+*.puresuit.shop
 *.purprints.net
 *.apothekerezeptfrei-1.puzl.com
 *.pv-norden.shop
@@ -11200,7 +11191,6 @@
 *.rabattsender.com
 *.rabattski.com
 *.rabattskide.com
-*.rabattskis.de
 *.rabattskisde.com
 *.rabattsport.de
 *.rabattsportbekleidung.com
@@ -11621,7 +11611,6 @@
 *.rkase.com
 *.rkorteo.com
 *.rmied.com
-*.rmotoboris.com
 *.rmtechshop.com
 *.rnchrw.com
 *.rnexcellent.com
@@ -11832,7 +11821,6 @@
 *.sakacomputer.de
 *.sakaziq.com
 *.sakimag.com
-*.sakurainu.org
 *.salanza-berlin.de
 *.salcouth.com
 *.sale-boating.com
@@ -11999,6 +11987,7 @@
 *.saturn-markt.com
 *.saturn-s.de
 *.sauconyaustria.at
+*.sauconyczechrepublic.cz
 *.sauconylaufschuhe.at
 *.sauconyschuhe.de
 *.sauconyshoe.com
@@ -12085,7 +12074,6 @@
 *.schradearea.com
 *.schrank-shop.com
 *.schreiner-rasenmaher.com
-*.schuhe-store.com
 *.schuhebullboxer.de
 *.schuheclarks.de
 *.schuhepaulgreen.de
@@ -12136,7 +12124,6 @@
 *.secotab.shop
 *.secrettowin.com
 *.securebellonline.com
-*.securecorpmafsplc.com
 *.securefasttrade.com
 *.securejust.com
 *.securesmartoptions.online
@@ -12154,7 +12141,6 @@
 *.sehaleservices.com
 *.sehen-staunen-erleben.de
 *.seifenstaender.at
-*.seigneurin.fr
 *.seijin.de
 *.seiltanzer.com
 *.seiteeintragen.com
@@ -12188,7 +12174,6 @@
 *.senmiss.com
 *.sensefums.com
 *.senseila.de
-*.sensetrade.cc
 *.sensualsale.com
 *.sentees.com
 *.sentencethy.com
@@ -12223,7 +12208,6 @@
 *.setyours.com
 *.sevengatesconsulting.de
 *.sevranmoove.fr
-*.sewakanmiu.com
 *.sewingiiseasy.com
 *.sewlt.com
 *.sexapotheke24.com
@@ -12802,7 +12786,6 @@
 *.spielsachen-paradies.de
 *.spielwarenneu.de
 *.spielzeug-kaufen.net
-*.spielzeugdisney.de
 *.spilavizer.com
 *.spinevo.com
 *.spiralhappy.com
@@ -12833,7 +12816,6 @@
 *.sporthotel-schwerin.de
 *.sportingstore.shop
 *.sportmediterran.at
-*.sportmitbauch.de
 *.sportmodemarken.com
 *.sportnewsdirect.com
 *.sports-discount.net
@@ -12912,7 +12894,6 @@
 *.starherobit.com
 *.starkuvdum.cz
 *.starling-bonds.com
-*.starlingcredit.com
 *.startuplatte.com
 *.startx.at
 *.starwarslover.com
@@ -12953,7 +12934,6 @@
 *.stereoswitch.de
 *.sterling-investment.ltd
 *.sternestd.de
-*.sterninvest.de
 *.sternmarkets.com
 *.sternoptions.com
 *.steroide-kaufen.com
@@ -12961,7 +12941,6 @@
 *.steroidhaus.net
 *.steroidspeicher.de
 *.sterroll.com
-*.steuerfrei-shoppen.com
 *.stevenjenks.com
 *.stickerify.co
 *.stickersbomber.com
@@ -13048,7 +13027,6 @@
 *.storeoutdoorus.com
 *.storepetsafe.com
 *.storesalewa.com
-*.storeschoolbag.com
 *.storeskiwear.com
 *.storesnowsports.com
 *.shopsale.storesonline2022.ru
@@ -13515,7 +13493,6 @@
 *.ternsome.top
 *.terra.one
 *.terra-finance.cc
-*.terra-finance.co
 *.terrifestival.shop
 *.terrific.de
 *.terryjewelry.shop
@@ -13526,6 +13503,7 @@
 *.tesauree.com
 *.tesento.com
 *.tesla-for-doge.com
+*.tesla-openai.com
 *.teslabestfor.com
 *.teslabounce.com
 *.teslabrc.com
@@ -13687,7 +13665,6 @@
 *.theoutdoortool.com
 *.theownshop.com
 *.thepeppymay.com
-*.thephones.net
 *.theplushies.shop
 *.thepocketknives.com
 *.thepoloshirt.store
@@ -13979,7 +13956,6 @@
 *.toptrade500.com
 *.toptradepro.com
 *.topvaly.com
-*.topvcashoffer.com
 *.topvision-cz.com
 *.topwinebar.com
 *.topyieldoptions.online
@@ -15032,7 +15008,6 @@
 *.waresnewbike.com
 *.waresnewfad.com
 *.waresusmiss.com
-*.warmclo.com
 *.warmhalten.com
 *.warminsun.com
 *.warmwool.de
