@@ -531,7 +531,7 @@
 @@|h-rbs-bank.online-metrix.net^
 @@|h-regionsbank2.online-metrix.net^
 @@|h-santanderbank.online-metrix.net^
-@@|h-sdk.online-metrix.net^
+!h-sdk.online-metrix.net
 @@|h-standardcharteredbank.online-metrix.net^
 @@|h-target.online-metrix.net^
 @@|h-tdbank.online-metrix.net^
@@ -4129,4 +4129,18 @@
 
 ! Needed to view the offerings from https://www.buerger.de/unternehmen/werksverkauf/werksverkauf-ditzingen/
 @@|brgergmbhcokg.createsend1.com^
+
+! Prevent connection to the Cetelem account
+@@|tr.notification.cetelem.fr^
+@@|f1.np6.com^
+@@|f1.mailperformance.com^
+@@|tr.np6.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1205
+@@|cdn*.onnetwork.tv^
+@@|video*.onnetwork.tv^
+
+! https://github.com/hagezi/dns-blocklists/issues/1206
+@@|c.trackmytarget.com^
+@@|metric.picodi.com^
 
