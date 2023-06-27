@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 26 Jun 2023 21:26 UTC
-# Version: 2023.0626.2126.14
+# Last modified: 27 Jun 2023 21:12 UTC
+# Version: 2023.0627.2112.40
 # Syntax: DNSMasq
-# Number of entries: 139906
+# Number of entries: 139904
 #
 address=/000000tyc.com/#
 address=/00000178.com/#
@@ -27066,7 +27066,6 @@ address=/3115ii.com/#
 address=/3115jj.com/#
 address=/3115ky.com/#
 address=/3115ll.com/#
-address=/3115mm.com/#
 address=/3115nn.com/#
 address=/3115oo.com/#
 address=/3115pp.com/#
@@ -50007,7 +50006,6 @@ address=/6591n.com/#
 address=/6591t.com/#
 address=/6591x.com/#
 address=/65921.org/#
-address=/65923.paris/#
 address=/6592v.com/#
 address=/6592x.com/#
 address=/6593388.com/#
@@ -87902,7 +87900,6 @@ address=/cc9595.info/#
 address=/cc9659.com/#
 address=/cc9762.com/#
 address=/cc988.wang/#
-address=/ccaboyyhhj.com/#
 address=/ccasino.com/#
 address=/ccb2b.net/#
 address=/ccb3nbjb.com/#
@@ -102163,6 +102160,7 @@ address=/i9bet58.com/#
 address=/i9bet59.com/#
 address=/i9bet6.com/#
 address=/i9bet62.com/#
+address=/i9bet63.com/#
 address=/i9bet64.com/#
 address=/i9bet66.com/#
 address=/i9bet666.com/#

@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 26 Jun 2023 21:26 UTC
-! Version: 2023.0626.2126.14
+! Last modified: 27 Jun 2023 21:12 UTC
+! Version: 2023.0627.2112.40
 ! Syntax: AdBlock
-! Number of entries: 139906
+! Number of entries: 139904
 !
 ||000000tyc.com^
 ||00000178.com^
@@ -27066,7 +27066,6 @@
 ||3115jj.com^
 ||3115ky.com^
 ||3115ll.com^
-||3115mm.com^
 ||3115nn.com^
 ||3115oo.com^
 ||3115pp.com^
@@ -50007,7 +50006,6 @@
 ||6591t.com^
 ||6591x.com^
 ||65921.org^
-||65923.paris^
 ||6592v.com^
 ||6592x.com^
 ||6593388.com^
@@ -87902,7 +87900,6 @@
 ||cc9659.com^
 ||cc9762.com^
 ||cc988.wang^
-||ccaboyyhhj.com^
 ||ccasino.com^
 ||ccb2b.net^
 ||ccb3nbjb.com^
@@ -102163,6 +102160,7 @@
 ||i9bet59.com^
 ||i9bet6.com^
 ||i9bet62.com^
+||i9bet63.com^
 ||i9bet64.com^
 ||i9bet66.com^
 ||i9bet666.com^
