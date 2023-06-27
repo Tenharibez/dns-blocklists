@@ -4,10 +4,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 26 Jun 2023 21:19 UTC
-! Version: 2023.0626.2119.44
+! Last modified: 27 Jun 2023 21:07 UTC
+! Version: 2023.0627.2107.36
 ! Syntax: AdBlock
-! Number of entries: 6113
+! Number of entries: 6112
 !
 ||0000a-fast-proxy.de^
 ||ns.00dani.me^
@@ -578,7 +578,6 @@
 ||dukun.de^
 ||dutchproxy.nl^
 ||dns.dutchwhite.nl^
-||dns.dyn1.de^
 ||dynanyx.com^
 ||ueni.dyndns.org^
 ||resolver1.dyndnsinternetguide.com^
