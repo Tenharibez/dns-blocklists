@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 27 Jun 2023 21:12 UTC
-# Version: 2023.0627.2112.40
+# Last modified: 28 Jun 2023 21:09 UTC
+# Version: 2023.0628.2109.07
 # Syntax: Domains (without subdomains)
-# Number of entries: 139904
+# Number of entries: 139910
 #
 000000tyc.com
 00000178.com
@@ -80430,6 +80430,8 @@ b5d65789iuh.com
 b5edgho990.com
 b5g89098jjj.com
 b5ino.vip
+api4.b5ipcoleser.net
+api6.b5ipcoleser.net
 b5jguyifopa9098.com
 b5k78909ijdhj.com
 b5kpgv.vip
@@ -93591,10 +93593,12 @@ fbbqa2c.top
 fbbqa4c.top
 fbc55.com
 fbcdsp.com
+api.fbdata.xyz
 fbdsc.win
 fbe5ln.vip
 fbet39.com
 fbhsk.com
+api.fbhub.xyz
 fbi67.wang
 fbkazvtxws.com
 fbl5s.vip
@@ -96087,6 +96091,7 @@ game99887766.com
 gamealiyun.com
 gameb52.live
 gameb52.pro
+gameb52a.me
 gamebai.club
 gamebaiclub.pro
 gamebaiquayhu.com
@@ -102175,6 +102180,7 @@ i9bet75.com
 i9bet77.com
 i9bet777.com
 i9bet8.com
+i9bet86.com
 i9bet88.com
 i9bet888.com
 i9bet9.com

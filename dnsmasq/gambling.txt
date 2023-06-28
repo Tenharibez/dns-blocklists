@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 27 Jun 2023 21:12 UTC
-# Version: 2023.0627.2112.40
+# Last modified: 28 Jun 2023 21:09 UTC
+# Version: 2023.0628.2109.07
 # Syntax: DNSMasq
-# Number of entries: 139904
+# Number of entries: 139910
 #
 address=/000000tyc.com/#
 address=/00000178.com/#
@@ -80430,6 +80430,8 @@ address=/b5d65789iuh.com/#
 address=/b5edgho990.com/#
 address=/b5g89098jjj.com/#
 address=/b5ino.vip/#
+address=/api4.b5ipcoleser.net/#
+address=/api6.b5ipcoleser.net/#
 address=/b5jguyifopa9098.com/#
 address=/b5k78909ijdhj.com/#
 address=/b5kpgv.vip/#
@@ -93591,10 +93593,12 @@ address=/fbbqa2c.top/#
 address=/fbbqa4c.top/#
 address=/fbc55.com/#
 address=/fbcdsp.com/#
+address=/api.fbdata.xyz/#
 address=/fbdsc.win/#
 address=/fbe5ln.vip/#
 address=/fbet39.com/#
 address=/fbhsk.com/#
+address=/api.fbhub.xyz/#
 address=/fbi67.wang/#
 address=/fbkazvtxws.com/#
 address=/fbl5s.vip/#
@@ -96087,6 +96091,7 @@ address=/game99887766.com/#
 address=/gamealiyun.com/#
 address=/gameb52.live/#
 address=/gameb52.pro/#
+address=/gameb52a.me/#
 address=/gamebai.club/#
 address=/gamebaiclub.pro/#
 address=/gamebaiquayhu.com/#
@@ -102175,6 +102180,7 @@ address=/i9bet75.com/#
 address=/i9bet77.com/#
 address=/i9bet777.com/#
 address=/i9bet8.com/#
+address=/i9bet86.com/#
 address=/i9bet88.com/#
 address=/i9bet888.com/#
 address=/i9bet9.com/#
