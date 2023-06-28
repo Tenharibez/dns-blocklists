@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Jun 2023 21:17 UTC
-# Version: 2023.0627.2117.53
+# Last modified: 28 Jun 2023 21:14 UTC
+# Version: 2023.0628.2114.15
 # Syntax: Domains (without subdomains)
-# Number of entries: 15715
+# Number of entries: 15728
 #
 009972.com
 100-solarni-lampa-cz.com
@@ -1543,6 +1543,7 @@ bijouxneu.space
 bike-hagers.de
 bike-poc.com
 bike-shop-market.com
+bikeaccessoriesneu.com
 bikeblitz.de
 bikeexploiter.com
 bikefamily-gmbh.de
@@ -2077,6 +2078,7 @@ bstses.com
 btc-convert.com
 btc-markets.com
 nz04bg.btc-sys.com
+btc9339.com
 btceu.pro
 btcmarketcap.com
 btcprofitnow.com
@@ -3781,7 +3783,6 @@ discount-kobalt.com
 discount-zigaretten24.com
 discountaarrivals.com
 discountapparels.store
-discountbloc.ru
 discountcamph.store
 discountcamph.website
 discountcat.website
@@ -4533,6 +4534,7 @@ esdxsa.com
 esgehtauchohnerezept.net
 eshoesoutlet.com
 eshopie.cz
+esl-gaming.com
 esmart-invest.com
 esoftn.shop
 espace-cluny.com
@@ -4795,6 +4797,7 @@ fahrradsportverkauf.com
 fahrraduniversum.de
 fahrradvitus.de
 fahrradzubehorrabatt.com
+fahrschulagenten.de
 fahrschule-seefeldt.de
 fahrzeugprada.de
 failux.com
@@ -5342,7 +5345,6 @@ foxflix.de
 foxislandembroidery.com
 foxnewstrade.org
 foxrm.fr
-foxyteam.com
 fpbulls.com
 fpilahue.com
 fr-energie-bois.com
@@ -6072,6 +6074,7 @@ grasshail.com
 gratamodels.com
 gratis-produkttests.de
 gratisdsl.at
+graveilux.de
 great-mysteries.com
 greatescapery.com
 greatest-shop.com
@@ -6538,6 +6541,7 @@ hitstockfx.org
 hivintage.com
 hizmetkurdi.com
 hk6986.com
+hkaf-dienst.com
 hkk.io
 hklaccessoriesstore.com
 hkls.at
@@ -7506,13 +7510,16 @@ kedsosterreich.com
 kedsschuhe.de
 kedsschuhes.com
 keen-cz.com
+keen-ireland.com
 keenfootwearsale.com
+keenireland.com
 keenobuv.cz
 keenosterreich.at
 keenschuhe.at
 keenschuhe.com
 keenschuhewien.at
 keenschuhewien.com
+keenshoeslreland.com
 keepeoff.shop
 keeprake.com
 keesocial.com
@@ -7723,6 +7730,7 @@ kokokostore.net
 kokosoel-zaehne.de
 kolendo.de
 komarise.com
+komarniskiw.shop
 komforteinrichter.de
 kommodende.com
 kompens.de
@@ -7928,10 +7936,16 @@ lashoven.com
 lashup.us
 lasmpo.com
 laspop.top
+lasporitiva.com
+lasport.top
 lasportiva.club
 lasportivaat.at
+lasportivade.club
 lasportivadeutschland.de
+lasportivaonl.cc
 lasportivaosterreich.at
+lasportivaotdeur.top
+lasportivaoutlet.club
 lasportivaschuhe.at
 lasportivast.com
 lasportivasuomi.com
@@ -8334,7 +8348,6 @@ lucialamps.shop
 lucidtiger.com
 lucimen.com
 lucklby.com
-luckmoons.com
 lucknocker.com
 luckycafe.store
 luckydaybet99.com
@@ -8564,6 +8577,7 @@ marktpro.de
 markus-mendler.de
 markusbrandstetter.at
 marleytecnologica.com
+marmilano.de
 marocdevt.com
 maronnami-shop.com
 marotan.de
@@ -8795,6 +8809,8 @@ melarus.store
 meldebescheinigung.eu
 meli.games
 melioratelimited.com
+melissaosterreich.at
+melissaschuhe.de
 melizamodesty.com
 melkberg.de
 melodybaby.shop
@@ -9024,10 +9040,10 @@ mmarketing.cz
 mmfinancialexperts.com
 mmfit.eu
 mmmjemp.cn
-mmoutlet.store
 mnaink.com
 mnoramemeti.com
 mnotina.com
+mnswellness.com
 mobelgeschaft-neu.com
 mobiamy.com
 mobiflix.de
@@ -9487,6 +9503,7 @@ nebelski.pl
 nebulanights.com
 nebulosity.shop
 neefx.com
+neepage.com
 neespresso.coffee
 negotiatefoam.cn
 rspmoyu.neilriser.com
@@ -9758,6 +9775,7 @@ nobullosterreich.at
 nobullosterreich.com
 nobullsalewien.me
 nobullwien.at
+nobullworld.shop
 nobulosterreich.me
 nofotballshop.com
 nofotballstore.com
@@ -10101,6 +10119,7 @@ shop6.onlinesale2022.ru
 shop8.onlinesale2022.ru
 onlinesgeldverdienens.com
 onlinesimplfx.com
+eoutlet.onlinestore2023.com
 cheaper.onlinestoresoutlet2021.ru
 onlineumage.com
 onlineussports.com
@@ -12691,6 +12710,7 @@ somatesav.com
 someacy.com
 somegifts4u.com
 somegifts4you.com
+sommer-angebote.com
 sommeraufdemland.de
 sommerbiene.de
 sommerekzem.at
@@ -12749,6 +12769,7 @@ spar-markt.de
 sparka-tan.info
 sparkauf24.com
 sparkprofit.com
+sparprime.com
 spartan-trade.com
 speaktt.top
 special-gift.it
@@ -12772,6 +12793,7 @@ speedtradefx.com
 speer-muc.de
 speer-office.com
 speicherprada.de
+spenpek.shop
 sperry-deutschland.com
 sperrybootsschuhe.com
 sperrybootsschuhe.de
@@ -13373,7 +13395,6 @@ tayamacctv.com
 taylorsales.shop
 tazemalls.com
 tazreiter-holz.at
-tbg-lmtd.com
 crm2.tbg-lmtd.xyz
 trade.tccrypto.io
 tcgguard.com
@@ -13828,6 +13849,7 @@ paderborn.tm5-ag.com
 tmallprints.com
 tmcsale.net
 tmnwrt.com
+lasportiva.tn.it
 origin.tnail.cc
 tnewslite.com
 tnewsrefresh.com
@@ -13908,6 +13930,7 @@ toolsuperior.com
 toolsuperus.com
 toolswiha.com
 toolswilton.com
+tooltoall.com
 toonix.store
 tooshler.us
 top-apotheke.at
@@ -14029,8 +14052,6 @@ trademiningfx.com
 trademote.com
 tradenix.io
 tradeo.com
-tradeofx.com
-tradeolympic.com
 tradeprincipal.com
 tradeprofitweb.com
 traderce.com
@@ -14195,6 +14216,7 @@ trustedrxsolutions.com
 trustedtablets.online
 trustfinancetrading.com
 trustfundfx.tech
+trustmailexpress.com
 trustmerchantcooperativebank.net
 trustpharm7pills.com
 trustss.com
@@ -14247,6 +14269,7 @@ tunepart.com
 turanostre.de
 turanzar-reifen.com
 turboate.com
+turbojust.com
 turbopb.com
 turbotzy.com
 turfdecor.com
@@ -14306,7 +14329,6 @@ udsaey.online
 ueeeuer.com
 ueisley.online
 uesthermaina.shop
-ueximious.com
 ufd-lindenau.de
 ufolepbourgogne.org
 ugeman.com
@@ -14320,6 +14342,7 @@ uhrsprung-bar.at
 uhrstern.net
 uifami.com
 uinoqclothing.shop
+adidasuk.uk.com
 adidasyeezy.uk.com
 attiora.uk.com
 bestnikekickssale.uk.com
@@ -14499,7 +14522,6 @@ usaoutdoorfootwear.com
 usaoutdoorwear.com
 usapharmashop.online
 usapill24hours.com
-usapparelabout.com
 usapparelaccessories.org
 usarmy-store.de
 usashimano.com
@@ -14571,7 +14593,6 @@ uswearmens.com
 uswesternaccessories.com
 uswomenshoe.com
 usyya.com
-utangwiki.com
 uttasheilerpraxis.de
 uuniqueo.com
 uvh-apotheke.de
@@ -14717,7 +14738,6 @@ versandpharma.com
 verssivo.com
 vertix.tech
 verysmartshop.com
-veryuseful.ml
 veryvoga.com
 verzech.com
 vesinhhoatam.com
@@ -14767,11 +14787,9 @@ vignettetschechien.de
 vigor-book.com
 viknok.top
 vikosiwelpen.com
-vilicus.solar
 villa-pegasus.de
 villafroschkoenig.de
 vincentteh.com
-vincenzosantoriello.it
 vindon.de
 vinisay.com
 vinissage.de
@@ -15143,7 +15161,6 @@ wenpowertools.com
 wenta-elektro.com
 wenuse.com
 werbungansbach.de
-werdenbank.com
 werfew.com
 werino.de
 werisee.com
@@ -15427,12 +15444,10 @@ xl-1.de
 xmarkets.com
 xmforexbroker.com
 xmginvest.com
-xmsite-coin.com
 xn--goldbank-mnchen-8vb.de
 xn--parfm-probe-whb.de
 xn--polenbller-jcb.net
 xn--salomonsterreich-swb.at
-xnurulwp.com
 xnvest.com
 xo-trier.de
 xoespace.com
@@ -15588,7 +15603,6 @@ zawmyohtut.com
 zaysolisx.com
 zazadill.com
 zazestore.com
-zblogzilla.com
 zbozxe.shop
 zbynek-kohout.cz
 zdcome.top
@@ -15628,7 +15642,6 @@ zetbull.biz
 zetko-waren.com
 zetko-waren.de
 app.zety.de
-zetzethaustechnik.de
 zevamia.com
 zewahot.com
 zeynoa.de
