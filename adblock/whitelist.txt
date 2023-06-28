@@ -4144,3 +4144,6 @@
 @@|c.trackmytarget.com^
 @@|metric.picodi.com^
 
+! Commercial product for monitoring VDI environments
+@@||controlup.com^
+
