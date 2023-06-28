@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 26 Jun 2023 21:24 UTC
-# Version: 2023.0626.2124.20
+# Last modified: 28 Jun 2023 21:07 UTC
+# Version: 2023.0628.2107.19
 # Syntax: DNSMasq
-# Number of entries: 6843
+# Number of entries: 6844
 #
 address=/zer0day.000webhostapp.com/#
 address=/0123456789nonexistent.com/#
@@ -3823,6 +3823,7 @@ address=/mytorrent.tv/#
 address=/mytracker.ru/#
 address=/myunblock.com/#
 address=/myustv.com/#
+address=/rfc5746.mywaifu.best/#
 address=/tracker.mywaifu.best/#
 address=/adminion.n-blade.ru/#
 address=/nabtor.com/#
