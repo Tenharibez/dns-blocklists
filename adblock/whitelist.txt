@@ -4128,7 +4128,7 @@
 @@|link.mail.beehiiv.com^
 
 ! Needed to view the offerings from https://www.buerger.de/unternehmen/werksverkauf/werksverkauf-ditzingen/
-@@|brgergmbhcokg.createsend1.com^
+@@||createsend1.com^
 
 ! Prevent connection to the Cetelem account
 @@|tr.notification.cetelem.fr^
