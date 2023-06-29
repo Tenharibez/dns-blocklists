@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1687986420 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1688073060 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,8 +7,8 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 28 Jun 2023 21:07 UTC
-; Version: 2023.0628.2107.19
+; Last modified: 29 Jun 2023 21:11 UTC
+; Version: 2023.0629.2111.18
 ; Syntax: RPZ
 ; Number of entries: 13688
 ;
@@ -8894,6 +8894,8 @@ showbox-movies.net CNAME .
 *.showbox-movies.net CNAME .
 showboxmovies.net CNAME .
 *.showboxmovies.net CNAME .
+shubt.net CNAME .
+*.shubt.net CNAME .
 tracker.shuntv.net CNAME .
 *.tracker.shuntv.net CNAME .
 simfileshare.net CNAME .
@@ -9078,8 +9080,6 @@ torrent-windows.net CNAME .
 *.torrent-windows.net CNAME .
 torrent69.net CNAME .
 *.torrent69.net CNAME .
-torrentbd.net CNAME .
-*.torrentbd.net CNAME .
 torrentbit.net CNAME .
 *.torrentbit.net CNAME .
 torrentbytes.net CNAME .
