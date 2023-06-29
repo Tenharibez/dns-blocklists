@@ -581,6 +581,8 @@
 ! VOE Streams
 @@|35volitantplimsoles5.com^
 @@|www.35volitantplimsoles5.com^
+@@|sizyreelingly.com^
+@@|www.sizyreelingly.com^
 
 ! Xiaomi device updates
 @@||update.intl.miui.com^
@@ -3237,7 +3239,7 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/657
 ! https://github.com/hagezi/dns-blocklists/issues/797#issuecomment-1501120725
-! mssdk-va.tiktok*.com
+@@|mssdk-va.tiktok*.com^
 
 ! Videos WDR App
 @@|deviceids-medp.wdr.de^
@@ -4150,4 +4152,11 @@
 
 ! Commercial product for monitoring VDI environments
 @@||controlup.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1210
+@@|tracker.torrentbd.net^
+
+! https://github.com/hagezi/dns-blocklists/issues/1211
+@@|cdnjs.tacool.com^
+@@|fn-captcha.tacool.com^
 
