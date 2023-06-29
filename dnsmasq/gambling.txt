@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 28 Jun 2023 21:09 UTC
-# Version: 2023.0628.2109.07
+# Last modified: 29 Jun 2023 21:13 UTC
+# Version: 2023.0629.2113.03
 # Syntax: DNSMasq
-# Number of entries: 139910
+# Number of entries: 139904
 #
 address=/000000tyc.com/#
 address=/00000178.com/#
@@ -31951,7 +31951,6 @@ address=/3656x.net/#
 address=/3656xx.com/#
 address=/3656xx.net/#
 address=/3656xxx.com/#
-address=/3656y.net/#
 address=/3656yy.com/#
 address=/3656yy.net/#
 address=/3656yyy.com/#
@@ -32195,7 +32194,6 @@ address=/3659s.win/#
 address=/3659ss.com/#
 address=/3659ss.net/#
 address=/3659sss.com/#
-address=/3659sss.net/#
 address=/3659t.com/#
 address=/3659t.win/#
 address=/3659tt.com/#
@@ -73561,7 +73559,6 @@ address=/95611hd.app/#
 address=/9561a.com/#
 address=/9561x.com/#
 address=/95621a.com/#
-address=/95623.maison/#
 address=/95623a.com/#
 address=/95624foe.vip/#
 address=/9562x.com/#
@@ -76976,7 +76973,6 @@ address=/9guw.com/#
 address=/9h2g.one/#
 address=/9h2h.com/#
 address=/9h8w.com/#
-address=/9hbtc.biz/#
 address=/9hdc.net/#
 address=/9hdf.com/#
 address=/9hdlt.com/#
@@ -77546,11 +77542,8 @@ address=/aa826.vip/#
 address=/aa827.org/#
 address=/aa83455.com/#
 address=/aa83659.com/#
-address=/aa836591.com/#
 address=/aa836592.com/#
 address=/aa836593.com/#
-address=/aa836594.com/#
-address=/aa836595.com/#
 address=/aa842.org/#
 address=/aa858.org/#
 address=/aa877.org/#
@@ -82607,7 +82600,6 @@ address=/bet365ok01.com/#
 address=/bet365ok02.com/#
 address=/bet365ok03.com/#
 address=/bet365ok04.com/#
-address=/bet365ok05.com/#
 address=/bet365partners.com/#
 address=/bet365trx.com/#
 address=/bet365vx.com/#
@@ -85041,7 +85033,6 @@ address=/bty52l.com/#
 address=/bty52z.com/#
 address=/bty539.com/#
 address=/bty55h.com/#
-address=/bty577.com/#
 address=/bty5gz.com/#
 address=/bty5jc.com/#
 address=/bty5mn.com/#
@@ -102417,6 +102408,7 @@ address=/imbetasia.com/#
 address=/imcbr.win/#
 address=/imdbpwa.xyz/#
 address=/imgcdnbet.live/#
+address=/casinogamesk8.imgix.net/#
 address=/imgsg88.com/#
 address=/imlottery.cn/#
 address=/imnubh-mv.sbs/#
@@ -105948,6 +105940,7 @@ address=/jun77.com/#
 address=/jun82.com/#
 address=/jun88.casino/#
 address=/jun88.info/#
+address=/jun88.tv/#
 address=/jun88.vin/#
 address=/jun88.win/#
 address=/jun8800.com/#
@@ -123166,6 +123159,7 @@ address=/slr6666.com/#
 address=/slsportsbook.live/#
 address=/sm611.com/#
 address=/sm66.com/#
+address=/sm66.news/#
 address=/sm66vietnam.com/#
 address=/sm6t.com/#
 address=/sm811.com/#

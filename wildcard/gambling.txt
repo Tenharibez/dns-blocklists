@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 28 Jun 2023 21:09 UTC
-# Version: 2023.0628.2109.07
+# Last modified: 29 Jun 2023 21:13 UTC
+# Version: 2023.0629.2113.03
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 139910
+# Number of entries: 139904
 #
 *.000000tyc.com
 *.00000178.com
@@ -31951,7 +31951,6 @@
 *.3656xx.com
 *.3656xx.net
 *.3656xxx.com
-*.3656y.net
 *.3656yy.com
 *.3656yy.net
 *.3656yyy.com
@@ -32195,7 +32194,6 @@
 *.3659ss.com
 *.3659ss.net
 *.3659sss.com
-*.3659sss.net
 *.3659t.com
 *.3659t.win
 *.3659tt.com
@@ -73561,7 +73559,6 @@
 *.9561a.com
 *.9561x.com
 *.95621a.com
-*.95623.maison
 *.95623a.com
 *.95624foe.vip
 *.9562x.com
@@ -76976,7 +76973,6 @@
 *.9h2g.one
 *.9h2h.com
 *.9h8w.com
-*.9hbtc.biz
 *.9hdc.net
 *.9hdf.com
 *.9hdlt.com
@@ -77546,11 +77542,8 @@
 *.aa827.org
 *.aa83455.com
 *.aa83659.com
-*.aa836591.com
 *.aa836592.com
 *.aa836593.com
-*.aa836594.com
-*.aa836595.com
 *.aa842.org
 *.aa858.org
 *.aa877.org
@@ -82607,7 +82600,6 @@
 *.bet365ok02.com
 *.bet365ok03.com
 *.bet365ok04.com
-*.bet365ok05.com
 *.bet365partners.com
 *.bet365trx.com
 *.bet365vx.com
@@ -85041,7 +85033,6 @@
 *.bty52z.com
 *.bty539.com
 *.bty55h.com
-*.bty577.com
 *.bty5gz.com
 *.bty5jc.com
 *.bty5mn.com
@@ -102417,6 +102408,7 @@
 *.imcbr.win
 *.imdbpwa.xyz
 *.imgcdnbet.live
+*.casinogamesk8.imgix.net
 *.imgsg88.com
 *.imlottery.cn
 *.imnubh-mv.sbs
@@ -105948,6 +105940,7 @@
 *.jun82.com
 *.jun88.casino
 *.jun88.info
+*.jun88.tv
 *.jun88.vin
 *.jun88.win
 *.jun8800.com
@@ -123166,6 +123159,7 @@
 *.slsportsbook.live
 *.sm611.com
 *.sm66.com
+*.sm66.news
 *.sm66vietnam.com
 *.sm6t.com
 *.sm811.com
