@@ -703,6 +703,7 @@
 @@||intel.ly^
 @@||interc.pt^
 @@||intuit.me^
+@@||invent.ge^
 @@||inx.lv^
 @@||ionos.ly^
 @@||ipgrabber.ru^
@@ -1140,6 +1141,7 @@
 @@||rebrand.ly^
 @@||reconis.co^
 @@||red.ht^
+@@||redaz.in^
 @@||redd.it^
 @@||redir.ec^
 @@||redir.fr^
@@ -1150,11 +1152,13 @@
 @@||ref.so^
 @@||referer.us^
 @@||refini.tv^
+@@||regmovi.es^
 @@||reise.lc^
 @@||reline.cc^
 @@||relink.asia^
 @@||relink.fr^
 @@||rem.ax^
+@@||renew.ge^
 @@||replug.link^
 @@||rethinktw.cc^
 @@||reurl.cc^
@@ -1165,6 +1169,7 @@
 @@||ri.ms^
 @@||ringcentr.al^
 @@||riot.com^
+@@||rip.city^
 @@||risu.io^
 @@||ritea.id^
 @@||riz.cz^
@@ -1194,6 +1199,7 @@
 @@||s.coop^
 @@||s.id^
 @@||s-url.fr^
+@@||s04.de^
 @@||s3vip.tw^
 @@||saf.li^
 @@||safe.mn^
@@ -1219,6 +1225,7 @@
 @@||seedsta.rs^
 @@||seeme.at^
 @@||segue.se^
+@@||seiu.co^
 @@||sejr.nl^
 @@||selnd.com^
 @@||seolrea.net^
@@ -1528,7 +1535,6 @@
 @@||urlify.cn^
 @@||urlin.it^
 @@||urlink.io^
-@@||urlo.in^
 @@||urlr.me^
 @@||urls.fr^
 @@||urls.im^
@@ -1760,7 +1766,6 @@
 @@||zsms.net^
 @@||zti.me^
 @@||zuki.ie^
-@@||zulucr.bz^
 @@||zuo.in^
 @@||zuplo.link^
 @@||zurb.us^
