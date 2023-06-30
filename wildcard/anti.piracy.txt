@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 29 Jun 2023 21:11 UTC
-# Version: 2023.0629.2111.18
+# Last modified: 30 Jun 2023 21:15 UTC
+# Version: 2023.0630.2115.45
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 6844
+# Number of entries: 6847
 #
 *.zer0day.000webhostapp.com
 *.0123456789nonexistent.com
@@ -1996,6 +1996,7 @@
 *.retracker.nn.ertelecom.ru
 *.retracker.perm.ertelecom.ru
 *.elmellowebmaster.es.tl
+*.escalaenbernal.com
 *.eshiel.com
 *.estrenoslatinos.com
 *.ethor.net
@@ -5414,6 +5415,7 @@
 *.szeneworld.eu
 *.savaria.szerverem.hu
 *.p5796a22a.dip0.t-ipconnect.de
+*.tracker.t-rb.org
 *.t-ru.org
 *.katcr.t0r.xyz
 *.t2bot.ru
@@ -5599,6 +5601,7 @@
 *.horriblesubs.theproxy.app
 *.viprow.theproxy.app
 *.cricfree.theproxya.net
+*.tracker.therarbg.com
 *.thesefiles.com
 *.thesegalleries.com
 *.tracker.theshow.click

@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1688073060 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1688159700 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 29 Jun 2023 21:11 UTC
-; Version: 2023.0629.2111.18
+; Last modified: 30 Jun 2023 21:15 UTC
+; Version: 2023.0630.2115.45
 ; Syntax: RPZ
-; Number of entries: 13688
+; Number of entries: 13694
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -2512,6 +2512,8 @@ epnetbd.com CNAME .
 *.epnetbd.com CNAME .
 eprojectfreetv.com CNAME .
 *.eprojectfreetv.com CNAME .
+escalaenbernal.com CNAME .
+*.escalaenbernal.com CNAME .
 eshiel.com CNAME .
 *.eshiel.com CNAME .
 estrenoslatinos.com CNAME .
@@ -4668,6 +4670,8 @@ thepirateproxy3se.com CNAME .
 *.thepirateproxy3se.com CNAME .
 thepiratesbay.com CNAME .
 *.thepiratesbay.com CNAME .
+tracker.therarbg.com CNAME .
+*.tracker.therarbg.com CNAME .
 thesefiles.com CNAME .
 *.thesefiles.com CNAME .
 thesegalleries.com CNAME .
@@ -10696,6 +10700,8 @@ swetracker.org CNAME .
 *.swetracker.org CNAME .
 swetv.org CNAME .
 *.swetv.org CNAME .
+tracker.t-rb.org CNAME .
+*.tracker.t-rb.org CNAME .
 t-ru.org CNAME .
 *.t-ru.org CNAME .
 takeabyte.org CNAME .
