@@ -7,8 +7,8 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Jun 2023 21:28 UTC
-# Version: 2023.0626.2128.14
+# Last modified: 30 Jun 2023 14:35 UTC
+# Version: 2023.0630.1435.27
 # Syntax: RegEx
 #
 \.agency$
