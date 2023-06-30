@@ -174,6 +174,10 @@ https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilte
 https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt
 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
+https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_ads_justdomains.txt
+https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_clickthroughs_justdomains.txt
+https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_microsites_justdomains.txt
+https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers_justdomains.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_13_Turkish/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
@@ -249,6 +253,7 @@ https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/pihole-phish
 https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt
 https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/fake-domains.txt
 https://raw.githubusercontent.com/durablenapkin/block/master/avast.txt
+https://raw.githubusercontent.com/durablenapkin/block/master/home-heavy.txt
 https://raw.githubusercontent.com/durablenapkin/block/master/luminati.txt
 https://raw.githubusercontent.com/durablenapkin/block/master/streaming.txt
 https://raw.githubusercontent.com/durablenapkin/block/master/tvstream.txt
