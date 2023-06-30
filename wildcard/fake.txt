@@ -3,8 +3,8 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Jun 2023 21:18 UTC
-# Version: 2023.0629.2118.33
+# Last modified: 30 Jun 2023 21:21 UTC
+# Version: 2023.0630.2121.42
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 15619
 #
@@ -2910,7 +2910,6 @@
 *.guterkauf.com.de
 *.idealo.com.de
 *.kioncapital.com.ar
-*.ojpu.lobusmedical.com.br
 *.lojaacasa.com.br
 *.eli.mobpiscinas.com.br
 *.mulheruniverso.com.br
@@ -4650,7 +4649,7 @@
 *.expertfxtrading.com
 *.expertisetrader4.net
 *.expertoptiontradings.com
-*.store.expertrader.me
+*.expertrader.me
 *.expertsinmoving.com
 *.exploratione.com
 *.expocrypt.com
@@ -7115,6 +7114,7 @@
 *.jagstein.com
 *.jaguaresonline.com
 *.jaimerico.net
+*.jakedstake.com
 *.jakkesalgs.com
 *.jakkesnorge.com
 *.jalpakhabar.com
@@ -13415,6 +13415,7 @@
 *.tesauree.com
 *.tesento.com
 *.tesla-for-doge.com
+*.tesla-openai.com
 *.teslabestfor.com
 *.teslabounce.com
 *.teslabrc.com
@@ -13863,7 +13864,6 @@
 *.toponstore.com
 *.toposchuheonlineshop.com
 *.topqualityguy.com
-*.topsdiy.com
 *.topshop-eu.com
 *.toptencoin.com
 *.toptrade500.com

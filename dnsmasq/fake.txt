@@ -3,8 +3,8 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Jun 2023 21:18 UTC
-# Version: 2023.0629.2118.33
+# Last modified: 30 Jun 2023 21:21 UTC
+# Version: 2023.0630.2121.42
 # Syntax: DNSMasq
 # Number of entries: 15619
 #
@@ -2910,7 +2910,6 @@ address=/gtmedia.com.au/#
 address=/guterkauf.com.de/#
 address=/idealo.com.de/#
 address=/kioncapital.com.ar/#
-address=/ojpu.lobusmedical.com.br/#
 address=/lojaacasa.com.br/#
 address=/eli.mobpiscinas.com.br/#
 address=/mulheruniverso.com.br/#
@@ -4650,7 +4649,7 @@ address=/expert-trademiners.com/#
 address=/expertfxtrading.com/#
 address=/expertisetrader4.net/#
 address=/expertoptiontradings.com/#
-address=/store.expertrader.me/#
+address=/expertrader.me/#
 address=/expertsinmoving.com/#
 address=/exploratione.com/#
 address=/expocrypt.com/#
@@ -7115,6 +7114,7 @@ address=/jagkart.com/#
 address=/jagstein.com/#
 address=/jaguaresonline.com/#
 address=/jaimerico.net/#
+address=/jakedstake.com/#
 address=/jakkesalgs.com/#
 address=/jakkesnorge.com/#
 address=/jalpakhabar.com/#
@@ -13415,6 +13415,7 @@ address=/tes-ic.cloud/#
 address=/tesauree.com/#
 address=/tesento.com/#
 address=/tesla-for-doge.com/#
+address=/tesla-openai.com/#
 address=/teslabestfor.com/#
 address=/teslabounce.com/#
 address=/teslabrc.com/#
@@ -13863,7 +13864,6 @@ address=/toponewallet.co/#
 address=/toponstore.com/#
 address=/toposchuheonlineshop.com/#
 address=/topqualityguy.com/#
-address=/topsdiy.com/#
 address=/topshop-eu.com/#
 address=/toptencoin.com/#
 address=/toptrade500.com/#

@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1688073480 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1688160060 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -7,8 +7,8 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 29 Jun 2023 21:18 UTC
-; Version: 2023.0629.2118.33
+; Last modified: 30 Jun 2023 21:21 UTC
+; Version: 2023.0630.2121.42
 ; Syntax: RPZ
 ; Number of entries: 31238
 ;
@@ -1690,8 +1690,6 @@ defcon7.com.br CNAME .
 *.defcon7.com.br CNAME .
 gladiadormalas.com.br CNAME .
 *.gladiadormalas.com.br CNAME .
-ojpu.lobusmedical.com.br CNAME .
-*.ojpu.lobusmedical.com.br CNAME .
 lojaacasa.com.br CNAME .
 *.lojaacasa.com.br CNAME .
 eli.mobpiscinas.com.br CNAME .
@@ -9996,6 +9994,8 @@ jagstein.com CNAME .
 *.jagstein.com CNAME .
 jaguaresonline.com CNAME .
 *.jaguaresonline.com CNAME .
+jakedstake.com CNAME .
+*.jakedstake.com CNAME .
 jakkesalgs.com CNAME .
 *.jakkesalgs.com CNAME .
 jakkesnorge.com CNAME .
@@ -17166,6 +17166,8 @@ tesento.com CNAME .
 *.tesento.com CNAME .
 tesla-for-doge.com CNAME .
 *.tesla-for-doge.com CNAME .
+tesla-openai.com CNAME .
+*.tesla-openai.com CNAME .
 teslabestfor.com CNAME .
 *.teslabestfor.com CNAME .
 teslabounce.com CNAME .
@@ -17746,8 +17748,6 @@ toposchuheonlineshop.com CNAME .
 *.toposchuheonlineshop.com CNAME .
 topqualityguy.com CNAME .
 *.topqualityguy.com CNAME .
-topsdiy.com CNAME .
-*.topsdiy.com CNAME .
 topshop-eu.com CNAME .
 *.topshop-eu.com CNAME .
 toptencoin.com CNAME .
@@ -26040,8 +26040,8 @@ cryptexlock.me CNAME .
 *.cryptexlock.me CNAME .
 euchems.me CNAME .
 *.euchems.me CNAME .
-store.expertrader.me CNAME .
-*.store.expertrader.me CNAME .
+expertrader.me CNAME .
+*.expertrader.me CNAME .
 forhealth.me CNAME .
 *.forhealth.me CNAME .
 haowei.me CNAME .
