@@ -3816,3 +3816,6 @@ tracker.torrentbd.net
 cdnjs.tacool.com
 fn-captcha.tacool.com
 
+# https://github.com/hagezi/dns-blocklists/issues/1212
+*.wishpond.com
+
