@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 26 Jun 2023 21:23 UTC
-# Version: 2023.0626.2123.06
+# Last modified: 30 Jun 2023 21:14 UTC
+# Version: 2023.0630.2114.36
 # Syntax: DNSMasq
-# Number of entries: 2062
+# Number of entries: 2061
 #
 address=/000a.de/#
 address=/000space.com/#
@@ -691,7 +691,6 @@ address=/zzz.com.ua/#
 address=/com-portal.de/#
 address=/com0.de/#
 address=/com24.at/#
-address=/comcast.net/#
 address=/comeze.com/#
 address=/comhem.se/#
 address=/comitatiquartierebergamo.it/#
