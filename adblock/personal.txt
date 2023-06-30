@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 30 Jun 2023 08:56 UTC
-! Version: 2023.0630.0856.16
+! Last modified: 30 Jun 2023 22:26 UTC
+! Version: 2023.0630.2226.29
 ! Syntax: AdBlock
-! Number of entries: 42038
+! Number of entries: 42026
 !
 ||000space.com^
 ||000webhost.com^
@@ -72,7 +72,6 @@
 ||smartad.10010.com^
 ||albatross.10086.cn^
 ||sdc.10086.cn^
-||app2.10090dfs.com^
 ||100cheapjordans.com^
 ||static.100conversions.com^
 ||xml-v4.100conversions.com^
@@ -81,7 +80,6 @@
 ||100ytrf.com^
 ||101com.com^
 ||101m3.com^
-||105.pl^
 ||109c957fb6.com^
 ||10bet.com^
 ||10cbc8a64e.com^
@@ -1277,6 +1275,7 @@
 ||t.aachener-zeitung.de^
 ||aacihealthcare.com^
 ||aadirone.cc^
+||aadrm.com^
 ||ssl.aafp.org^
 ||aagm.link^
 ||aagomsi.xyz^
@@ -2807,6 +2806,7 @@
 ||aggregateknowledge.com^
 ||aggregationmulecontribution.com^
 ||aggressivefrequentneckquirky.com^
+||aggrologis.top^
 ||tracking.aggrosoft.de^
 ||aghaneefigurae.com^
 ||aghnikogxlk.com^
@@ -3283,18 +3283,7 @@
 ||beacon-api.aliyuncs.com^
 ||adash-emas.cn-hangzhou.aliyuncs.com^
 ||log.aliyuncs.com^
-||alfa.log-global.aliyuncs.com^
-||bb-client-new.log-global.aliyuncs.com^
-||bepicdata.log-global.aliyuncs.com^
-||console-base.log-global.aliyuncs.com^
-||haokan-tracking-log.log-global.aliyuncs.com^
-||hdp-client-logger-log.log-global.aliyuncs.com^
-||hdp-raw-log.log-global.aliyuncs.com^
-||hub-plan-log-1.log-global.aliyuncs.com^
-||icbu-fe-log.log-global.aliyuncs.com^
-||onetouch-uba-general.log-global.aliyuncs.com^
-||powertide-globle-tracking.log-global.aliyuncs.com^
-||sc-assets-trade.log-global.aliyuncs.com^
+||log-global.aliyuncs.com^
 ||adash.man.aliyuncs.com^
 ||logistics-wfm.oss-ap-southeast-1.aliyuncs.com^
 ||mgtv-bbqn.oss-cn-beijing.aliyuncs.com^
@@ -3338,7 +3327,6 @@
 ||data-44384eebca.allgaeuer-zeitung.de^
 ||allhypefeed.com^
 ||alli-ti-hunter.com^
-||dc.allianz.de^
 ||sdc.allianz.de^
 ||sxp.allianz.de^
 ||wz.allianz.fr^
@@ -5874,6 +5862,7 @@
 ||best-prize.life^
 ||best-site-online.com^
 ||best-targeted-traffic.com^
+||best-vpn-app.com^
 ||best4fuck.com^
 ||bestadload.com^
 ||bestageoffers22.com^
@@ -5954,7 +5943,6 @@
 ||bettermail-news.de^
 ||bettermeter.com^
 ||bettermetrics.co^
-||bettershitecolumn.com^
 ||bettingpartners.com^
 ||bettingpremier.com^
 ||bettingstugan.se^
@@ -6201,6 +6189,7 @@
 ||bitclubnetwork.com^
 ||bitcoadz.io^
 ||bitcoinera.app^
+||bitcoineranew.com^
 ||seed.bitcoinstats.com^
 ||sstats.bitdefender.com^
 ||starget.bitdefender.com^
@@ -6518,7 +6507,6 @@
 ||bogsboot.com^
 ||so.boh.com^
 ||bohemia-marketlink.com^
-||bohobanjaara.com^
 ||boholnaldixtours.com^
 ||bohonef.com^
 ||boilingbeetle.com^
@@ -6538,7 +6526,6 @@
 ||bolejug.us^
 ||secure.bolt8snap.com^
 ||boltepse.com^
-||bom.so^
 ||bombardina.pl^
 ||bomboms.lol^
 ||bomboms.xyz^
@@ -6675,6 +6662,7 @@
 ||boyishabow.com^
 ||ads.boylesports.com^
 ||boyporn.net^
+||boywhowascr.info^
 ||bp5hq5jivj.ru^
 ||bpaqzithab.com^
 ||bpath.com^
@@ -7680,10 +7668,7 @@
 ||rumstat.cdnvideo.ru^
 ||rumstat-01.cdnvideo.ru^
 ||unisound.cdnvideo.ru^
-||hegdcrxavrtk.cdnvideo3.com^
-||pnpjceawvmeu.cdnvideo3.com^
-||uacabilqlgpw.cdnvideo3.com^
-||umtpopxcsedc.cdnvideo3.com^
+||cdnvideo3.com^
 ||cdnware.io^
 ||cdnwidget.com^
 ||cdp.asia^
@@ -7887,6 +7872,7 @@
 ||chbjfuuixum.xyz^
 ||chbvrgjgkuv.com^
 ||chbzsem.com^
+||webtrack.chd01.com^
 ||cheap-jewelry-online.com^
 ||cheap-result.pro^
 ||cnpxwl.cheapcaribbean.com^
@@ -10309,7 +10295,6 @@
 ||log.codemarketing.cloud^
 ||codeonclick.com^
 ||coderformylife.info^
-||uploads.codesandbox.io^
 ||codesbro.com^
 ||analytics.codeskulptor.org^
 ||codesour.com^
@@ -10525,6 +10510,7 @@
 ||eoseurlingeringont.com.ua^
 ||epec.com.bd^
 ||metrics.escape.com.au^
+||esoviajar.com.br^
 ||ezhealthcare.com.pk^
 ||facilmenteon.com.br^
 ||facitrh.com.br^
@@ -10581,6 +10567,7 @@
 ||geoloc.hurriyet.com.tr^
 ||t.hypers.com.cn^
 ||i24.com.ua^
+||mwzbp.iask.com.cn^
 ||idealli.com.br^
 ||bqvndd.ifood.com.br^
 ||immoinvest.com.br^
@@ -12423,6 +12410,7 @@
 ||delusionfirmly.com^
 ||sstats.deluxe.com^
 ||bitwarden.deluxe-services.xyz^
+||deluxeconge.digital^
 ||delwanqatar.com^
 ||demand.supply^
 ||demandbase.com^
@@ -14068,7 +14056,6 @@
 ||disperserepeatedly.com^
 ||displacementsjournal.com^
 ||display.io^
-||display-baptism.net^
 ||displayadsmedia.com^
 ||displayfly.com^
 ||displayinterads.com^
@@ -16607,6 +16594,7 @@
 ||finad.de^
 ||news.finance-commerce.com^
 ||finance-hot-news.com^
+||financenews.life^
 ||financialanalystinfo.com^
 ||ads.financialcontent.com^
 ||tracker.financialcontent.com^
@@ -18776,6 +18764,7 @@
 ||green-ads.net^
 ||green-red.com^
 ||green-search-engine.com^
+||green4762.com^
 ||greenadblocker.com^
 ||greenbeanph.com^
 ||tms.hft.greenchef.com^
@@ -19623,6 +19612,7 @@
 ||osd-onead.cdn.hinet.net^
 ||osm-onead.cdn.hinet.net^
 ||ssp.hinet.net^
+||hingamgladther.com^
 ||ablinks.mail.hinge.co^
 ||hinkhimunpractical.com^
 ||c1.hinta.fi^
@@ -19851,7 +19841,9 @@
 ||hoppedobscurefame.com^
 ||hopperbanespirits.com^
 ||hopperimprobableclotted.com^
+||hopsackmoth.com^
 ||hopuchcompa.com^
+||horaebanca.life^
 ||horetersw.com^
 ||data-975521d9ad.horizont.net^
 ||horizontallyclenchretro.com^
@@ -19929,6 +19921,7 @@
 ||hotzoneunspeed.com^
 ||houfopsichoa.com^
 ||houlb.com^
+||houpeera.net^
 ||partners.hourmediagroup.com^
 ||houseloan.live^
 ||houseofpubs.com^
@@ -20124,7 +20117,6 @@
 ||hunterdelivery.com^
 ||hunterers.com^
 ||smetrics.huntington.com^
-||huntington-careers.com^
 ||ensighten.huntingtonbank.com^
 ||huntmad.com^
 ||huoying666.com^
@@ -20495,6 +20487,7 @@
 ||iklrge.com^
 ||ikmtrust.com^
 ||ikouthaupi.com^
+||ikrail.com^
 ||ikrauteri.life^
 ||ikuhentai.net^
 ||analytics.ikyu.com^
@@ -20544,6 +20537,7 @@
 ||ilyf4amifh.com^
 ||1.im.cz^
 ||im-apps.net^
+||im-creator.com^
 ||ff.imacdn.com^
 ||sponsor.imacdn.com^
 ||image-ad.jp^
@@ -20953,7 +20947,6 @@
 ||inspectorstrongerpill.com^
 ||tracking.insperity.com^
 ||inspirationhistorical.com^
-||content.inspire.com^
 ||inspirecarriermagnetic.com^
 ||inspxtrc.com^
 ||instabug.com^
@@ -23137,7 +23130,6 @@
 ||lakewoodmediagroup.net^
 ||lakfbvoskxlc.com^
 ||lalapush.com^
-||lalingualavita.com^
 ||lalocandadelteatro.it^
 ||lalofilters.website^
 ||laluvygy.com^
@@ -24235,7 +24227,6 @@
 ||perr.lum-sdk.io^
 ||ametrics.lumen.com^
 ||luminate.com^
-||luminodesignpark.com^
 ||lumitos.com^
 ||lumnstoodthe.info^
 ||lumpmancommos.guru^
@@ -24444,8 +24435,8 @@
 ||tracker.mail-komplet.cz^
 ||analytics.maileon.com^
 ||track.mailerlite.com^
+||mailerrobands.website^
 ||mailieungka.com^
-||stats.mailingboss.com^
 ||maillovelove.net^
 ||mailmunch.co^
 ||ad.mailo.com^
@@ -26417,6 +26408,7 @@
 ||sig.nadex.com^
 ||naggingirresponsible.com^
 ||nagues.com^
+||nah.uy^
 ||nahccnovft.com^
 ||nahnoji.cz^
 ||nahotseetsoo.com^
@@ -27884,7 +27876,7 @@
 ||data-fe452b2ed9.ok-magazin.de^
 ||okaks.com^
 ||okanjo.com^
-||gi.okapisail.com^
+||okapisail.com^
 ||analytics.okazii.ro^
 ||okienamare.com^
 ||okitwpyslqm.com^
@@ -28223,7 +28215,6 @@
 ||opencoccoc.com^
 ||piwik.opendesktop.org^
 ||analytics.opendi.com^
-||web.opendrive.com^
 ||openerkey.com^
 ||openfpcdn.io^
 ||openinstall.io^
@@ -28318,11 +28309,7 @@
 ||optimisticminiaturizationdowry.com^
 ||optimix.asia^
 ||optimix.cn^
-||api.optimizely.com^
-||a21018620252.cdn.optimizely.com^
-||log.optimizely.com^
-||log3.optimizely.com^
-||logx.optimizely.com^
+||optimizely.com^
 ||optimizesrv.com^
 ||optimizeyourmac.com^
 ||front.optimonk.com^
@@ -28360,6 +28347,7 @@
 ||www.silwel.or.kr^
 ||tms.oracle.com^
 ||visit-prod-us.occa.ocs.oraclecloud.com^
+||objectstorage.us-phoenix-1.oraclecloud.com^
 ||oracleinfinity.io^
 ||oralistnations.com^
 ||orallantyneth.com^
@@ -30983,7 +30971,6 @@
 ||rs1.qq.com^
 ||rs2.qq.com^
 ||scdown.qq.com^
-||localhost.sec.qq.com^
 ||t.sj.qq.com^
 ||sngapm.qq.com^
 ||sngmta.qq.com^
@@ -31826,7 +31813,7 @@
 ||cdn.requestmetrics.com^
 ||in.requestmetrics.com^
 ||requestvillagedeplorable.com^
-||a.reryn2ce.com^
+||reryn2ce.com^
 ||res-smartd.info^
 ||ris.res-x.com^
 ||resalag.com^
@@ -36181,7 +36168,6 @@
 ||techyhint.com^
 ||data-c48adafa24.teckbote.de^
 ||tecnimpspa.com^
-||tecnoelectrica.cl^
 ||tecnofrota.net^
 ||tecnolibre.net^
 ||tecominchisel.com^
@@ -37085,6 +37071,7 @@
 ||touchclarity.com^
 ||touchoshirase.net^
 ||touchtacchi.net^
+||analytics.tourhafen.de^
 ||plus.tourispo.com^
 ||tournamentdouble.com^
 ||tournamentfraydirection.com^
@@ -38346,6 +38333,7 @@
 ||updts.at^
 ||tracking.upfluence.co^
 ||upforit.com^
+||upgalethalers.guru^
 ||upgulpinon.com^
 ||uphastod.xyz^
 ||uphewoab.net^
