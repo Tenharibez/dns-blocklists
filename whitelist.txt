@@ -457,8 +457,11 @@ us.ibs.lgappstv.com
 us.lgeapi.com
 us.lgtvsdp.com
 us.rdx2.lgtvsdp.com
+# https://github.com/hagezi/dns-blocklists/issues/1216
+*.cdpsvc.lgtvcommon.com
+*.recommend.lgtvcommon.com
 
-meituan.net# Spotify
+# Spotify
 # Prevent problems with Spotify Premium
 *.scdn.co
 *.spotify.com.akahost.net
@@ -593,6 +596,7 @@ sportsbet.com.au
 # Misc (sites)
 freenet.de
 kiwisearchservices.com
+canyoublockit.com
 
 # NextDNS
 *.nextdns.io
@@ -3822,8 +3826,4 @@ fn-captcha.tacool.com
 
 # Prevents the documentation on docs.portainer.io from linking out properly
 cta-redirect.hubspot.com
-
-# https://github.com/hagezi/dns-blocklists/issues/1216
-eic.cdpsvc.lgtvcommon.com
-eic.recommend.lgtvcommon.com
 

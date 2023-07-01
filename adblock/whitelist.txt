@@ -465,9 +465,11 @@
 @@|us.lgeapi.com^
 @@|us.lgtvsdp.com^
 @@|us.rdx2.lgtvsdp.com^
+! https://github.com/hagezi/dns-blocklists/issues/1216
+@@||cdpsvc.lgtvcommon.com^
+@@||recommend.lgtvcommon.com^
 
-@@|meituan.net# Spotify^
-@@|www.meituan.net# Spotify^
+! Spotify
 ! Prevent problems with Spotify Premium
 @@||scdn.co^
 @@||spotify.com.akahost.net^
@@ -615,6 +617,8 @@
 @@|www.freenet.de^
 @@|kiwisearchservices.com^
 @@|www.kiwisearchservices.com^
+@@|canyoublockit.com^
+@@|www.canyoublockit.com^
 
 ! NextDNS
 @@||nextdns.io^
@@ -4166,8 +4170,4 @@
 
 ! Prevents the documentation on docs.portainer.io from linking out properly
 @@|cta-redirect.hubspot.com^
-
-! https://github.com/hagezi/dns-blocklists/issues/1216
-@@|eic.cdpsvc.lgtvcommon.com^
-@@|eic.recommend.lgtvcommon.com^
 
