@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1688072880 86400 3600 604800 30
+@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1688246640 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Enyrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 29 Jun 2023 21:08 UTC
-; Version: 2023.0629.2108.00
+; Last modified: 01 Jul 2023 21:24 UTC
+; Version: 2023.0701.2124.57
 ; Syntax: RPZ
 ; Number of entries: 12534
 ;
@@ -2257,6 +2257,8 @@ dns.dnshome.de CNAME .
 *.dns.dnshome.de CNAME .
 dukun.de CNAME .
 *.dukun.de CNAME .
+dns.dyn1.de CNAME .
+*.dns.dyn1.de CNAME .
 opennic1.eth-services.de CNAME .
 *.opennic1.eth-services.de CNAME .
 doh.funil.de CNAME .
@@ -3695,8 +3697,6 @@ windscribe.net CNAME .
 *.windscribe.net CNAME .
 workproxy.net CNAME .
 *.workproxy.net CNAME .
-yahoodns.net CNAME .
-*.yahoodns.net CNAME .
 2.dnscrypt-cert.browser.yandex.net CNAME .
 *.2.dnscrypt-cert.browser.yandex.net CNAME .
 yellowproxy.net CNAME .
