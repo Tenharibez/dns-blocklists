@@ -4171,3 +4171,11 @@
 ! Prevents the documentation on docs.portainer.io from linking out properly
 @@|cta-redirect.hubspot.com^
 
+! https://www.augsburger-allgemeine.de/
+@@|azol.de^
+@@|www.azol.de^
+
+! The biggest price-comparison site in Sweden
+@@|prisjakt.nu^
+@@|www.prisjakt.nu^
+
