@@ -3823,3 +3823,7 @@ fn-captcha.tacool.com
 # Prevents the documentation on docs.portainer.io from linking out properly
 cta-redirect.hubspot.com
 
+# https://github.com/hagezi/dns-blocklists/issues/1216
+eic.cdpsvc.lgtvcommon.com
+eic.recommend.lgtvcommon.com
+
