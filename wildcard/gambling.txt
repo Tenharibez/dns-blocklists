@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 29 Jun 2023 21:13 UTC
-# Version: 2023.0629.2113.03
+# Last modified: 01 Jul 2023 21:30 UTC
+# Version: 2023.0701.2130.25
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 139904
+# Number of entries: 139911
 #
 *.000000tyc.com
 *.00000178.com
@@ -102576,6 +102576,8 @@
 *.iph.bet
 *.ipl365a.com
 *.iplwin.com
+*.ipv4.iptrackywin.info
+*.ipv6.iptrackywin.info
 *.ir1va.vip
 *.irichlife.xyz
 *.irisheyesbet.com
@@ -123879,6 +123881,7 @@
 *.sv587.com
 *.sv5na.com
 *.sv66c.com
+*.sv66qc9.com
 *.sv66s.com
 *.sv7001.com
 *.sv7002.com
@@ -124627,11 +124630,14 @@
 *.taibayvip.fun
 *.taibigwinner.info
 *.taichoang.fun
+*.taido99.win
 *.taifunthai.com
 *.taigame789.club
 *.taigamebaivn.com
 *.taigamesunwin.vin
 *.taigamesunwin.vip
+*.taigenvip.club
+*.taigenvip88.club
 *.taigo88vn.pro
 *.taihit.win
 *.taiiwin.club
@@ -125066,6 +125072,7 @@
 *.thanbai88.com
 *.thang365.com
 *.thangcungdf.com
+*.thangiwin.org
 *.thangnhanh.com
 *.thangtien188bet.com
 *.thanpro.com

@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 29 Jun 2023 21:13 UTC
-# Version: 2023.0629.2113.03
+# Last modified: 01 Jul 2023 21:30 UTC
+# Version: 2023.0701.2130.25
 # Syntax: DNSMasq
-# Number of entries: 139904
+# Number of entries: 139911
 #
 address=/000000tyc.com/#
 address=/00000178.com/#
@@ -102576,6 +102576,8 @@ address=/ipfunnew88.com/#
 address=/iph.bet/#
 address=/ipl365a.com/#
 address=/iplwin.com/#
+address=/ipv4.iptrackywin.info/#
+address=/ipv6.iptrackywin.info/#
 address=/ir1va.vip/#
 address=/irichlife.xyz/#
 address=/irisheyesbet.com/#
@@ -123879,6 +123881,7 @@ address=/sv5555.com/#
 address=/sv587.com/#
 address=/sv5na.com/#
 address=/sv66c.com/#
+address=/sv66qc9.com/#
 address=/sv66s.com/#
 address=/sv7001.com/#
 address=/sv7002.com/#
@@ -124627,11 +124630,14 @@ address=/taib52.com/#
 address=/taibayvip.fun/#
 address=/taibigwinner.info/#
 address=/taichoang.fun/#
+address=/taido99.win/#
 address=/taifunthai.com/#
 address=/taigame789.club/#
 address=/taigamebaivn.com/#
 address=/taigamesunwin.vin/#
 address=/taigamesunwin.vip/#
+address=/taigenvip.club/#
+address=/taigenvip88.club/#
 address=/taigo88vn.pro/#
 address=/taihit.win/#
 address=/taiiwin.club/#
@@ -125066,6 +125072,7 @@ address=/thanabet.com/#
 address=/thanbai88.com/#
 address=/thang365.com/#
 address=/thangcungdf.com/#
+address=/thangiwin.org/#
 address=/thangnhanh.com/#
 address=/thangtien188bet.com/#
 address=/thanpro.com/#
