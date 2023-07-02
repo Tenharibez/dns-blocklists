@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1688247360 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1688336520 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Jul 2023 21:36 UTC
-; Version: 2023.0701.2136.15
+; Last modified: 02 Jul 2023 22:22 UTC
+; Version: 2023.0702.2222.44
 ; Syntax: RPZ
-; Number of entries: 31362
+; Number of entries: 31334
 ;
 anchain.ai CNAME .
 *.anchain.ai CNAME .
@@ -8498,8 +8498,6 @@ getvoltplug.com CNAME .
 *.getvoltplug.com CNAME .
 getvoltsemi.com CNAME .
 *.getvoltsemi.com CNAME .
-getwomenswear.com CNAME .
-*.getwomenswear.com CNAME .
 getzor.com CNAME .
 *.getzor.com CNAME .
 gewqas.com CNAME .
@@ -15280,8 +15278,6 @@ salelegrand.com CNAME .
 *.salelegrand.com CNAME .
 salelovediamond.com CNAME .
 *.salelovediamond.com CNAME .
-salemenrunning.com CNAME .
-*.salemenrunning.com CNAME .
 salemitchellness.com CNAME .
 *.salemitchellness.com CNAME .
 salenewshop.com CNAME .
@@ -25554,8 +25550,8 @@ frest.info CNAME .
 *.frest.info CNAME .
 fxtradeoption.info CNAME .
 *.fxtradeoption.info CNAME .
-store.gload.info CNAME .
-*.store.gload.info CNAME .
+gload.info CNAME .
+*.gload.info CNAME .
 handlemylife.info CNAME .
 *.handlemylife.info CNAME .
 heyhome.info CNAME .
@@ -26154,6 +26150,8 @@ cryptexlock.me CNAME .
 *.cryptexlock.me CNAME .
 euchems.me CNAME .
 *.euchems.me CNAME .
+expertrader.me CNAME .
+*.expertrader.me CNAME .
 forhealth.me CNAME .
 *.forhealth.me CNAME .
 haowei.me CNAME .
@@ -27730,8 +27728,6 @@ atlases.shop CNAME .
 *.atlases.shop CNAME .
 attireweb.shop CNAME .
 *.attireweb.shop CNAME .
-atulowe.shop CNAME .
-*.atulowe.shop CNAME .
 auselily.shop CNAME .
 *.auselily.shop CNAME .
 austin-sales.shop CNAME .
@@ -27842,8 +27838,6 @@ boflo.shop CNAME .
 *.boflo.shop CNAME .
 bon-belle.shop CNAME .
 *.bon-belle.shop CNAME .
-bonatut.shop CNAME .
-*.bonatut.shop CNAME .
 bonniefaucet.shop CNAME .
 *.bonniefaucet.shop CNAME .
 bonvera.shop CNAME .
@@ -27930,8 +27924,6 @@ cbnue.shop CNAME .
 *.cbnue.shop CNAME .
 ceilingu.shop CNAME .
 *.ceilingu.shop CNAME .
-cetedam.shop CNAME .
-*.cetedam.shop CNAME .
 chandlerst.shop CNAME .
 *.chandlerst.shop CNAME .
 cheapburns.shop CNAME .
@@ -28038,8 +28030,6 @@ denotes.shop CNAME .
 *.denotes.shop CNAME .
 departmentstorelive.shop CNAME .
 *.departmentstorelive.shop CNAME .
-detulat.shop CNAME .
-*.detulat.shop CNAME .
 deutsche-bike.shop CNAME .
 *.deutsche-bike.shop CNAME .
 developk.shop CNAME .
@@ -28100,8 +28090,6 @@ earthasale.shop CNAME .
 *.earthasale.shop CNAME .
 eatggrant.shop CNAME .
 *.eatggrant.shop CNAME .
-ebaheni.shop CNAME .
-*.ebaheni.shop CNAME .
 ebusasa.shop CNAME .
 *.ebusasa.shop CNAME .
 ebuy8.shop CNAME .
@@ -28316,8 +28304,6 @@ greycamp.shop CNAME .
 *.greycamp.shop CNAME .
 guillermocraig.shop CNAME .
 *.guillermocraig.shop CNAME .
-gutebih.shop CNAME .
-*.gutebih.shop CNAME .
 handwerkversand.shop CNAME .
 *.handwerkversand.shop CNAME .
 hannelore.shop CNAME .
@@ -28670,8 +28656,6 @@ misucb.shop CNAME .
 *.misucb.shop CNAME .
 mitchelsale.shop CNAME .
 *.mitchelsale.shop CNAME .
-mitokeh.shop CNAME .
-*.mitokeh.shop CNAME .
 mmapd.shop CNAME .
 *.mmapd.shop CNAME .
 modern-nest.shop CNAME .
@@ -28816,8 +28800,6 @@ opbfd.shop CNAME .
 *.opbfd.shop CNAME .
 opkjobsmcqs.shop CNAME .
 *.opkjobsmcqs.shop CNAME .
-orisete.shop CNAME .
-*.orisete.shop CNAME .
 oscarcamping.shop CNAME .
 *.oscarcamping.shop CNAME .
 oteeiio.shop CNAME .
@@ -29096,8 +29078,6 @@ swancn.shop CNAME .
 *.swancn.shop CNAME .
 sweetair.shop CNAME .
 *.sweetair.shop CNAME .
-tabanih.shop CNAME .
-*.tabanih.shop CNAME .
 tablegame.shop CNAME .
 *.tablegame.shop CNAME .
 tabosep.shop CNAME .
@@ -29114,8 +29094,6 @@ technin.shop CNAME .
 *.technin.shop CNAME .
 tehasid.shop CNAME .
 *.tehasid.shop CNAME .
-temaliy.shop CNAME .
-*.temaliy.shop CNAME .
 terrifestival.shop CNAME .
 *.terrifestival.shop CNAME .
 terryjewelry.shop CNAME .
@@ -29144,8 +29122,6 @@ tilatef.shop CNAME .
 *.tilatef.shop CNAME .
 titanmedi.shop CNAME .
 *.titanmedi.shop CNAME .
-tocuwer.shop CNAME .
-*.tocuwer.shop CNAME .
 todaytw.shop CNAME .
 *.todaytw.shop CNAME .
 toddlerpants.shop CNAME .
@@ -29170,8 +29146,6 @@ top-quality.shop CNAME .
 *.top-quality.shop CNAME .
 topado.shop CNAME .
 *.topado.shop CNAME .
-totelis.shop CNAME .
-*.totelis.shop CNAME .
 toycicty.shop CNAME .
 *.toycicty.shop CNAME .
 tracivaldez.shop CNAME .
@@ -31296,8 +31270,6 @@ petpromotions.xyz CNAME .
 *.petpromotions.xyz CNAME .
 philipbaby.xyz CNAME .
 *.philipbaby.xyz CNAME .
-pinjamanrupiah.xyz CNAME .
-*.pinjamanrupiah.xyz CNAME .
 pinjamantunai.xyz CNAME .
 *.pinjamantunai.xyz CNAME .
 pipz.xyz CNAME .

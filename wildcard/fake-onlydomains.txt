@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Jul 2023 21:36 UTC
-# Version: 2023.0701.2136.15
+# Last modified: 02 Jul 2023 22:22 UTC
+# Version: 2023.0702.2222.44
 # Syntax: Domains (without subdomains)
-# Number of entries: 15681
+# Number of entries: 15667
 #
 009972.com
 100-solarni-lampa-cz.com
@@ -931,7 +931,6 @@ attirecustom.com
 attireweb.shop
 attomik.com
 atttrade.com
-atulowe.shop
 atvelektro.de
 atwood.store
 au-app-growthnetwork.com
@@ -1844,7 +1843,6 @@ bombardina.pl
 bomberlonga.com
 bomomie.com
 bon-belle.shop
-bonatut.shop
 bonbelle.store
 boned-handels.com
 bonefab.com
@@ -2450,7 +2448,6 @@ cerd.cz
 cesapsrls.it
 ceskarna.net
 ceskomikulovskakuchyne.com
-cetedam.shop
 ceurwa.com
 cevobah.com
 cexcoin.cc
@@ -3635,7 +3632,6 @@ dessertspoonshop.com
 detaschemode.com
 detedeal.com
 13de.detoxic.net
-detulat.shop
 deuducht.de
 deuhr.de
 lsbgdup.deunatuweb.com
@@ -4092,7 +4088,6 @@ easytradeinvestment.com
 eatathome.de
 eatggrant.shop
 eaxritop.com
-ebaheni.shop
 eberhard-versand.de
 eberhard-versand.eu
 eberhard-wurst.de
@@ -4673,6 +4668,7 @@ expert-trademiners.com
 expertfxtrading.com
 expertisetrader4.net
 expertoptiontradings.com
+expertrader.me
 expertsinmoving.com
 exploratione.com
 expocrypt.com
@@ -5720,7 +5716,6 @@ getupsized.com
 getvoltbox.com
 getvoltplug.com
 getvoltsemi.com
-getwomenswear.com
 getzor.com
 gewichtreduces.net
 gewqas.com
@@ -5812,7 +5807,7 @@ glitzce.com
 glitzermoment.com
 gllomall.com
 glo-balexpress.com
-store.gload.info
+gload.info
 glob-markets.com
 glob-markets.net
 glob-markets.pro
@@ -6132,7 +6127,6 @@ gusmetn.com
 gusti-ledertaschen.de
 gutbutzow.de
 guteapotheke.org
-gutebih.shop
 gutehauswelpen.com
 guteholzheizung.de
 guterkauf.com
@@ -8960,7 +8954,6 @@ misucb.shop
 mit-mut.at
 mitchelsale.shop
 mitcryptos.de
-mitokeh.shop
 mitrueshop.com
 mitte-sued-ka.de
 mittyon.com
@@ -10171,7 +10164,6 @@ original-rezeptfrei.de
 oriondeals.com
 oriontero.com
 orionworldwide.com
-orisete.shop
 orizo.de
 orkanfx.com
 ormolulondon.com
@@ -10628,7 +10620,6 @@ pilulepro.com
 pinjamanduit.lol
 pinjamanelit.top
 pinjamanplus.com
-pinjamanrupiah.xyz
 pinjamantunai.xyz
 pinjamdana.live
 pinjamteman.top
@@ -11824,7 +11815,6 @@ salejoycarpet.com
 salelampshade.com
 salelegrand.com
 salelovediamond.com
-salemenrunning.com
 salemitchellness.com
 salemodeltoy.shop
 salenewshop.com
@@ -13273,7 +13263,6 @@ t3sler.com
 t7cafe.de
 tab-global.com
 tabakshop2000.de
-tabanih.shop
 tabbles.net
 tabflix.de
 tablegame.shop
@@ -13436,7 +13425,6 @@ teller-store.com
 tellersale.com
 tellwalkandtalk.com
 telser-two.site
-temaliy.shop
 temaotrade.com
 tempe-ro.com
 tempeie.com
@@ -13810,7 +13798,6 @@ tobias-lorsbach.de
 tobiflix.de
 tobiwag.de
 tobuyy.com
-tocuwer.shop
 today4deal.pro
 todayoffer.info
 todaytw.shop
@@ -13941,7 +13928,6 @@ tosamalls.com
 totalloseweight.com
 totalmenshoe.com
 totamalls.com
-totelis.shop
 toteme-outlet.com
 toth-gruppe.com
 totrendybags.com
