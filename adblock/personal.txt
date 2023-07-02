@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 02 Jul 2023 08:45 UTC
-! Version: 2023.0702.0845.37
+! Last modified: 02 Jul 2023 23:33 UTC
+! Version: 2023.0702.2333.52
 ! Syntax: AdBlock
-! Number of entries: 42399
+! Number of entries: 42406
 !
 ||000nethost.com^
 ||000space.com^
@@ -668,7 +668,6 @@
 ||kuaikan.netmon.360safe.com^
 ||stat.360safe.com^
 ||ini.update.360safe.com^
-||softdl.360tpcdn.com^
 ||360yield.com^
 ||360yield-basic.com^
 ||3615407.xyz^
@@ -1127,6 +1126,7 @@
 ||95ppq87g.de^
 ||95urbehxy2dh.top^
 ||95xiu.com^
+||96.lt^
 ||9603gg.cc^
 ||9688522.com^
 ||9738624519.com^
@@ -1193,7 +1193,6 @@
 ||a-mo.net^
 ||a-mx.com^
 ||a-new86.com^
-||a-q-f.com^
 ||a-spy.com^
 ||a-static.com^
 ||a016967c8c783c38e555ae97b38fe0566ad9b398d255e32e833f160d.com^
@@ -5845,6 +5844,7 @@
 ||benonblkd.xyz^
 ||benoopto.com^
 ||xml-v4.benrif-solutions.com^
+||benshdarat.website^
 ||bentonow.com^
 ||benumelan.com^
 ||benzolescabrin.com^
@@ -5938,7 +5938,6 @@
 ||pkimbc.bestsecret.com^
 ||bestservedmcc.com^
 ||tracker.bestshopping.com^
-||bestsrv.de^
 ||besttoolbars.net^
 ||bestvenadvertising.com^
 ||bestweb.com^
@@ -6539,6 +6538,7 @@
 ||bogsboot.com^
 ||so.boh.com^
 ||bohemia-marketlink.com^
+||bohobanjaara.com^
 ||boholnaldixtours.com^
 ||bohonef.com^
 ||boilingbeetle.com^
@@ -7924,6 +7924,7 @@
 ||w.chatlio.com^
 ||chatntr.com^
 ||serve.ads.chaturbate.com^
+||chatwhattsapp.co^
 ||chaudoantown.com^
 ||chaussew.net^
 ||chauwout.xyz^
@@ -8021,6 +8022,7 @@
 ||sanalytics.chilevision.cl^
 ||tracking.chilipiper.com^
 ||chillcondole.com^
+||chillglobalhotel.com^
 ||chimamanndgaocozmi.com^
 ||chimpcity.com^
 ||chimpstatic.com^
@@ -9841,6 +9843,7 @@
 ||cnwebperformance.biz^
 ||cnzz.com^
 ||cnzz.net^
+||co.vu^
 ||adoffice.11st.co.kr^
 ||ds.11st.co.kr^
 ||rake.11st.co.kr^
@@ -11339,7 +11342,6 @@
 ||corolain.ru^
 ||monetize-api.coronalabs.com^
 ||stats.coronalabs.com^
-||coronavirustechhandbook.com^
 ||corpojuicebar.com^
 ||corporategarnish.com^
 ||corporatethankfulfinding.com^
@@ -12011,6 +12013,7 @@
 ||daoisthealing.com^
 ||track.dapex-tracking.com^
 ||daphnews.com^
+||dappaa.site^
 ||dapper.net^
 ||dapperfloor.com^
 ||daque.cn^
@@ -14237,6 +14240,7 @@
 ||dlfvgndsdfsn.com^
 ||dlfynky.net^
 ||dlhqffirehv.com^
+||dliteoats.com^
 ||streamstats.prd.dlive.tv^
 ||dlmewheniyv.xyz^
 ||dlmonitize.com^
@@ -14416,6 +14420,7 @@
 ||dooloust.net^
 ||doomedchurrip.space^
 ||doopimim.net^
+||doorblog.jp^
 ||collector.doordash.com^
 ||doorway-of-guidance.com^
 ||doownl0ad3s.com^
@@ -16470,6 +16475,7 @@
 ||favorscenes.com^
 ||fawningforegut.life^
 ||faxbxpmudcwwxt.com^
+||faxifa.xyz^
 ||faxqaaawyb.com^
 ||fayiadd.com^
 ||data-4ede7e9c86.faz.net^
@@ -16892,7 +16898,6 @@
 ||fleraprt.com^
 ||support.flex.com^
 ||elqtracking.flexera.com^
-||flexfinitymedia.net^
 ||flexiblelocator.com^
 ||tracking-collector.site.flexispot.com^
 ||flexlinks.com^
@@ -16995,7 +17000,6 @@
 ||weblog.flyasiana.com^
 ||yc.flyblowfilippi.com^
 ||flyersquare.com^
-||flyff.com^
 ||flygame.io^
 ||flygo.ru^
 ||flying-bird.top^
@@ -18492,6 +18496,7 @@
 ||parisiporlin-ktki.kemkes.go.id^
 ||analytics.kemlu.go.id^
 ||kotaprabumulih.go.id^
+||kuburayakab.go.id^
 ||log.go.com^
 ||log.mofa.go.kr^
 ||sw88.go.com^
@@ -19471,6 +19476,7 @@
 ||subscribe.hearstmags.com^
 ||aps.hearstnp.com^
 ||heartacheeasellikeness.com^
+||heartbreakingmind.com^
 ||heartilyscales.com^
 ||heat6have.com^
 ||smetrics.heathrow.com^
@@ -20037,6 +20043,7 @@
 ||hostigram.xyz^
 ||hostileconductive.com^
 ||hostingcloud.racing^
+||hostingerapp.com^
 ||hostinglive.in^
 ||hostingprod.com^
 ||hostwindsdns.com^
@@ -20571,7 +20578,6 @@
 ||igfamous.me^
 ||igg.biz^
 ||ighabovethe.com^
-||games.iglesiaelarca.org^
 ||trademark.iglesiaelarca.com^
 ||ads.ign.com^
 ||g.ign.com^
@@ -20825,6 +20831,7 @@
 ||improvely.com^
 ||improvementsplacid.com^
 ||improviseprofane.com^
+||impulsoinicial.cl^
 ||imr.sk^
 ||imrk.net^
 ||imrworldwide.com^
@@ -22770,7 +22777,6 @@
 ||adbsmetrics.kia.com^
 ||omniture-ssl.kia.com^
 ||kiajrcx.com^
-||kialux.com^
 ||kibostores.com^
 ||secure.kick1pore.com^
 ||kickasscracks.com^
@@ -22990,7 +22996,6 @@
 ||kohlerofficial.com^
 ||ww8.kohls.com^
 ||koiroomnotice.net^
-||koji.to^
 ||koji-analytics.com^
 ||kojlgwliewan.xyz^
 ||kokobehnowder.com^
@@ -23318,6 +23323,7 @@
 ||lakewoodmediagroup.net^
 ||lakfbvoskxlc.com^
 ||lalapush.com^
+||lalingualavita.com^
 ||lalocandadelteatro.it^
 ||lalofilters.website^
 ||laluvygy.com^
@@ -24231,6 +24237,7 @@
 ||brands.lookfantastic.com^
 ||sbrands.lookfantastic.com^
 ||lookinews.com^
+||metrika.lookmovie2.to^
 ||lookmy.info^
 ||get.lookout.com^
 ||looksmart.com^
@@ -24420,6 +24427,7 @@
 ||perr.lum-sdk.io^
 ||ametrics.lumen.com^
 ||luminate.com^
+||luminodesignpark.com^
 ||lumitos.com^
 ||lumnstoodthe.info^
 ||lumpmancommos.guru^
@@ -24852,6 +24860,7 @@
 ||smetrics.marshalls.com^
 ||smetrics.marshandmclennan.com^
 ||martcubic.com^
+||maru.jp^
 ||suncanny.marvel.com^
 ||marvellouspeaches.com^
 ||marvelousmonkeyjanes.com^
@@ -26750,7 +26759,6 @@
 ||analytics.natlawreview.com^
 ||natorm.com^
 ||natpal.com^
-||natpet.com^
 ||natregs.com^
 ||nattepush.com^
 ||naturalhealthsource.club^
@@ -27851,6 +27859,7 @@
 ||nzikpan.com^
 ||nzurlmq.com^
 ||o-cean-fortune.biz^
+||o-f.com^
 ||o-oe.com^
 ||o-oo.ooo^
 ||o-s.io^
@@ -28372,7 +28381,6 @@
 ||st.onlygip.tech^
 ||onlymega.com^
 ||onlyoffice.eu^
-||onlysportplus.com^
 ||onlyyourbiglove.com^
 ||onmarketer.net^
 ||onmarshtompor.com^
@@ -28936,6 +28944,7 @@
 ||oxydaserucked.com^
 ||oxygenblobsglass.com^
 ||oykwsbumtj.com^
+||oyndr.com^
 ||analytics.oyorooms.com^
 ||share.oyorooms.com^
 ||sharen.oyorooms.com^
@@ -30232,6 +30241,7 @@
 ||powerad.ai^
 ||poweradblocker.com^
 ||powerain.biz^
+||powerappsportals.com^
 ||powerbiz.co^
 ||poweredbyliquidfire.mobi^
 ||powerlinks.com^
@@ -32928,7 +32938,6 @@
 ||s5qj82thv3dw.de^
 ||s77.ro^
 ||s7target.ru^
-||loginsecurityservices.eyepal.sa.com^
 ||stats.sa-as.com^
 ||saambaa.com^
 ||data-043610b415.saarbruecker-zeitung.de^
@@ -33321,9 +33330,7 @@
 ||sconvtrk.com^
 ||scoota.co^
 ||scootermonkmortify.com^
-||adsgard.aprod.scopely.io^
-||collector.scopely.io^
-||preview-collector.scopely.io^
+||scopely.io^
 ||score-feed.com^
 ||scorecardresearch.com^
 ||info.scorecardrewards.com^
@@ -35380,6 +35387,7 @@
 ||ddc.statefarm.com^
 ||smetrics.statefarm.com^
 ||statefertilitycount.com^
+||stateinformatics.com^
 ||statementsphilosophy.com^
 ||smetrics.statestreet.com^
 ||beacon.statful.com^
@@ -36649,7 +36657,6 @@
 ||secure.text6film.com^
 ||smetrics.textbooks.com^
 ||texterra.me^
-||cd.textfiles.com^
 ||data-8b242b85ce.textilwirtschaft.de^
 ||s6.textlink.vn^
 ||textme.network^
@@ -38135,6 +38142,7 @@
 ||vpn.twttr.com^
 ||twyn.com^
 ||twyvergongs.com^
+||state.tx.us^
 ||txbvpsgswl.com^
 ||txjtyqaqtcgeo.xyz^
 ||txouliypi.com^
@@ -38999,6 +39007,7 @@
 ||tracker.services.vaix.ai^
 ||vajoru.xyz^
 ||vak345.com^
+||val.jp^
 ||news.valawyersweekly.com^
 ||valerieconstantine.com^
 ||valeuceplangka.com^
@@ -41515,7 +41524,6 @@
 ||bs-meta.yandex.ru^
 ||bs-metadsp.yandex.ru^
 ||extmaps-api.yandex.net^
-||forms.yandex.com^
 ||grade.market.yandex.ru^
 ||mc.yandex.com^
 ||mc.yandex.ru^
@@ -42249,7 +42257,6 @@
 ||zkapibwampca.com^
 ||zkdkvnzsdxge.info^
 ||zkdmdf.xyz^
-||bridge.zksync.io^
 ||zlfthh.xyz^
 ||zlhagtbdfz.com^
 ||s.zlink1.com^
