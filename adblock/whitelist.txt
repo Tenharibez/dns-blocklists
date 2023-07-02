@@ -619,6 +619,7 @@
 @@|www.kiwisearchservices.com^
 @@|canyoublockit.com^
 @@|www.canyoublockit.com^
+@@|bgp.he.net^
 
 ! NextDNS
 @@||nextdns.io^
@@ -4178,4 +4179,16 @@
 ! The biggest price-comparison site in Sweden
 @@|prisjakt.nu^
 @@|www.prisjakt.nu^
+
+! https://github.com/hagezi/dns-blocklists/issues/1227
+@@|heureka.cz^
+@@|www.heureka.cz^
+
+! https://github.com/hagezi/dns-blocklists/issues/1226
+@@|submit.sb.avast.com^
+@@|streamback.ns1.ff.avast.com^
+
+! email marketing platform like mailchimp
+@@|vbout.com^
+@@|www.vbout.com^
 
