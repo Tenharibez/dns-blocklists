@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1688336520 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1688421360 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Jul 2023 22:22 UTC
-; Version: 2023.0702.2222.44
+; Last modified: 03 Jul 2023 21:56 UTC
+; Version: 2023.0703.2156.19
 ; Syntax: RPZ
-; Number of entries: 31334
+; Number of entries: 31310
 ;
 anchain.ai CNAME .
 *.anchain.ai CNAME .
@@ -10902,8 +10902,6 @@ lennykennel-de.com CNAME .
 *.lennykennel-de.com CNAME .
 lensivy.com CNAME .
 *.lensivy.com CNAME .
-lenticaselar.com CNAME .
-*.lenticaselar.com CNAME .
 lericettedifrancy74.com CNAME .
 *.lericettedifrancy74.com CNAME .
 lertters.com CNAME .
@@ -11996,8 +11994,6 @@ modernmodishgoods.com CNAME .
 *.modernmodishgoods.com CNAME .
 modernsfurnish.com CNAME .
 *.modernsfurnish.com CNAME .
-modernusfemale.com CNAME .
-*.modernusfemale.com CNAME .
 modestils.com CNAME .
 *.modestils.com CNAME .
 modestover.com CNAME .
@@ -14714,8 +14710,6 @@ reebokosterreichoutlet.com CNAME .
 *.reebokosterreichoutlet.com CNAME .
 de.reeboktriluxrun.com CNAME .
 *.de.reeboktriluxrun.com CNAME .
-reedsel.com CNAME .
-*.reedsel.com CNAME .
 reef-deutschland.com CNAME .
 *.reef-deutschland.com CNAME .
 reelatinors.com CNAME .
@@ -17252,8 +17246,6 @@ tesento.com CNAME .
 *.tesento.com CNAME .
 tesla-for-doge.com CNAME .
 *.tesla-for-doge.com CNAME .
-tesla-openai.com CNAME .
-*.tesla-openai.com CNAME .
 teslabestfor.com CNAME .
 *.teslabestfor.com CNAME .
 teslabounce.com CNAME .
@@ -18384,8 +18376,6 @@ unifousa.com CNAME .
 *.unifousa.com CNAME .
 unifully.com CNAME .
 *.unifully.com CNAME .
-uniglobal-assets.com CNAME .
-*.uniglobal-assets.com CNAME .
 unionmarkets.com CNAME .
 *.unionmarkets.com CNAME .
 unique-modules.com CNAME .
@@ -28090,12 +28080,8 @@ earthasale.shop CNAME .
 *.earthasale.shop CNAME .
 eatggrant.shop CNAME .
 *.eatggrant.shop CNAME .
-ebusasa.shop CNAME .
-*.ebusasa.shop CNAME .
 ebuy8.shop CNAME .
 *.ebuy8.shop CNAME .
-ecitadi.shop CNAME .
-*.ecitadi.shop CNAME .
 ecomgnow.shop CNAME .
 *.ecomgnow.shop CNAME .
 edithhardware.shop CNAME .
@@ -28166,8 +28152,6 @@ erorene.shop CNAME .
 *.erorene.shop CNAME .
 esoftn.shop CNAME .
 *.esoftn.shop CNAME .
-etagota.shop CNAME .
-*.etagota.shop CNAME .
 eudoraart.shop CNAME .
 *.eudoraart.shop CNAME .
 eudshop.shop CNAME .
@@ -29118,8 +29102,6 @@ thescanners.shop CNAME .
 *.thescanners.shop CNAME .
 thirza.shop CNAME .
 *.thirza.shop CNAME .
-tilatef.shop CNAME .
-*.tilatef.shop CNAME .
 titanmedi.shop CNAME .
 *.titanmedi.shop CNAME .
 todaytw.shop CNAME .
@@ -30308,8 +30290,6 @@ tukeraja.store CNAME .
 *.tukeraja.store CNAME .
 uptoy.store CNAME .
 *.uptoy.store CNAME .
-usboots.store CNAME .
-*.usboots.store CNAME .
 usefireplace.store CNAME .
 *.usefireplace.store CNAME .
 vansesshop.store CNAME .
@@ -30720,8 +30700,6 @@ pk.toys CNAME .
 *.pk.toys CNAME .
 csmoney.trade CNAME .
 *.csmoney.trade CNAME .
-eurofx.trade CNAME .
-*.eurofx.trade CNAME .
 formonixasset.trade CNAME .
 *.formonixasset.trade CNAME .
 fxinvest.trade CNAME .
@@ -30894,8 +30872,6 @@ edorz.us CNAME .
 *.edorz.us CNAME .
 galamour.us CNAME .
 *.galamour.us CNAME .
-gifts4fan.us CNAME .
-*.gifts4fan.us CNAME .
 grillis.us CNAME .
 *.grillis.us CNAME .
 hairlio.us CNAME .

@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 02 Jul 2023 22:22 UTC
-! Version: 2023.0702.2222.44
+! Last modified: 03 Jul 2023 21:56 UTC
+! Version: 2023.0703.2156.19
 ! Syntax: AdBlock
-! Number of entries: 15667
+! Number of entries: 15655
 !
 ||009972.com^
 ||100-solarni-lampa-cz.com^
@@ -4094,7 +4094,6 @@
 ||ebike-universum.de^
 ||ebinalo.com^
 ||ebisushijo.com^
-||ebusasa.shop^
 ||18023.ebizv4l.ebusiness-challenge.at^
 ||ebuy8.shop^
 ||ec-menta.de^
@@ -4116,7 +4115,6 @@
 ||echopark-gmbh.com^
 ||echopark-markt.com^
 ||echteuropadokumente24hrs.de^
-||ecitadi.shop^
 ||eckerling.de^
 ||eckermann-elektro.com^
 ||eclothone.com^
@@ -4507,7 +4505,6 @@
 ||estoken.tech^
 ||estrategen.de^
 ||esttecor.com^
-||etagota.shop^
 ||etfinance.eu^
 ||etfinance.net^
 ||ethbox.org^
@@ -4556,7 +4553,6 @@
 ||eurocapitals.com^
 ||euroemarket.com^
 ||eurofinglobal.com^
-||eurofx.trade^
 ||euromarketdirect.com^
 ||euromarketshop.com^
 ||euronic-service.de^
@@ -5749,7 +5745,6 @@
 ||giftmaart.com^
 ||giftmarket.top^
 ||giftremix.com^
-||gifts4fan.us^
 ||giftsholic.com^
 ||giftshoptoday.com^
 ||giftsshop75.com^
@@ -8003,7 +7998,6 @@
 ||lenkajuricova.cz^
 ||lennykennel-de.com^
 ||lensivy.com^
-||lenticaselar.com^
 ||leoclothing.shop^
 ||leohome.shop^
 ||leonacraig.shop^
@@ -9024,7 +9018,6 @@
 ||modernmodishgoods.com^
 ||modernpuzzle.shop^
 ||modernsfurnish.com^
-||modernusfemale.com^
 ||modestils.com^
 ||modestover.com^
 ||moditec.fr^
@@ -11320,7 +11313,6 @@
 ||reebokosterreich.at^
 ||reebokosterreichoutlet.com^
 ||de.reeboktriluxrun.com^
-||reedsel.com^
 ||reef-deutschland.com^
 ||reel-market.de^
 ||reelatinors.com^
@@ -13462,7 +13454,6 @@
 ||tesauree.com^
 ||tesento.com^
 ||tesla-for-doge.com^
-||tesla-openai.com^
 ||teslabestfor.com^
 ||teslabounce.com^
 ||teslabrc.com^
@@ -13735,7 +13726,6 @@
 ||tigris-esports.de^
 ||tikgeeker.com^
 ||tikkischuhe.de^
-||tilatef.shop^
 ||tilidin-kaufen.com^
 ||timarkets.com^
 ||timberland-osterreich.at^
@@ -14352,7 +14342,6 @@
 ||unicorn-fx.com^
 ||unifousa.com^
 ||unifully.com^
-||uniglobal-assets.com^
 ||unihash.io^
 ||unikatknopf.de^
 ||unineri.shop^
@@ -14470,7 +14459,6 @@
 ||usbeachaccessory.com^
 ||usbicyclenewin.com^
 ||usbikecomponent.com^
-||usboots.store^
 ||usbossclothes.com^
 ||usbuildingmaterial.com^
 ||usburtonsnowboard.com^

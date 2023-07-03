@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Jul 2023 22:22 UTC
-# Version: 2023.0702.2222.44
+# Last modified: 03 Jul 2023 21:56 UTC
+# Version: 2023.0703.2156.19
 # Syntax: DNSMasq
-# Number of entries: 15667
+# Number of entries: 15655
 #
 address=/009972.com/#
 address=/100-solarni-lampa-cz.com/#
@@ -4094,7 +4094,6 @@ address=/eberhard-wurst.de/#
 address=/ebike-universum.de/#
 address=/ebinalo.com/#
 address=/ebisushijo.com/#
-address=/ebusasa.shop/#
 address=/18023.ebizv4l.ebusiness-challenge.at/#
 address=/ebuy8.shop/#
 address=/ec-menta.de/#
@@ -4116,7 +4115,6 @@ address=/echoextremetool.com/#
 address=/echopark-gmbh.com/#
 address=/echopark-markt.com/#
 address=/echteuropadokumente24hrs.de/#
-address=/ecitadi.shop/#
 address=/eckerling.de/#
 address=/eckermann-elektro.com/#
 address=/eclothone.com/#
@@ -4507,7 +4505,6 @@ address=/estike.com/#
 address=/estoken.tech/#
 address=/estrategen.de/#
 address=/esttecor.com/#
-address=/etagota.shop/#
 address=/etfinance.eu/#
 address=/etfinance.net/#
 address=/ethbox.org/#
@@ -4556,7 +4553,6 @@ address=/euroadmaps.com/#
 address=/eurocapitals.com/#
 address=/euroemarket.com/#
 address=/eurofinglobal.com/#
-address=/eurofx.trade/#
 address=/euromarketdirect.com/#
 address=/euromarketshop.com/#
 address=/euronic-service.de/#
@@ -5749,7 +5745,6 @@ address=/giftipoint.com/#
 address=/giftmaart.com/#
 address=/giftmarket.top/#
 address=/giftremix.com/#
-address=/gifts4fan.us/#
 address=/giftsholic.com/#
 address=/giftshoptoday.com/#
 address=/giftsshop75.com/#
@@ -8003,7 +7998,6 @@ address=/leninecloth.com/#
 address=/lenkajuricova.cz/#
 address=/lennykennel-de.com/#
 address=/lensivy.com/#
-address=/lenticaselar.com/#
 address=/leoclothing.shop/#
 address=/leohome.shop/#
 address=/leonacraig.shop/#
@@ -9024,7 +9018,6 @@ address=/modernindigo.com/#
 address=/modernmodishgoods.com/#
 address=/modernpuzzle.shop/#
 address=/modernsfurnish.com/#
-address=/modernusfemale.com/#
 address=/modestils.com/#
 address=/modestover.com/#
 address=/moditec.fr/#
@@ -11320,7 +11313,6 @@ address=/reeboknanonz.com/#
 address=/reebokosterreich.at/#
 address=/reebokosterreichoutlet.com/#
 address=/de.reeboktriluxrun.com/#
-address=/reedsel.com/#
 address=/reef-deutschland.com/#
 address=/reel-market.de/#
 address=/reelatinors.com/#
@@ -13462,7 +13454,6 @@ address=/tes-ic.cloud/#
 address=/tesauree.com/#
 address=/tesento.com/#
 address=/tesla-for-doge.com/#
-address=/tesla-openai.com/#
 address=/teslabestfor.com/#
 address=/teslabounce.com/#
 address=/teslabrc.com/#
@@ -13735,7 +13726,6 @@ address=/global.tigerwitex.com/#
 address=/tigris-esports.de/#
 address=/tikgeeker.com/#
 address=/tikkischuhe.de/#
-address=/tilatef.shop/#
 address=/tilidin-kaufen.com/#
 address=/timarkets.com/#
 address=/timberland-osterreich.at/#
@@ -14352,7 +14342,6 @@ address=/unice688.com/#
 address=/unicorn-fx.com/#
 address=/unifousa.com/#
 address=/unifully.com/#
-address=/uniglobal-assets.com/#
 address=/unihash.io/#
 address=/unikatknopf.de/#
 address=/unineri.shop/#
@@ -14470,7 +14459,6 @@ address=/usbaseballstore.com/#
 address=/usbeachaccessory.com/#
 address=/usbicyclenewin.com/#
 address=/usbikecomponent.com/#
-address=/usboots.store/#
 address=/usbossclothes.com/#
 address=/usbuildingmaterial.com/#
 address=/usburtonsnowboard.com/#
