@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Jul 2023 13:30 UTC
-# Version: 2023.0703.1330.54
+# Last modified: 03 Jul 2023 22:03 UTC
+# Version: 2023.0703.2203.48
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 123816
+# Number of entries: 123738
 #
 0-4.top
 www.0-4.top
@@ -332,7 +332,6 @@ validationpromebas.0hi.me
 shopfancysneakers.nextevo.0lx.net
 0nedrive.agency
 www.0nedrive.agency
-bancainternetempresas-iscotlaban1k.0nlnes.site
 0oi.net
 www.0oi.net
 0pen.online
@@ -346,8 +345,6 @@ www.0pyn37dv3m.com
 0redirc.com
 www.0redirc.com
 0s.click
-0sa69c.cyou
-www.0sa69c.cyou
 0sntp7dnrr.com
 www.0sntp7dnrr.com
 0sywjs4r1x.com
@@ -360,8 +357,6 @@ www.0x01n2ptpuz3.com
 yatsura.0x41414141.net
 app.0xab.io
 themes.1-grid.com
-100-9.com
-www.100-9.com
 1000-dollar.cash
 www.1000-dollar.cash
 1000-eur.cash
@@ -512,8 +507,6 @@ www.18hot.pw
 www.18newsindia.com
 18producoes.com
 www.18producoes.com
-18sbesabrsnk.com
-www.18sbesabrsnk.com
 192-156-85-92.com
 www.192-156-85-92.com
 1928recordings.com
@@ -586,9 +579,7 @@ www.1kb.link
 airdrop.1linch.com
 1linksolution.com
 www.1linksolution.com
-1lnch.live
 dapp.1lnch.app
-www.1lnch.live
 0auth2.1mb.site
 1millionsocial.com
 www.1millionsocial.com
@@ -756,9 +747,6 @@ sao.24hfastplumbingservice.cyou
 www.24hourhtmlcafe.com
 24hoursmobilemechanic.com
 www.24hoursmobilemechanic.com
-24youaktivieren.com
-www.24youaktivieren.com
-0lx.2534536.xyz
 256ventures.us
 5h9sri.25u.com
 76yrtgsafd.25u.com
@@ -795,15 +783,12 @@ www.26h.biz
 www.270rsd.com
 olx-pl.2738229.xyz
 pko-bank.2738229.xyz
-allegrolokalnie.275177.xyz
 27astudios.com
 www.27astudios.com
 282productions.com
 www.282productions.com
 286329.com
 www.286329.com
-90.286851.pw
-90.286855.pw
 ffe405491d.28b67b8230.com
 2a873yuvua6h.top
 www.2a873yuvua6h.top
@@ -817,8 +802,6 @@ www.2bsuccessfulyouth.com
 www.2by4constructioninc.com
 2csgo-invites.com
 2csgo-invites.net
-www.2csgo-invites.com
-www.2csgo-invites.net
 2csmedia.es
 www.2csmedia.es
 2d-plus.com
@@ -933,8 +916,6 @@ royal01creditunion.3-a.net
 www.3-d.ro
 3-dementia.com
 www.3-dementia.com
-help-meta-id-284528.301254.com
-help-meta-id-343319.301254.com
 306areacode.com
 www.306areacode.com
 30mercantil.com
@@ -955,7 +936,6 @@ www.31mugs.com
 www.320up.com
 3221dkf7m2.com
 www.3221dkf7m2.com
-0lx.3243255.xyz
 32player.com
 www.32player.com
 32tothecasino.com
@@ -966,7 +946,6 @@ www.33rdderryscouts.com
 vinted.3424234.xyz
 343i.org
 www.343i.org
-allegrolokalnie.34715154.xyz
 348wd7etbann.com
 www.348wd7etbann.com
 34pavouhj7.com
@@ -3771,8 +3750,6 @@ aj3000.org
 www.aj3000.org
 ajace.org
 www.ajace.org
-ajangsoft.ir
-www.ajangsoft.ir
 ajanicustomdesigns.com
 www.ajanicustomdesigns.com
 ajaxanywhere.com
@@ -7904,8 +7881,6 @@ austricreposer.live
 auta-marketplace.pl
 autauto.ru
 www.autauto.ru
-autchoog.net
-www.autchoog.net
 746776079.autella.fi
 autemskilpot.life
 auth-cr-bnccr.club
@@ -10065,7 +10040,6 @@ boone.bernatgj.pl
 casey.bernatgj.pl
 miranda.bernatgj.pl
 simmons.bernatgj.pl
-bero-webspace.de
 web10180.web07.bero-webspace.de
 web10353.web07.bero-webspace.de
 web10372.web07.bero-webspace.de
@@ -10079,7 +10053,6 @@ web10798.web07.bero-webspace.de
 web10949.web07.bero-webspace.de
 web9665.web07.bero-webspace.de
 web11109.web09.bero-webspace.de
-www.bero-webspace.de
 berown.in
 www.berown.in
 berplum.com
@@ -14016,7 +13989,6 @@ www.c6pay.top
 c6siloku.com
 www.c6siloku.com
 dgmxn.c8xwor.com
-t1k22.c8xwor.com
 c9emgwai66zi.com
 www.c9emgwai66zi.com
 ca-heights.com
@@ -18748,7 +18720,6 @@ naochicleaningservices.co.uk
 naomikilemi.co.ke
 narcissus.co.rs
 natcher.co.uk
-nationalconsumerscenter.co.uk
 contact.nationalconsumerscenter.co.uk
 nationwie.co.uk
 natureearth.co.in
@@ -20115,7 +20086,6 @@ baykusoglu.com.tr
 baymedical.com.bd
 bctambore.com.br
 bdcivil.com.au
-bearcatpumps.com.cn
 beautifulqueen.com.br
 bebessi.com.tr
 bedwetting.com.au
@@ -23074,7 +23044,6 @@ connectingresort.com
 www.connectingresort.com
 connectingsystem.shop
 www.connectingsystem.shop
-connectini.net
 connectionapproval.com
 www.connectionapproval.com
 connectioncdn.com
@@ -26113,8 +26082,6 @@ crypto-nodes.org
 crypto-reclaim.com
 www.crypto-reclaim.com
 crypto-usdt.top
-crypto-webminer.com
-www.crypto-webminer.com
 crypto-zeus.com
 crypto129.com
 www.crypto129.com
@@ -33718,8 +33685,6 @@ ebscarbon.com
 www.ebscarbon.com
 ebtlicense.com
 www.ebtlicense.com
-ebusasa.shop
-www.ebusasa.shop
 ebuy8.shop
 www.ebuy8.shop
 ec2partner.com
@@ -33764,8 +33729,6 @@ www.ecentennialcollege.ca
 echeasorbed.uno
 echodasystems.com
 www.echodasystems.com
-ecitadi.shop
-www.ecitadi.shop
 ecityalittl.buzz
 www.ecityalittl.buzz
 awdwaskctl.eckohogar.com
@@ -35971,8 +35934,6 @@ esty.com
 www.esty.com
 esuracnce.com
 www.esuracnce.com
-etagota.shop
-www.etagota.shop
 img.etakeawaymax.biz
 etakebazar.com
 www.etakebazar.com
@@ -41636,8 +41597,6 @@ fivestarspro.com
 www.fivestarspro.com
 fivethirteight.com
 www.fivethirteight.com
-fivetrafficroads.com
-dkjfhuyd.fivetrafficroads.com
 fivexbooster.net
 www.fivexbooster.net
 fix-live.tech
@@ -42376,8 +42335,6 @@ foohdie.com
 www.foohdie.com
 foolishunequal.com
 www.foolishunequal.com
-foomaque.net
-www.foomaque.net
 foosewheels.com
 www.foosewheels.com
 correo.foot-news.co
@@ -43687,7 +43644,6 @@ g1thub.com
 www.g1thub.com
 g27zkdvsxl.com
 www.g27zkdvsxl.com
-pdtrax.g2afse.com
 g4officeinstallations.com
 www.g4officeinstallations.com
 g6pay.top
@@ -45367,8 +45323,6 @@ giftonus.com
 www.giftonus.com
 giftremix.com
 www.giftremix.com
-gifts4fan.us
-www.gifts4fan.us
 giftsforunow.com
 www.giftsforunow.com
 giftsholic.com
@@ -53173,7 +53127,6 @@ www.imextrade.ltd
 imgcrazy.com
 imgfil.com
 jp.imgjeoighw.com
-imglov.com
 imi4rd.com
 www.imi4rd.com
 imigroups.com
@@ -61005,6 +60958,8 @@ lavastore.cz
 www.lavastore.cz
 lavatoryhitschoolmaster.com
 www.lavatoryhitschoolmaster.com
+lavazemforpinaa.com
+www.lavazemforpinaa.com
 demo.lavellenetworks.com
 lavens.xyz
 laversilianafestival.it
@@ -61417,8 +61372,6 @@ lentculturalstudied.com
 www.lentculturalstudied.com
 lenterasunnahmadani.com
 www.lenterasunnahmadani.com
-lenticaselar.com
-www.lenticaselar.com
 lenuxfinance.com
 www.lenuxfinance.com
 230523193549928.cma.lenz49.top
@@ -63466,7 +63419,6 @@ lucknowiotpark.com
 www.lucknowiotpark.com
 luckoffers.net
 www.luckoffers.net
-na.luckpool.net
 lucky-365.com
 www.lucky-365.com
 luckycafe.store
@@ -68888,8 +68840,6 @@ www.mscs-bcsir.com
 www.mscs-bcsir.org
 mscseller.com
 www.mscseller.com
-msedgeupdate.com
-js.msedgeupdate.com
 msephora.com
 www.msephora.com
 msghouse.com
@@ -73071,7 +73021,6 @@ www.nic-sl.com
 niceelitdating.top
 b.niceelitdating.top
 www.niceelitdating.top
-daggerhashimoto.eu.nicehash.com
 niceina.com
 www.niceina.com
 nicelani.com
@@ -78698,8 +78647,6 @@ www.parvo.dog
 pasalaproperties.com
 www.pasalaproperties.com
 pasaltair.com
-pasamart.ru
-www.pasamart.ru
 pasargadloster.ir
 www.pasargadloster.ir
 pasarkta.pasaruang.id
@@ -79082,7 +79029,6 @@ www.pcandtool.com
 pcaob.careers
 www.pcaob.careers
 pcbasicstrength.com
-pccdirect.site
 pccleaner.com
 www.pccleaner.com
 down.pcclear.com
@@ -81688,8 +81634,6 @@ positivelyoverall.com
 www.positivelyoverall.com
 positivepeople.biz
 www.positivepeople.biz
-positiverefreshment.org
-www.positiverefreshment.org
 positiveskillslab.com
 positivestar.org
 posmicrosystems.com
@@ -83489,8 +83433,6 @@ amzanao.co.ip.pwerous.one
 ameeo.pwir.top
 pwk.gr
 www.pwk.gr
-pwn.af
-www.pwn.af
 ww1.pwnz.org
 pwpsportland.com
 www.pwpsportland.com
@@ -85233,7 +85175,6 @@ rccglbhope.org
 www.rccglbhope.org
 rcdpacific.org
 www.rcdpacific.org
-rce.ee
 rchosts.com
 www.rchosts.com
 rclanguages.com
@@ -85730,8 +85671,6 @@ www.reebootwellness.com
 reechyegards.store
 reedsbullyingpastel.com
 www.reedsbullyingpastel.com
-reedsel.com
-www.reedsel.com
 reedsinterfering.com
 www.reedsinterfering.com
 reefscapes.net
@@ -100973,10 +100912,8 @@ svetilniki-nizhnij-novgorod.ru
 www.svetilniki-nizhnij-novgorod.ru
 svhudaipur.com
 www.svhudaipur.com
-sviluppo.host
 creditagricole.sviluppo.host
 servicetry.sviluppo.host
-www.sviluppo.host
 shopee.svipx1.com
 shopee.svipx2.com
 shopee.svipx3.com
@@ -103677,8 +103614,6 @@ www.thelocalology.com
 theloder.top
 thelollybarn.com
 www.thelollybarn.com
-thelonelymessage.com
-www.thelonelymessage.com
 thelovecafeny.com
 www.thelovecafeny.com
 theloveofthetruth.com
@@ -104257,8 +104192,6 @@ swimalak-s-school.thinkific.com
 vdadhdhdlchh-s-school.thinkific.com
 vdaswissssichh-s-school.thinkific.com
 vdhdhdch-s-school.thinkific.com
-thinkingfastdns.com
-www.thinkingfastdns.com
 thinkmiamicountyhistory.com
 www.thinkmiamicountyhistory.com
 thinkseducation.com
@@ -104675,8 +104608,6 @@ tikto.pw
 www.tikto.pw
 tiktoksonline.com
 www.tiktoksonline.com
-tilatef.shop
-www.tilatef.shop
 tilecompetition.com
 www.tilecompetition.com
 tilens.live
@@ -105434,8 +105365,6 @@ top-safest-vpn.com
 www.top-safest-vpn.com
 top-secure-app.com
 www.top-secure-app.com
-top-store-app.com
-www.top-store-app.com
 top-trend-app.com
 www.top-trend-app.com
 top-video-content.com
@@ -105789,7 +105718,6 @@ portal.totalav.com
 ru.totalav.com
 schools.totalav.com
 search.totalav.com
-secure.totalav.com
 shield.totalav.com
 signup.totalav.com
 sklep.totalav.com
@@ -106165,7 +106093,6 @@ traffcmpy.com
 www.traffcmpy.com
 traffcnetwork.com
 www.traffcnetwork.com
-track.traffic.club
 traffic-abc.net
 www.traffic-abc.net
 traffic-c.com
@@ -106411,7 +106338,6 @@ trck-maltapost.com
 www.trck-maltapost.com
 trckpost.com
 www.trckpost.com
-trckrry.com
 trclndrs.com
 trclndrs.xyz
 www.trclndrs.com
@@ -106809,6 +106735,8 @@ www.troythomasatl.com
 trrix.win
 www.trrix.win
 rpp.trsnfds.pl
+trtmyanmar.com
+www.trtmyanmar.com
 trttv.com
 www.trttv.com
 truantslaughterbrew.com
@@ -108834,8 +108762,6 @@ usbfilefinder.com
 www.usbfilefinder.com
 usbicyclenewin.com
 www.usbicyclenewin.com
-usboots.store
-www.usboots.store
 usbossclothes.com
 www.usbossclothes.com
 usburtonsnowboard.com
@@ -118421,8 +118347,6 @@ www.wholesomemillennium.com
 wholestorenaturalfoods.com
 www.wholestorenaturalfoods.com
 wholismskink.digital
-whomadeyoumirabelli.com
-www.whomadeyoumirabelli.com
 whomairted.uno
 whoognoz.com
 whoostoo.net
@@ -121758,7 +121682,6 @@ doladowania.xouu3.xyz
 xpariaff.com
 xparkstore.com
 www.xparkstore.com
-xpdep.top
 xperience.pt
 www.xperience.pt
 xpertssol.com
@@ -123054,7 +122977,6 @@ zacharryblogs.com
 www.zacharryblogs.com
 zachdrennen.com
 zackthemacgeek.com
-zadauque.net
 zadksa.com
 www.zadksa.com
 zaefaran.com
