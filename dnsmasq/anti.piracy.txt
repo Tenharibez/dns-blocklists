@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 30 Jun 2023 21:15 UTC
-# Version: 2023.0630.2115.45
+# Last modified: 03 Jul 2023 21:49 UTC
+# Version: 2023.0703.2149.19
 # Syntax: DNSMasq
-# Number of entries: 6847
+# Number of entries: 6838
 #
 address=/zer0day.000webhostapp.com/#
 address=/0123456789nonexistent.com/#
@@ -43,7 +43,6 @@ address=/123movieonline.xyz/#
 address=/123movies.ag/#
 address=/123movies.archi/#
 address=/123movies.army/#
-address=/123movies.church/#
 address=/123movies.coach/#
 address=/123movies.com/#
 address=/123movies.domains/#
@@ -52,7 +51,6 @@ address=/123movies.fan/#
 address=/123movies.fun/#
 address=/123movies.ga/#
 address=/123movies.gallery/#
-address=/123movies.gr/#
 address=/123movies.guide/#
 address=/123movies.gy/#
 address=/123movies.haus/#
@@ -128,7 +126,6 @@ address=/1377x.is/#
 address=/141jav.com/#
 address=/147job.com/#
 address=/107.182.30.76.16clouds.com/#
-address=/freedom.1776.ga/#
 address=/1bt.ru/#
 address=/1clickdown.com/#
 address=/1fichier.com/#
@@ -177,19 +174,14 @@ address=/321n.net/#
 address=/tracker.3304399.com/#
 address=/337hhh.xyz/#
 address=/365watchtv.com/#
-address=/36dm.club/#
-address=/36dm.com/#
-address=/tracker.3arbya.com/#
 address=/3dmgame.com/#
 address=/3dsdb.com/#
 address=/bt.3kb.xyz/#
 address=/3movierulz.sc/#
 address=/3netbd.com/#
 address=/3rcommunications.com/#
-address=/3warez.com/#
 address=/generatory.3xg.pl/#
 address=/420project.org/#
-address=/45rpmtorrents.com/#
 address=/480mkv.com/#
 address=/480ptvshows.com/#
 address=/4allprograms.net/#
@@ -265,7 +257,6 @@ address=/admin.52ywp.com/#
 address=/54new.com/#
 address=/5mins.shop/#
 address=/5movies.buzz/#
-address=/5movies.live/#
 address=/5movies.run/#
 address=/5movies.to/#
 address=/5moviesfree.net/#
