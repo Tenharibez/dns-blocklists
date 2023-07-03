@@ -1,190 +1,185 @@
-### Sources/Statistics
-*Sources partially used for compiling the block lists. Every source has its own license, for the individual licenses see the source files or source repositories:*
+### Statistics
 #### LIGHT
 ```
-626876 (96%) included | 622 (0%) removed | 25963 (4%) dead
+627234 (96%) included | 628 (0%) removed | 25977 (4%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% |   42406 | personal.txt
-  2 |      63% |   2% |     35% |     155 | personal-wildcard-rules.txt
-  3 |     100% |   0% |      0% |   15667 | fake.txt
-  4 |     100% |   0% |      0% |   81282 | tif.light.txt
-  5 |      76% |  24% |      0% |    7952 | analytics-metrics-extension.txt
-  6 |     100% |   0% |      0% |      18 | native.apple.txt
-  7 |     100% |   0% |      0% |      68 | native.huawei.txt
-  8 |      86% |   4% |     10% |      67 | native.lgwebos.txt
-  9 |      47% |   0% |     53% |     181 | native.tiktok.txt
- 10 |      39% |   0% |     61% |     122 | native.winoffice.txt
- 11 |      96% |   1% |      3% |    5993 | black.list
+  1 |     100% |   0% |      0% |   42593 | Personal
+  2 |      63% |   2% |     35% |     155 | Personal Wildcard Rules
+  3 |     100% |   0% |      0% |   15667 | Fake
+  4 |     100% |   0% |      0% |   81282 | Threat Intelligence Feeds Light
+  5 |      76% |  24% |      0% |    7996 | Analytics/Metrics Extension
+  6 |     100% |   0% |      0% |      18 | Native Tracker Apple (iOS, macOS, tvOS)
+  7 |     100% |   0% |      0% |      68 | Native Tracker Huawei (Devices)
+  8 |      86% |   4% |     10% |      67 | Native Tracker LG webOS
+  9 |      47% |   0% |     53% |     181 | Native Tracker TikTok (Fingerprinting)
+ 10 |      39% |   0% |     61% |     122 | Native Tracker Microsoft (Windows, Office, MSN)
+ 11 |      96% |   1% |      3% |    5999 | Denylist Base
  12 |      69% |  31% |      0% |    3535 | raw.githubusercontent.com/manic-code/Emerging-Malicious-Domain-Blocklist/main/hosts.txt
  13 |      99% |   0% |      1% |     137 | raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
  14 |      95% |   5% |      0% |      91 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-stats.txt
 ```
 #### MULTI
 ```
-1053401 (96%) included | 1092 (0%) removed | 48241 (4%) dead
+900275 (95%) included | 664 (0%) removed | 44538 (5%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% |  626876 | light.txt
-  2 |     100% |   0% |      0% |   42406 | personal.txt
-  3 |      63% |   2% |     35% |     155 | personal-wildcard-rules.txt
-  4 |     100% |   0% |      0% |   15667 | fake.txt
-  5 |     100% |   0% |      0% |   81282 | tif.light.txt
-  6 |      76% |  24% |      0% |    7952 | analytics-metrics-extension.txt
-  7 |     100% |   0% |      0% |      18 | native.apple.txt
-  8 |     100% |   0% |      0% |      68 | native.huawei.txt
-  9 |      86% |   4% |     10% |      67 | native.lgwebos.txt
- 10 |      47% |   0% |     53% |     181 | native.tiktok.txt
- 11 |      39% |   0% |     61% |     122 | native.winoffice.txt
- 12 |      96% |   1% |      3% |    5993 | black.list
+  1 |     100% |   0% |      0% |  627234 | Predecessor: Multi Light
+  2 |     100% |   0% |      0% |   42593 | Personal
+  3 |      63% |   2% |     35% |     155 | Personal Wildcard Rules
+  4 |     100% |   0% |      0% |   15667 | Fake
+  5 |     100% |   0% |      0% |   81282 | Threat Intelligence Feeds Light
+  6 |      76% |  24% |      0% |    7996 | Analytics/Metrics Extension
+  7 |     100% |   0% |      0% |      18 | Native Tracker Apple (iOS, macOS, tvOS)
+  8 |     100% |   0% |      0% |      68 | Native Tracker Huawei (Devices)
+  9 |      86% |   4% |     10% |      67 | Native Tracker LG webOS
+ 10 |      47% |   0% |     53% |     181 | Native Tracker TikTok (Fingerprinting)
+ 11 |      39% |   0% |     61% |     122 | Native Tracker Microsoft (Windows, Office, MSN)
+ 12 |      96% |   1% |      3% |    6000 | Denylist Base
  13 |      69% |  31% |      0% |    3535 | raw.githubusercontent.com/manic-code/Emerging-Malicious-Domain-Blocklist/main/hosts.txt
  14 |      99% |   0% |      1% |     137 | raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
  15 |      95% |   5% |      0% |      91 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-stats.txt
- 16 |      99% |   0% |      1% |   75781 | badmojr.mini.domains.txt
- 17 |     100% |   0% |      0% |  149207 | tif.medium.txt
- 18 |     100% |   0% |      0% |  315477 | multi.extension.adblock
+ 16 |     100% |   0% |      0% |  149207 | Threat Intelligence Feeds Medium
+ 17 |     100% |   0% |      0% |  175253 | Multi Extension
 ```
 #### PRO
 ```
-1182702 (84%) included | 5548 (0%) removed | 217467 (15%) dead
+1056267 (83%) included | 5623 (0%) removed | 214437 (17%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% | 1053401 | multi.txt
-  2 |     100% |   0% |      0% |   42406 | personal.txt
-  3 |      66% |   2% |     32% |     155 | personal-wildcard-rules.txt
-  4 |     100% |   0% |      0% |   15667 | fake.txt
-  5 |     100% |   0% |      0% |   81282 | tif.light.txt
-  6 |      76% |  24% |      0% |    7952 | analytics-metrics-extension.txt
-  7 |     100% |   0% |      0% |      18 | native.apple.txt
-  8 |     100% |   0% |      0% |      68 | native.huawei.txt
-  9 |      86% |   4% |     10% |      67 | native.lgwebos.txt
- 10 |     100% |   0% |      0% |     181 | native.tiktok.txt
- 11 |      52% |   0% |     48% |     122 | native.winoffice.txt
- 12 |      97% |   1% |      2% |    5993 | black.list
+  1 |     100% |   0% |      0% |  900275 | Predecessor: Multi Normal
+  2 |     100% |   0% |      0% |   42593 | Personal
+  3 |      66% |   2% |     32% |     155 | Personal Wildcard Rules
+  4 |     100% |   0% |      0% |   15667 | Fake
+  5 |     100% |   0% |      0% |   81282 | Threat Intelligence Feeds Light
+  6 |      76% |  24% |      0% |    7996 | Analytics/Metrics Extension
+  7 |     100% |   0% |      0% |      18 | Native Tracker Apple (iOS, macOS, tvOS)
+  8 |     100% |   0% |      0% |      68 | Native Tracker Huawei (Devices)
+  9 |      86% |   4% |     10% |      67 | Native Tracker LG webOS
+ 10 |     100% |   0% |      0% |     181 | Native Tracker TikTok (Fingerprinting)
+ 11 |      52% |   0% |     48% |     122 | Native Tracker Microsoft (Windows, Office, MSN)
+ 12 |      97% |   1% |      2% |    6000 | Denylist Base
  13 |      69% |  31% |      0% |    3535 | raw.githubusercontent.com/manic-code/Emerging-Malicious-Domain-Blocklist/main/hosts.txt
  14 |      99% |   0% |      1% |     137 | raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
  15 |      95% |   5% |      0% |      91 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-stats.txt
- 16 |      99% |   0% |      1% |   75781 | badmojr.mini.domains.txt
- 17 |     100% |   0% |      0% |  149207 | tif.medium.txt
- 18 |     100% |   0% |      0% |  315477 | multi.extension.adblock
- 19 |      98% |   1% |      1% |  105516 | badmojr.lite.domains.txt
- 20 |      95% |   2% |      3% |    3737 | pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
- 21 |      48% |  51% |      1% |  197040 | raw.githubusercontent.com/StevenBlack/hosts/master/hosts
- 22 |      93% |   6% |      1% |  116112 | adguard-extended.domains.txt
- 23 |      87% |  12% |      1% |   86024 | easylist-extended.domains.txt
- 24 |      94% |   5% |      1% |    3373 | ublock-extended.domains.txt
- 25 |      77% |  23% |      0% |    1848 | raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/combined-filters.txt
- 26 |      84% |  15% |      1% |  192370 | raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
- 27 |      78% |  10% |     12% |    4890 | tracking-extension.txt
- 28 |     100% |   0% |      0% |   74530 | popupads-extension.txt
+ 16 |     100% |   0% |      0% |  149207 | Threat Intelligence Feeds Medium
+ 17 |     100% |   0% |      0% |  175253 | Multi Extension
+ 18 |      98% |   1% |      1% |  107206 | 1Hosts Lite
+ 19 |      95% |   2% |      3% |    3737 | pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
+ 20 |      48% |  51% |      1% |  197040 | raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+ 21 |      93% |   6% |      1% |  115416 | AdGuard MultiParty (DNS, Base, International, Annoyances, Mobile, Spyware, Social)
+ 22 |      87% |  12% |      1% |   88202 | EasyList MultiParty (List, Privacy, Interanational, Annoyances, FanBoy, AntiAdBlock, AntiCV)
+ 23 |      94% |   5% |      1% |    3379 | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse)
+ 24 |      77% |  23% |      0% |    1848 | raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/combined-filters.txt
+ 25 |      84% |  15% |      1% |  192370 | raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
+ 26 |      79% |   9% |     12% |    4923 | Tracking Extension
+ 27 |     100% |   0% |      0% |   74618 | Popupads Extension
 ```
 #### PRO.PLUS
 ```
-1424551 (78%) included | 112218 (6%) removed | 299971 (16%) dead
+1303932 (76%) included | 112275 (7%) removed | 297312 (17%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% | 1182702 | pro.txt
-  2 |     100% |   0% |      0% |   42406 | personal.txt
-  3 |      79% |   2% |     19% |     155 | personal-wildcard-rules.txt
-  4 |     100% |   0% |      0% |   15667 | fake.txt
-  5 |     100% |   0% |      0% |   81282 | tif.light.txt
-  6 |      76% |  24% |      0% |    7952 | analytics-metrics-extension.txt
-  7 |     100% |   0% |      0% |      18 | native.apple.txt
-  8 |     100% |   0% |      0% |      68 | native.huawei.txt
-  9 |      96% |   4% |      0% |      67 | native.lgwebos.txt
- 10 |     100% |   0% |      0% |     181 | native.tiktok.txt
- 11 |      79% |   0% |     21% |     122 | native.winoffice.txt
- 12 |      98% |   1% |      1% |    5993 | black.list
+  1 |     100% |   0% |      0% | 1056267 | Predecessor: Multi Pro
+  2 |     100% |   0% |      0% |   42593 | Personal
+  3 |      79% |   2% |     19% |     155 | Personal Wildcard Rules
+  4 |     100% |   0% |      0% |   15667 | Fake
+  5 |     100% |   0% |      0% |   81282 | Threat Intelligence Feeds Light
+  6 |      76% |  24% |      0% |    7996 | Analytics/Metrics Extension
+  7 |     100% |   0% |      0% |      18 | Native Tracker Apple (iOS, macOS, tvOS)
+  8 |     100% |   0% |      0% |      68 | Native Tracker Huawei (Devices)
+  9 |      96% |   4% |      0% |      67 | Native Tracker LG webOS
+ 10 |     100% |   0% |      0% |     181 | Native Tracker TikTok (Fingerprinting)
+ 11 |      79% |   0% |     21% |     122 | Native Tracker Microsoft (Windows, Office, MSN)
+ 12 |      98% |   1% |      1% |    6000 | Denylist Base
  13 |      69% |  31% |      0% |    3535 | raw.githubusercontent.com/manic-code/Emerging-Malicious-Domain-Blocklist/main/hosts.txt
  14 |     100% |   0% |      0% |     137 | raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
  15 |      95% |   5% |      0% |      91 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-stats.txt
- 16 |      99% |   0% |      1% |   75781 | badmojr.mini.domains.txt
- 17 |     100% |   0% |      0% |  149207 | tif.medium.txt
- 18 |     100% |   0% |      0% |  315477 | multi.extension.adblock
- 19 |      98% |   1% |      1% |  105516 | badmojr.lite.domains.txt
- 20 |      95% |   2% |      3% |    3737 | pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
- 21 |      48% |  51% |      1% |  197040 | raw.githubusercontent.com/StevenBlack/hosts/master/hosts
- 22 |      94% |   6% |      0% |  116112 | adguard-extended.domains.txt
- 23 |      87% |  12% |      1% |   86024 | easylist-extended.domains.txt
- 24 |      95% |   5% |      0% |    3373 | ublock-extended.domains.txt
- 25 |      77% |  23% |      0% |    1848 | raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/combined-filters.txt
- 26 |      84% |  15% |      1% |  192370 | raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
- 27 |      78% |  10% |     12% |    4890 | tracking-extension.txt
- 28 |     100% |   0% |      0% |   74530 | popupads-extension.txt
- 29 |      98% |   1% |      1% |  254047 | badmojr.pro.domains.txt
- 30 |      93% |   5% |      2% |   16716 | raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking
- 31 |      47% |  31% |     22% |  490322 | hblock.molinero.dev/hosts_domains.txt
- 32 |      89% |  10% |      1% |   73189 | raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt
- 33 |      93% |   6% |      1% |   18760 | raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
- 34 |      72% |  14% |     14% |       7 | raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
- 35 |      59% |  11% |     30% |      76 | raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt
- 36 |      37% |   0% |     63% |       8 | raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt
- 37 |      96% |   1% |      3% |     507 | gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/notrack-annoyance.txt
- 38 |      97% |   1% |      2% |   16600 | gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
- 39 |      69% |  14% |     17% |      35 | raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
- 40 |      89% |   7% |      4% |     914 | black.list.plus
+ 16 |     100% |   0% |      0% |  149207 | Threat Intelligence Feeds Medium
+ 17 |     100% |   0% |      0% |  175253 | Multi Extension
+ 18 |      98% |   1% |      1% |  107206 | 1Hosts Lite
+ 19 |      95% |   2% |      3% |    3737 | pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
+ 20 |      48% |  51% |      1% |  197040 | raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+ 21 |      94% |   6% |      0% |  115416 | AdGuard MultiParty (DNS, Base, International, Annoyances, Mobile, Spyware, Social)
+ 22 |      87% |  12% |      1% |   88202 | EasyList MultiParty (List, Privacy, Interanational, Annoyances, FanBoy, AntiAdBlock, AntiCV)
+ 23 |      95% |   5% |      0% |    3379 | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse)
+ 24 |      77% |  23% |      0% |    1848 | raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/combined-filters.txt
+ 25 |      84% |  15% |      1% |  192370 | raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
+ 26 |      79% |   9% |     12% |    4923 | Tracking Extension
+ 27 |     100% |   0% |      0% |   74618 | Popupads Extension
+ 28 |      98% |   1% |      1% |  254029 | 1Hosts Pro
+ 29 |      93% |   5% |      2% |   16716 | raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking
+ 30 |      47% |  31% |     22% |  489191 | hblock.molinero.dev/hosts_domains.txt
+ 31 |      89% |  10% |      1% |   73189 | raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt
+ 32 |      93% |   6% |      1% |   18760 | raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
+ 33 |      72% |  14% |     14% |       7 | raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
+ 34 |      59% |  11% |     30% |      76 | raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt
+ 35 |      37% |   0% |     63% |       8 | raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt
+ 36 |      96% |   1% |      3% |     507 | gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/notrack-annoyance.txt
+ 37 |      97% |   1% |      2% |   16600 | gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+ 38 |      69% |  14% |     17% |      35 | raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
+ 39 |      89% |   7% |      4% |     914 | Denylist Aggressive
 ```
 #### ULTIMATE
 ```
-2482615 (81%) included | 111828 (4%) removed | 453189 (15%) dead
+2398156 (81%) included | 111874 (4%) removed | 451812 (15%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% | 1424551 | pro.plus.txt
-  2 |     100% |   0% |      0% |   42406 | personal.txt
-  3 |      88% |   2% |     10% |     155 | personal-wildcard-rules.txt
-  4 |     100% |   0% |      0% |   15667 | fake.txt
-  5 |     100% |   0% |      0% |   81282 | tif.light.txt
-  6 |      76% |  24% |      0% |    7952 | analytics-metrics-extension.txt
-  7 |     100% |   0% |      0% |      18 | native.apple.txt
-  8 |     100% |   0% |      0% |      68 | native.huawei.txt
-  9 |      96% |   4% |      0% |      67 | native.lgwebos.txt
- 10 |     100% |   0% |      0% |     181 | native.tiktok.txt
- 11 |      97% |   0% |      3% |     122 | native.winoffice.txt
- 12 |      98% |   1% |      1% |    5993 | black.list
+  1 |     100% |   0% |      0% | 1303932 | Predecessor: Multi Pro++
+  2 |     100% |   0% |      0% |   42593 | Personal
+  3 |      88% |   2% |     10% |     155 | Personal Wildcard Rules
+  4 |     100% |   0% |      0% |   15667 | Fake
+  5 |     100% |   0% |      0% |   81282 | Threat Intelligence Feeds Light
+  6 |      76% |  24% |      0% |    7996 | Analytics/Metrics Extension
+  7 |     100% |   0% |      0% |      18 | Native Tracker Apple (iOS, macOS, tvOS)
+  8 |     100% |   0% |      0% |      68 | Native Tracker Huawei (Devices)
+  9 |      96% |   4% |      0% |      67 | Native Tracker LG webOS
+ 10 |     100% |   0% |      0% |     181 | Native Tracker TikTok (Fingerprinting)
+ 11 |      97% |   0% |      3% |     122 | Native Tracker Microsoft (Windows, Office, MSN)
+ 12 |      98% |   1% |      1% |    6000 | Denylist Base
  13 |      69% |  31% |      0% |    3535 | raw.githubusercontent.com/manic-code/Emerging-Malicious-Domain-Blocklist/main/hosts.txt
  14 |     100% |   0% |      0% |     137 | raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
  15 |      95% |   5% |      0% |      91 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-stats.txt
- 16 |     100% |   0% |      0% |   75781 | badmojr.mini.domains.txt
- 17 |     100% |   0% |      0% |  149207 | tif.medium.txt
- 18 |     100% |   0% |      0% |  315477 | multi.extension.adblock
- 19 |      98% |   1% |      1% |  105516 | badmojr.lite.domains.txt
- 20 |      97% |   2% |      1% |    3737 | pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
- 21 |      48% |  51% |      1% |  197040 | raw.githubusercontent.com/StevenBlack/hosts/master/hosts
- 22 |      94% |   6% |      0% |  116112 | adguard-extended.domains.txt
- 23 |      87% |  12% |      1% |   86024 | easylist-extended.domains.txt
- 24 |      95% |   5% |      0% |    3373 | ublock-extended.domains.txt
- 25 |      77% |  23% |      0% |    1848 | raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/combined-filters.txt
- 26 |      84% |  15% |      1% |  192370 | raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
- 27 |      78% |  10% |     12% |    4890 | tracking-extension.txt
- 28 |     100% |   0% |      0% |   74530 | popupads-extension.txt
- 29 |      98% |   1% |      1% |  254047 | badmojr.pro.domains.txt
- 30 |      93% |   5% |      2% |   16716 | raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking
- 31 |      47% |  31% |     22% |  490322 | hblock.molinero.dev/hosts_domains.txt
- 32 |      89% |  10% |      1% |   73189 | raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt
- 33 |      93% |   6% |      1% |   18760 | raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
- 34 |      72% |  14% |     14% |       7 | raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
- 35 |      68% |  11% |     21% |      76 | raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt
- 36 |      50% |   0% |     50% |       8 | raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt
- 37 |      96% |   1% |      3% |     507 | gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/notrack-annoyance.txt
- 38 |      98% |   1% |      1% |   16600 | gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
- 39 |      72% |  14% |     14% |      35 | raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
- 40 |      89% |   7% |      4% |     914 | black.list.plus
- 41 |      97% |   2% |      1% |   54871 | secure.fanboy.co.nz/r/fanboy-ultimate.txt
- 42 |     100% |   0% |      0% |       8 | meta-graph-tracker.txt
- 43 |      85% |  13% |      2% |   34221 | ads-tracking-extension.txt
- 44 |      94% |   4% |      2% |     404 | tiktok-fingerprinting.txt
- 45 |     100% |   0% |      0% |   53890 | ultimate.extension.domains
- 46 |     100% |   0% |      0% |  718327 | tif.txt
+ 16 |     100% |   0% |      0% |  149207 | Threat Intelligence Feeds Medium
+ 17 |     100% |   0% |      0% |  175253 | Multi Extension
+ 18 |      98% |   1% |      1% |  107206 | 1Hosts Lite
+ 19 |      97% |   2% |      1% |    3737 | pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
+ 20 |      48% |  51% |      1% |  197040 | raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+ 21 |      94% |   6% |      0% |  115416 | AdGuard MultiParty (DNS, Base, International, Annoyances, Mobile, Spyware, Social)
+ 22 |      87% |  12% |      1% |   88202 | EasyList MultiParty (List, Privacy, Interanational, Annoyances, FanBoy, AntiAdBlock, AntiCV)
+ 23 |      95% |   5% |      0% |    3379 | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse)
+ 24 |      77% |  23% |      0% |    1848 | raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/combined-filters.txt
+ 25 |      84% |  15% |      1% |  192370 | raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
+ 26 |      80% |   9% |     11% |    4923 | Tracking Extension
+ 27 |     100% |   0% |      0% |   74618 | Popupads Extension
+ 28 |      98% |   1% |      1% |  254029 | 1Hosts Pro
+ 29 |      93% |   5% |      2% |   16716 | raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking
+ 30 |      47% |  31% |     22% |  489191 | hblock.molinero.dev/hosts_domains.txt
+ 31 |      89% |  10% |      1% |   73189 | raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt
+ 32 |      93% |   6% |      1% |   18760 | raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
+ 33 |      72% |  14% |     14% |       7 | raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
+ 34 |      68% |  11% |     21% |      76 | raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt
+ 35 |      50% |   0% |     50% |       8 | raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt
+ 36 |      96% |   1% |      3% |     507 | gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/notrack-annoyance.txt
+ 37 |      98% |   1% |      1% |   16600 | gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+ 38 |      72% |  14% |     14% |      35 | raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
+ 39 |      89% |   7% |      4% |     914 | Denylist Aggressive
+ 40 |      97% |   2% |      1% |   54916 | secure.fanboy.co.nz/r/fanboy-Multi Ultimate
+ 41 |     100% |   0% |      0% |       8 | META Graph Tracker (Facebook, Instagram)
+ 42 |      86% |  12% |      2% |   34409 | ads-Tracking Extension
+ 43 |      94% |   4% |      2% |     405 | Native Tracker TikTok Extended (Fingerprinting)
+ 44 |     100% |   0% |      0% |   67780 | Ultimate Extension
+ 45 |     100% |   0% |      0% |  718327 | Threat Intelligence Feeds
 ```
 #### FAKE
 ```
 16937 (57%) included | 607 (2%) removed | 12016 (41%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |      55% |  44% |      1% |    3443 | fake.ts.txt
-  2 |      40% |  53% |      7% |     838 | fake.vzni.txt
-  3 |      49% |  50% |      1% |   15848 | fake.wli.txt
-  4 |      48% |  46% |      6% |    4220 | fake.trd.txt
+  1 |      55% |  44% |      1% |    3443 | Fake Trusted Shops
+  2 |      40% |  53% |      7% |     838 | Fake Verbraucherzentrale Niedersachsen
+  3 |      49% |  50% |      1% |   15848 | Fake Watchlist Internet
+  4 |      48% |  46% |      6% |    4220 | Financial scam/fake (testsieger-konto.de, finanzsache.at)
   5 |      63% |  32% |      5% |    1126 | www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/rizikove.csv
   6 |     100% |   0% |      0% |    4001 | raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/adblock/scams.txt
   7 |     100% |   0% |      0% |    1938 | raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
@@ -194,8 +189,8 @@
 1247208 (47%) included | 10021 (0%) removed | 1423652 (53%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% |  122488 | tif.light.txt
-  2 |     100% |   0% |      0% |  234977 | tif.medium.txt
+  1 |     100% |   0% |      0% |  122488 | Threat Intelligence Feeds Light
+  2 |     100% |   0% |      0% |  234977 | Threat Intelligence Feeds Medium
   3 |      72% |  23% |      5% |     156 | gitlab.com/cmiksche/blacklists/-/raw/master/hosts
   4 |      33% |  67% |      0% |  125109 | hole.cert.pl/domains/domains_hosts.txt
   5 |      46% |  53% |      1% |    2504 | hosts.tweedge.net/malicious.txt
@@ -245,7 +240,7 @@
  49 |      62% |  15% |     23% |      39 | raw.githubusercontent.com/craiu/iocs/main/log4shell/log4j_blocklist.txt
  50 |      67% |  33% |      0% |   35963 | raw.githubusercontent.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist/main/global-anti-scam-org-scam-urls-pihole.txt
  51 |      51% |  49% |      0% |  536282 | raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames.txt
- 52 |      84% |  16% |      0% |    7239 | raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames_light.txt
+ 52 |      84% |  16% |      0% |    7239 | raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames_Predecessor: Multi Light
  53 |      92% |   3% |      5% |    9010 | raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt
  54 |      15% |  85% |      0% |   16413 | raw.githubusercontent.com/ihgalis/pihole_collection/master/Sinking_Yachts_Phishing
  55 |      47% |  50% |      3% |   14240 | raw.githubusercontent.com/infinitytec/blocklists/master/scams-and-phishing.txt
@@ -264,12 +259,12 @@
 234977 (51%) included | 2014 (0%) removed | 223178 (48%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% |  122488 | tif.light.txt
+  1 |     100% |   0% |      0% |  122488 | Threat Intelligence Feeds Light
   2 |      77% |  22% |      1% |   53466 | malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt
   3 |      93% |   6% |      1% |   12147 | malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt
   4 |      89% |   9% |      2% |   15110 | raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
   5 |      92% |   3% |      5% |    9010 | raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt
-  6 |      84% |  16% |      0% |    7239 | raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames_light.txt
+  6 |      84% |  16% |      0% |    7239 | raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames_Predecessor: Multi Light
   7 |      88% |  12% |      0% |     256 | raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/quad9_blocklist.txt
   8 |     100% |   0% |      0% |    1938 | raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
   9 |     100% |   0% |      0% |    4001 | raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/adblock/scams.txt
@@ -292,7 +287,7 @@
   2 |      93% |   6% |      1% |   12147 | malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt
   3 |      89% |   9% |      2% |   15110 | raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
   4 |      92% |   3% |      5% |    9010 | raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt
-  5 |      84% |  16% |      0% |    7239 | raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames_light.txt
+  5 |      84% |  16% |      0% |    7239 | raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames_Predecessor: Multi Light
   6 |      88% |  12% |      0% |     256 | raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/quad9_blocklist.txt
   7 |     100% |   0% |      0% |    1938 | raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
   8 |     100% |   0% |      0% |    4001 | raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/adblock/scams.txt
@@ -324,7 +319,7 @@
  16 |     100% |   0% |      0% |       2 | raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/dns_tunneling_service.txt
  17 |     100% |   0% |      0% |       8 | raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/port_proxy.txt
  18 |     100% |   0% |      0% |     711 | raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt
- 19 |     100% |   0% |      0% |     359 | black.list.dohdot
+ 19 |     100% |   0% |      0% |     359 | Denylist DNS-over-HTTPS
 ```
 #### DOH
 ```
@@ -333,7 +328,7 @@
  Nr | Included | Dead | Removed |   Count | URL/File
   1 |      91% |   9% |      0% |     302 | raw.githubusercontent.com/nextdns/dns-bypass-methods/main/encrypted-dns
   2 |     100% |   0% |      0% |     711 | raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt
-  3 |     100% |   0% |      0% |     359 | black.list.dohdot
+  3 |     100% |   0% |      0% |     359 | Denylist DNS-over-HTTPS
 ```
 #### NOSAFESEARCH
 ```
@@ -350,7 +345,7 @@
   1 |      89% |  11% |      0% |    1663 | raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dynamic
   2 |      98% |   2% |      0% |     790 | raw.githubusercontent.com/nextdns/ddns-domains/main/suffixes
   3 |      99% |   1% |      0% |     597 | raw.githubusercontent.com/iam-py-test/my_filters_001/main/antidynamicdns.txt
-  4 |     100% |   0% |      0% |       4 | black.list.dyndns
+  4 |     100% |   0% |      0% |       4 | Denylist Dynamic DNS
 ```
 #### HOSTER
 ```
@@ -360,7 +355,7 @@
   1 |      99% |   1% |      0% |    1780 | raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Free
   2 |      94% |   6% |      0% |     264 | raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/free_web_hosting.txt
   3 |     100% |   0% |      0% |     175 | raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/hosters.txt
-  4 |      98% |   0% |      2% |      51 | black.list.hoster
+  4 |      98% |   0% |      2% |      51 | Denylist Free Hoster
 ```
 ---
 #### ANTI.PIRACY
@@ -381,7 +376,7 @@
  11 |      77% |  23% |      0% |    2134 | raw.githubusercontent.com/blocklistproject/Lists/master/piracy.txt
  12 |      89% |  11% |      0% |     778 | raw.githubusercontent.com/SM443/Pi-hole-Torrent-Blocklist/main/all-torrent-trackres.txt
  13 |      73% |  27% |      0% |    3814 | raw.githubusercontent.com/SM443/Pi-hole-Torrent-Blocklist/main/all-torrent-websites.txt
- 14 |      83% |  17% |      0% |    1179 | whitelist-torrent_tracker.txt
+ 14 |      83% |  17% |      0% |    1179 | Denylist Torrent Tracker
  15 |      77% |  23% |      0% |    2128 | raw.githubusercontent.com/Entree3k/Pi-hole-Block-List/master/Piracy%20List
  16 |      91% |   9% |      0% |     805 | raw.githubusercontent.com/SM443/BDIX-Piracy-Blocklist/main/bdix_piracy_websites_only-domains.txt
  17 |      92% |   7% |      1% |      68 | github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/AndroidApps.md
@@ -411,18 +406,18 @@
  41 |      97% |   0% |      3% |      32 | github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/UsenetSearchEngines.md
  42 |      93% |   6% |      1% |     104 | github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Warez.md
  43 |      90% |   9% |      1% |      78 | github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/WindowsSoftware.md
- 44 |      98% |   1% |      1% |     415 | black.list.antipiracy
+ 44 |      98% |   1% |      1% |     415 | Denylist Anti Piracy
 ```
 ---
 #### GAMBLING
 ```
-165344 (97%) included | 1 (0%) removed | 5842 (3%) dead
+165425 (97%) included | 1 (0%) removed | 5865 (3%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
   1 |      86% |  14% |      0% |    1431 | raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/gambling/domains
   2 |      91% |   9% |      0% |    2577 | raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts
-  3 |      96% |   4% |      0% |  149644 | raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts
-  4 |      91% |   9% |      0% |    4568 | raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts-VN
+  3 |      96% |   4% |      0% |  149654 | raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts
+  4 |      91% |   9% |      0% |    4578 | raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts-VN
   5 |      91% |   9% |      0% |    2499 | raw.githubusercontent.com/blocklistproject/Lists/master/gambling.txt
   6 |      91% |   9% |      0% |    7139 | raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts
   7 |      95% |   5% |      0% |     422 | black.list.gambling

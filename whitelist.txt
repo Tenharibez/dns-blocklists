@@ -3844,3 +3844,6 @@ streamback.ns1.ff.avast.com
 # email marketing platform like mailchimp
 vbout.com
 
+# https://github.com/hagezi/dns-blocklists/issues/1228
+dojo.cc
+

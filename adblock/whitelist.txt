@@ -4192,3 +4192,7 @@
 @@|vbout.com^
 @@|www.vbout.com^
 
+! https://github.com/hagezi/dns-blocklists/issues/1228
+@@|dojo.cc^
+@@|www.dojo.cc^
+

@@ -1,4 +1,5 @@
 ### All known sources, partially included
+*Sources partially used for compiling the block lists. Every source has its own license, for the individual licenses see the source files or source repositories:*
 ```
 https://abpvn.com/android/abpvn.txt
 https://adaway.org/hosts.txt
