@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 03 Jul 2023 09:23 UTC
-# Version: 2023.0703.0923.58
+# Last modified: 03 Jul 2023 19:51 UTC
+# Version: 2023.0703.1951.05
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 162613
+# Number of entries: 162641
 #
 *.000000tyc.com
 *.00000178.com
@@ -33480,6 +33480,7 @@
 *.3336618.com
 *.3336653.com
 *.3336657.com
+*.333666.buzz
 *.333666a.com
 *.333666b.com
 *.333666d.com
@@ -93808,6 +93809,7 @@
 *.allbet888.site
 *.allbet99.com
 *.allbetgame.vip
+*.allbritishcasino.com
 *.allgames365.com
 *.allhorseracing.ag
 *.alliedk.xyz
@@ -105623,6 +105625,7 @@
 *.cnyfun85.com
 *.cnyfun87.com
 *.cnza6.com
+*.10bet.co.za
 *.www.10bet.co.uk
 *.1xbet.co.ke
 *.22bet.co.ke
@@ -105630,12 +105633,15 @@
 *.bet.co.za
 *.betdaq.co.uk
 *.betflash.co.za
+*.betfred.co.za
 *.betpawa.co.tz
 *.betpawa.co.zm
 *.betpawa.co.zw
 *.bettingworld.co.za
 *.betway.co.ke
+*.betway.co.za
 *.betxchange.co.za
+*.betzone.co.uk
 *.bingotime.co.uk
 *.britsbingo.co.uk
 *.candisbingo.co.uk
@@ -105644,10 +105650,12 @@
 *.coral.co.uk
 *.cupcakebingo.co.uk
 *.desertnightscasino.co.uk
+*.fafabet.co.za
 *.fantasyclubsports.co.uk
 *.fun88.co.uk
 *.galacasino.co.uk
 *.games.co.uk
+*.gbets.co.za
 *.healthlottery.co.uk
 *.interbet.co.za
 *.jackpotbingo.co.uk
@@ -105655,6 +105663,7 @@
 *.justbet.co.za
 *.loonybingo.co.uk
 *.loquaxbingo.co.uk
+*.lulabet.co.za
 *.lutrija.co.me
 *.www.marathonbet.co.uk
 *.mbet.co.za
@@ -105672,14 +105681,20 @@
 *.onlinecasino.co.za
 *.pais.co.il
 *.piggspeak.co.za
+*.playabets.co.za
+*.playsunny.co.uk
 *.pocketvegas.co.uk
+*.pokerbet.co.za
 *.pokerhouse.co.uk
 *.sbobet.co.uk
 *.silversandscasino.co.za
 *.slotsino.co.uk
+*.sportingbet.co.za
 *.sportpesa.co.tz
 *.sportsbet.co.za
+*.springbokcasino.co.za
 *.www.sunbets.co.uk
+*.supabets.co.za
 *.supersoccer.co.uk
 *.tab.co.nz
 *.tabgold.co.za
@@ -105694,6 +105709,8 @@
 *.www.winner.co.uk
 *.worldofsport.co.za
 *.worldsportsbetting.co.za
+*.yebocampaign.co.za
+*.zarcasino.co.za
 *.co3my4xh6j.com
 *.coa8xppxi4.com
 *.coastalsportsbook.com
@@ -117729,6 +117746,7 @@
 *.hipche.xyz
 *.hipodromosanisidro.com
 *.hippobingo.com
+*.hippodromeonline.com
 *.hiqbipgy.com
 *.hira88.com
 *.hit1.club
@@ -128908,8 +128926,9 @@
 *.ku6101.club
 *.ku6101.com
 *.ku6101.net
+*.ku6102.net
 *.ku6106.net
-*.vn.ku6107.net
+*.ku6107.net
 *.ku6108.icu
 *.vn.ku6108.net
 *.ku6110.net
@@ -129078,6 +129097,7 @@
 *.kwbo7.vip
 *.kwfkp.com
 *.kwiff.com
+*.kwiffcasino.com
 *.kwin068.com
 *.kwin268.com
 *.kwin288.com
@@ -138407,6 +138427,7 @@
 *.planetecasino.com
 *.planetofbets.com
 *.planetsoldier.com
+*.planetsportbet.com
 *.planetunreal.com
 *.planetwin365.com
 *.planetwin365.it
@@ -139213,6 +139234,7 @@
 *.pun9475.vip
 *.punchbets.com
 *.punqj.win
+*.puntcampaign.com
 *.purepoker.eu
 *.puresbo.com
 *.purevegascasino.com
@@ -141014,6 +141036,7 @@
 *.rhhseu.com
 *.rhi36.org
 *.rhi918.com
+*.rhino.bet
 *.media.rhinoaffiliates.com
 *.rhjsu.xyz
 *.rhnzk.com
@@ -144009,6 +144032,7 @@
 *.sukses12.com
 *.sultanaffiliates.com
 *.sultanbet.com
+*.sum4.club
 *.summer556.com
 *.sumvine.xyz
 *.sumvip88.club
@@ -145088,6 +145112,7 @@
 *.tais7.top
 *.tais7.vip
 *.taishangjunjun.com
+*.taisum.co
 *.taiuwin.com
 *.taiuwin.xyz
 *.taiv8.com
@@ -145170,8 +145195,9 @@
 *.tb8227.com
 *.tb8848.com
 *.tbab395.com
+*.tbab535.com
 *.tbab679.com
-*.vn.tbab953.com
+*.tbab953.com
 *.ag.tbab999.com
 *.tbbbet.com
 *.tbeyd.com
@@ -160182,6 +160208,7 @@
 *.yesbet88.com
 *.yesbet88.online
 *.yeslala.xyz
+*.yesplay.bet
 *.yeszon.com
 *.yeticasino.com
 *.yeubongda88.net
@@ -162383,6 +162410,7 @@
 *.zot123d.app
 *.zot123g.app
 *.zottl.site
+*.zoty89.com
 *.zou18190.com
 *.zovn789.com
 *.zowinvn.vip

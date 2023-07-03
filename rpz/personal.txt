@@ -74458,8 +74458,6 @@ analytics.yolacdn.net CNAME .
 *.analytics.yolacdn.net CNAME .
 yoochoose.net CNAME .
 *.yoochoose.net CNAME .
-qoe-1.yottaa.net CNAME .
-*.qoe-1.yottaa.net CNAME .
 youmi.net CNAME .
 *.youmi.net CNAME .
 smetrics.yourdot.net CNAME .
