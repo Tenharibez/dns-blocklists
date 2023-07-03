@@ -184,6 +184,77 @@
   6 |     100% |   0% |      0% |    4001 | raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/adblock/scams.txt
   7 |     100% |   0% |      0% |    1938 | raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 ```
+#### TIF.LIGHT
+```
+123816 (79%) included | 1387 (1%) removed | 31986 (20%) dead
+
+ Nr | Included | Dead | Removed |   Count | URL/File
+  1 |      77% |  22% |      1% |   54713 | malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt
+  2 |      93% |   6% |      1% |   12150 | malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt
+  3 |      89% |   9% |      2% |   15124 | raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
+  4 |      92% |   3% |      5% |    9010 | raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt
+  5 |      84% |  16% |      0% |    7234 | raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames_Predecessor: Multi Light
+  6 |      88% |  12% |      0% |     256 | raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/quad9_blocklist.txt
+  7 |     100% |   0% |      0% |    1938 | raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
+  8 |     100% |   0% |      0% |    4001 | raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/adblock/scams.txt
+  9 |      91% |   7% |      2% |     409 | raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+ 10 |      46% |  53% |      1% |    2504 | hosts.tweedge.net/malicious.txt
+ 11 |      99% |   0% |      1% |     513 | urlhaus.abuse.ch/downloads/hostfile
+ 12 |      94% |   3% |      3% |     115 | osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
+```
+#### TIF.MEDIUM
+```
+236297 (51%) included | 2019 (0%) removed | 223114 (48%) dead
+
+ Nr | Included | Dead | Removed |   Count | URL/File
+  1 |     100% |   0% |      0% |  123816 | Threat Intelligence Feeds Light
+  2 |      77% |  22% |      1% |   54713 | malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt
+  3 |      93% |   6% |      1% |   12150 | malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt
+  4 |      89% |   9% |      2% |   15124 | raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
+  5 |      92% |   3% |      5% |    9010 | raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt
+  6 |      84% |  16% |      0% |    7234 | raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames_Predecessor: Multi Light
+  7 |      88% |  12% |      0% |     256 | raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/quad9_blocklist.txt
+  8 |     100% |   0% |      0% |    1938 | raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
+  9 |     100% |   0% |      0% |    4001 | raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/adblock/scams.txt
+ 10 |      46% |  53% |      1% |    2504 | hosts.tweedge.net/malicious.txt
+ 11 |      99% |   0% |      1% |     513 | urlhaus.abuse.ch/downloads/hostfile
+ 12 |      94% |   3% |      3% |     115 | osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
+ 13 |      39% |  61% |      0% |  142302 | phishing.army/download/phishing_army_blocklist.txt
+ 14 |      50% |  49% |      1% |    8543 | threatfox.abuse.ch/downloads/hostfile
+ 15 |      78% |  22% |      0% |   36255 | threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txt
+ 16 |      33% |  67% |      0% |  125155 | hole.cert.pl/domains/domains_hosts.txt
+ 17 |      89% |   5% |      6% |    2658 | raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
+ 18 |      88% |  11% |      1% |     212 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-ahnlab.txt
+ 19 |       0% |   0% |      0% |       0 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-akamai.txt
+ 20 |      45% |  55% |      0% |    4326 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-amnenstytech.txt
+ 21 |      63% |  36% |      1% |     787 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certagid.txt
+ 22 |      29% |  70% |      1% |     387 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certego.txt
+ 23 |      57% |  41% |      2% |     260 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certua.txt
+ 24 |      81% |  19% |      0% |      32 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-checkpoint.txt
+ 25 |      20% |  80% |      0% |    1009 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-citizenlabs.txt
+ 26 |      62% |  38% |      0% |    1831 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-csirt.txt
+ 27 |      66% |  33% |      1% |     402 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-cyble.txt
+ 28 |      73% |  27% |      0% |      11 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-cyfirma.txt
+ 29 |      41% |  57% |      2% |     266 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-drweb.txt
+ 30 |      59% |  38% |      3% |     232 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-eset.txt
+ 31 |      45% |  55% |      0% |    2944 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-hp.txt
+ 32 |      73% |  27% |      0% |     209 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-kaspersky.txt
+ 33 |      47% |  52% |      1% |    9307 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-main.txt
+ 34 |      72% |  28% |      0% |      53 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-mandiant.txt
+ 35 |      42% |  58% |      0% |    2083 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-malware-traffic.txt
+ 36 |      63% |  36% |      1% |     302 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-microsoft.txt
+ 37 |      11% |  89% |      0% |    1236 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-orangecyber.txt
+ 38 |      54% |  31% |     15% |      39 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-orangelog4shell.txt
+ 39 |      43% |  56% |      1% |    5441 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-Personal
+ 40 |      17% |  83% |      0% |     864 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-sentinelone.txt
+ 41 |      20% |  76% |      4% |      67 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-sophos.txt
+ 42 |      85% |  15% |      0% |      39 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-symantec.txt
+ 43 |      39% |  59% |      2% |     260 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-tag.txt
+ 44 |      44% |  56% |      0% |     507 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42-playbook.txt
+ 45 |      11% |  89% |      0% |   23220 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42-silverterrier.txt
+ 46 |      53% |  46% |      1% |     946 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-yoroi.txt
+ 47 |      33% |  66% |      1% |    5973 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-zscaler.txt
+```
 #### TIF
 ```
 1249481 (47%) included | 10034 (0%) removed | 1421184 (53%) dead
@@ -294,77 +365,6 @@
 103 |      72% |  28% |      0% |     493 | raw.githubusercontent.com/braveinnovators/url-blocklist/main/filters/url-blocklist-domains.txt
 104 |      61% |  39% |      0% |   51747 | Scam Extension
 105 |      85% |  12% |      3% |   20005 | Denylist Malware
-```
-#### TIF.MEDIUM
-```
-236297 (51%) included | 2019 (0%) removed | 223114 (48%) dead
-
- Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% |  123816 | Threat Intelligence Feeds Light
-  2 |      77% |  22% |      1% |   54713 | malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt
-  3 |      93% |   6% |      1% |   12150 | malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt
-  4 |      89% |   9% |      2% |   15124 | raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
-  5 |      92% |   3% |      5% |    9010 | raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt
-  6 |      84% |  16% |      0% |    7234 | raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames_Predecessor: Multi Light
-  7 |      88% |  12% |      0% |     256 | raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/quad9_blocklist.txt
-  8 |     100% |   0% |      0% |    1938 | raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
-  9 |     100% |   0% |      0% |    4001 | raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/adblock/scams.txt
- 10 |      46% |  53% |      1% |    2504 | hosts.tweedge.net/malicious.txt
- 11 |      99% |   0% |      1% |     513 | urlhaus.abuse.ch/downloads/hostfile
- 12 |      94% |   3% |      3% |     115 | osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
- 13 |      39% |  61% |      0% |  142302 | phishing.army/download/phishing_army_blocklist.txt
- 14 |      50% |  49% |      1% |    8543 | threatfox.abuse.ch/downloads/hostfile
- 15 |      78% |  22% |      0% |   36255 | threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txt
- 16 |      33% |  67% |      0% |  125155 | hole.cert.pl/domains/domains_hosts.txt
- 17 |      89% |   5% |      6% |    2658 | raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
- 18 |      88% |  11% |      1% |     212 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-ahnlab.txt
- 19 |       0% |   0% |      0% |       0 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-akamai.txt
- 20 |      45% |  55% |      0% |    4326 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-amnenstytech.txt
- 21 |      63% |  36% |      1% |     787 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certagid.txt
- 22 |      29% |  70% |      1% |     387 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certego.txt
- 23 |      57% |  41% |      2% |     260 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certua.txt
- 24 |      81% |  19% |      0% |      32 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-checkpoint.txt
- 25 |      20% |  80% |      0% |    1009 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-citizenlabs.txt
- 26 |      62% |  38% |      0% |    1831 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-csirt.txt
- 27 |      66% |  33% |      1% |     402 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-cyble.txt
- 28 |      73% |  27% |      0% |      11 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-cyfirma.txt
- 29 |      41% |  57% |      2% |     266 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-drweb.txt
- 30 |      59% |  38% |      3% |     232 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-eset.txt
- 31 |      45% |  55% |      0% |    2944 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-hp.txt
- 32 |      73% |  27% |      0% |     209 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-kaspersky.txt
- 33 |      47% |  52% |      1% |    9307 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-main.txt
- 34 |      72% |  28% |      0% |      53 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-mandiant.txt
- 35 |      42% |  58% |      0% |    2083 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-malware-traffic.txt
- 36 |      63% |  36% |      1% |     302 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-microsoft.txt
- 37 |      11% |  89% |      0% |    1236 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-orangecyber.txt
- 38 |      54% |  31% |     15% |      39 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-orangelog4shell.txt
- 39 |      43% |  56% |      1% |    5441 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-Personal
- 40 |      17% |  83% |      0% |     864 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-sentinelone.txt
- 41 |      20% |  76% |      4% |      67 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-sophos.txt
- 42 |      85% |  15% |      0% |      39 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-symantec.txt
- 43 |      39% |  59% |      2% |     260 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-tag.txt
- 44 |      44% |  56% |      0% |     507 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42-playbook.txt
- 45 |      11% |  89% |      0% |   23220 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42-silverterrier.txt
- 46 |      53% |  46% |      1% |     946 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-yoroi.txt
- 47 |      33% |  66% |      1% |    5973 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-zscaler.txt
-```
-#### TIF.LIGHT
-```
-123816 (79%) included | 1387 (1%) removed | 31986 (20%) dead
-
- Nr | Included | Dead | Removed |   Count | URL/File
-  1 |      77% |  22% |      1% |   54713 | malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt
-  2 |      93% |   6% |      1% |   12150 | malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt
-  3 |      89% |   9% |      2% |   15124 | raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
-  4 |      92% |   3% |      5% |    9010 | raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt
-  5 |      84% |  16% |      0% |    7234 | raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames_Predecessor: Multi Light
-  6 |      88% |  12% |      0% |     256 | raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/quad9_blocklist.txt
-  7 |     100% |   0% |      0% |    1938 | raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
-  8 |     100% |   0% |      0% |    4001 | raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/adblock/scams.txt
-  9 |      91% |   7% |      2% |     409 | raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
- 10 |      46% |  53% |      1% |    2504 | hosts.tweedge.net/malicious.txt
- 11 |      99% |   0% |      1% |     513 | urlhaus.abuse.ch/downloads/hostfile
- 12 |      94% |   3% |      3% |     115 | osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
 ```
 #### DOH-VPN-PROXY-BYPASS
 ```
@@ -481,16 +481,16 @@
 ---
 #### GAMBLING
 ```
-165425 (97%) included | 1 (0%) removed | 5865 (3%) dead
+165485 (97%) included | 1 (0%) removed | 5865 (3%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
   1 |      86% |  14% |      0% |    1431 | raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/gambling/domains
   2 |      91% |   9% |      0% |    2577 | raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts
-  3 |      96% |   4% |      0% |  149654 | raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts
-  4 |      91% |   9% |      0% |    4578 | raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts-VN
+  3 |      96% |   4% |      0% |  149774 | raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts
+  4 |      92% |   8% |      0% |    4598 | raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts-VN
   5 |      91% |   9% |      0% |    2499 | raw.githubusercontent.com/blocklistproject/Lists/master/gambling.txt
   6 |      91% |   9% |      0% |    7139 | raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts
-  7 |      95% |   5% |      0% |     422 | black.list.gambling
+  7 |      95% |   5% |      0% |     422 | Denylist Gambling
 ```
 ---
 ### Credits
