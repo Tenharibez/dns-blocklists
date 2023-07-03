@@ -3847,3 +3847,6 @@ vbout.com
 # https://github.com/hagezi/dns-blocklists/issues/1228
 dojo.cc
 
+# https://github.com/hagezi/dns-blocklists/issues/1231
+qoe-1.yottaa.net
+
