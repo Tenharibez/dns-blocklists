@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 26 Jun 2023 21:21 UTC
-# Version: 2023.0626.2121.55
+# Last modified: 04 Jul 2023 21:53 UTC
+# Version: 2023.0704.2153.05
 # Syntax: DNSMasq
-# Number of entries: 1568
+# Number of entries: 1567
 #
 address=/0000000000000000000000.com/#
 address=/0rg.us/#
@@ -121,7 +121,6 @@ address=/baden.ru/#
 address=/bagus.org/#
 address=/baikabibai.com/#
 address=/bakli.ru/#
-address=/bandweite.de/#
 address=/barbaforte.org/#
 address=/barratella.com/#
 address=/barrel-of-knowledge.info/#
