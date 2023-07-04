@@ -3869,3 +3869,12 @@ connect-line.gr
 # Huawei Weather Widget/App
 hw.zuimeitianqi.com
 
+# Subtitle on youku online video platform app
+sub.ykimg.com
+
+# https://github.com/hagezi/dns-blocklists/issues/1239
+www.smartnews.be
+
+# https://github.com/hagezi/dns-blocklists/issues/1238
+cdn.listrakbi.com
+
