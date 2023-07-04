@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 03 Jul 2023 21:49 UTC
-# Version: 2023.0703.2149.19
+# Last modified: 04 Jul 2023 21:54 UTC
+# Version: 2023.0704.2154.51
 # Syntax: Domains (without subdomains)
-# Number of entries: 6838
+# Number of entries: 6826
 #
 zer0day.000webhostapp.com
 0123456789nonexistent.com
@@ -280,9 +280,7 @@ creative.7o7.cx
 7track.org
 7ur.ru
 87av.com
-open.8a.is
 8ebooks.net
-8hacks.com
 8kun.top
 8millimeters.com
 8putlocker.com
@@ -300,7 +298,6 @@ h85-235-17-132.cust.a3fiber.se
 a8bt.com
 aaa.army
 aarsen.me
-abandon5000.com
 abandonhouse.com
 abbaspc.net
 abcflixbd.com
@@ -323,7 +320,6 @@ acglover.top
 acgnx.se
 opentracker.acgnx.com
 open.acgnxtracker.com
-acgsou.com
 open.acgtracker.com
 torrenttracker.nwc.acsalaska.net
 activembd.com
@@ -413,7 +409,6 @@ alphaomega.me
 alpharatio.cc
 alt-torrent.com
 altbinz.net
-altermind.net
 alterupload.com
 tracker.altrosky.nl
 amaderftp.net
@@ -491,7 +486,6 @@ animelatino.org
 animelayer.ru
 animelon.com
 animemolecules.com
-animemoviespot.com
 animencodes.com
 animeout.xyz
 animeow.me
@@ -503,7 +497,6 @@ animereborn.net
 animerush.tv
 animes.so
 torrents.animes-bg.com
-animesa.ga
 animeshow.tv
 animesim.com
 animesimple.com
@@ -566,7 +559,6 @@ apkocean.net
 apkpure.com
 apksum.com
 appdb.to
-applelinkbd.net
 applenetbd.com
 appmeter.ru
 free.appnee.com
@@ -657,7 +649,6 @@ autocadbmsa.com
 autocadbnaqk.com
 autocadgou.com
 autocadtfesvb.com
-autocadtymafq.com
 avabdnet.com
 avantabg.com
 avatar-bg.org
@@ -673,12 +664,10 @@ awesome-hd.com
 awesome-hd.me
 axell24.ru
 axemovies.net
-axxo.me
 axxomovies.org
 azibtorrent.com
 azm.to
 azmovies.xyz
-azshare.info
 b2s-share.com
 b98.tv
 baberepublic.com
@@ -762,7 +751,6 @@ bedownload.net
 bedro.cloud
 beeflix.biz
 tracker.beeimg.com
-beemp3.cc
 beemp3s.org
 beetvapk.net
 bellator.com
