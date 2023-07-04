@@ -4203,3 +4203,20 @@
 @@|omns.americanexpress.com^
 @@|americanexpress.com.ssl.d2.sc.omtrdc.net^
 
+! Login page of the Tresorit Android app
+@@|log.tresorit.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1234
+@@|client-stream-events.mtg-api.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1236
+@@|jagoketik.com^
+@@|www.jagoketik.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1237
+@@|connect-line.gr^
+@@|www.connect-line.gr^
+
+! Huawei Weather Widget/App
+@@|hw.zuimeitianqi.com^
+
