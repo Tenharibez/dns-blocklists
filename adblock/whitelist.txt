@@ -4199,3 +4199,7 @@
 ! https://github.com/hagezi/dns-blocklists/issues/1231
 @@|qoe-1.yottaa.net^
 
+! https://github.com/hagezi/dns-blocklists/issues/1233
+@@|omns.americanexpress.com^
+@@|americanexpress.com.ssl.d2.sc.omtrdc.net^
+
