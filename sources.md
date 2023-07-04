@@ -1,6 +1,7 @@
 ### All known sources, partially included
 *Sources that were investigated and partially used for compiling the block lists. Every source has its own license, for the individual licenses see the source files or source repositories:*
 ```
+
 https://abpvn.com/android/abpvn.txt
 https://adaway.org/hosts.txt
 https://adblock.ee/list.php
@@ -494,6 +495,7 @@ https://raw.githubusercontent.com/SM443/BDIX-Piracy-Blocklist/main/bdix_piracy_w
 https://raw.githubusercontent.com/SM443/Pi-hole-Torrent-Blocklist/main/all-torrent-trackres.txt
 https://raw.githubusercontent.com/SM443/Pi-hole-Torrent-Blocklist/main/all-torrent-websites.txt
 https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt
+https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt
 https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt
 https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/anonymous_web_proxy.txt
@@ -558,7 +560,6 @@ https://stanev.org/abp/adblock_bg.txt
 http://stanev.org/abp/adblock_bg.txt
 https://threatfox.abuse.ch/downloads/hostfile
 https://threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txt
-https://threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txttors/master/generated/hosts_full
 https://tor.taxi/avoid
 https://urlhaus.abuse.ch/downloads/hostfile
 https://v.firebog.net/hosts/Admiral.txt
