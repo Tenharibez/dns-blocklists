@@ -14,6 +14,7 @@ https://assets.windscribe.com/custom_blocklists/clickbait.txt
 https://azorult-tracker.net/api/list/domain?format=plain
 https://big.oisd.nl
 https://big.oisd.nl/domains
+https://big.oisd.nl/domainswild2
 https://blocklistproject.github.io/Lists/adguard/abuse-ags.txt
 https://blocklistproject.github.io/Lists/adguard/fraud-ags.txt
 https://blocklistproject.github.io/Lists/adguard/malware-ags.txt
@@ -553,6 +554,7 @@ https://secure.fanboy.co.nz/fanboy-social.txt
 https://secure.fanboy.co.nz/r/fanboy-ultimate.txt
 https://small.oisd.nl
 https://small.oisd.nl/domains
+https://small.oisd.nl/domainswild2
 https://smokingwheels.github.io/Pi-hole/multiedit
 https://someonewhocares.org/hosts/hosts
 https://someonewhocares.org/hosts/zero/hosts
