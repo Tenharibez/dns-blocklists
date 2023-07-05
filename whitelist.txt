@@ -3885,3 +3885,18 @@ ogp.me
 # https://github.com/hagezi/dns-blocklists/issues/1241
 su.ff.avast.com
 
+# https://www.reddit.com/r/nextdns/comments/14r6c76/wrong_blacklisted_website_httpsvcreatekcom/
+vcreatek.com
+
+# Smart TV (Tivù Sat italiana): the television does not remember the MediaSet login credentials if blocked
+enabler.datalake.mediaset.it
+
+# https://github.com/hagezi/dns-blocklists/issues/1243
+smartplugin.youbora.com
+
+# Instituto Fe y Libertad in Guatemala
+feylibertad.org
+
+# Uservoice
+uservoice.com
+
