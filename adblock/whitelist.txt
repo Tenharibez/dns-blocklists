@@ -620,6 +620,8 @@
 @@|canyoublockit.com^
 @@|www.canyoublockit.com^
 @@|bgp.he.net^
+@@|24auto.de^
+@@|www.24auto.de^
 
 ! NextDNS
 @@||nextdns.io^
