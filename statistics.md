@@ -1,74 +1,74 @@
 ### Statistics
 #### LIGHT
 ```
-620358 (96%) included | 561 (0%) removed | 25481 (4%) dead
+616361 (96%) included | 594 (0%) removed | 25491 (4%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% |   43992 | Personal
+  1 |     100% |   0% |      0% |   41489 | Personal
   2 |      62% |   3% |     35% |     155 | Personal Wildcard Rules
   3 |     100% |   0% |      0% |   15172 | Fake
   4 |     100% |   0% |      0% |   85191 | Threat Intelligence Feeds Light
-  5 |      76% |  24% |      0% |    8014 | Analytics/Metrics Extension
+  5 |      76% |  24% |      0% |    8043 | Analytics/Metrics Extension
   6 |     100% |   0% |      0% |      18 | Native Tracker Apple (iOS, macOS, tvOS)
   7 |     100% |   0% |      0% |      68 | Native Tracker Huawei (Devices)
   8 |      86% |   4% |     10% |      67 | Native Tracker LG webOS
   9 |      47% |   0% |     53% |     181 | Native Tracker TikTok (Fingerprinting)
  10 |      39% |   0% |     61% |     122 | Native Tracker Microsoft (Windows, Office, MSN)
- 11 |      96% |   1% |      3% |    6002 | Denylist Base
+ 11 |      96% |   1% |      3% |    6005 | Denylist Base
  12 |      69% |  31% |      0% |    3535 | raw.githubusercontent.com/manic-code/Emerging-Malicious-Domain-Blocklist/main/hosts.txt
  13 |      99% |   0% |      1% |     137 | raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
  14 |      95% |   5% |      0% |      91 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-stats.txt
 ```
 #### MULTI
 ```
-1018118 (95%) included | 2960 (0%) removed | 47031 (4%) dead
+1021711 (95%) included | 2964 (0%) removed | 49806 (5%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% |  620358 | Predecessor: Multi Light
-  2 |     100% |   0% |      0% |   43992 | Personal
+  1 |     100% |   0% |      0% |  616361 | Predecessor: Multi Light
+  2 |     100% |   0% |      0% |   41489 | Personal
   3 |      62% |   3% |     35% |     155 | Personal Wildcard Rules
   4 |     100% |   0% |      0% |   15172 | Fake
-  5 |      76% |  24% |      0% |    8014 | Analytics/Metrics Extension
+  5 |      76% |  24% |      0% |    8043 | Analytics/Metrics Extension
   6 |     100% |   0% |      0% |      18 | Native Tracker Apple (iOS, macOS, tvOS)
   7 |     100% |   0% |      0% |      68 | Native Tracker Huawei (Devices)
   8 |      86% |   4% |     10% |      67 | Native Tracker LG webOS
   9 |      47% |   0% |     53% |     181 | Native Tracker TikTok (Fingerprinting)
  10 |      39% |   0% |     61% |     122 | Native Tracker Microsoft (Windows, Office, MSN)
- 11 |      96% |   1% |      3% |    6002 | Denylist Base
+ 11 |      96% |   1% |      3% |    6005 | Denylist Base
  12 |      69% |  31% |      0% |    3535 | raw.githubusercontent.com/manic-code/Emerging-Malicious-Domain-Blocklist/main/hosts.txt
  13 |      99% |   0% |      1% |     137 | raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
  14 |      95% |   5% |      0% |      91 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-stats.txt
  15 |     100% |   0% |      0% |  153214 | Threat Intelligence Feeds Medium
- 16 |      99% |   0% |      1% |  259596 | Balanced Extension
+ 16 |      99% |   0% |      1% |  266382 | Balanced Extension
 ```
 #### PRO
 ```
-1173262 (84%) included | 6023 (0%) removed | 215989 (15%) dead
+1177546 (84%) included | 6022 (0%) removed | 216476 (15%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% | 1018118 | Predecessor: Multi Normal
-  2 |     100% |   0% |      0% |   43992 | Personal
+  1 |     100% |   0% |      0% | 1021711 | Predecessor: Multi Normal
+  2 |     100% |   0% |      0% |   41489 | Personal
   3 |      65% |   3% |     32% |     155 | Personal Wildcard Rules
   4 |     100% |   0% |      0% |   15172 | Fake
-  5 |      76% |  24% |      0% |    8014 | Analytics/Metrics Extension
+  5 |      76% |  24% |      0% |    8043 | Analytics/Metrics Extension
   6 |     100% |   0% |      0% |      18 | Native Tracker Apple (iOS, macOS, tvOS)
   7 |     100% |   0% |      0% |      68 | Native Tracker Huawei (Devices)
   8 |      86% |   4% |     10% |      67 | Native Tracker LG webOS
   9 |     100% |   0% |      0% |     181 | Native Tracker TikTok (Fingerprinting)
  10 |      52% |   0% |     48% |     122 | Native Tracker Microsoft (Windows, Office, MSN)
- 11 |      97% |   1% |      2% |    6002 | Denylist Base
+ 11 |      97% |   1% |      2% |    6005 | Denylist Base
  12 |      69% |  31% |      0% |    3535 | raw.githubusercontent.com/manic-code/Emerging-Malicious-Domain-Blocklist/main/hosts.txt
  13 |      99% |   0% |      1% |     137 | raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
  14 |      95% |   5% |      0% |      91 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-stats.txt
  15 |     100% |   0% |      0% |  153214 | Threat Intelligence Feeds Medium
- 16 |      99% |   0% |      1% |  259596 | Balanced Extension
- 17 |      98% |   1% |      1% |  105283 | 1Hosts Lite
+ 16 |      99% |   0% |      1% |  266382 | Balanced Extension
+ 17 |      98% |   1% |      1% |  108548 | 1Hosts Lite
  18 |      48% |  51% |      1% |  197040 | raw.githubusercontent.com/StevenBlack/hosts/master/hosts
- 19 |      93% |   6% |      1% |  114211 | AdGuard MultiParty (DNS, Base, International, Annoyances, Mobile, Spyware, Social)
- 20 |      87% |  12% |      1% |   89355 | EasyList MultiParty (List, Privacy, Interanational, Annoyances, FanBoy, AntiAdBlock, AntiCV)
- 21 |      96% |   3% |      1% |    3336 | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse)
+ 19 |      93% |   6% |      1% |  114249 | AdGuard MultiParty (DNS, Base, International, Annoyances, Mobile, Spyware, Social)
+ 20 |      87% |  12% |      1% |   89387 | EasyList MultiParty (List, Privacy, Interanational, Annoyances, FanBoy, AntiAdBlock, AntiCV)
+ 21 |      96% |   3% |      1% |    3337 | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse)
  22 |      84% |  15% |      1% |  188658 | raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
- 23 |      78% |  10% |     12% |    4933 | Tracking Extension
+ 23 |      78% |  10% |     12% |    4951 | Tracking Extension
  24 |     100% |   0% |      0% |   75181 | Popupads Extension
 ```
 #### PRO.PLUS

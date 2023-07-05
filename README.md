@@ -36,9 +36,9 @@
 #### ***Multi blocklist version and size overview:***
 | Version | Domains<br>Compressed | Pro++ | Pro | Normal | Light | [Fake](#fake) | [TIF<br>full](#tif) | [TIF<br>med.](#tif) | [Personal](#personal) | [Native](#native) |
 |:--------|---:|:---:|:------:|:-----:|:----:|:---:|:------:|:----------:|:----------:|:----------:|
-| [Light](#light)             | 620358<br>142189     | |   |   |  | :green_circle: | | :yellow_square: | :green_circle: | :yellow_square: |
-| [Normal](#normal)       | 1018118<br>368281     | |   |  | :green_circle: | :green_circle: | | :green_circle: | :green_circle: | :yellow_square: |
-| [Pro](#pro)              | 1173262<br>447858         | |  | :green_circle: | :green_circle: | :green_circle: | | :green_circle: | :green_circle: | :yellow_square: |
+| [Light](#light)             | 616361<br>139679     | |   |   |  | :green_circle: | | :yellow_square: | :green_circle: | :yellow_square: |
+| [Normal](#normal)       | 1021711<br>370515     | |   |  | :green_circle: | :green_circle: | | :green_circle: | :green_circle: | :yellow_square: |
+| [Pro](#pro)              | 1177546<br>446484         | |  | :green_circle: | :green_circle: | :green_circle: | | :green_circle: | :green_circle: | :yellow_square: |
 | [Pro++](#proplus)    | 1425684<br>504116 | | :green_circle: | :green_circle: | :green_circle: | :green_circle: | | :green_circle: | :green_circle: | :green_circle: |
 | [Ultimate](#ultimate)    | 2486196<br>989528 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |
            
@@ -51,7 +51,7 @@
       
 *Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics, some Malware and Fake.*
           
-**Entries:** *620358 domains/hosts - 142189 compressed domains* | [Statistics](https://github.com/hagezi/dns-blocklists/blob/main/statistics.md#light)         
+**Entries:** *616361 domains/hosts - 139679 compressed domains* | [Statistics](https://github.com/hagezi/dns-blocklists/blob/main/statistics.md#light)         
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -68,7 +68,7 @@
       
 *Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *1018118 domains/hosts - 368281 compressed domains* | [Statistics](https://github.com/hagezi/dns-blocklists/blob/main/statistics.md#multi)        
+**Entries:** *1021711 domains/hosts - 370515 compressed domains* | [Statistics](https://github.com/hagezi/dns-blocklists/blob/main/statistics.md#multi)        
           
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -85,7 +85,7 @@
       
 *Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *1173262 domains/hosts - 447858 compressed domains* | [Statistics](https://github.com/hagezi/dns-blocklists/blob/main/statistics.md#pro)        
+**Entries:** *1177546 domains/hosts - 446484 compressed domains* | [Statistics](https://github.com/hagezi/dns-blocklists/blob/main/statistics.md#pro)        
            
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -363,7 +363,7 @@
 ### ***Personal - My manually maintained denylist*** <a name="personal"></a>
 *My personal blocklist, an extension for known blocklists. Blocks ads, trackers, native device trackers, badware and more. Not intended to be used as a standalone blocklist, it serves as a addition for other blocklists!*         
         
-**Entries:** *43992 compressed domains*
+**Entries:** *41489 compressed domains*
        
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
