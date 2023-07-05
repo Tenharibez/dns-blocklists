@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 04 Jul 2023 21:54 UTC
-# Version: 2023.0704.2154.51
+# Last modified: 05 Jul 2023 21:50 UTC
+# Version: 2023.0705.2150.51
 # Syntax: DNSMasq
-# Number of entries: 6826
+# Number of entries: 6811
 #
 address=/zer0day.000webhostapp.com/#
 address=/0123456789nonexistent.com/#
@@ -765,7 +765,6 @@ address=/best-movies.watch/#
 address=/best-moviez.ws/#
 address=/best-series.me/#
 address=/tracker.best-torrents.net/#
-address=/bestcracks.net/#
 address=/bestdjmix.com/#
 address=/bestfilez.net/#
 address=/bestfreestreaming.com/#
@@ -891,7 +890,6 @@ address=/tracker.blacksparrowmedia.net/#
 address=/blacktiesports.net/#
 address=/tracker.blackunicorn.xyz/#
 address=/blackz.ro/#
-address=/blades-heaven.com/#
 address=/blagblagblag.org/#
 address=/blockbuster.to/#
 address=/100-postal2.blogspot.com/#
@@ -949,7 +947,6 @@ address=/blu-torrents.net/#
 address=/bludv.com/#
 address=/blue-bytez.com/#
 address=/blue-whitegt.com/#
-address=/blue1city.net/#
 address=/bluebird-hd.org/#
 address=/tracker.bluefrog.pw/#
 address=/blues-brothers.biz/#
@@ -986,7 +983,6 @@ address=/bomplay.com/#
 address=/bondhuitbd.com/#
 address=/bonjourmissmary.com/#
 address=/bonsaihd.fun/#
-address=/bonsaihd.live/#
 address=/bookddl.com/#
 address=/bookgrill.com/#
 address=/books-share.com/#
@@ -997,7 +993,6 @@ address=/bootytape.com/#
 address=/bootytorrents.com/#
 address=/labs.boramalper.org/#
 address=/borntonull.com/#
-address=/bossbd.live/#
 address=/bossbd.net/#
 address=/bosscast.eu/#
 address=/bosscast.net/#
@@ -1043,7 +1038,6 @@ address=/btdig.com/#
 address=/btdigg.org/#
 address=/btdoor.cc/#
 address=/btekbd.com/#
-address=/btekinternet.com/#
 address=/bteye.org/#
 address=/btfensi.com/#
 address=/btgigs.info/#
@@ -1094,7 +1088,6 @@ address=/burningseries.ma/#
 address=/burningseries.sx/#
 address=/burningseries.vc/#
 address=/bushtorrent.com/#
-address=/scrapcomputers.busydizzys.com/#
 address=/butterproject.org/#
 address=/buycheapadobesoftware.com/#
 address=/bwtorrents.com/#
@@ -1241,7 +1234,6 @@ address=/tracker.cloudit.top/#
 address=/cloudtorrents.com/#
 address=/cloudvideo.tv/#
 address=/hd.club.tw/#
-address=/torrent-comet.club-23.org/#
 address=/club-mst3k.com/#
 address=/clubfilm.ir/#
 address=/bruh.cluster.ws/#
@@ -1255,7 +1247,6 @@ address=/cmovieshd.bz/#
 address=/cmovieshd.net/#
 address=/fh2.cmp-gaming.com/#
 address=/cnetworkbd.net/#
-address=/cnp.cx/#
 address=/althub.co.za/#
 address=/mirror.aptus.co.tz/#
 address=/bioquantum.co.za/#
@@ -1337,13 +1328,10 @@ address=/slnisp.com.bd/#
 address=/thepiratebays.com.se/#
 address=/tnetwork.com.bd/#
 address=/triangle.com.bd/#
-address=/tracker1.wasabii.com.tw/#
-address=/tracker2.wasabii.com.tw/#
 address=/watchmovies1.com.pk/#
 address=/wormsblast.com.pl/#
 address=/www.midea123.z-media.com.cn/#
 address=/zenkimex.com.mx/#
-address=/zoomonline.com.bd/#
 address=/comandofilmetorrent.com/#
 address=/comandohdtorrents.com/#
 address=/comandotorrenthd.net/#
@@ -1373,11 +1361,9 @@ address=/conspiracyhub.com/#
 address=/contego.ws/#
 address=/convivea.com/#
 address=/conway-sports.com/#
-address=/coolmoviejagg.pro/#
 address=/coolmoviezone.online/#
 address=/coolwareznik.net/#
 address=/coppersurfer.tk/#
-address=/tracker.coppersurfer.site/#
 address=/retracker01-msk-virt.corbina.net/#
 address=/coronamovies.net/#
 address=/tracker.corpscorp.online/#
@@ -1396,7 +1382,6 @@ address=/cpasbien.ch/#
 address=/cpasbien.sh/#
 address=/cpasbien.to/#
 address=/cpasbien3.pro/#
-address=/cpasbienss.fr/#
 address=/cpleft.com/#
 address=/cpturbo.org/#
 address=/crack.ms/#

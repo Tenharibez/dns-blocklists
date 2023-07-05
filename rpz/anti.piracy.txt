@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1688507640 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1688593800 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 04 Jul 2023 21:54 UTC
-; Version: 2023.0704.2154.51
+; Last modified: 05 Jul 2023 21:50 UTC
+; Version: 2023.0705.2150.51
 ; Syntax: RPZ
-; Number of entries: 13652
+; Number of entries: 13622
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -214,8 +214,6 @@ tnetwork.com.bd CNAME .
 *.tnetwork.com.bd CNAME .
 triangle.com.bd CNAME .
 *.triangle.com.bd CNAME .
-zoomonline.com.bd CNAME .
-*.zoomonline.com.bd CNAME .
 cnc.net.bd CNAME .
 *.cnc.net.bd CNAME .
 enjoy.net.bd CNAME .
@@ -1748,8 +1746,6 @@ blackcats-games.com CNAME .
 *.blackcats-games.com CNAME .
 blackhatprotools.com CNAME .
 *.blackhatprotools.com CNAME .
-blades-heaven.com CNAME .
-*.blades-heaven.com CNAME .
 100-postal2.blogspot.com CNAME .
 *.100-postal2.blogspot.com CNAME .
 1337xtoindia.blogspot.com CNAME .
@@ -1908,8 +1904,6 @@ btdig.com CNAME .
 *.btdig.com CNAME .
 btekbd.com CNAME .
 *.btekbd.com CNAME .
-btekinternet.com CNAME .
-*.btekinternet.com CNAME .
 btfensi.com CNAME .
 *.btfensi.com CNAME .
 btmet.com CNAME .
@@ -1932,8 +1926,6 @@ tr.burnabyhighstar.com CNAME .
 *.tr.burnabyhighstar.com CNAME .
 bushtorrent.com CNAME .
 *.bushtorrent.com CNAME .
-scrapcomputers.busydizzys.com CNAME .
-*.scrapcomputers.busydizzys.com CNAME .
 buycheapadobesoftware.com CNAME .
 *.buycheapadobesoftware.com CNAME .
 bwtorrents.com CNAME .
@@ -5588,8 +5580,6 @@ boerse.cx CNAME .
 *.boerse.cx CNAME .
 burningseries.cx CNAME .
 *.burningseries.cx CNAME .
-cnp.cx CNAME .
-*.cnp.cx CNAME .
 cpabien.cx CNAME .
 *.cpabien.cx CNAME .
 aam-bt.dyns.cx CNAME .
@@ -6006,8 +5996,6 @@ alldebrid.fr CNAME .
 *.alldebrid.fr CNAME .
 tracker.computel.fr CNAME .
 *.tracker.computel.fr CNAME .
-cpasbienss.fr CNAME .
-*.cpasbienss.fr CNAME .
 sd-161673.dedibox.fr CNAME .
 *.sd-161673.dedibox.fr CNAME .
 tracker.fdn.fr CNAME .
@@ -7020,10 +7008,6 @@ bdtv.live CNAME .
 *.bdtv.live CNAME .
 bobd.live CNAME .
 *.bobd.live CNAME .
-bonsaihd.live CNAME .
-*.bonsaihd.live CNAME .
-bossbd.live CNAME .
-*.bossbd.live CNAME .
 cinemacity.live CNAME .
 *.cinemacity.live CNAME .
 citynet.live CNAME .
@@ -7872,8 +7856,6 @@ benfrank.net CNAME .
 *.benfrank.net CNAME .
 tracker.best-torrents.net CNAME .
 *.tracker.best-torrents.net CNAME .
-bestcracks.net CNAME .
-*.bestcracks.net CNAME .
 bestfilez.net CNAME .
 *.bestfilez.net CNAME .
 bestreams.net CNAME .
@@ -7912,8 +7894,6 @@ blacktiesports.net CNAME .
 *.blacktiesports.net CNAME .
 blu-torrents.net CNAME .
 *.blu-torrents.net CNAME .
-blue1city.net CNAME .
-*.blue1city.net CNAME .
 bmtorrents.net CNAME .
 *.bmtorrents.net CNAME .
 bossbd.net CNAME .
@@ -9718,8 +9698,6 @@ clipmovie.org CNAME .
 *.clipmovie.org CNAME .
 clonebits.org CNAME .
 *.clonebits.org CNAME .
-torrent-comet.club-23.org CNAME .
-*.torrent-comet.club-23.org CNAME .
 colombo-bt.org CNAME .
 *.colombo-bt.org CNAME .
 comandotorrents.org CNAME .
@@ -11112,8 +11090,6 @@ animewarrior.pro CNAME .
 *.animewarrior.pro CNAME .
 atdhe.pro CNAME .
 *.atdhe.pro CNAME .
-coolmoviejagg.pro CNAME .
-*.coolmoviejagg.pro CNAME .
 cpasbien3.pro CNAME .
 *.cpasbien3.pro CNAME .
 europixhd.pro CNAME .
@@ -11898,8 +11874,6 @@ yggtorrent.si CNAME .
 *.123moviesnew.site CNAME .
 tracker.52pt.site CNAME .
 *.tracker.52pt.site CNAME .
-tracker.coppersurfer.site CNAME .
-*.tracker.coppersurfer.site CNAME .
 crackhub.site CNAME .
 *.crackhub.site CNAME .
 dodi-repacks.site CNAME .
@@ -12920,10 +12894,6 @@ boerse.tw CNAME .
 *.boerse.tw CNAME .
 hd.club.tw CNAME .
 *.hd.club.tw CNAME .
-tracker1.wasabii.com.tw CNAME .
-*.tracker1.wasabii.com.tw CNAME .
-tracker2.wasabii.com.tw CNAME .
-*.tracker2.wasabii.com.tw CNAME .
 tracker.joybomb.tw CNAME .
 *.tracker.joybomb.tw CNAME .
 mayi.tw CNAME .
