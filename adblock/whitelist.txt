@@ -4231,3 +4231,10 @@
 ! https://github.com/hagezi/dns-blocklists/issues/1238
 @@|cdn.listrakbi.com^
 
+! https://github.com/hagezi/dns-blocklists/issues/1240
+@@|ogp.me^
+@@|www.ogp.me^
+
+! https://github.com/hagezi/dns-blocklists/issues/1241
+@@|su.ff.avast.com^
+
