@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Jul 2023 22:01 UTC
-# Version: 2023.0704.2201.54
+# Last modified: 05 Jul 2023 21:58 UTC
+# Version: 2023.0705.2158.06
 # Syntax: Domains (without subdomains)
-# Number of entries: 15172
+# Number of entries: 15158
 #
 009972.com
 100-solarni-lampa-cz.com
@@ -142,7 +142,6 @@ abouttoolclearance.com
 abouttooltrade.com
 abshuzhi.com
 absolutefxoptions247.com
-absolutepoll.com
 absystem.cc
 absystem.pro
 abunthous.com
@@ -345,7 +344,6 @@ akasyl-otzberg.de
 akatee.com
 akce-pandora.cz
 akebicycle.com
-akenor.com
 akita.network
 akjamv.shop
 akku-laden.at
@@ -525,7 +523,6 @@ amazee.store
 amazelittles.com
 amazelossater.com
 amazing-poll.com
-amazingevals.com
 amazinggo.net
 amazingsite24.com
 amazinternal.com
@@ -999,7 +996,6 @@ avisborgosanmartino.it
 avisical.shop
 avrilamaya.com
 avsbrokers.com
-avtrade.com
 aw-animal.com
 aw-handel.de
 awb-nordstadt.de
@@ -1301,7 +1297,6 @@ berbior.com
 bercasa.de
 beredge.com
 berg-reifenversand.com
-berger-research.net
 berghausoutlet.cc
 bergmannsschach.at
 berlin-angeboteshop.com
@@ -1349,7 +1344,6 @@ bestcryptominers.com
 bestdeals4younow.com
 bestdogsfood.website
 bestdsquared.com
-bestduct.life
 bestduka.com
 beste-apotheke.com
 beste-brennholz.de
@@ -1497,7 +1491,6 @@ bikesporthauf.de
 bikewheelsmfg.com
 bikexlc.com
 bikexschool.de
-bikeymikey.de
 bildhauerbergwerk.at
 bilenz.com
 billgoddess.shop
@@ -1570,7 +1563,6 @@ bitaviva.com
 bitbase.club
 bitblender.io
 bitblender.me
-bitcentglobal.com
 bitcllpay.top
 bitcode-prime.de
 bitcodelegend.com
@@ -1708,7 +1700,6 @@ blickpunkt24.at
 bling-beeswax.com
 blinggoodies.com
 blitz-haushalt.de
-blix-group.com
 blix24.com
 blizvyshop.com
 blizzak.de
@@ -1838,7 +1829,6 @@ botmediaz.com
 botnis.shop
 botsuanah.com
 bottegarocchi.com
-bottic.org
 bottlesjapan.com
 botyaku.cz
 botyasicsvyprodej.cz
@@ -2043,7 +2033,6 @@ buncru.com
 bundeszentralregisterwegweiser.de
 bundkauf.com
 bungy-jump.at
-bunniesrabatt.de
 burberp.com
 burgershirt.com
 buriayre.com
@@ -2173,7 +2162,6 @@ campoutlet.store
 campstan.com
 camptrunkduffel.com
 campwholesale.store
-camus24.com
 can-concretio-work.com
 can-postsmsnotice.com
 canabis-oil.com
@@ -3638,6 +3626,7 @@ discount-bazar.com
 discount-kobalt.com
 discountaarrivals.com
 discountapparels.store
+discountbloc.ru
 discountcamph.store
 discountcamph.website
 discountcat.website
@@ -3762,7 +3751,6 @@ domino-reifen.com
 domitri.co
 dommarzen-ns.pl
 dompetaman.live
-dompetexcellent.com
 donalovehair.de
 done-done.online
 donnasharpbed.com
@@ -3960,6 +3948,7 @@ eartischleuchten.com
 eastbu.com
 easthamforum.com
 eastsiderssoccer.com
+eastspringinvest.io
 easy-darts.com
 easy-ltd.eu
 easy-shops.store
@@ -4582,12 +4571,11 @@ fabnetstudio.com
 fabrikverkaufmerrellch.com
 fabtoulouse.at
 faburabrandworld.com
+fabwelt.com
 facepets.es
 fachmakler-berlin.de
 facilitieshvac.com
 factoryds.com
-onlinestores.factorysale2023.com
-si.factorysale2023.com
 facyline.de
 fadclothesus.com
 faehigkeiten.at
@@ -6983,7 +6971,6 @@ jewelryonsale.store
 jewelrysale.website
 jewelsfairy.com
 jfcase.com
-jfmovingstorage.com
 jgfrqhh.top
 jgregoryfineart.com
 jh-design.fr
@@ -7920,7 +7907,6 @@ localminidachshundpuppies.com
 lockebeauty.shop
 lockpickingstore.de
 locoford.com
-locymax.com
 loefflerrandalllove.com
 loepwatch.com
 loewe-vom-sauerland.de
@@ -8935,7 +8921,8 @@ jne-express.my.id
 www.pinjamnow.my.id
 yoli.my.id
 my-family.bike
-uschse04.my03.com
+store.uschse04.my03.com
+www.uschse04.my03.com
 mybell-refund.me
 myberlinshop.com
 mybestautologin567.com
@@ -10592,7 +10579,6 @@ productvoguenew.com
 proeuromeds.com
 professionistidelsorriso.eu
 profibikes.de
-profiforex.com
 profikauf.com
 profinvest.fun
 profiservice-24.info
@@ -13047,6 +13033,7 @@ tes-ib.cloud
 tes-ic.cloud
 tesauree.com
 tesla-for-doge.com
+tesla-openai.com
 teslabestfor.com
 teslabounce.com
 teslabrc.com
@@ -14492,7 +14479,6 @@ waresdining.com
 wareskids.com
 waresmergechic.com
 waresnewbike.com
-waresnewfad.com
 waresusmiss.com
 warmhalten.com
 warminsun.com

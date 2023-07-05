@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1688508060 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1688594280 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Jul 2023 22:01 UTC
-; Version: 2023.0704.2201.54
+; Last modified: 05 Jul 2023 21:58 UTC
+; Version: 2023.0705.2158.06
 ; Syntax: RPZ
-; Number of entries: 30344
+; Number of entries: 30316
 ;
 anchain.ai CNAME .
 *.anchain.ai CNAME .
@@ -2484,8 +2484,6 @@ abshuzhi.com CNAME .
 *.abshuzhi.com CNAME .
 absolutefxoptions247.com CNAME .
 *.absolutefxoptions247.com CNAME .
-absolutepoll.com CNAME .
-*.absolutepoll.com CNAME .
 abunthous.com CNAME .
 *.abunthous.com CNAME .
 abusfahrrad.com CNAME .
@@ -2706,8 +2704,6 @@ akatee.com CNAME .
 *.akatee.com CNAME .
 akebicycle.com CNAME .
 *.akebicycle.com CNAME .
-akenor.com CNAME .
-*.akenor.com CNAME .
 aktienpros.com CNAME .
 *.aktienpros.com CNAME .
 akuschuheschweiz.com CNAME .
@@ -2910,8 +2906,6 @@ amazelossater.com CNAME .
 *.amazelossater.com CNAME .
 amazing-poll.com CNAME .
 *.amazing-poll.com CNAME .
-amazingevals.com CNAME .
-*.amazingevals.com CNAME .
 amazingsite24.com CNAME .
 *.amazingsite24.com CNAME .
 amazinternal.com CNAME .
@@ -3414,8 +3408,6 @@ avrilamaya.com CNAME .
 *.avrilamaya.com CNAME .
 avsbrokers.com CNAME .
 *.avsbrokers.com CNAME .
-avtrade.com CNAME .
-*.avtrade.com CNAME .
 aw-animal.com CNAME .
 *.aw-animal.com CNAME .
 awesomegifts4u.com CNAME .
@@ -4010,8 +4002,6 @@ bitaurox.com CNAME .
 *.bitaurox.com CNAME .
 bitaviva.com CNAME .
 *.bitaviva.com CNAME .
-bitcentglobal.com CNAME .
-*.bitcentglobal.com CNAME .
 bitcodelegend.com CNAME .
 *.bitcodelegend.com CNAME .
 bitcoin-360.com CNAME .
@@ -4160,8 +4150,6 @@ bling-beeswax.com CNAME .
 *.bling-beeswax.com CNAME .
 blinggoodies.com CNAME .
 *.blinggoodies.com CNAME .
-blix-group.com CNAME .
-*.blix-group.com CNAME .
 blix24.com CNAME .
 *.blix24.com CNAME .
 blizvyshop.com CNAME .
@@ -4660,8 +4648,6 @@ campstan.com CNAME .
 *.campstan.com CNAME .
 camptrunkduffel.com CNAME .
 *.camptrunkduffel.com CNAME .
-camus24.com CNAME .
-*.camus24.com CNAME .
 can-concretio-work.com CNAME .
 *.can-concretio-work.com CNAME .
 can-postsmsnotice.com CNAME .
@@ -6376,8 +6362,6 @@ domainjk.com CNAME .
 *.domainjk.com CNAME .
 domino-reifen.com CNAME .
 *.domino-reifen.com CNAME .
-dompetexcellent.com CNAME .
-*.dompetexcellent.com CNAME .
 donnasharpbed.com CNAME .
 *.donnasharpbed.com CNAME .
 dooliverseus.com CNAME .
@@ -7222,14 +7206,12 @@ fabrikverkaufmerrellch.com CNAME .
 *.fabrikverkaufmerrellch.com CNAME .
 faburabrandworld.com CNAME .
 *.faburabrandworld.com CNAME .
+fabwelt.com CNAME .
+*.fabwelt.com CNAME .
 facilitieshvac.com CNAME .
 *.facilitieshvac.com CNAME .
 factoryds.com CNAME .
 *.factoryds.com CNAME .
-onlinestores.factorysale2023.com CNAME .
-*.onlinestores.factorysale2023.com CNAME .
-si.factorysale2023.com CNAME .
-*.si.factorysale2023.com CNAME .
 fadclothesus.com CNAME .
 *.fadclothesus.com CNAME .
 fahrra-landau.com CNAME .
@@ -9906,8 +9888,6 @@ jewelsfairy.com CNAME .
 *.jewelsfairy.com CNAME .
 jfcase.com CNAME .
 *.jfcase.com CNAME .
-jfmovingstorage.com CNAME .
-*.jfmovingstorage.com CNAME .
 jgregoryfineart.com CNAME .
 *.jgregoryfineart.com CNAME .
 jingba-support.com CNAME .
@@ -10846,8 +10826,6 @@ localminidachshundpuppies.com CNAME .
 *.localminidachshundpuppies.com CNAME .
 locoford.com CNAME .
 *.locoford.com CNAME .
-locymax.com CNAME .
-*.locymax.com CNAME .
 loefflerrandalllove.com CNAME .
 *.loefflerrandalllove.com CNAME .
 loepwatch.com CNAME .
@@ -11918,8 +11896,10 @@ mxmtrade.com CNAME .
 *.mxmtrade.com CNAME .
 mxsania.com CNAME .
 *.mxsania.com CNAME .
-uschse04.my03.com CNAME .
-*.uschse04.my03.com CNAME .
+store.uschse04.my03.com CNAME .
+*.store.uschse04.my03.com CNAME .
+www.uschse04.my03.com CNAME .
+*.www.uschse04.my03.com CNAME .
 myberlinshop.com CNAME .
 *.myberlinshop.com CNAME .
 mybestautologin567.com CNAME .
@@ -13944,8 +13924,6 @@ productvoguenew.com CNAME .
 *.productvoguenew.com CNAME .
 proeuromeds.com CNAME .
 *.proeuromeds.com CNAME .
-profiforex.com CNAME .
-*.profiforex.com CNAME .
 profikauf.com CNAME .
 *.profikauf.com CNAME .
 profit-farma.com CNAME .
@@ -16854,6 +16832,8 @@ tesauree.com CNAME .
 *.tesauree.com CNAME .
 tesla-for-doge.com CNAME .
 *.tesla-for-doge.com CNAME .
+tesla-openai.com CNAME .
+*.tesla-openai.com CNAME .
 teslabestfor.com CNAME .
 *.teslabestfor.com CNAME .
 teslabounce.com CNAME .
@@ -18660,8 +18640,6 @@ waresmergechic.com CNAME .
 *.waresmergechic.com CNAME .
 waresnewbike.com CNAME .
 *.waresnewbike.com CNAME .
-waresnewfad.com CNAME .
-*.waresnewfad.com CNAME .
 waresusmiss.com CNAME .
 *.waresusmiss.com CNAME .
 warmhalten.com CNAME .
@@ -20428,8 +20406,6 @@ bikesporthauf.de CNAME .
 *.bikesporthauf.de CNAME .
 bikexschool.de CNAME .
 *.bikexschool.de CNAME .
-bikeymikey.de CNAME .
-*.bikeymikey.de CNAME .
 billigairmax.de CNAME .
 *.billigairmax.de CNAME .
 bindado.de CNAME .
@@ -20560,8 +20536,6 @@ bullyra.de CNAME .
 *.bullyra.de CNAME .
 bundeszentralregisterwegweiser.de CNAME .
 *.bundeszentralregisterwegweiser.de CNAME .
-bunniesrabatt.de CNAME .
-*.bunniesrabatt.de CNAME .
 burnout-cockpit.de CNAME .
 *.burnout-cockpit.de CNAME .
 burtonski.de CNAME .
@@ -24794,6 +24768,8 @@ dogeland.io CNAME .
 *.dogeland.io CNAME .
 doren.io CNAME .
 *.doren.io CNAME .
+eastspringinvest.io CNAME .
+*.eastspringinvest.io CNAME .
 easytrade.io CNAME .
 *.easytrade.io CNAME .
 energy-markets.io CNAME .
@@ -25100,8 +25076,6 @@ babystore.life CNAME .
 *.babystore.life CNAME .
 bellababy.life CNAME .
 *.bellababy.life CNAME .
-bestduct.life CNAME .
-*.bestduct.life CNAME .
 bostbest.life CNAME .
 *.bostbest.life CNAME .
 campingtents.life CNAME .
@@ -25366,8 +25340,6 @@ bcstores.net CNAME .
 *.bcstores.net CNAME .
 beauty-shopping.net CNAME .
 *.beauty-shopping.net CNAME .
-berger-research.net CNAME .
-*.berger-research.net CNAME .
 billigmeds.net CNAME .
 *.billigmeds.net CNAME .
 bit-times.net CNAME .
@@ -26226,8 +26198,6 @@ bitindexprime.org CNAME .
 *.bitindexprime.org CNAME .
 bituniverse.org CNAME .
 *.bituniverse.org CNAME .
-bottic.org CNAME .
-*.bottic.org CNAME .
 camaragrancanaria.org CNAME .
 *.camaragrancanaria.org CNAME .
 shop54002.carlsplace.org CNAME .
@@ -26714,6 +26684,8 @@ onlinesale.cheaps2022.ru CNAME .
 *.onlinesale.cheaps2022.ru CNAME .
 clearance2021.ru CNAME .
 *.clearance2021.ru CNAME .
+discountbloc.ru CNAME .
+*.discountbloc.ru CNAME .
 hotelsinperm.ru CNAME .
 *.hotelsinperm.ru CNAME .
 lifeblg.ru CNAME .
