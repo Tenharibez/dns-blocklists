@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1688507460 86400 3600 604800 30
+@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1688593560 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Enyrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 04 Jul 2023 21:51 UTC
-; Version: 2023.0704.2151.04
+; Last modified: 05 Jul 2023 21:46 UTC
+; Version: 2023.0705.2146.54
 ; Syntax: RPZ
-; Number of entries: 12512
+; Number of entries: 12500
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -543,8 +543,6 @@ doh.blockerdns.com CNAME .
 *.doh.blockerdns.com CNAME .
 blockless.com CNAME .
 *.blockless.com CNAME .
-blogs-analysis.com CNAME .
-*.blogs-analysis.com CNAME .
 new-proxy-sites.blogspot.com CNAME .
 *.new-proxy-sites.blogspot.com CNAME .
 dns.bobstrecansky.com CNAME .
@@ -573,8 +571,6 @@ doh.bt.com CNAME .
 *.doh.bt.com CNAME .
 btguard.com CNAME .
 *.btguard.com CNAME .
-bubbleset.com CNAME .
-*.bubbleset.com CNAME .
 buffered.com CNAME .
 *.buffered.com CNAME .
 bunkerbustervpn.com CNAME .
@@ -649,8 +645,6 @@ controld.com CNAME .
 *.controld.com CNAME .
 corecloak.com CNAME .
 *.corecloak.com CNAME .
-coverproxy.com CNAME .
-*.coverproxy.com CNAME .
 covertproxy.com CNAME .
 *.covertproxy.com CNAME .
 crashes-analysis.com CNAME .
@@ -2471,8 +2465,6 @@ proxy.vpnmag.fr CNAME .
 *.proxy.vpnmag.fr CNAME .
 wez.fr CNAME .
 *.wez.fr CNAME .
-cooper-martin-white.ga CNAME .
-*.cooper-martin-white.ga CNAME .
 freedomvpn.ga CNAME .
 *.freedomvpn.ga CNAME .
 freevpns.ga CNAME .
@@ -2493,8 +2485,6 @@ young-purple.ga CNAME .
 *.young-purple.ga CNAME .
 doh.futa.gg CNAME .
 *.doh.futa.gg CNAME .
-catch.gift CNAME .
-*.catch.gift CNAME .
 8888.google CNAME .
 *.8888.google CNAME .
 dns.google CNAME .
@@ -12251,8 +12241,6 @@ virga.pp.ua CNAME .
 *.virga.pp.ua CNAME .
 zxcvb.pp.ua CNAME .
 *.zxcvb.pp.ua CNAME .
-changemyip.uk CNAME .
-*.changemyip.uk CNAME .
 adguard.aa4.co.uk CNAME .
 *.adguard.aa4.co.uk CNAME .
 www.dnsadguard.co.uk CNAME .

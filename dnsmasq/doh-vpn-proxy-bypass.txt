@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 04 Jul 2023 21:51 UTC
-# Version: 2023.0704.2151.04
+# Last modified: 05 Jul 2023 21:46 UTC
+# Version: 2023.0705.2146.54
 # Syntax: DNSMasq
-# Number of entries: 6256
+# Number of entries: 6250
 #
 address=/0000a-fast-proxy.de/#
 address=/ns.00dani.me/#
@@ -257,7 +257,6 @@ address=/us1.blissdns.net/#
 address=/blocka.net/#
 address=/doh.blockerdns.com/#
 address=/blockless.com/#
-address=/blogs-analysis.com/#
 address=/new-proxy-sites.blogspot.com/#
 address=/ukvpns.blogspot.ru/#
 address=/dns.blokada.org/#
@@ -289,7 +288,6 @@ address=/browsec.com/#
 address=/browserproxy.net/#
 address=/doh.bt.com/#
 address=/btguard.com/#
-address=/bubbleset.com/#
 address=/buffered.com/#
 address=/bunkerbustervpn.com/#
 address=/byewall.com/#
@@ -311,7 +309,6 @@ address=/2.dnscrypt-cert.captnemo.in/#
 address=/doh.captnemo.in/#
 address=/careproxy.com/#
 address=/dns.carson-family.com/#
-address=/catch.gift/#
 address=/dns2.cbio.top/#
 address=/cblocker.info/#
 address=/doh.ccb-net.it/#
@@ -322,7 +319,6 @@ address=/censurfridns.dk/#
 address=/centidoo.com/#
 address=/ibuki.cgnat.net/#
 address=/changemyip.com/#
-address=/changemyip.uk/#
 address=/chaos-system.de/#
 address=/checkpoint.com/#
 address=/dns.chenu.ch/#
@@ -457,9 +453,7 @@ address=/contassh.com/#
 address=/contentabc.com/#
 address=/controld.com/#
 address=/coolbits.org/#
-address=/cooper-martin-white.ga/#
 address=/corecloak.com/#
-address=/coverproxy.com/#
 address=/covertproxy.com/#
 address=/doh.cox.net/#
 address=/dot.cox.net/#

@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 04 Jul 2023 21:51 UTC
-# Version: 2023.0704.2151.04
+# Last modified: 05 Jul 2023 21:46 UTC
+# Version: 2023.0705.2146.54
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 6256
+# Number of entries: 6250
 #
 *.0000a-fast-proxy.de
 *.ns.00dani.me
@@ -257,7 +257,6 @@
 *.blocka.net
 *.doh.blockerdns.com
 *.blockless.com
-*.blogs-analysis.com
 *.new-proxy-sites.blogspot.com
 *.ukvpns.blogspot.ru
 *.dns.blokada.org
@@ -289,7 +288,6 @@
 *.browserproxy.net
 *.doh.bt.com
 *.btguard.com
-*.bubbleset.com
 *.buffered.com
 *.bunkerbustervpn.com
 *.byewall.com
@@ -311,7 +309,6 @@
 *.doh.captnemo.in
 *.careproxy.com
 *.dns.carson-family.com
-*.catch.gift
 *.dns2.cbio.top
 *.cblocker.info
 *.doh.ccb-net.it
@@ -322,7 +319,6 @@
 *.centidoo.com
 *.ibuki.cgnat.net
 *.changemyip.com
-*.changemyip.uk
 *.chaos-system.de
 *.checkpoint.com
 *.dns.chenu.ch
@@ -457,9 +453,7 @@
 *.contentabc.com
 *.controld.com
 *.coolbits.org
-*.cooper-martin-white.ga
 *.corecloak.com
-*.coverproxy.com
 *.covertproxy.com
 *.doh.cox.net
 *.dot.cox.net
