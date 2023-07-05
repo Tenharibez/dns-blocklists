@@ -73,35 +73,35 @@
 ```
 #### PRO.PLUS
 ```
-1425684 (75%) included | 170234 (9%) removed | 301869 (16%) dead
+1424930 (75%) included | 170218 (9%) removed | 302136 (16%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% | 1173262 | Predecessor: Multi Pro
-  2 |     100% |   0% |      0% |   43992 | Personal
+  1 |     100% |   0% |      0% | 1177546 | Predecessor: Multi Pro
+  2 |     100% |   0% |      0% |   41489 | Personal
   3 |      78% |   3% |     19% |     155 | Personal Wildcard Rules
   4 |     100% |   0% |      0% |   15172 | Fake
-  5 |      76% |  24% |      0% |    8014 | Analytics/Metrics Extension
+  5 |      76% |  24% |      0% |    8043 | Analytics/Metrics Extension
   6 |     100% |   0% |      0% |      18 | Native Tracker Apple (iOS, macOS, tvOS)
   7 |     100% |   0% |      0% |      68 | Native Tracker Huawei (Devices)
   8 |      96% |   4% |      0% |      67 | Native Tracker LG webOS
   9 |     100% |   0% |      0% |     181 | Native Tracker TikTok (Fingerprinting)
  10 |      79% |   0% |     21% |     122 | Native Tracker Microsoft (Windows, Office, MSN)
- 11 |      98% |   1% |      1% |    6002 | Denylist Base
+ 11 |      98% |   1% |      1% |    6005 | Denylist Base
  12 |      69% |  31% |      0% |    3535 | raw.githubusercontent.com/manic-code/Emerging-Malicious-Domain-Blocklist/main/hosts.txt
  13 |     100% |   0% |      0% |     137 | raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
  14 |      95% |   5% |      0% |      91 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-stats.txt
  15 |     100% |   0% |      0% |  153214 | Threat Intelligence Feeds Medium
- 16 |      99% |   0% |      1% |  259596 | Balanced Extension
+ 16 |      99% |   0% |      1% |  266382 | Balanced Extension
  17 |      48% |  51% |      1% |  197040 | raw.githubusercontent.com/StevenBlack/hosts/master/hosts
- 18 |      93% |   6% |      1% |  114211 | AdGuard MultiParty (DNS, Base, International, Annoyances, Mobile, Spyware, Social)
- 19 |      87% |  12% |      1% |   89355 | EasyList MultiParty (List, Privacy, Interanational, Annoyances, FanBoy, AntiAdBlock, AntiCV)
- 20 |      97% |   3% |      0% |    3336 | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse)
+ 18 |      93% |   6% |      1% |  114249 | AdGuard MultiParty (DNS, Base, International, Annoyances, Mobile, Spyware, Social)
+ 19 |      87% |  12% |      1% |   89387 | EasyList MultiParty (List, Privacy, Interanational, Annoyances, FanBoy, AntiAdBlock, AntiCV)
+ 20 |      97% |   3% |      0% |    3337 | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse)
  21 |      84% |  15% |      1% |  188658 | raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
- 22 |      78% |  10% |     12% |    4933 | Tracking Extension
+ 22 |      79% |  10% |     11% |    4951 | Tracking Extension
  23 |     100% |   0% |      0% |   75181 | Popupads Extension
- 24 |      97% |   1% |      2% |  246510 | 1Hosts Pro
+ 24 |      97% |   1% |      2% |  251360 | 1Hosts Pro
  25 |      93% |   5% |      2% |   16716 | raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking
- 26 |      47% |  31% |     22% |  488632 | hblock.molinero.dev/hosts_domains.txt
+ 26 |      47% |  31% |     22% |  489311 | hblock.molinero.dev/hosts_domains.txt
  27 |      90% |   9% |      1% |   75425 | raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt
  28 |      94% |   5% |      1% |  122520 | raw.githubusercontent.com/Cats-Team/AdRules/main/ad-domains.txt
  29 |      72% |  14% |     14% |       7 | raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
