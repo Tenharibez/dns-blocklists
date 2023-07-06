@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.dyndns. hostmaster.hagezi.dyndns. 1688507580 86400 3600 604800 30
+@ SOA rpz.hagezi.dyndns. hostmaster.hagezi.dyndns. 1688681220 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 04 Jul 2023 21:53 UTC
-; Version: 2023.0704.2153.05
+; Last modified: 06 Jul 2023 22:07 UTC
+; Version: 2023.0706.2207.17
 ; Syntax: RPZ
-; Number of entries: 3134
+; Number of entries: 3126
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -462,8 +462,6 @@ deaftone.com CNAME .
 *.deaftone.com CNAME .
 death-by-monkeys.com CNAME .
 *.death-by-monkeys.com CNAME .
-death-education.com CNAME .
-*.death-education.com CNAME .
 demosoftonline.com CNAME .
 *.demosoftonline.com CNAME .
 dh3.com CNAME .
@@ -474,8 +472,6 @@ ditchyourip.com CNAME .
 *.ditchyourip.com CNAME .
 divakeramika.com CNAME .
 *.divakeramika.com CNAME .
-dlinkddns.com CNAME .
-*.dlinkddns.com CNAME .
 dnmcoffman.com CNAME .
 *.dnmcoffman.com CNAME .
 dns-auth.com CNAME .
@@ -492,8 +488,6 @@ dns05.com CNAME .
 *.dns05.com CNAME .
 dns2go.com CNAME .
 *.dns2go.com CNAME .
-dns4e.com CNAME .
-*.dns4e.com CNAME .
 dnsabr.com CNAME .
 *.dnsabr.com CNAME .
 dnsalias.com CNAME .
@@ -2060,8 +2054,6 @@ coccimiglio.net CNAME .
 *.coccimiglio.net CNAME .
 computersforpeace.net CNAME .
 *.computersforpeace.net CNAME .
-ctproduction.net CNAME .
-*.ctproduction.net CNAME .
 cupddns.net CNAME .
 *.cupddns.net CNAME .
 custom-gaming.net CNAME .
