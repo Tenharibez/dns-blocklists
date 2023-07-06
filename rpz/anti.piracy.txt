@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1688593800 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1688681340 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 05 Jul 2023 21:50 UTC
-; Version: 2023.0705.2150.51
+; Last modified: 06 Jul 2023 22:09 UTC
+; Version: 2023.0706.2209.55
 ; Syntax: RPZ
-; Number of entries: 13622
+; Number of entries: 13600
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -902,8 +902,6 @@ cpabien.club CNAME .
 *.cpabien.club CNAME .
 tracker.dicmusic.club CNAME .
 *.tracker.dicmusic.club CNAME .
-tr.doogh.club CNAME .
-*.tr.doogh.club CNAME .
 tracker.edkj.club CNAME .
 *.tracker.edkj.club CNAME .
 fast-torrent.club CNAME .
@@ -2414,8 +2412,6 @@ dutchnova.com CNAME .
 *.dutchnova.com CNAME .
 tracker.dutchtracking.com CNAME .
 *.tracker.dutchtracking.com CNAME .
-tracker.dxdhd.com CNAME .
-*.tracker.dxdhd.com CNAME .
 dylan-park.com CNAME .
 *.dylan-park.com CNAME .
 dzot.com CNAME .
@@ -2482,12 +2478,8 @@ eprojectfreetv.com CNAME .
 *.eprojectfreetv.com CNAME .
 escalaenbernal.com CNAME .
 *.escalaenbernal.com CNAME .
-eshiel.com CNAME .
-*.eshiel.com CNAME .
 estrenoslatinos.com CNAME .
 *.estrenoslatinos.com CNAME .
-etorrentsmexico.com CNAME .
-*.etorrentsmexico.com CNAME .
 etproxy.com CNAME .
 *.etproxy.com CNAME .
 ettvcentral.com CNAME .
@@ -2536,8 +2528,6 @@ f4internetsolution.com CNAME .
 *.f4internetsolution.com CNAME .
 download.f60s.com CNAME .
 *.download.f60s.com CNAME .
-fanclubt.com CNAME .
-*.fanclubt.com CNAME .
 ag-freedom.fansub-torrents.com CNAME .
 *.ag-freedom.fansub-torrents.com CNAME .
 anime-destiny.fansub-torrents.com CNAME .
@@ -8038,8 +8028,6 @@ tracker.ddunlimited.net CNAME .
 *.tracker.ddunlimited.net CNAME .
 deepseek.net CNAME .
 *.deepseek.net CNAME .
-derpyradio.net CNAME .
-*.derpyradio.net CNAME .
 deviloid.net CNAME .
 *.deviloid.net CNAME .
 bm.dfnbd.net CNAME .
@@ -9410,8 +9398,6 @@ coolmoviezone.online CNAME .
 *.coolmoviezone.online CNAME .
 tracker.corpscorp.online CNAME .
 *.tracker.corpscorp.online CNAME .
-cynemas.online CNAME .
-*.cynemas.online CNAME .
 ettv.online CNAME .
 *.ettv.online CNAME .
 filmzenstream.online CNAME .
@@ -9740,8 +9726,6 @@ cyberphoenix.org CNAME .
 *.cyberphoenix.org CNAME .
 danishbits.org CNAME .
 *.danishbits.org CNAME .
-danishtorrents.org CNAME .
-*.danishtorrents.org CNAME .
 datenreiter.org CNAME .
 *.datenreiter.org CNAME .
 ddl-warez.org CNAME .
@@ -9854,8 +9838,6 @@ ebook-planete.org CNAME .
 *.ebook-planete.org CNAME .
 ebooksshares.org CNAME .
 *.ebooksshares.org CNAME .
-eclipsetorrents.org CNAME .
-*.eclipsetorrents.org CNAME .
 ehtracker.org CNAME .
 *.ehtracker.org CNAME .
 elsewhere.org CNAME .
@@ -12236,8 +12218,6 @@ dropapk.to CNAME .
 *.dropapk.to CNAME .
 dwatchseries.to CNAME .
 *.dwatchseries.to CNAME .
-easy-leech.to CNAME .
-*.easy-leech.to CNAME .
 ebook-hell.to CNAME .
 *.ebook-hell.to CNAME .
 ettv.to CNAME .
@@ -12716,8 +12696,6 @@ efilmy.tv CNAME .
 *.efilmy.tv CNAME .
 einthusan.tv CNAME .
 *.einthusan.tv CNAME .
-epizod.tv CNAME .
-*.epizod.tv CNAME .
 ettv.tv CNAME .
 *.ettv.tv CNAME .
 filewarez.tv CNAME .

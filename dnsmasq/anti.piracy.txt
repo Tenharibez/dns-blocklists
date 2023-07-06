@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 05 Jul 2023 21:50 UTC
-# Version: 2023.0705.2150.51
+# Last modified: 06 Jul 2023 22:09 UTC
+# Version: 2023.0706.2209.55
 # Syntax: DNSMasq
-# Number of entries: 6811
+# Number of entries: 6800
 #
 address=/zer0day.000webhostapp.com/#
 address=/0123456789nonexistent.com/#
@@ -1513,7 +1513,6 @@ address=/cyberphoenix.org/#
 address=/capital.cyberserver.hu/#
 address=/cyberwarez.info/#
 address=/cyclingtorrents.nl/#
-address=/cynemas.online/#
 address=/cyonix.to/#
 address=/cytu.be/#
 address=/torrents.czteam.ro/#
@@ -1535,7 +1534,6 @@ address=/damedesuyo.com/#
 address=/danger.lv/#
 address=/danimados.com/#
 address=/danishbits.org/#
-address=/danishtorrents.org/#
 address=/dark-angel.ws/#
 address=/darkanime.stream/#
 address=/darkdata.net/#
@@ -1613,7 +1611,6 @@ address=/demons-eye.org/#
 address=/dendox.org/#
 address=/azn-project.depthstrike.com/#
 address=/derechosmadretierra.org/#
-address=/derpyradio.net/#
 address=/desfichiers.com/#
 address=/deshonlinebd.com/#
 address=/desi6.com/#
@@ -1742,7 +1739,6 @@ address=/dontorrent.org/#
 address=/dontorrent.uno/#
 address=/dontorrents.com/#
 address=/dontorrents.org/#
-address=/tr.doogh.club/#
 address=/doopes.com/#
 address=/dopebox.cc/#
 address=/dosmovies.com/#
@@ -1834,7 +1830,6 @@ address=/dvdseed.eu/#
 address=/dvdseed.org/#
 address=/dwatchseries.to/#
 address=/dx-team.org/#
-address=/tracker.dxdhd.com/#
 address=/dylan-park.com/#
 address=/irrenhaus.dyndns.dk/#
 address=/aam-bt.dyns.cx/#
@@ -1850,7 +1845,6 @@ address=/torrent.e2k.ru/#
 address=/eagletorrents.net/#
 address=/earn4files.com/#
 address=/tracker.eastgame.org/#
-address=/easy-leech.to/#
 address=/easyitbd.com/#
 address=/easynews.com/#
 address=/tracker.eatshoe.com/#
@@ -1871,7 +1865,6 @@ address=/ebooksshares.org/#
 address=/ebookvortex.com/#
 address=/ebookvortex.net/#
 address=/ebox.live/#
-address=/eclipsetorrents.org/#
 address=/economyofsound.com/#
 address=/ectlink.com/#
 address=/eddie4.nl/#
@@ -1948,7 +1941,6 @@ address=/eogli.org/#
 address=/eolbd.com/#
 address=/epider.me/#
 address=/episodes-tv.com/#
-address=/epizod.tv/#
 address=/rocketnet.epizy.com/#
 address=/epnetbd.com/#
 address=/eprojectfreetv.com/#
@@ -1961,11 +1953,9 @@ address=/retracker.nn.ertelecom.ru/#
 address=/retracker.perm.ertelecom.ru/#
 address=/elmellowebmaster.es.tl/#
 address=/escalaenbernal.com/#
-address=/eshiel.com/#
 address=/estrenoslatinos.com/#
 address=/ethor.net/#
 address=/tracker.etn.fm/#
-address=/etorrentsmexico.com/#
 address=/etproxy.com/#
 address=/bt.etree.org/#
 address=/tracker.etree.org/#
@@ -2064,7 +2054,6 @@ address=/f5q.ru/#
 address=/download.f60s.com/#
 address=/open.facedatabg.net/#
 address=/tv.fanclub.rocks/#
-address=/fanclubt.com/#
 address=/fano.lv/#
 address=/tracker.fansub.id/#
 address=/ag-freedom.fansub-torrents.com/#
