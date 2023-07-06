@@ -3903,3 +3903,12 @@ uservoice.com
 # https://github.com/hagezi/dns-blocklists/issues/1246
 api.useberry.com
 
+# https://github.com/hagezi/dns-blocklists/issues/1247
+administrator.pnclassaction.com
+
+# crisp.chat window doesn't open
+client.crisp.chat
+
+# Russian artists send these kinds of links to all the sites where you can listen to their track (Spotify, Yandex, VK, Apple Music, etc.)
+l.1mp.ru
+
