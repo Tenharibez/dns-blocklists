@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 01 Jul 2023 21:26 UTC
-# Version: 2023.0701.2126.31
+# Last modified: 06 Jul 2023 22:06 UTC
+# Version: 2023.0706.2206.00
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 874
+# Number of entries: 866
 #
 0.0.0.0 ns.00dani.me
 0.0.0.0 dns.0ooo.icu
@@ -231,7 +231,6 @@
 0.0.0.0 dns.joaofidelix.com.br
 0.0.0.0 dns.opnsource.com.au
 0.0.0.0 dns.weixin.qq.com.cn
-0.0.0.0 dns.comeonjames.club
 0.0.0.0 commons.host
 0.0.0.0 comss.one
 0.0.0.0 comss.ru
@@ -373,12 +372,7 @@
 0.0.0.0 dot.pub
 0.0.0.0 ns1.dotls.org
 0.0.0.0 doh.dscloud.me
-0.0.0.0 aattwwss.duckdns.org
-0.0.0.0 home27.duckdns.org
-0.0.0.0 jurre-home.duckdns.org
 0.0.0.0 krtekvpn.duckdns.org
-0.0.0.0 osefcorp.duckdns.org
-0.0.0.0 punono.duckdns.org
 0.0.0.0 tuandns.duckdns.org
 0.0.0.0 tungdnsne.duckdns.org
 0.0.0.0 dukun.de
@@ -800,7 +794,6 @@
 0.0.0.0 dns.switch.ch
 0.0.0.0 dns.syaifullah.com
 0.0.0.0 ibksturm.synology.me
-0.0.0.0 ihctw.synology.me
 0.0.0.0 a-bld.sys-adm.in
 0.0.0.0 bld.sys-adm.in
 0.0.0.0 doh.syshero.org
@@ -814,7 +807,6 @@
 0.0.0.0 tx.teradns.org
 0.0.0.0 uk.teradns.org
 0.0.0.0 dns.tesem.dog
-0.0.0.0 cloud.tezoi.com
 0.0.0.0 dns.theres.one
 0.0.0.0 dns.therifleman.name
 0.0.0.0 doh.tiar.app
