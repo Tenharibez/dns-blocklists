@@ -4256,3 +4256,6 @@
 @@|uservoice.com^
 @@|www.uservoice.com^
 
+! https://github.com/hagezi/dns-blocklists/issues/1246
+@@|api.useberry.com^
+
