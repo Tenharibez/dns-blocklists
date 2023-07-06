@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 05 Jul 2023 21:46 UTC
-# Version: 2023.0705.2146.54
+# Last modified: 06 Jul 2023 22:04 UTC
+# Version: 2023.0706.2204.22
 # Syntax: Domains (without subdomains)
-# Number of entries: 6250
+# Number of entries: 6238
 #
 0000a-fast-proxy.de
 ns.00dani.me
@@ -441,7 +441,6 @@ dns.weixin.qq.com.cn
 surfshark.com.au
 unblock-proxy.com.de
 webproxy.com.de
-dns.comeonjames.club
 commons.host
 easy-vpn.comodo.com
 comss.one
@@ -578,12 +577,7 @@ droidvpn.com
 doh.dscloud.me
 duapps.com
 duba.net
-aattwwss.duckdns.org
-home27.duckdns.org
-jurre-home.duckdns.org
 krtekvpn.duckdns.org
-osefcorp.duckdns.org
-punono.duckdns.org
 tuandns.duckdns.org
 tungdnsne.duckdns.org
 dukun.de
@@ -627,7 +621,6 @@ evantbyrne.info
 everyproxies.info
 evpn.net
 evyy.net
-ew32rgfdls.com
 ewon.biz
 expressvpn.com
 expressvpn.net
@@ -671,9 +664,6 @@ filesdownloader.com
 dns.filipccz.eu
 filterbypass.me
 finchvpn.com
-find-the-x-web2.com
-find-x-web2.com
-findxweblinks3.com
 fpn.firefox.com
 testpilot.firefox.com
 firstcontact.site
@@ -5818,7 +5808,6 @@ swordvpn.com
 swoshsvpn.com
 dns.syaifullah.com
 ibksturm.synology.me
-ihctw.synology.me
 a-bld.sys-adm.in
 bld.sys-adm.in
 doh.syshero.org
@@ -5842,7 +5831,6 @@ sg.teradns.org
 tx.teradns.org
 uk.teradns.org
 dns.tesem.dog
-cloud.tezoi.com
 the-cloak.com
 thebestproxy.info
 thebestvpn.com

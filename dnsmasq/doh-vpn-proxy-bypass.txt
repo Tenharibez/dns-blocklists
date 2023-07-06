@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 05 Jul 2023 21:46 UTC
-# Version: 2023.0705.2146.54
+# Last modified: 06 Jul 2023 22:04 UTC
+# Version: 2023.0706.2204.22
 # Syntax: DNSMasq
-# Number of entries: 6250
+# Number of entries: 6238
 #
 address=/0000a-fast-proxy.de/#
 address=/ns.00dani.me/#
@@ -441,7 +441,6 @@ address=/dns.weixin.qq.com.cn/#
 address=/surfshark.com.au/#
 address=/unblock-proxy.com.de/#
 address=/webproxy.com.de/#
-address=/dns.comeonjames.club/#
 address=/commons.host/#
 address=/easy-vpn.comodo.com/#
 address=/comss.one/#
@@ -578,12 +577,7 @@ address=/droidvpn.com/#
 address=/doh.dscloud.me/#
 address=/duapps.com/#
 address=/duba.net/#
-address=/aattwwss.duckdns.org/#
-address=/home27.duckdns.org/#
-address=/jurre-home.duckdns.org/#
 address=/krtekvpn.duckdns.org/#
-address=/osefcorp.duckdns.org/#
-address=/punono.duckdns.org/#
 address=/tuandns.duckdns.org/#
 address=/tungdnsne.duckdns.org/#
 address=/dukun.de/#
@@ -627,7 +621,6 @@ address=/evantbyrne.info/#
 address=/everyproxies.info/#
 address=/evpn.net/#
 address=/evyy.net/#
-address=/ew32rgfdls.com/#
 address=/ewon.biz/#
 address=/expressvpn.com/#
 address=/expressvpn.net/#
@@ -671,9 +664,6 @@ address=/filesdownloader.com/#
 address=/dns.filipccz.eu/#
 address=/filterbypass.me/#
 address=/finchvpn.com/#
-address=/find-the-x-web2.com/#
-address=/find-x-web2.com/#
-address=/findxweblinks3.com/#
 address=/fpn.firefox.com/#
 address=/testpilot.firefox.com/#
 address=/firstcontact.site/#
@@ -5818,7 +5808,6 @@ address=/swordvpn.com/#
 address=/swoshsvpn.com/#
 address=/dns.syaifullah.com/#
 address=/ibksturm.synology.me/#
-address=/ihctw.synology.me/#
 address=/a-bld.sys-adm.in/#
 address=/bld.sys-adm.in/#
 address=/doh.syshero.org/#
@@ -5842,7 +5831,6 @@ address=/sg.teradns.org/#
 address=/tx.teradns.org/#
 address=/uk.teradns.org/#
 address=/dns.tesem.dog/#
-address=/cloud.tezoi.com/#
 address=/the-cloak.com/#
 address=/thebestproxy.info/#
 address=/thebestvpn.com/#
