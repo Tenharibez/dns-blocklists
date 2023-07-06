@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.hoster. hostmaster.hagezi.hoster. 1688593740 86400 3600 604800 30
+@ SOA rpz.hagezi.hoster. hostmaster.hagezi.hoster. 1688681280 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 05 Jul 2023 21:49 UTC
-; Version: 2023.0705.2149.41
+; Last modified: 06 Jul 2023 22:08 UTC
+; Version: 2023.0706.2208.38
 ; Syntax: RPZ
-; Number of entries: 4118
+; Number of entries: 4098
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -198,34 +198,14 @@ wox.cc CNAME .
 *.wox.cc CNAME .
 d-bride.cfd CNAME .
 *.d-bride.cfd CNAME .
-d-clock.cfd CNAME .
-*.d-clock.cfd CNAME .
 d-crowd.cfd CNAME .
 *.d-crowd.cfd CNAME .
-d-drama.cfd CNAME .
-*.d-drama.cfd CNAME .
-d-ghost.cfd CNAME .
-*.d-ghost.cfd CNAME .
-d-ivory.cfd CNAME .
-*.d-ivory.cfd CNAME .
 d-lodge.cfd CNAME .
 *.d-lodge.cfd CNAME .
 d-petty.cfd CNAME .
 *.d-petty.cfd CNAME .
-d-rough.cfd CNAME .
-*.d-rough.cfd CNAME .
-d-shake.cfd CNAME .
-*.d-shake.cfd CNAME .
 d-staff.cfd CNAME .
 *.d-staff.cfd CNAME .
-d-state.cfd CNAME .
-*.d-state.cfd CNAME .
-d-sugar.cfd CNAME .
-*.d-sugar.cfd CNAME .
-d-thank.cfd CNAME .
-*.d-thank.cfd CNAME .
-d-tough.cfd CNAME .
-*.d-tough.cfd CNAME .
 d-width.cfd CNAME .
 *.d-width.cfd CNAME .
 blogspot.ch CNAME .

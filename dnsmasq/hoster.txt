@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 05 Jul 2023 21:49 UTC
-# Version: 2023.0705.2149.41
+# Last modified: 06 Jul 2023 22:08 UTC
+# Version: 2023.0706.2208.38
 # Syntax: DNSMasq
-# Number of entries: 2059
+# Number of entries: 2049
 #
 address=/000a.de/#
 address=/000space.com/#
@@ -739,20 +739,10 @@ address=/cz.gp/#
 address=/czweb.org/#
 address=/d.gp/#
 address=/d-bride.cfd/#
-address=/d-clock.cfd/#
 address=/d-crowd.cfd/#
-address=/d-drama.cfd/#
-address=/d-ghost.cfd/#
-address=/d-ivory.cfd/#
 address=/d-lodge.cfd/#
 address=/d-petty.cfd/#
-address=/d-rough.cfd/#
-address=/d-shake.cfd/#
 address=/d-staff.cfd/#
-address=/d-state.cfd/#
-address=/d-sugar.cfd/#
-address=/d-thank.cfd/#
-address=/d-tough.cfd/#
 address=/d-width.cfd/#
 address=/d3l.de/#
 address=/da.cx/#

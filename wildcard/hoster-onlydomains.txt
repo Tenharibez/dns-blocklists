@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 05 Jul 2023 21:49 UTC
-# Version: 2023.0705.2149.41
+# Last modified: 06 Jul 2023 22:08 UTC
+# Version: 2023.0706.2208.38
 # Syntax: Domains (without subdomains)
-# Number of entries: 2059
+# Number of entries: 2049
 #
 000a.de
 000space.com
@@ -739,20 +739,10 @@ cz.gp
 czweb.org
 d.gp
 d-bride.cfd
-d-clock.cfd
 d-crowd.cfd
-d-drama.cfd
-d-ghost.cfd
-d-ivory.cfd
 d-lodge.cfd
 d-petty.cfd
-d-rough.cfd
-d-shake.cfd
 d-staff.cfd
-d-state.cfd
-d-sugar.cfd
-d-thank.cfd
-d-tough.cfd
 d-width.cfd
 d3l.de
 da.cx
