@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 06 Jul 2023 22:09 UTC
-# Version: 2023.0706.2209.55
+# Last modified: 07 Jul 2023 22:05 UTC
+# Version: 2023.0707.2205.28
 # Syntax: DNSMasq
-# Number of entries: 6800
+# Number of entries: 6787
 #
 address=/zer0day.000webhostapp.com/#
 address=/0123456789nonexistent.com/#
@@ -2279,7 +2279,6 @@ address=/free4pc.org/#
 address=/freebfg.org/#
 address=/freebookspot.es/#
 address=/freecrackpatch.com/#
-address=/freecracksoftwares.net/#
 address=/freecrackzone.com/#
 address=/freecztorrent.eu/#
 address=/freedocumentaries.org/#
@@ -2338,7 +2337,6 @@ address=/ftpbd.com/#
 address=/ftpbd.net/#
 address=/ftuapps.dev/#
 address=/tr.fuckbitcoin.xyz/#
-address=/full-tv.xyz/#
 address=/fullactivator.com/#
 address=/fullcrackserial.net/#
 address=/fulldls.com/#
@@ -2367,8 +2365,6 @@ address=/ipv6.fuuuuuck.com/#
 address=/oh.fuuuuuck.com/#
 address=/git.fuwafuwa.moe/#
 address=/fux0r.fyi/#
-address=/fux0r.top/#
-address=/fux0r.xyz/#
 address=/fxp-terminal.info/#
 address=/fxtt.ru/#
 address=/fyber.org/#
@@ -2391,7 +2387,6 @@ address=/uploads.gamecoast.net/#
 address=/gamecopyworld.com/#
 address=/gamecopyworld.eu/#
 address=/gamegear.nl/#
-address=/gamegui.org/#
 address=/gameloo.info/#
 address=/gamemp3s.net/#
 address=/gamepciso.com/#
@@ -2402,7 +2397,6 @@ address=/gamerzneeds.net/#
 address=/games4theworld.org/#
 address=/games4u.ws/#
 address=/gamesdrive.net/#
-address=/gamespark.ga/#
 address=/gamesrouter.com/#
 address=/gamestorrent.co/#
 address=/gamestorrents.com/#
@@ -2505,7 +2499,6 @@ address=/goloady.com/#
 address=/gomoviefree.sc/#
 address=/gomovies.click/#
 address=/gomovies.film/#
-address=/gomovies.guru/#
 address=/gomovies.kim/#
 address=/gomovies.men/#
 address=/gomovies.uno/#
@@ -2524,7 +2517,6 @@ address=/gostream.cool/#
 address=/gostream.is/#
 address=/gostream-hd.xyz/#
 address=/gotwoot.net/#
-address=/gounlimited.me/#
 address=/gounlimited.to/#
 address=/govod.tv/#
 address=/ipv6.govt.hu/#
@@ -2551,7 +2543,6 @@ address=/grizzlytorrents.com/#
 address=/storage.groupees.com/#
 address=/gtdb.cc/#
 address=/gtdb.to/#
-address=/gtorrent.org/#
 address=/gtorrent.pro/#
 address=/gtorrent.ru/#
 address=/guiks.net/#
@@ -2607,7 +2598,6 @@ address=/tracker.hdcity.city/#
 address=/php.hdcmct.com/#
 address=/tracker.hdcmct.com/#
 address=/tracker.hddolby.com/#
-address=/hddown.com/#
 address=/hdencode.com/#
 address=/hdf.world/#
 address=/hdfilme.cloud/#
@@ -2679,7 +2669,6 @@ address=/hi10anime.com/#
 address=/hif.to/#
 address=/high-way.me/#
 address=/highlightstore.me/#
-address=/tr.highstar.shop/#
 address=/highteahop.top/#
 address=/hikarinoakariost.info/#
 address=/torrents.hikarinokiseki.com/#
@@ -2696,7 +2685,6 @@ address=/tracker.hitpt.org/#
 address=/hitzwarez.net/#
 address=/tracker.hiyj.cn/#
 address=/share.hkg-fansub.info/#
-address=/bt.hliang.com/#
 address=/t1.hloli.org/#
 address=/hlscat.com/#
 address=/hlusoe.info/#
@@ -3299,7 +3287,6 @@ address=/m4uhd.com/#
 address=/m4uhd.tv/#
 address=/tk.mabo.ltd/#
 address=/mabula.net/#
-address=/mac-torrent-download.net/#
 address=/mac-torrents.com/#
 address=/mac-torrents.io/#
 address=/macappstorrent.com/#

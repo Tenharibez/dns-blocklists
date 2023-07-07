@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1688681340 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1688767500 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 06 Jul 2023 22:09 UTC
-; Version: 2023.0706.2209.55
+; Last modified: 07 Jul 2023 22:05 UTC
+; Version: 2023.0707.2205.28
 ; Syntax: RPZ
-; Number of entries: 13600
+; Number of entries: 13574
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -2884,8 +2884,6 @@ tracker.hdcmct.com CNAME .
 *.tracker.hdcmct.com CNAME .
 tracker.hddolby.com CNAME .
 *.tracker.hddolby.com CNAME .
-hddown.com CNAME .
-*.hddown.com CNAME .
 hdencode.com CNAME .
 *.hdencode.com CNAME .
 hdfrench.com CNAME .
@@ -2942,8 +2940,6 @@ bdix.hitechisp.com CNAME .
 *.bdix.hitechisp.com CNAME .
 tracker.hitpt.com CNAME .
 *.tracker.hitpt.com CNAME .
-bt.hliang.com CNAME .
-*.bt.hliang.com CNAME .
 hlscat.com CNAME .
 *.hlscat.com CNAME .
 hoichoi24.com CNAME .
@@ -6074,8 +6070,6 @@ putlocker.fyi CNAME .
 *.123movies.ga CNAME .
 open.free-tracker.ga CNAME .
 *.open.free-tracker.ga CNAME .
-gamespark.ga CNAME .
-*.gamespark.ga CNAME .
 pirateproxy.ga CNAME .
 *.pirateproxy.ga CNAME .
 ssanime.ga CNAME .
@@ -6140,8 +6134,6 @@ pelisplus.gratis CNAME .
 *.pelisplus.gratis CNAME .
 123movies.guide CNAME .
 *.123movies.guide CNAME .
-gomovies.guru CNAME .
-*.gomovies.guru CNAME .
 thepiratebay.guru CNAME .
 *.thepiratebay.guru CNAME .
 123movies.gy CNAME .
@@ -7268,8 +7260,6 @@ flixtor.me CNAME .
 *.flixtor.me CNAME .
 btt.service.gongt.me CNAME .
 *.btt.service.gongt.me CNAME .
-gounlimited.me CNAME .
-*.gounlimited.me CNAME .
 h3o2.me CNAME .
 *.h3o2.me CNAME .
 tracker.hdsky.me CNAME .
@@ -8190,8 +8180,6 @@ free-mp3-download.net CNAME .
 *.free-mp3-download.net CNAME .
 free-telecharger.net CNAME .
 *.free-telecharger.net CNAME .
-freecracksoftwares.net CNAME .
-*.freecracksoftwares.net CNAME .
 freshmoviestreams.net CNAME .
 *.freshmoviestreams.net CNAME .
 tracker.frozen-layer.net CNAME .
@@ -8384,8 +8372,6 @@ lovethescene.net CNAME .
 *.lovethescene.net CNAME .
 mabula.net CNAME .
 *.mabula.net CNAME .
-mac-torrent-download.net CNAME .
-*.mac-torrent-download.net CNAME .
 macdrop.net CNAME .
 *.macdrop.net CNAME .
 macwarez.net CNAME .
@@ -9954,8 +9940,6 @@ fyber.org CNAME .
 *.fyber.org CNAME .
 galacticcentral.org CNAME .
 *.galacticcentral.org CNAME .
-gamegui.org CNAME .
-*.gamegui.org CNAME .
 gamepciso.org CNAME .
 *.gamepciso.org CNAME .
 games4theworld.org CNAME .
@@ -9984,8 +9968,6 @@ greylodge.org CNAME .
 *.greylodge.org CNAME .
 grinderz.org CNAME .
 *.grinderz.org CNAME .
-gtorrent.org CNAME .
-*.gtorrent.org CNAME .
 gutenberg.org CNAME .
 *.gutenberg.org CNAME .
 haitou.org CNAME .
@@ -11814,8 +11796,6 @@ yesmovies.sh CNAME .
 *.yesmovies.sh CNAME .
 5mins.shop CNAME .
 *.5mins.shop CNAME .
-tr.highstar.shop CNAME .
-*.tr.highstar.shop CNAME .
 putlockers.shop CNAME .
 *.putlockers.shop CNAME .
 123freemovies.show CNAME .
@@ -12554,8 +12534,6 @@ fmovies.top CNAME .
 *.fmovies.top CNAME .
 free-telecharger.top CNAME .
 *.free-telecharger.top CNAME .
-fux0r.top CNAME .
-*.fux0r.top CNAME .
 haikyuu.top CNAME .
 *.haikyuu.top CNAME .
 hdfilme.top CNAME .
@@ -13440,12 +13418,8 @@ fsapi.xyz CNAME .
 *.fsapi.xyz CNAME .
 tr.fuckbitcoin.xyz CNAME .
 *.tr.fuckbitcoin.xyz CNAME .
-full-tv.xyz CNAME .
-*.full-tv.xyz CNAME .
 fullmoviz.xyz CNAME .
 *.fullmoviz.xyz CNAME .
-fux0r.xyz CNAME .
-*.fux0r.xyz CNAME .
 gdrivedl.xyz CNAME .
 *.gdrivedl.xyz CNAME .
 gmovies.xyz CNAME .

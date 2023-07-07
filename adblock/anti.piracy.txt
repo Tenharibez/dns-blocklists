@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 06 Jul 2023 22:09 UTC
-! Version: 2023.0706.2209.55
+! Last modified: 07 Jul 2023 22:05 UTC
+! Version: 2023.0707.2205.28
 ! Syntax: AdBlock
-! Number of entries: 6800
+! Number of entries: 6787
 !
 ||zer0day.000webhostapp.com^
 ||0123456789nonexistent.com^
@@ -2279,7 +2279,6 @@
 ||freebfg.org^
 ||freebookspot.es^
 ||freecrackpatch.com^
-||freecracksoftwares.net^
 ||freecrackzone.com^
 ||freecztorrent.eu^
 ||freedocumentaries.org^
@@ -2338,7 +2337,6 @@
 ||ftpbd.net^
 ||ftuapps.dev^
 ||tr.fuckbitcoin.xyz^
-||full-tv.xyz^
 ||fullactivator.com^
 ||fullcrackserial.net^
 ||fulldls.com^
@@ -2367,8 +2365,6 @@
 ||oh.fuuuuuck.com^
 ||git.fuwafuwa.moe^
 ||fux0r.fyi^
-||fux0r.top^
-||fux0r.xyz^
 ||fxp-terminal.info^
 ||fxtt.ru^
 ||fyber.org^
@@ -2391,7 +2387,6 @@
 ||gamecopyworld.com^
 ||gamecopyworld.eu^
 ||gamegear.nl^
-||gamegui.org^
 ||gameloo.info^
 ||gamemp3s.net^
 ||gamepciso.com^
@@ -2402,7 +2397,6 @@
 ||games4theworld.org^
 ||games4u.ws^
 ||gamesdrive.net^
-||gamespark.ga^
 ||gamesrouter.com^
 ||gamestorrent.co^
 ||gamestorrents.com^
@@ -2505,7 +2499,6 @@
 ||gomoviefree.sc^
 ||gomovies.click^
 ||gomovies.film^
-||gomovies.guru^
 ||gomovies.kim^
 ||gomovies.men^
 ||gomovies.uno^
@@ -2524,7 +2517,6 @@
 ||gostream.is^
 ||gostream-hd.xyz^
 ||gotwoot.net^
-||gounlimited.me^
 ||gounlimited.to^
 ||govod.tv^
 ||ipv6.govt.hu^
@@ -2551,7 +2543,6 @@
 ||storage.groupees.com^
 ||gtdb.cc^
 ||gtdb.to^
-||gtorrent.org^
 ||gtorrent.pro^
 ||gtorrent.ru^
 ||guiks.net^
@@ -2607,7 +2598,6 @@
 ||php.hdcmct.com^
 ||tracker.hdcmct.com^
 ||tracker.hddolby.com^
-||hddown.com^
 ||hdencode.com^
 ||hdf.world^
 ||hdfilme.cloud^
@@ -2679,7 +2669,6 @@
 ||hif.to^
 ||high-way.me^
 ||highlightstore.me^
-||tr.highstar.shop^
 ||highteahop.top^
 ||hikarinoakariost.info^
 ||torrents.hikarinokiseki.com^
@@ -2696,7 +2685,6 @@
 ||hitzwarez.net^
 ||tracker.hiyj.cn^
 ||share.hkg-fansub.info^
-||bt.hliang.com^
 ||t1.hloli.org^
 ||hlscat.com^
 ||hlusoe.info^
@@ -3299,7 +3287,6 @@
 ||m4uhd.tv^
 ||tk.mabo.ltd^
 ||mabula.net^
-||mac-torrent-download.net^
 ||mac-torrents.com^
 ||mac-torrents.io^
 ||macappstorrent.com^
