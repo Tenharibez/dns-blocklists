@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh. hostmaster.hagezi.doh. 1688681160 86400 3600 604800 30
+@ SOA rpz.hagezi.doh. hostmaster.hagezi.doh. 1688767260 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 06 Jul 2023 22:06 UTC
-; Version: 2023.0706.2206.00
+; Last modified: 07 Jul 2023 22:01 UTC
+; Version: 2023.0707.2201.49
 ; Syntax: RPZ
-; Number of entries: 1482
+; Number of entries: 1496
 ;
 shield.afixer.app CNAME .
 *.shield.afixer.app CNAME .
@@ -119,6 +119,8 @@ gateway.fomichev.cloud CNAME .
 *.gateway.fomichev.cloud CNAME .
 wyx.cloud CNAME .
 *.wyx.cloud CNAME .
+dns.comeonjames.club CNAME .
+*.dns.comeonjames.club CNAME .
 adguard.ef67daisuki.club CNAME .
 *.adguard.ef67daisuki.club CNAME .
 ps1.modr.club CNAME .
@@ -521,6 +523,8 @@ dns.surfshark.com CNAME .
 *.dns.surfshark.com CNAME .
 dns.syaifullah.com CNAME .
 *.dns.syaifullah.com CNAME .
+cloud.tezoi.com CNAME .
+*.cloud.tezoi.com CNAME .
 tk31z.com CNAME .
 *.tk31z.com CNAME .
 d.toairs.com CNAME .
@@ -767,8 +771,6 @@ dns.vmath.my.id CNAME .
 *.dns.vmath.my.id CNAME .
 doh.infotek.net.id CNAME .
 *.doh.infotek.net.id CNAME .
-kswro.web.id CNAME .
-*.kswro.web.id CNAME .
 doh.this.web.id CNAME .
 *.doh.this.web.id CNAME .
 doh.zephyrus.id CNAME .
@@ -939,6 +941,8 @@ do.shimul.me CNAME .
 *.do.shimul.me CNAME .
 ibksturm.synology.me CNAME .
 *.ibksturm.synology.me CNAME .
+ihctw.synology.me CNAME .
+*.ihctw.synology.me CNAME .
 bcandrade.ml CNAME .
 *.bcandrade.ml CNAME .
 dnsvps.familiamv.ml CNAME .
@@ -1233,8 +1237,18 @@ dns8.org CNAME .
 *.dns8.org CNAME .
 ns1.dotls.org CNAME .
 *.ns1.dotls.org CNAME .
+aattwwss.duckdns.org CNAME .
+*.aattwwss.duckdns.org CNAME .
+home27.duckdns.org CNAME .
+*.home27.duckdns.org CNAME .
+jurre-home.duckdns.org CNAME .
+*.jurre-home.duckdns.org CNAME .
 krtekvpn.duckdns.org CNAME .
 *.krtekvpn.duckdns.org CNAME .
+osefcorp.duckdns.org CNAME .
+*.osefcorp.duckdns.org CNAME .
+punono.duckdns.org CNAME .
+*.punono.duckdns.org CNAME .
 tuandns.duckdns.org CNAME .
 *.tuandns.duckdns.org CNAME .
 tungdnsne.duckdns.org CNAME .

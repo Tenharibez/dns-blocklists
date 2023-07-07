@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 06 Jul 2023 22:06 UTC
-# Version: 2023.0706.2206.00
+# Last modified: 07 Jul 2023 22:01 UTC
+# Version: 2023.0707.2201.49
 # Syntax: Domains (without subdomains)
-# Number of entries: 741
+# Number of entries: 748
 #
 ns.00dani.me
 dns.0ooo.icu
@@ -180,6 +180,7 @@ adguard.gbrossi.com.br
 dns.joaofidelix.com.br
 dns.opnsource.com.au
 dns.weixin.qq.com.cn
+dns.comeonjames.club
 commons.host
 comss.one
 comss.ru
@@ -275,7 +276,12 @@ doh.sb
 dot.pub
 ns1.dotls.org
 doh.dscloud.me
+aattwwss.duckdns.org
+home27.duckdns.org
+jurre-home.duckdns.org
 krtekvpn.duckdns.org
+osefcorp.duckdns.org
+punono.duckdns.org
 tuandns.duckdns.org
 tungdnsne.duckdns.org
 dukun.de
@@ -673,6 +679,7 @@ surt.ml
 switch.ch
 dns.syaifullah.com
 ibksturm.synology.me
+ihctw.synology.me
 a-bld.sys-adm.in
 bld.sys-adm.in
 doh.syshero.org
@@ -686,6 +693,7 @@ sg.teradns.org
 tx.teradns.org
 uk.teradns.org
 dns.tesem.dog
+cloud.tezoi.com
 dns.theres.one
 dns.therifleman.name
 doh.tiar.app
@@ -726,7 +734,6 @@ dns.wakgood.net
 wantaquddin.com
 abel.waringer-atg.de
 dns.warpnine.de
-kswro.web.id
 doh.this.web.id
 dns.wevpn.com
 dns-weblock.wevpn.com
