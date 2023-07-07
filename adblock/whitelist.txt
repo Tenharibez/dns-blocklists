@@ -2895,6 +2895,7 @@
 @@|mon*-normal-*.tiktok*.com^
 @@|mon*-platform-*.tiktok*.com^
 @@|mon*-tmp-*.tiktok*.com^
+@@|mon*-i*.tiktok*.com^
 @@|*mssdk*.byteoversea.com^
 @@|*mssdk*.snssdk.com^
 @@|*mssdk*.tiktok*.com^
@@ -4267,4 +4268,7 @@
 
 ! Russian artists send these kinds of links to all the sites where you can listen to their track (Spotify, Yandex, VK, Apple Music, etc.)
 @@|l.1mp.ru^
+
+! Details of products in Lazada Shopping App
+@@|filebroker-cdn.lazada.*^
 

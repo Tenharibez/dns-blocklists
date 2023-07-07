@@ -36,11 +36,11 @@
 #### ***Multi blocklist version and size overview:***
 | Version | Domains<br>Compressed | Pro++ | Pro | Normal | Light | [Fake](#fake) | [TIF<br>full](#tif) | [TIF<br>med.](#tif) | [Personal](#personal) | [Native](#native) |
 |:--------|---:|:---:|:------:|:-----:|:----:|:---:|:------:|:----------:|:----------:|:----------:|
-| [Light](#light)             | 613235<br>138072     | |   |   |  | :green_circle: | | :yellow_square: | :green_circle: | :yellow_square: |
-| [Normal](#normal)       | 999357<br>362328     | |   |  | :green_circle: | :green_circle: | | :green_circle: | :green_circle: | :yellow_square: |
-| [Pro](#pro)              | 1187463<br>451526         | |  | :green_circle: | :green_circle: | :green_circle: | | :green_circle: | :green_circle: | :yellow_square: |
-| [Pro++](#proplus)    | 1413434<br>502742 | | :green_circle: | :green_circle: | :green_circle: | :green_circle: | | :green_circle: | :green_circle: | :green_circle: |
-| [Ultimate](#ultimate)    | 2421575<br>958535 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |
+| [Light](#light)             | 612418<br>137673     | |   |   |  | :green_circle: | | :yellow_square: | :green_circle: | :yellow_square: |
+| [Normal](#normal)       | 1030526<br>383657     | |   |  | :green_circle: | :green_circle: | | :green_circle: | :green_circle: | :yellow_square: |
+| [Pro](#pro)              | 1157004<br>434329         | |  | :green_circle: | :green_circle: | :green_circle: | | :green_circle: | :green_circle: | :yellow_square: |
+| [Pro++](#proplus)    | 1418358<br>500125 | | :green_circle: | :green_circle: | :green_circle: | :green_circle: | | :green_circle: | :green_circle: | :green_circle: |
+| [Ultimate](#ultimate)    | 2414968<br>948682 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |
            
 *:green_circle: = contains the list named in the column caption*       
 *:yellow_square: = partially contains the list named in the column caption*       
@@ -51,7 +51,7 @@
       
 *Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics, some Malware and Fake.*
           
-**Entries:** *613235 domains/hosts - 138072 compressed domains* | [Statistics](https://github.com/hagezi/dns-blocklists/blob/main/statistics.md#light)         
+**Entries:** *612418 domains/hosts - 137673 compressed domains* | [Statistics](https://github.com/hagezi/dns-blocklists/blob/main/statistics.md#light)         
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -68,7 +68,7 @@
       
 *Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *999357 domains/hosts - 362328 compressed domains* | [Statistics](https://github.com/hagezi/dns-blocklists/blob/main/statistics.md#multi)        
+**Entries:** *1030526 domains/hosts - 383657 compressed domains* | [Statistics](https://github.com/hagezi/dns-blocklists/blob/main/statistics.md#multi)        
           
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -85,7 +85,7 @@
       
 *Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *1187463 domains/hosts - 451526 compressed domains* | [Statistics](https://github.com/hagezi/dns-blocklists/blob/main/statistics.md#pro)        
+**Entries:** *1157004 domains/hosts - 434329 compressed domains* | [Statistics](https://github.com/hagezi/dns-blocklists/blob/main/statistics.md#pro)        
            
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -104,7 +104,7 @@
          
 *More aggressive version of the Multi PRO blocklist. It may contain few false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *1413434 domains/hosts - 502742 compressed domains* | [Statistics](https://github.com/hagezi/dns-blocklists/blob/main/statistics.md#proplus)    
+**Entries:** *1418358 domains/hosts - 500125 compressed domains* | [Statistics](https://github.com/hagezi/dns-blocklists/blob/main/statistics.md#proplus)    
                                                 
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -123,7 +123,7 @@
          
 *Stricter version of the Multi PRO++ blocklist. It may contain false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *2421575 domains/hosts - 958535 compressed domains* | [Statistics](https://github.com/hagezi/dns-blocklists/blob/main/statistics.md#ultimate)    
+**Entries:** *2414968 domains/hosts - 948682 compressed domains* | [Statistics](https://github.com/hagezi/dns-blocklists/blob/main/statistics.md#ultimate)    
                                                 
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -345,7 +345,7 @@
 ### ***Gambling - Protects against gambling content!*** <a name="gambling"></a>
 *Blocks gambling content.*         
         
-**Entries:** *154922 compressed domains* | [Statistics](https://github.com/hagezi/dns-blocklists/blob/main/statistics.md#gambling)
+**Entries:** *156160 compressed domains* | [Statistics](https://github.com/hagezi/dns-blocklists/blob/main/statistics.md#gambling)
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -363,7 +363,7 @@
 ### ***Personal - My manually maintained denylist*** <a name="personal"></a>
 *My personal blocklist, an extension for known blocklists. Blocks ads, trackers, native device trackers, badware and more. Not intended to be used as a standalone blocklist, it serves as a addition for other blocklists!*         
         
-**Entries:** *41393 compressed domains*
+**Entries:** *41396 compressed domains*
        
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
