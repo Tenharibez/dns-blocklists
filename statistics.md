@@ -65,10 +65,10 @@
 ```
 #### PRO.PLUS
 ```
-1424302 (77%) included | 113174 (6%) removed | 301883 (16%) dead
+1344644 (91%) included | 7791 (1%) removed | 117306 (8%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% | 1154259 | Predecessor: Multi Pro
+  1 |     100% |   0% |      0% | 1099484 | Predecessor: Multi Pro
   2 |     100% |   0% |      0% |   41318 | Personal
   3 |      78% |   3% |     19% |     155 | Personal Wildcard Rules
   4 |     100% |   0% |      0% |   15528 | Fake
@@ -78,34 +78,26 @@
   8 |      96% |   4% |      0% |      67 | Native Tracker LG webOS
   9 |     100% |   0% |      0% |     180 | Native Tracker TikTok (Fingerprinting)
  10 |      79% |   0% |     21% |     122 | Native Tracker Microsoft (Windows, Office, MSN)
- 11 |      98% |   1% |      1% |    6059 | Denylist Base
- 12 |      68% |  32% |      0% |    3535 | raw.githubusercontent.com/manic-code/Emerging-Malicious-Domain-Blocklist/main/hosts.txt
- 13 |     100% |   0% |      0% |     137 | raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
- 14 |      95% |   5% |      0% |      91 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-stats.txt
- 15 |     100% |   0% |      0% |  146866 | Threat Intelligence Feeds Medium
- 16 |     100% |   0% |      0% |  785460 | Balanced Extension
- 17 |      47% |  52% |      1% |  198454 | raw.githubusercontent.com/StevenBlack/hosts/master/hosts
- 18 |      92% |   7% |      1% |  114470 | AdGuard MultiParty (DNS, Base, International, Annoyances, Mobile, Spyware, Social)
- 19 |      86% |  13% |      1% |   89607 | EasyList MultiParty (List, Privacy, Interanational, Annoyances, FanBoy, AntiAdBlock, AntiCV)
- 20 |      95% |   5% |      0% |    3349 | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse)
- 21 |      79% |  10% |     11% |    4978 | Tracking Extension
- 22 |     100% |   0% |      0% |   73404 | Popupads Extension
- 23 |      98% |   1% |      1% |  247197 | 1Hosts Pro
- 24 |      93% |   5% |      2% |   16716 | raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking
- 25 |      84% |  15% |      1% |  188827 | raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
- 26 |      46% |  32% |     22% |  489051 | hblock.molinero.dev/hosts_domains.txt
- 27 |      97% |   1% |      2% |   16601 | gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
- 28 |      37% |   0% |     63% |       8 | raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt
- 29 |      59% |  11% |     30% |      76 | raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt
- 30 |      97% |   0% |      3% |   78813 | Aggressive Extension
- 31 |      89% |   7% |      4% |     915 | Denylist Aggressive
+ 11 |      97% |   2% |      1% |    6059 | Denylist Base
+ 12 |      99% |   0% |      1% |   69833 | Basic Extension
+ 13 |      99% |   1% |      0% |  129072 | Threat Intelligence Feeds Medium
+ 14 |     100% |   0% |      0% |  785588 | Balanced Extension
+ 15 |      92% |   7% |      1% |  114544 | AdGuard MultiParty (DNS, Base, International, Annoyances, Mobile, Spyware, Social)
+ 16 |      85% |  14% |      1% |   89683 | EasyList MultiParty (List, Privacy, Interanational, Annoyances, FanBoy, AntiAdBlock, AntiCV)
+ 17 |      95% |   5% |      0% |    3350 | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse)
+ 18 |      79% |  10% |     11% |    4978 | Tracking Extension
+ 19 |      99% |   1% |      0% |   73404 | Popupads Extension
+ 20 |      97% |   1% |      2% |  250170 | 1Hosts Pro
+ 21 |      98% |   0% |      2% |   80959 | Aggressive Extension
+ 22 |      99% |   1% |      0% |  774740 | Catch Basin Extension
+ 23 |      89% |   7% |      4% |     915 | Denylist Aggressive
 ```
 #### ULTIMATE
 ```
-2421432 (81%) included | 112801 (4%) removed | 463370 (15%) dead
+2366675 (89%) included | 7425 (0%) removed | 291619 (11%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% | 1424302 | Predecessor: Multi Pro++
+  1 |     100% |   0% |      0% | 1344644 | Predecessor: Multi Pro++
   2 |     100% |   0% |      0% |   41318 | Personal
   3 |      87% |   3% |     10% |     155 | Personal Wildcard Rules
   4 |     100% |   0% |      0% |   15528 | Fake
@@ -115,32 +107,23 @@
   8 |      96% |   4% |      0% |      67 | Native Tracker LG webOS
   9 |     100% |   0% |      0% |     180 | Native Tracker TikTok (Fingerprinting)
  10 |      97% |   0% |      3% |     122 | Native Tracker Microsoft (Windows, Office, MSN)
- 11 |      98% |   1% |      1% |    6059 | Denylist Base
- 12 |      68% |  32% |      0% |    3535 | raw.githubusercontent.com/manic-code/Emerging-Malicious-Domain-Blocklist/main/hosts.txt
- 13 |     100% |   0% |      0% |     137 | raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
- 14 |      95% |   5% |      0% |      91 | raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-stats.txt
- 15 |     100% |   0% |      0% |  785460 | Balanced Extension
- 16 |      47% |  52% |      1% |  198454 | raw.githubusercontent.com/StevenBlack/hosts/master/hosts
- 17 |      93% |   7% |      0% |  114470 | AdGuard MultiParty (DNS, Base, International, Annoyances, Mobile, Spyware, Social)
- 18 |      86% |  13% |      1% |   89607 | EasyList MultiParty (List, Privacy, Interanational, Annoyances, FanBoy, AntiAdBlock, AntiCV)
- 19 |      95% |   5% |      0% |    3349 | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse)
- 20 |      79% |  10% |     11% |    4978 | Tracking Extension
- 21 |     100% |   0% |      0% |   73404 | Popupads Extension
- 22 |      98% |   1% |      1% |  247197 | 1Hosts Pro
- 23 |      84% |  15% |      1% |  188827 | raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
- 24 |      93% |   5% |      2% |   16716 | raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking
- 25 |      46% |  32% |     22% |  489051 | hblock.molinero.dev/hosts_domains.txt
- 26 |      98% |   1% |      1% |   16601 | gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
- 27 |      50% |   0% |     50% |       8 | raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt
- 28 |      68% |  11% |     21% |      76 | raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt
- 29 |      98% |   0% |      2% |   78813 | Aggressive Extension
- 30 |      90% |   7% |      3% |     915 | Denylist Aggressive
- 31 |      96% |   3% |      1% |   55203 | secure.fanboy.co.nz/r/fanboy-Multi Ultimate
- 32 |     100% |   0% |      0% |       8 | META Graph Tracker (Facebook, Instagram)
- 33 |      85% |  13% |      2% |   34807 | Ads/Tracking Extension
- 34 |      94% |   4% |      2% |     405 | Native Tracker TikTok Extended (Fingerprinting)
- 35 |      99% |   1% |      0% |  774707 | Catch Basin Extension
- 36 |     100% |   0% |      0% |  676965 | Threat Intelligence Feeds
+ 11 |      97% |   2% |      1% |    6059 | Denylist Base
+ 12 |     100% |   0% |      0% |   69833 | Basic Extension
+ 13 |     100% |   0% |      0% |  785588 | Balanced Extension
+ 14 |      93% |   7% |      0% |  114544 | AdGuard MultiParty (DNS, Base, International, Annoyances, Mobile, Spyware, Social)
+ 15 |      85% |  14% |      1% |   89683 | EasyList MultiParty (List, Privacy, Interanational, Annoyances, FanBoy, AntiAdBlock, AntiCV)
+ 16 |      95% |   5% |      0% |    3350 | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse)
+ 17 |      79% |  10% |     11% |    4978 | Tracking Extension
+ 18 |      99% |   1% |      0% |   73404 | Popupads Extension
+ 19 |      97% |   1% |      2% |  250170 | 1Hosts Pro
+ 20 |      99% |   0% |      1% |   80959 | Aggressive Extension
+ 21 |      99% |   1% |      0% |  774740 | Catch Basin Extension
+ 22 |      90% |   7% |      3% |     915 | Denylist Aggressive
+ 23 |     100% |   0% |      0% |       8 | META Graph Tracker (Facebook, Instagram)
+ 24 |      85% |  13% |      2% |   34807 | Ads/Tracking Extension
+ 25 |      94% |   4% |      2% |     405 | Native Tracker TikTok Extended (Fingerprinting)
+ 26 |      99% |   1% |      0% |  676965 | Threat Intelligence Feeds
+ 27 |      90% |   0% |     10% |    4055 | Denylist Compression Optimisation
 ```
 #### FAKE
 ```
