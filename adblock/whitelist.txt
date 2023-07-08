@@ -4272,3 +4272,14 @@
 ! Details of products in Lazada Shopping App
 @@|filebroker-cdn.lazada.*^
 
+! Games
+@@|gameforge.com^
+@@|www.gameforge.com^
+@@|voodoo.io^
+@@|www.voodoo.io^
+@@|voodoo-tech.io^
+@@|www.voodoo-tech.io^
+
+! Yandex Forms
+@@|forms.yandex.com^
+

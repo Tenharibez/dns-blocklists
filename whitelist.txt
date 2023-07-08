@@ -3916,3 +3916,11 @@ l.1mp.ru
 # Details of products in Lazada Shopping App
 filebroker-cdn.lazada.*
 
+# Games
+gameforge.com
+voodoo.io
+voodoo-tech.io
+
+# Yandex Forms
+forms.yandex.com
+
