@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 07 Jul 2023 22:02 UTC
-# Version: 2023.0707.2202.59
+# Last modified: 08 Jul 2023 22:24 UTC
+# Version: 2023.0708.2224.25
 # Syntax: Domains (without subdomains)
-# Number of entries: 1561
+# Number of entries: 1560
 #
 0000000000000000000000.com
 0rg.us
@@ -859,7 +859,6 @@ itsaol.com
 iu4ever.org
 iugaming.com
 ivc.cc
-ivi.pl
 ix.tc
 iz.rs
 jade-hamburg.de
