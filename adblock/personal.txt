@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 08 Jul 2023 14:11 UTC
-! Version: 2023.0708.1411.16
+! Last modified: 08 Jul 2023 23:39 UTC
+! Version: 2023.0708.2339.48
 ! Syntax: AdBlock
-! Number of entries: 40778
+! Number of entries: 40753
 !
 ||000space.com^
 ||000webhost.com^
@@ -14657,6 +14657,7 @@
 ||data-0be38fdd72.eatsmarter.de^
 ||eatwithdifyf.com^
 ||eautifulasawea.com^
+||eavesofefinegoldf.info^
 ||analytic.eawi.de^
 ||eaxritop.com^
 ||eazel.com^
@@ -18840,6 +18841,7 @@
 ||haxsoft.com^
 ||sanalytics.hayneedle.com^
 ||haywarn.com^
+||hayyad.com^
 ||data-60d896f23d.haz.de^
 ||data-6dde45f576.haz.de^
 ||hazairgo.net^
@@ -19948,6 +19950,7 @@
 ||prebid-cache.ifunny.co^
 ||ifvox.com^
 ||ifxrtcm.com^
+||ifzpvnrjp.com^
 ||ifzwmwe.com^
 ||sig.ig.com^
 ||igaming-service.io^
@@ -20398,7 +20401,7 @@
 ||inhabitantquestions.com^
 ||inhabitsensationdeadline.com^
 ||ininmacerad.pro^
-||inistrack.net^
+||rt.inistrack.net^
 ||analytics.init.de^
 ||initialbanisters.com^
 ||initiallycoffee.com^
@@ -22287,7 +22290,6 @@
 ||trk.konistrk.xyz^
 ||konseptderi.com^
 ||kont-news.com^
-||kontagent.net^
 ||kontakt.io^
 ||kontera.com^
 ||kontribusiuang.top^
@@ -22316,7 +22318,6 @@
 ||kostprice.com^
 ||kostunivo.com^
 ||secure.kota3chat.com^
-||koten.zone^
 ||kotokot.com^
 ||koudoukan.jp^
 ||kouhad0.jp^
@@ -22457,14 +22458,11 @@
 ||wa.kuwo.cn^
 ||kuwooque.com^
 ||kvcd7w375h.ru^
-||kveff.com^
 ||kveii.com^
 ||kvemm.com^
 ||kvevv.com^
 ||kveww.com^
 ||kvezz.com^
-||kvhcc.com^
-||kvhnn.com^
 ||tdep.kvk.nl^
 ||kvkaa.com^
 ||kvtaaa.top^
@@ -22617,7 +22615,6 @@
 ||largebrass.com^
 ||larivieracasino.com^
 ||sensors.larkplayerapp.com^
-||larpollicwilli.club^
 ||las4srv.com^
 ||laserdrivepreview.com^
 ||smetrics.lasexta.com^
@@ -22691,7 +22688,6 @@
 ||lc-cn-n1-shared.com^
 ||lc2ads.ru^
 ||lcaccorhu.com^
-||lcads.ru^
 ||smetrics.lcbo.com^
 ||lcfooiqhro.com^
 ||lcjpudf.com^
@@ -23258,7 +23254,6 @@
 ||ads.livetv679.me^
 ||ads.livetv681.me^
 ||liveupdt.com^
-||liveyield.com^
 ||livezilla.net^
 ||livezombymil.com^
 ||livianuprein.com^
@@ -23378,7 +23373,6 @@
 ||logica-info.com^
 ||buzz.logility.com^
 ||lcs.loginfra.com^
-||loginhood.io^
 ||share.loginradius.com^
 ||webanalytics.logitech.com^
 ||webtarget.logitech.com^
@@ -23868,6 +23862,7 @@
 ||smetric.malaysiaairlines.com^
 ||mali4blat.com^
 ||maliciousmusic.com^
+||malief.com^
 ||malikiresids.com^
 ||malkm.com^
 ||analytics.mall.tv^
@@ -26161,7 +26156,6 @@
 ||netpub.media^
 ||netratings.com^
 ||netrefer.com^
-||nsm.tr.netsalesmedia.pl^
 ||netseer.com^
 ||netshelter.net^
 ||netsolads.com^
@@ -33307,7 +33301,6 @@
 ||log.m.sm.cn^
 ||sugs.m.sm.cn^
 ||wolong-dsp.sm.cn^
-||sm-brothers.com^
 ||sm-tc.cn^
 ||smaad.net^
 ||smaato.com^
@@ -33410,7 +33403,6 @@
 ||t.smile.eu^
 ||web-analytics.smile.io^
 ||smilepop.com^
-||smilesanitations.com^
 ||smilewanted.com^
 ||smileycentral.com^
 ||cpx.smind.si^
@@ -33769,7 +33761,6 @@
 ||aa.sparebank1.no^
 ||sparechange.io^
 ||spargegytling.com^
-||sparka-tan.info^
 ||data1.sparkasse.at^
 ||ads.sparkflow.net^
 ||lenta.sparrow.ru^
@@ -34051,7 +34042,6 @@
 ||st-rdirect.com^
 ||st1net.com^
 ||staamcommunity.com^
-||stable-vpn-app.com^
 ||stack-sonar.com^
 ||stackadapt.com^
 ||widgets.stackcommerce.com^
@@ -34467,12 +34457,10 @@
 ||suggestive.com^
 ||sugodeku.com^
 ||sugulove.com^
-||sugulove69.net^
 ||sugusagasu.com^
 ||suhuhow.com^
 ||suicidechapterspartnership.com^
 ||log-dmp.suishenyun.cn^
-||suitaptcope.live^
 ||suitbelongingoccasion.com^
 ||suitcasessheriffpilgrim.com^
 ||suiteshowedlottery.com^
@@ -34956,7 +34944,6 @@
 ||tanganrss.com^
 ||tm.tangasulfide.com^
 ||tangerine.io^
-||tangnickmienphi.com^
 ||tangxu.xyz^
 ||tangyamount.com^
 ||tanishkenclave.in^
@@ -35176,11 +35163,9 @@
 ||www5.technews.tw^
 ||te-static.technical-service.net^
 ||tr.technical-service.net^
-||technicalakshay.com^
 ||technicianforestallproper.com^
 ||technicupdate.com^
 ||technimum.com^
-||technologiemounac.com^
 ||technologycontemplate.com^
 ||technoratimedia.com^
 ||technoshadows.com^
@@ -35381,7 +35366,6 @@
 ||tgryfh.xyz^
 ||tgtag.io^
 ||smetrics.tgw.com^
-||th1sis0ur22.com^
 ||thagrals.net^
 ||thaidrix.xyz^
 ||thaidsir.xyz^
@@ -35587,7 +35571,6 @@
 ||metrics.thingspeak.com^
 ||smetrics.thingspeak.com^
 ||thinkdream.com^
-||thinkfood.club^
 ||trk.thinkhdi.com^
 ||tracker.thinkindot.com^
 ||thinknear-hosted.thinknearhub.com^
@@ -40522,7 +40505,6 @@
 ||bms.zeptolab.com^
 ||zer9g.com^
 ||zerads.com^
-||zerbei.com^
 ||zeredress.com^
 ||zergnet.com^
 ||c1hit.zerkalo.io^
@@ -40535,7 +40517,6 @@
 ||zerocha.jp^
 ||zeropark.com^
 ||zerostats.com^
-||zesty-lady.pro^
 ||zestycrime.com^
 ||zetadeo.com^
 ||zetchopa.xyz^
@@ -40560,10 +40541,8 @@
 ||zhanzhang.net^
 ||zhaozongqq.com^
 ||zhctrack.net^
-||zheevmmvlwg.com^
 ||zhej78i1an8w6ceu.com^
 ||zheltaya.ru^
-||zhhxxnfuxn.com^
 ||zhibo128x1.xyz^
 ||v.zhihe.mobi^
 ||crash2.zhihu.com^
@@ -40642,7 +40621,6 @@
 ||s.zlinkc.com^
 ||s.zlinkd.com^
 ||zlinkm.com^
-||zljwhbuagdvl.com^
 ||zlp6s.pw^
 ||creator.zmags.com^
 ||stats.zmags.com^
@@ -40712,7 +40690,6 @@
 ||zqtk.net^
 ||zquent.com^
 ||app.zrotary.com^
-||zrwpporp.com^
 ||ssp.zryydi.com^
 ||zscwdu.com^
 ||zslhmw.com^
@@ -40723,7 +40700,6 @@
 ||ztsrv.com^
 ||ztulkecpeo.com^
 ||ztvzfq.com^
-||ztyqrwinqpvque.com^
 ||ztzguv.com^
 ||zubivu.com^
 ||zuciwang.com^
@@ -40760,7 +40736,6 @@
 ||zwaar.net^
 ||zwnoeqzsuz.com^
 ||zwqzxh.com^
-||zwwlaasbezg.com^
 ||zwyfuxoh.com^
 ||zx-adnet.com^
 ||zxcdn.com^
