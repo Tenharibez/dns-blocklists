@@ -4297,3 +4297,11 @@
 @@|corbettreport.com^
 @@|www.corbettreport.com^
 
+! https://github.com/hagezi/dns-blocklists/issues/1256
+@@|system360.inistrack.net^
+@@|nsm.tr.netsalesmedia.pl^
+
+! Newsletter links
+@@|app.convertkit.com^
+@@|app.convertkit.com.cdn.cloudflare.net^
+
