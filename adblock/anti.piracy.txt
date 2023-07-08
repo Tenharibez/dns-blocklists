@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 07 Jul 2023 22:05 UTC
-! Version: 2023.0707.2205.28
+! Last modified: 08 Jul 2023 22:26 UTC
+! Version: 2023.0708.2226.24
 ! Syntax: AdBlock
-! Number of entries: 6787
+! Number of entries: 6770
 !
 ||zer0day.000webhostapp.com^
 ||0123456789nonexistent.com^
@@ -410,7 +410,6 @@
 ||alt-torrent.com^
 ||altbinz.net^
 ||alterupload.com^
-||tracker.altrosky.nl^
 ||amaderftp.net^
 ||amateur-hour.net^
 ||amazing-news.se^
@@ -441,7 +440,6 @@
 ||anime-legion.net^
 ||anime-loads.org^
 ||board.anime-miako.to^
-||tracker.anime-miako.to^
 ||anime-planet.com^
 ||anime-sharing.com^
 ||anime-tv.fun^
@@ -581,7 +579,6 @@
 ||araditracker.com^
 ||arafnetbd.com^
 ||bt.arcadefire.net^
-||tracker.arcbox.cc^
 ||archivx.to^
 ||arconaitv.us^
 ||area51.to^
@@ -856,7 +853,6 @@
 ||bitsources.com^
 ||bitsparadise.info^
 ||bitspyder.net^
-||tracker.bittor.pw^
 ||tracker.bittor.xyz^
 ||bittorent.biz^
 ||bittorex.com^
@@ -1029,7 +1025,6 @@
 ||btbot.com^
 ||btbtt.com^
 ||btbtw.com^
-||tracker.btcake.com^
 ||t.btcland.xyz^
 ||btcyberstorm.com^
 ||btdb.eu^
@@ -2858,7 +2853,6 @@
 ||itmn.org^
 ||itnetzone.com^
 ||itoma.info^
-||itorrent.io^
 ||itorrent.tv^
 ||itorrent.ws^
 ||itorrents.org^
@@ -2907,8 +2901,6 @@
 ||jkanime.online^
 ||jkanime.su^
 ||jkanime.video^
-||ns1.johnlongstreth.com^
-||ns2.johnlongstreth.com^
 ||join4films.com^
 ||jokerlivestream.com^
 ||jokerlivestream.me^
@@ -2942,7 +2934,6 @@
 ||eztv.k8.tf^
 ||torrentz2.k8.tf^
 ||kaat.pw^
-||kachajhal.com^
 ||kaizoku-fansubs.com^
 ||tracker.kali.org^
 ||sub.kamigami.org^
@@ -2955,7 +2946,6 @@
 ||kat.li^
 ||kat.rip^
 ||kat.to^
-||lt.www.kat.ph^
 ||katastrofa.com^
 ||katcr.co^
 ||katcr.to^
@@ -3119,7 +3109,6 @@
 ||laser-dentaire.org^
 ||latinbit.com^
 ||pt.lax.mx^
-||layarkaca21.onl^
 ||layarkaca21.ru^
 ||layarkacaxxi.biz^
 ||layer13.net^
@@ -3256,7 +3245,6 @@
 ||lookmovie.media^
 ||lookmovie.mobi^
 ||lookmovie.studio^
-||lookmovie2.site^
 ||lopatins.ru^
 ||losmovies.app^
 ||losmovies.fun^
@@ -3270,7 +3258,6 @@
 ||lovethescene.net^
 ||warez.loxblog.com^
 ||lumpysoft.com^
-||lumsoft.us^
 ||lunchflix.com^
 ||lunchflix.org^
 ||tracker.lyretain.site^
@@ -3372,7 +3359,6 @@
 ||media-torrent.org^
 ||mediaboxbd.com^
 ||mediaboxhd.net^
-||mediaclub.tv^
 ||mediafire.com^
 ||mediafirefile.com^
 ||mediakey.dk^
@@ -3411,7 +3397,6 @@
 ||melen.net^
 ||melomaniacos.com^
 ||memsware.com^
-||tracker.merded.xyz^
 ||mesfichiers.org^
 ||metadownload.org^
 ||tracker.metal-torrents.com^
@@ -3450,7 +3435,6 @@
 ||minorstudio.com^
 ||miobt.com^
 ||miomio.tv^
-||open.miotracker.com^
 ||livetv.mirpur.online^
 ||mirpurnetbd.com^
 ||mirpurtech.com^
@@ -4521,7 +4505,6 @@
 ||pubfilm.one^
 ||old.pubfilms.club^
 ||public-tracker.cf^
-||tracker.publicbt.com^
 ||publicdomaintorrents.com^
 ||publicdomaintorrents.info^
 ||publichd.se^
