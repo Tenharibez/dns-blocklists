@@ -4305,3 +4305,7 @@
 @@|app.convertkit.com^
 @@|app.convertkit.com.cdn.cloudflare.net^
 
+! legit file sharing
+@@|transfer.sh^
+@@|www.transfer.sh^
+

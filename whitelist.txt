@@ -3943,3 +3943,6 @@ nsm.tr.netsalesmedia.pl
 app.convertkit.com
 app.convertkit.com.cdn.cloudflare.net
 
+# legit file sharing
+transfer.sh
+
