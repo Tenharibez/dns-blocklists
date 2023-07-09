@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Jul 2023 22:34 UTC
-# Version: 2023.0708.2234.35
+# Last modified: 09 Jul 2023 22:00 UTC
+# Version: 2023.0709.2200.30
 # Syntax: Domains (without subdomains)
-# Number of entries: 15407
+# Number of entries: 15339
 #
 009972.com
 100-solarni-lampa-cz.com
@@ -1024,6 +1024,7 @@ awirer.com
 missmatch3-addressdelivery.mails-5v6i15.aww9lv2.shop
 axe-cap.com
 axeinvest.com
+axelarigato.cz
 axelarigatowien.com
 axeprogroup.com
 axfritz.shop
@@ -3623,6 +3624,7 @@ discount-kobalt.com
 discount-zigaretten24.com
 discountaarrivals.com
 discountapparels.store
+discountbloc.ru
 discountcamph.store
 discountcamph.website
 discountcat.website
@@ -4342,6 +4344,7 @@ esl-gaming.com
 esmart-invest.com
 esoftn.shop
 espace-cluny.com
+espadrilkytoms.cz
 especialchristmas.com
 especialdogtoy.store
 especialinstrumentssale.store
@@ -5584,6 +5587,7 @@ gigantv.com
 gigantwebhost.de
 gilbert-onlinehandel.de
 gillplay.com
+gilltry.com
 ginaihealth.shop
 ginkgo-blumen.de
 gioiacasashop.com
@@ -7530,6 +7534,7 @@ kunstpanorama.de
 kunstzeit-ruhr.de
 kunz-modeundmehr.de
 kuoteshome.com
+kupi-cz.com
 kupparfem.com
 kurakova.pl
 kurpiezielone.pl
@@ -7770,7 +7775,6 @@ letfli.com
 letgo.store
 letmode.com
 letojewelry.com
-letrantrunghieu.com
 letsexplorey.com
 letstalklanguage.de
 letteringift.com
@@ -8015,11 +8019,11 @@ lozoro.de
 lpleurope.com
 lplinvest.com
 lprhomes.com
-lrgst.com
 lscodockersat.com
 lskg.shop
 ltasportsz.com
 ltd-fx.com
+sqk9.lubar-tech.com
 lucatee.com
 luccafiore.com
 lucchesedeal.store
@@ -8264,7 +8268,6 @@ maronnami-shop.com
 marotan.de
 marrbudm.top
 marretinvest.com
-marschallplatz1.at
 martenscz.com
 martensosterreich.com
 marthistore.cz
@@ -8285,12 +8288,10 @@ mashopstore.com
 masienger.com
 masksandscarves.com
 masseybedding.shop
-massusa.com
 masterclass-toblach.de
 mastercurbs.com
 mastertradeinvestments.com
 mataharis.de
-mataka.de
 mataporkoz.com
 201365640.matarocultural.cat
 matbal.at
@@ -8355,7 +8356,6 @@ mc-bau.at
 mcazzgrg.com
 mcdowellsmaltesepuppies.com
 mceleron.com
-mcflanders.com
 mclast.at
 mcleanmen.xyz
 mcobuy.top
@@ -8366,7 +8366,6 @@ mcrkpvtitip.shop
 mcsglobalcargo.com
 mcshipments.com
 mcsuch.at
-mcsun-hollabrunn.at
 mcyshe.cn
 mdgautoservice.com
 mdusershop.com
@@ -8437,7 +8436,6 @@ meetfireplace.store
 meetgladness.com
 meeyd.com
 megabulltradingoptions.online
-megacoin.eu
 megadigifun.com
 megaduane.com
 megaexpresstrades.com
@@ -8453,11 +8451,11 @@ megobey.com
 megoindonesia.com
 megrossinvest.com
 mehsam-transport.com
+meilizhubao.top
 mein-buch24.de
 mein-ferienhausurlaub.de
 mein-goldhandel.de
 mein-hochzeit.de
-mein-karamel.de
 mein-solar24.com
 mein-wegbegleiter.de
 meinbau24.net
@@ -8478,14 +8476,12 @@ meisteralles.de
 meisterb.top
 meistergrill24.de
 meisterpage.de
-meisteruebersiedlung.at
 mejrubiop.com
 mekiepshop.com
 melanca.de
 melanievaillant.com
 melarus.store
 meldebescheinigung.eu
-meli.games
 melioratelimited.com
 melissaosterreich.at
 melissaschuhe.de
@@ -8609,7 +8605,6 @@ mickcosmetic.shop
 microbiologybytes.com
 microgull.com
 microngroup.pro
-microtro.com
 midikleider.com
 midoro.store
 miebag.net
@@ -8646,7 +8641,6 @@ minimalitor.com
 minimalsurvival.com
 minimarto.com
 minimesupply.com
-miningcapitalcoin.com
 miningexchangetrade.com
 miningplace.pro
 minisik.com
@@ -8654,7 +8648,6 @@ miniwelpen.com
 minkenundpalme.de
 minnamalls.com
 minnetonkaschuhe.com
-minymode.shop
 mioded.store
 miofactoryoutlets.shop
 miofactoryoutw.shop
@@ -8770,7 +8763,6 @@ mojeroto.cz
 mojezkusenostsinvisalign.cz
 mokashe.com
 mokasy.de
-mokixx.de
 moklemon.com
 moma.finance
 moment24.net
@@ -8793,7 +8785,6 @@ mondowl.com
 monecorlimitedeu.com
 money-sustemftd.cyou
 moneybackhero.com
-moneyexpress.cc
 moneymm1688.shop
 monicasneaker.cc
 monika-koeppes-welt.de
@@ -8837,7 +8828,6 @@ mops-belchatow.pl
 moratihome.com
 morenius.de
 morganstevenscapital.com
-morgante.at
 morrcei.top
 morreysale.space
 mortalfx.com
@@ -8878,15 +8868,12 @@ movie4kfilme.online
 mozpee.com
 mpfcust.com
 mpgymwear.com
-mraky-kostek.cz
-mrdecooo.com
 mrerath.de
 mrkimberly.com
 mrmaccaroni.it
 mrnerd.de
 mrphonedeals.com
 mrtmarkets.com
-ms-give.com
 ms-twin.de
 mscweissenbach.at
 msfplzen.cz
@@ -8960,7 +8947,6 @@ yoli.my.id
 my-family.bike
 uschse04.my03.com
 mybell-refund.me
-myberlinshop.com
 mybestautologin567.com
 mybitcointrade.com
 mybordercollies.de
@@ -8991,7 +8977,6 @@ g1z0.myinstructus.com
 kxu.myinstructus.com
 myisraelsource.com
 mykedr.buzz
-mykitashop.cz
 mylano.ch
 mylovelife.site
 mymair.com
@@ -9081,7 +9066,6 @@ mystitich4u.com
 mysweetgear.com
 mythicalbattle.com
 mytrademm.com
-mytradingcollege.com
 myvei.com
 myvention.com
 mywayshoestrading.com
@@ -9185,7 +9169,6 @@ neepage.com
 neespresso.coffee
 negotiatefoam.cn
 rspmoyu.neilriser.com
-nejlepsinakup.eu
 nelapar.shop
 nelhub.com
 nellykstore.com
@@ -9227,7 +9210,6 @@ netkasse.com
 netmart.store
 netrule.de
 netselect.site
-nettimarkt.de
 networksfishing.com
 netzinfy.com
 netzteil-akku.com
@@ -9243,11 +9225,9 @@ neuemotoren.com
 neueoutdoor.de
 neueperio.de
 neuerab.de
-neuesichtweisen.at
 neuespielzeugauto.com
 neuetraxxas.de
 neueverkauf.store
-neuewelpenzuhause.de
 neuewohnaccessoires.de
 neufahrrad-prada.com
 neuhaus-holz.com
@@ -9345,9 +9325,7 @@ newwalldecor.com
 newwomanoceanshop.com
 newwomanoceanstore.com
 nexeashop.com
-nexencrypto.com
 nexet.xyz
-nexgencoin.com
 mpyll.nexgentextile.com
 nextcoinmarket.com
 nexthua.com
@@ -9375,7 +9353,6 @@ nicelani.com
 nicelegant.com
 nicenktop.com
 nicetechmax.com
-nicetechpro.com
 nicevipo.com
 nicewardrobe.co
 niche3d.us
@@ -9390,7 +9367,6 @@ nicoll.at
 nicozerond.com
 nidasrent.cz
 nideckernitro.com
-niephaus-elektro.com
 nieruchomosci-walter24.pl
 nieuwlening.com
 nigelfish.shop
@@ -9442,7 +9418,6 @@ nmarkets.org
 nmbsico.top
 nmhagencyltd.com
 nmiorg.org
-nnomerch.store
 noahcat.shop
 noara-official.com
 noatopdesign.com
@@ -9474,7 +9449,6 @@ norbas.shop
 norbert-eberle.de
 norburn1999.com
 norden-brennholz.com
-nordexinvest.com
 nordfertm.com
 nordfxtrading.com
 shop.nordic-electronics.de
@@ -9498,7 +9472,6 @@ northfaceoutlet.at
 northsailshoes.pl
 northstate.io
 norulesjustfun.de
-norvintrucking.com
 norwayhotel.net
 nosdaarte.com
 nostoposports.com
@@ -9525,6 +9498,7 @@ novando.de
 destination.novatechfx.com
 novatradeshub.com
 novedove.com
+novelabel.com
 novelis.capital
 noveltybikes.com
 noveltyclimb.com
@@ -9532,7 +9506,6 @@ noveltyopenair.com
 noveltysdirect.com
 novifx.com
 novyles.cz
-nowakannewelpenkaufen.com
 noweight.de
 nowflix.de
 nowgreenhealthes.com
@@ -9567,7 +9540,6 @@ nwbikeshoes.com
 nwtaylor.shop
 nxtgenerator.top
 nycmetroshop.com
-nymex-markt.com
 nynextlevel.com
 nyxtrade.co
 oahucoinex.com
@@ -9657,7 +9629,6 @@ officieldisney.com
 officielvetements.com
 offnewfashion.com
 offroad-buddy.at
-offshoeshop.com
 offsportus.com
 offspringonastring.com
 offtoddler.com
@@ -9695,7 +9666,6 @@ okay-world.monster
 okeology.com
 oketofit.com
 okfitness.at
-okjordans.com
 oko-heizung.com
 okomia.com
 oktando.de
@@ -9777,12 +9747,10 @@ online-pills.com
 onlineadid.com
 onlineankleboots.com
 onlinechemicalandpills.com
-onlinecreditpartners.ch
 onlinedogfood.store
 onlinefixedblade.com
 onlineflamencoguitar.com
 onlineforyou.net
-onlinegearwrench.com
 onlinehome.us
 onlinehtles.com
 onlineideastoday.com
@@ -9799,8 +9767,6 @@ shop4.onlinesale2022.ru
 shop5.onlinesale2022.ru
 shop6.onlinesale2022.ru
 shop8.onlinesale2022.ru
-onlinesgeldverdienens.com
-onlinesimplfx.com
 eoutlet.onlinestore2023.com
 cheaper.onlinestoresoutlet2021.ru
 onlineussports.com
@@ -9918,7 +9884,6 @@ oscarcamping.shop
 oscarmaquinaria.com
 oschuetz.de
 osecrobotics.com
-oshop.at
 osirisshoes.de
 oskorei.de
 osnowsports.com
@@ -9986,7 +9951,6 @@ outlet-drmartens.com
 outlet-farm.com
 outlet-hardware.com
 outlet-light.com
-outlet-pro.com
 outlet-shimano.com
 outletarmani.com
 outletathletics.com
@@ -10050,7 +10014,6 @@ owlsand.com
 ownerbike.com
 oximarket.com
 oylerhof.de
-oyo-store.com
 ozempic-kaufen.com
 ozempic-tirzepatide.eu
 ozonfcorporation.bond
@@ -10075,7 +10038,6 @@ paintwallstore.com
 pairmate.se
 pajarjackedeutschland.de
 pajarschuhe.com
-paketmann.de
 paketstorch.cz
 palashcryptotrading.com
 palatina-vocalis.de
@@ -10106,14 +10068,12 @@ pandora50off.com
 pandoracharmsausverkauf.de
 pandoracz.com
 pandoraeshop.cz
-pandorahu.com
 pandorairelandonline.com
 pandoraslevy.cz
 pandzee.com
 panel-ploty.cz
 panicroom.at
 pannaholidays.com
-pannaxa.com
 panrush.com
 pantolettenprada.de
 pantsin.com
@@ -10134,7 +10094,6 @@ paragon-finance.cc
 paragon-finance.io
 paragon-finance.world
 paragraphen-lounge.de
-parajumpersitaly.com
 parajumperssalg.com
 parakomm.at
 de2.parazax.com
@@ -10179,7 +10138,6 @@ paul-lombard.com
 paulinasinger.com
 paulsmithmen.com
 paulus-reifenhandel.com
-paverin.de
 pavernotti.com
 pawfecthouseu.com
 pawforloves.com
@@ -10194,7 +10152,6 @@ paypartc.top
 paypays.shop
 pc-akku.at
 pc-bubble.de
-pc-fit.at
 pcakkusdirekt.de
 pcdok.at
 pclandes.fr
@@ -10205,7 +10162,6 @@ pcprime.de
 pcua.top
 pdv-bayern.de
 peaceshop.pro
-peachfuls.com
 peachsodas.com
 peakcoinmining.com
 peargifts.com
@@ -10213,7 +10169,6 @@ pearltoys.shop
 pearlyo.de
 peatutorca.com
 peculiarm.com
-pedaleprada.com
 pedroclothing.shop
 peekachill.com
 peekjeans.de
@@ -10230,12 +10185,10 @@ pengeborantanah.com
 penguinnow.com
 penitentinnovation.com
 pension-sommer.at
-penzion-u-petry.cz
 penzion68.cz
 peoplestorry.com
 peppatees.com
 peptide-kaufen.com
-perdi-handel.com
 perennialwelfares.com
 perfam24.com
 perfdealpromo.com
@@ -10247,7 +10200,6 @@ perfectteegift.com
 perfidious.shop
 perlatoshoe.com
 perlenzwoelfe.de
-permatexshop.com
 persestence.com
 persisparty.shop
 persol.at
@@ -10365,7 +10317,6 @@ pinkkola.com
 pinkmegan.com
 pinkmemoriess.com
 pinnarts.com
-pinoplay.de
 pinotsale.shop
 pintukayujati.com
 pinvense.com
@@ -10388,7 +10339,6 @@ pizza-napoleon.cz
 pk.toys
 plagifier.com
 plan-social.com
-plan4tv.com
 planet-videospiel.com
 planetatrueque.com
 planetopia-online.de
@@ -10430,7 +10380,6 @@ plural-grupp.com
 plus-lingerie.com
 plus-running.com
 plusamiapparel.com
-plusbaumarkt.de
 pluscfd.co
 pluscup.net
 plusoneusstore.co
@@ -10552,12 +10501,10 @@ powergamestop.de
 powersol.de
 powfull.com
 pozo-agua.com
-pqhw.com
 pr-investissements.com
 pr-ruehle.de
 practicalstores.com
 pradler-media.com
-praiseglories.info
 prbcapitals.com
 precless.top
 prednisone-buyonline.site
@@ -10565,8 +10512,6 @@ us.preerve.com
 preferlikely.com
 preiskoenig24.com
 preisschock.com
-preiszner-energie.com
-premiercopperus.com
 premierneu.shop
 premium-perfume.shop
 premium-survey.com
@@ -10601,7 +10546,6 @@ prideearthone.com
 prigaudited.buzz
 primada.de
 prime-autopack.com
-prime-market.com
 prime-smog.com
 primebit-profit.org
 primebitprofit.net
@@ -10621,7 +10565,6 @@ primoyo.com
 primuselektro.de
 primusmiele.com
 primustrader.com
-princelywelpenhaus.de
 prinship.com
 printazest.com
 printkay.com
@@ -10643,8 +10586,6 @@ pro-ben.de
 pro-glanz.at
 pro-ifen.at
 pro-openair.com
-pro-paypremium-card.de
-pro-pellets.at
 pro365fx.com
 proactiveping.com
 procapitalmarkets.com
@@ -10653,18 +10594,15 @@ processus-online.de
 procloudoptions.online
 procyonex.com
 prodazhatovara.com
-prodejs.com
 prodoorhandle.com
 product-club.com
 productvoguenew.com
 proeuromeds.com
 professionistidelsorriso.eu
-profibikes.de
 profiforex.com
 profikauf.com
 profimatics.de
 profinvest.fun
-profiservice-24.info
 profit-farma.com
 profit-trade.com
 profitassist.io
@@ -10822,7 +10760,7 @@ quiins-kings-fitness.de
 quiltedcoatshop.com
 quimv.com
 quinnandspencer.com
-quinod.com
+store.quinod.com
 quintaldog.cz
 quitasueno.com
 quova.io
@@ -10860,7 +10798,6 @@ rabattcricut.de
 rabattdamen.com
 rabattdamen.de
 rabattdeuter.de
-rabattekosport.com
 rabatteundcoupons.de
 rabattfahrrad.com
 rabattfahrrader.de
@@ -10877,9 +10814,7 @@ rabattmtb.com
 rabattpaulgreen.de
 rabattpicture.de
 rabattreifen.com
-rabattschuh.com
 rabattsender.com
-rabattski.com
 rabattskide.com
 rabattskisde.com
 rabattsport.de
@@ -11473,6 +11408,7 @@ rxmed.top
 rxmedonline.com
 ryanandtisha.com
 ryanurabonpitbullpuppies.com
+ryderwear.cz
 rynattrading.org
 ryoonas.com
 ryzue.com
@@ -13001,7 +12937,6 @@ tabletopdeo.de
 tablets-today.org
 tabletsreaders.com
 tabosep.shop
-tacitadr.com
 tacocood.com
 tacoforex.com
 tadgay.com
@@ -13465,6 +13400,7 @@ tigerkash.com
 global.tigerwitex.com
 tigris-esports.de
 tikgeeker.com
+tikkisandale.cz
 tikkischuhe.de
 tilidin-kaufen.com
 timarkets.com
@@ -14177,7 +14113,6 @@ yeezyslides.us.com
 yeezysofficial.us.com
 yeezyy.us.com
 yzyshoes.us.com
-us-dtswissbike.com
 usa-global-bank.com
 usaboutgirl.com
 usaccessoriespro.com
@@ -14211,7 +14146,6 @@ uschildrenyouth.com
 usclassyvogue.com
 usclimbingshop.com
 usclimbnew.com
-usdiscountmale.com
 usdtminer.com
 usdtminer.org
 usefireplace.store
@@ -14688,6 +14622,7 @@ wannadecor.com
 wanparky.com
 wansut.com
 warburginvestment.com
+warby-parker.cz
 wardenvc.com
 wardfs.com
 wardiano.de
@@ -14753,7 +14688,6 @@ wdcmarkets.com
 wdgloballogistics.com
 wdrative.com
 we-earn-finance.com
-wealth-trader.monster
 wealthchainltd.com
 wealthcryptomine.com
 wearaccessories.store
@@ -15020,7 +14954,6 @@ wondrousdecor.com
 wood-ohanlon.com
 woodershop.com
 woodgod-stores.com
-woodiscounts.com
 woodoclock.de
 woodtree.fr
 woodzsprada.de
@@ -15159,7 +15092,6 @@ xxlobchod.com
 xxonnect.com
 xxxlcatering.at
 xyiyi.com
-xyzpolls.com
 y-stop.com
 yacht-offers.com
 yadmrd.com
