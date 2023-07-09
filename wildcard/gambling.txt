@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 09 Jul 2023 16:41 UTC
-# Version: 2023.0709.1641.51
+# Last modified: 09 Jul 2023 21:54 UTC
+# Version: 2023.0709.2154.50
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 165117
+# Number of entries: 164974
 #
 *.0-bet.com
 *.000000.com
@@ -135677,7 +135677,6 @@
 *.newmili.xyz
 *.newrink.xyz
 *.newsdafa.com
-*.newsilk-road.com
 *.newspronet.com
 *.newstar12.com
 *.newstar3.com
@@ -135762,7 +135761,6 @@
 *.nhat.it
 *.nhat1.net
 *.qc.nhat88.me
-*.nhatvip.app
 *.nhatvip.biz
 *.nhatvip.mobi
 *.nhatvip.net
@@ -135775,7 +135773,6 @@
 *.nhg918.com
 *.nhgmhgj.buzz
 *.nhgud.com
-*.nhhst.win
 *.nhht2r.com
 *.nhnpy.win
 *.nhyc88.com
@@ -135827,7 +135824,6 @@
 *.nit23.org
 *.nitrogensports.eu
 *.niu5588.com
-*.niu85.com
 *.niu8u.com
 *.niu8v.com
 *.niu8vip1.com
@@ -135837,27 +135833,20 @@
 *.niun2121.com
 *.nivtf.site
 *.niwise.xyz
-*.nj1258.com
-*.nj1258.vip
 *.nj1tdd.vip
 *.njddx.win
 *.njhengtongjixie.com
-*.njhuazhang.com
 *.njinhyz.site
 *.njkndqjpdrv5qkmopqtqaatqi3ln7j3uejptjrzjokprrgndczmb22syjkbd.com
 *.njkozo.com
 *.njkzrfs.com
 *.njoy1688.net
-*.njskjx.com
 *.njuwq.win
-*.njxunchao.com
 *.nk36y.com
 *.nk402pp.com
 *.nk9s6.com
 *.nkdhfiuhfuewnrferehru.site
 *.nke5y.com
-*.nkk8mc.org
-*.nkkyy.com
 *.nkmya.com
 *.nksgl.org
 *.nlb.lk
@@ -135867,7 +135856,6 @@
 *.nm5997.com
 *.nm696.com
 *.nm6996.com
-*.nmb86.com
 *.nmbmc.com
 *.nmccccl.com
 *.nmccccl.net
@@ -135877,7 +135865,6 @@
 *.nmrg9e.vip
 *.nmtg888.com
 *.nmvjitqt.buzz
-*.nn0622.com
 *.nn1136.com
 *.nn1159.com
 *.nn1176.com
@@ -135915,7 +135902,6 @@
 *.nn1969.com
 *.nn19789.com
 *.nn2337.com
-*.nn26777.app
 *.nn2698.com
 *.nn3501.com
 *.nn3669.com
@@ -136059,11 +136045,9 @@
 *.nnd003.xyz
 *.nnikde.vip
 *.nnkmz.com
-*.nnn268.com
 *.nnn33m.com
 *.nnn5156.com
 *.nnn5454.com
-*.nnn578.com
 *.nnn7337.com
 *.nnn9416.com
 *.nnnn5454.com
@@ -136311,11 +136295,9 @@
 *.nomini.com
 *.nomor188.com
 *.non856.com
-*.noncombustible.xyz
 *.nonggufun.com
 *.nongguplay.com
 *.nopeampi.com
-*.noqbr.wang
 *.nordicasino.com
 *.nordicbet.com
 *.norge.bet
@@ -136423,7 +136405,6 @@
 *.nowdafa.com
 *.nowflag.xyz
 *.nowincc.com
-*.nowscore0.com
 *.nowscore2.com
 *.nowscore9.com
 *.nowscoreapp.com
@@ -136440,7 +136421,6 @@
 *.npwu3.com
 *.nq526x.com
 *.nqd3p.com
-*.nqq2023.com
 *.nqxtb.com
 *.nrbuw.win
 *.nrciw9.vip
@@ -136506,7 +136486,6 @@
 *.nvagp.com
 *.nvaxe.win
 *.nvb3.com
-*.nvc-engineering.com
 *.nvj0ol.vip
 *.nvl164.com
 *.nvn4.com
@@ -136524,7 +136503,6 @@
 *.nwrw6.com
 *.nwtchkxm7p.vip
 *.nwtmcs.com
-*.nww2023.com
 *.nwwv5v3b.com
 *.nx68ncopd9xccba5.app
 *.nxb8.com
@@ -136561,7 +136539,6 @@
 *.nyspins.com
 *.nyw2d.com
 *.nyxug.com
-*.nyy2023.com
 *.nz63ma.com
 *.nz8jed.vip
 *.nzckg.win
@@ -136576,7 +136553,6 @@
 *.o0309.com
 *.o034034.com
 *.o03641.com
-*.o0907.com
 *.o0hjc.vip
 *.o13877.com
 *.o1496688.com
@@ -136587,7 +136563,6 @@
 *.o19789.com
 *.o23023.com
 *.o2698.com
-*.o2pivz.vip
 *.o2xob.mom
 *.o30019.com
 *.o3286.com
@@ -136603,14 +136578,11 @@
 *.o51234.com
 *.o5156.com
 *.o5454.com
-*.o5bqdc.biz
-*.o62nd.com
 *.o63ybl.com
 *.o6439.com
 *.o697.net
 *.o69779.com
 *.o6jeeo.vip
-*.o6t1fi.live
 *.o7337.com
 *.o77vn.com
 *.o789365.com
@@ -136647,14 +136619,12 @@
 *.ob89j.com
 *.obao888.com
 *.obe0k.com
-*.obgamevip.com
 *.obgy1.xyz
 *.obk4b.mom
 *.obk5b.mom
 *.obk9b.mom
 *.obkob.mom
 *.oborslot.xyz
-*.oboy4.vip
 *.obsxoybs9zzq.top
 *.obty88.com
 *.obu9pm.vip
@@ -136686,9 +136656,7 @@
 *.offtrackbetting.com
 *.ofjew.vip
 *.ofjqpp365.com
-*.ofnza.vip
 *.ofxasia.com
-*.ofzh9.com
 *.og102.com
 *.og8lphmedn.vip
 *.ogmoh.com
@@ -136698,9 +136666,7 @@
 *.ohiocasino.com
 *.ohmbet.com
 *.ohmy188.com
-*.ohppj.wang
 *.ohraheig.com
-*.ohvi8p.com
 *.ohvip9.com
 *.oi8jg.com
 *.oic888.com
@@ -136719,7 +136685,6 @@
 *.ojbb5.com
 *.ojfgt.com
 *.ojtpcw6fbiz8kmrosefxolyneqwtdptnxxha9qvhybxtpdy9npo8naaccjbz.com
-*.ok15x.com
 *.ok2684.com
 *.ok28001.com
 *.ok28002.com
@@ -136731,14 +136696,6 @@
 *.ag.ok368.info
 *.ok560018.vip
 *.ok7789.net
-*.ok8.bet
-*.ok8.info
-*.ok888.bet
-*.ok888.biz
-*.ok888.vip
-*.ok889.vip
-*.ok8v.com
-*.ok8w.com
 *.ok9835.com
 *.ok9pir.vip
 *.okada.app
@@ -136748,23 +136705,16 @@
 *.okcado.org
 *.okdbet.biz
 *.oke-bets.com
-*.oker1898.com
 *.okgame.bet
 *.okhzr.com
 *.okjoyart.xyz
 *.okjoyn.xyz
 *.okokokgh.com
-*.okooo3.com
-*.okooo4.com
-*.okooo5.com
-*.okooo7.com
-*.okooo9.com
 *.ol1kt.xyz
 *.ola8u7ur.vip
 *.olahragawanbola.com
 *.olasells.xyz
 *.olaspill.com
-*.oldsix01.com
 *.ole007.com
 *.ole0071.com
 *.ole0072.com
@@ -136942,7 +136892,6 @@
 *.olybet.com
 *.olybet.eu
 *.olympic24.com
-*.om9kh.org
 *.omd69.vip
 *.omek0lnc.com
 *.omg6t.com
@@ -137081,7 +137030,6 @@
 *.oo5454.com
 *.oo5856.com
 *.oo6163.email
-*.oo6298.com
 *.oo7337.com
 *.oo755.com
 *.oo7669.com
@@ -137097,7 +137045,6 @@
 *.ooo9416.com
 *.oooo5454.com
 *.ooooooo2.com
-*.oop2p.com
 *.oopp168.com
 *.oopp168yy.com
 *.ooppddys.com
@@ -137125,7 +137072,6 @@
 *.oppaganteng.xyz
 *.oppo8989956.com
 *.oppo96.com
-*.opromox.com
 *.optibet.com
 *.optionsports.com
 *.opweqr.com
@@ -137205,7 +137151,6 @@
 *.oxim.vip
 *.oxn6268.com
 *.oy63lb.com
-*.oya888.com
 *.oyzt168.com
 *.oz160tz.click
 *.oz333.com
@@ -137214,9 +137159,7 @@
 *.ozchxmuz.cfd
 *.ozezd7.com
 *.ozsx.live
-*.ozt8a6mreo.net
 *.ozzozo.xyz
-*.p-life-xahf.com
 *.p00001.com
 *.p0106.com
 *.p0108.com
@@ -137260,7 +137203,6 @@
 *.p0832.com
 *.p0897.com
 *.p0901.com
-*.p0907.com
 *.p0910.com
 *.p0916.com
 *.p0921.com
@@ -137296,9 +137238,7 @@
 *.p1305.com
 *.p1308.com
 *.p1320.com
-*.p13222.com
 *.p1325.com
-*.p13666.com
 *.p1367.com
 *.p1374.com
 *.p1383.com
@@ -137311,7 +137251,6 @@
 *.p1507.com
 *.p1508.com
 *.p1522.com
-*.p15222.com
 *.p1523.com
 *.p1526.com
 *.p1566.com
@@ -137322,7 +137261,6 @@
 *.p1584.com
 *.p15888.com
 *.p1613.com
-*.p16333.com
 *.p1653.com
 *.p1664.com
 *.p1679.com
@@ -137332,22 +137270,18 @@
 *.p1764.com
 *.p1774.com
 *.p178.info
-*.p17888.com
 *.p1796.com
 *.p17a.com
 *.p1828.com
 *.p1847.com
-*.p18555.com
 *.p1865.com
 *.p18883.com
 *.p188xj.com
 *.p1894.com
 *.p1914.com
-*.p19222.com
 *.p1972.com
 *.p19789.com
 *.p1994.com
-*.p1i9p.com
 *.p1n9rvh60.com
 *.p1o6h.com
 *.p1vxpcd.click
@@ -137398,7 +137332,6 @@
 *.p2645.com
 *.p2650.com
 *.p2674.com
-*.p26777.app
 *.p2678.com
 *.p2696.com
 *.p26epdar.vip
@@ -137448,9 +137381,6 @@
 *.p3302.com
 *.p33033p.com
 *.p3317.com
-*.p33356.com
-*.p33372.com
-*.p33375.com
 *.p3342.com
 *.p3345.com
 *.p3346.com
@@ -137524,8 +137454,6 @@
 *.p3mze.com
 *.p3t73.com
 *.p3vn.co
-*.p3z21p.com
-*.p3zqv.org
 *.p4004.com
 *.p4066.com
 *.p4074.com
@@ -137670,12 +137598,8 @@
 *.p5542.com
 *.p5552.com
 *.p5553.com
-*.p55536.com
 *.p55571.com
-*.p55577.com
-*.p55579.com
 *.p55582.com
-*.p55586.com
 *.p5606.com
 *.p5613.com
 *.p5644.com
@@ -137743,8 +137667,6 @@
 *.p65qc.com
 *.p6639.com
 *.p6651.com
-*.p66618.com
-*.p66679.com
 *.p66688.com
 *.p66777.com
 *.p66999.com
@@ -137771,7 +137693,6 @@
 *.p69779.com
 *.p69888.com
 *.p6989.com
-*.p69999.com
 *.p6aaa.com
 *.p6bbb.com
 *.p6ccc.com
@@ -137847,9 +137768,6 @@
 *.p77222.com
 *.p7733.com
 *.p77666.com
-*.p77735.com
-*.p77771.com
-*.p77798.com
 *.p7783.com
 *.p7814.com
 *.p78222.com
@@ -137942,7 +137860,6 @@
 *.p8554.com
 *.p8557.com
 *.p8580.com
-*.p85888.com
 *.p86222.com
 *.p8644.com
 *.p8646.com
@@ -137962,7 +137879,6 @@
 *.p8750.com
 *.p8767.com
 *.p87781.com
-*.p8780.com
 *.p88.bet
 *.p8811.com
 *.p8833.com
@@ -138008,9 +137924,7 @@
 *.p9335.com
 *.p9355.com
 *.p9381.com
-*.p93888.com
 *.p9389.com
-*.p93vm1.com
 *.p9403.com
 *.p9413.com
 *.p9441.com
@@ -138077,7 +137991,6 @@
 *.pandabet.net
 *.pandabmt.com
 *.panduanbola.com
-*.panfengdq.com
 *.panjze.com
 *.panlyh.com
 *.panwenjun.vip
@@ -138124,7 +138037,6 @@
 *.partouchepokertour.fr
 *.parttimepoker.com
 *.partybets.fr
-*.partyday.fun
 *.partypoker.com
 *.partypoker.cz
 *.partypoker.fr
@@ -138144,7 +138056,6 @@
 *.pau88i.com
 *.pauuv.win
 *.pavwh.com
-*.pay060.com
 *.pay22098.com
 *.pay2357.vip
 *.pay2358.vip
@@ -138201,7 +138112,6 @@
 *.pb5bu.com
 *.pb611.vip
 *.pb6rzd.com
-*.pbc55.com
 *.pbcvc.com
 *.pbsudq.com
 *.pbvw62qr2.com
@@ -138252,10 +138162,6 @@
 *.pc7797.com
 *.pc7877.com
 *.pc789.net
-*.pc7891.com
-*.pc7892.com
-*.pc7897.com
-*.pc8u5h.live
 *.pc95.vip
 *.pc9502.com
 *.pc9505.com
@@ -138289,10 +138195,8 @@
 *.pdnsbj.com
 *.pdnzk.com
 *.pdyva.org
-*.pe7mbp.org
 *.pe8138.com
 *.pearlcy.xyz
-*.pearlna.com
 *.pearlt.xyz
 *.pebble294.com
 *.pedagangbola.com
@@ -138300,10 +138204,8 @@
 *.pek5.com
 *.pelaa.com
 *.pelicancasino.games
-*.pem-china.com
 *.pemaintaruhan.com
 *.people1.net
-*.people5.net
 *.people6.net
 *.poker.peoples.it
 *.peoplessportsbook.com
@@ -138938,7 +138840,6 @@
 *.pinbo21.com
 *.pinbo23.com
 *.pinbo25.com
-*.pinbo25.vip
 *.pinbo26.com
 *.pinbo27.com
 *.pinbo29.com
@@ -138962,13 +138863,9 @@
 *.pinbo60.com
 *.pinbo60.vip
 *.pinbo61.com
-*.pinbo61.vip
 *.pinbo62.com
-*.pinbo62.vip
 *.pinbo63.com
-*.pinbo63.vip
 *.pinbo65.com
-*.pinbo65.vip
 *.pinbo666.com
 *.pinbo67.com
 *.pinbo68.com
@@ -139071,7 +138968,6 @@
 *.pj1556.com
 *.pj1776.com
 *.pj17788.com
-*.pj17990.com
 *.pj2000.com
 *.pj2001.com
 *.pj2003.com
@@ -139111,7 +139007,6 @@
 *.pj24s.com
 *.pj258a.com
 *.pj27788.com
-*.pj28802.com
 *.pj289a.com
 *.pj296app.com
 *.pj3068.com
@@ -139132,11 +139027,6 @@
 *.pj3339.com
 *.pj334444.com
 *.pj335555.com
-*.pj33661.com
-*.pj33662.com
-*.pj33663.com
-*.pj33664.com
-*.pj33665.com
 *.pj33r.com
 *.pj34p.com
 *.pj3556.com
@@ -139149,14 +139039,12 @@
 *.pj38754.com
 *.pj40.com
 *.pj404l.com
-*.pj43097.com
 *.pj45ad.com
 *.pj5038.com
 *.pj5108.com
 *.pj5115.com
 *.pj5116.com
 *.pj51200.com
-*.pj52427.com
 *.pj5308.com
 *.pj5318.com
 *.pj5333.com
@@ -139189,10 +139077,8 @@
 *.pj586app.com
 *.pj587w.com
 *.pj58h.com
-*.pj59628.com
 *.pj59779.com
 *.pj597app.com
-*.pj59843.com
 *.pj5tr.com
 *.pj61.com
 *.pj615p.com
@@ -139242,7 +139128,6 @@
 *.pj7d6.com
 *.pj7td.tech
 *.pj8-2338.com
-*.pj81479.com
 *.pj81a.com
 *.pj82.com
 *.pj82g.com
@@ -139260,7 +139145,6 @@
 *.pj882.vip
 *.pj88258.site
 *.pj88360.com
-*.pj88405.com
 *.pj88520.com
 *.pj88521.com
 *.pj8855.com
@@ -139291,7 +139175,6 @@
 *.pjckk.win
 *.pjdl48.com
 *.pjdl94a.com
-*.pjjtvip.com
 *.pjlrq98.com
 *.pjlx88.com
 *.pjnym.com
@@ -139308,9 +139191,7 @@
 *.pjx68.com
 *.pjx699.com
 *.pjx968.com
-*.pjylc3977facaipanzhuanwugeyi.baby
 *.pjzaj99.vip
-*.pk10trx.com
 *.pk2138.com
 *.pk2323.net
 *.pk5298.com
@@ -139458,7 +139339,6 @@
 *.playclubkr.com
 *.playdafa.com
 *.playdemoslotroma.com
-*.playdfa.com
 *.playdsb.com
 *.playersandwagers.com
 *.playersbet.com
@@ -139500,7 +139380,6 @@
 *.playtech.com
 *.playtoapp.net
 *.playuk88.win
-*.playv8.vip
 *.playwetten.com
 *.playwetten.mobi
 *.playwetten.partners
@@ -139542,14 +139421,12 @@
 *.pmrmt.win
 *.pmu.fr
 *.pn3sc6.com
-*.pn70gv4gctg.net
 *.pnb.bet
 *.pndx6.com
 *.pnert.com
 *.pnhzn5.com
 *.pnnmun.xyz
 *.po4qhu.vip
-*.poagn643.fun
 *.pocketfives.com
 *.podlish.xyz
 *.pofshai.xyz
@@ -139666,7 +139543,6 @@
 *.portobet172.com
 *.portobet173.com
 *.portobet174.com
-*.possc.vip
 *.postbob.com
 *.postcodeloterij.nl
 *.potato111.com
@@ -139675,20 +139551,6 @@
 *.potato777.com
 *.potsofluck.com
 *.powbet.com
-*.powerball07.com
-*.powerball37.com
-*.powerball71.com
-*.powerball75.com
-*.powerball81.com
-*.powerball85.com
-*.powerball92.com
-*.powerball93.com
-*.powerball94.com
-*.powerball99.com
-*.powerballl.net
-*.powerballl.vip
-*.powerballll.com
-*.powerballll.vip
 *.powerpoker.it
 *.pp0023.com
 *.pp0049.com
@@ -140009,7 +139871,6 @@
 *.pp777.bet
 *.pp777.online
 *.pp7776.com
-*.pp7dp.com
 *.pp81866.com
 *.pp83455.com
 *.pp87365.com
@@ -140036,7 +139897,6 @@
 *.pphg8.com
 *.pphhhh.xyz
 *.ppke5402.com
-*.ppkp888.com
 *.ppkp999.com
 *.ppp332.com
 *.ppp33m.com
@@ -140050,7 +139910,6 @@
 *.ppv25.com
 *.ppv85.com
 *.ppx5533.com
-*.pq4ysy.live
 *.pq6stb.com
 *.pq88.asia
 *.pq88.pro
@@ -140061,12 +139920,10 @@
 *.pqvjt.vip
 *.pqzsk.com
 *.pr8926.com
-*.pragma123game.com
 *.pragma123game.net
 *.pragma123game.org
 *.pragma123rtp.xyz
 *.pragma138.xyz
-*.pragmaslot.xyz
 *.pragmaticplay.com
 *.prairiesedgecasino.com
 *.predictfifa.com
@@ -163471,7 +163328,7 @@
 *.yoocws.com
 *.yooyhy2h.yachts
 *.you12bet.com
-*.you88.vin
+*.tai.you88.vin
 *.youbetibet.com
 *.youdian.bet
 *.youdian01.com
