@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 08 Jul 2023 22:26 UTC
-! Version: 2023.0708.2226.24
+! Last modified: 09 Jul 2023 21:53 UTC
+! Version: 2023.0709.2153.01
 ! Syntax: AdBlock
-! Number of entries: 6770
+! Number of entries: 6758
 !
 ||zer0day.000webhostapp.com^
 ||0123456789nonexistent.com^
@@ -3481,7 +3481,6 @@
 ||tracker.moeblog.cn^
 ||tracker.moecat.best^
 ||tracker.moeking.me^
-||moeweb.pw^
 ||mohmo.net^
 ||mojaloss.net^
 ||mojaloss.stream^
@@ -3554,10 +3553,8 @@
 ||movieking.cc^
 ||movielabor.com^
 ||moviemagnet.co^
-||moviemaya.com^
 ||moviemela.live^
 ||movieminions.cc^
-||moviemoza.com^
 ||movienoe.com^
 ||movienyt.net^
 ||movieorca.com^
@@ -3647,7 +3644,6 @@
 ||mp3skulls.info^
 ||mp3songs.us^
 ||mp3sparks.com^
-||mp3tx.com^
 ||mp4ba.com^
 ||mp4ba.la^
 ||mp4hdmovies.org^
@@ -3679,7 +3675,6 @@
 ||musgle.com^
 ||music-torrent.net^
 ||music-vid.com^
-||musicatube.net^
 ||musicbits.net^
 ||musichq.net^
 ||musicneeds.com^
@@ -3718,7 +3713,6 @@
 ||myflixer.ru^
 ||myflixer.to^
 ||myflixer.today^
-||myflixer.vc^
 ||myflixer.ws^
 ||myflixerhd.ru^
 ||myflixertv.to^
@@ -4091,7 +4085,6 @@
 ||openloadmovies.bz^
 ||openloadmovies.ch^
 ||openloadmovies.net^
-||opennetwork.ro^
 ||openpiratbay.net^
 ||openpirate.org^
 ||opensharing.org^
@@ -4134,7 +4127,6 @@
 ||otakustv.com^
 ||otakuworks.com^
 ||oteupload.com^
-||otorrent4.com^
 ||otorrents.com^
 ||otxataba.net^
 ||otxatabanet.ru^
@@ -4221,7 +4213,6 @@
 ||pelisplus.blog^
 ||pelisplus.co^
 ||pelisplus.gratis^
-||pelisplus.icu^
 ||pelisplus.live^
 ||pelisplus.me^
 ||pelisplus.online^
@@ -4230,7 +4221,6 @@
 ||pelisplushd.net^
 ||pepecine.to^
 ||per-fect.nl^
-||perfectddl.com^
 ||petaleech.com^
 ||peteteo.com^
 ||phantombitz.com^
@@ -4335,7 +4325,6 @@
 ||pirateworld.org^
 ||piratez.xyz^
 ||piratic.org^
-||pirlog.com^
 ||pisexy.org^
 ||pitbulltorrent.eu^
 ||pitkini.org^
@@ -4350,7 +4339,6 @@
 ||tracker.playmanija.net^
 ||playvidto.com^
 ||playwarez.com^
-||bt.plc.mx^
 ||pldm.ml^
 ||pleer.com^
 ||plexbd.net^

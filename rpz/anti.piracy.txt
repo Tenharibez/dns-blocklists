@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1688855160 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1688939580 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 08 Jul 2023 22:26 UTC
-; Version: 2023.0708.2226.24
+; Last modified: 09 Jul 2023 21:53 UTC
+; Version: 2023.0709.2153.01
 ; Syntax: RPZ
-; Number of entries: 13540
+; Number of entries: 13516
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -3482,10 +3482,6 @@ moviejesus.com CNAME .
 *.moviejesus.com CNAME .
 movielabor.com CNAME .
 *.movielabor.com CNAME .
-moviemaya.com CNAME .
-*.moviemaya.com CNAME .
-moviemoza.com CNAME .
-*.moviemoza.com CNAME .
 movienoe.com CNAME .
 *.movienoe.com CNAME .
 movieorca.com CNAME .
@@ -3522,8 +3518,6 @@ mp3rally.com CNAME .
 *.mp3rally.com CNAME .
 mp3sparks.com CNAME .
 *.mp3sparks.com CNAME .
-mp3tx.com CNAME .
-*.mp3tx.com CNAME .
 mp4ba.com CNAME .
 *.mp4ba.com CNAME .
 mrdeni.com CNAME .
@@ -3796,8 +3790,6 @@ otakuworks.com CNAME .
 *.otakuworks.com CNAME .
 oteupload.com CNAME .
 *.oteupload.com CNAME .
-otorrent4.com CNAME .
-*.otorrent4.com CNAME .
 otorrents.com CNAME .
 *.otorrents.com CNAME .
 ovagames.com CNAME .
@@ -3860,8 +3852,6 @@ peckservers.com CNAME .
 *.peckservers.com CNAME .
 pelisplusgt.com CNAME .
 *.pelisplusgt.com CNAME .
-perfectddl.com CNAME .
-*.perfectddl.com CNAME .
 petaleech.com CNAME .
 *.petaleech.com CNAME .
 peteteo.com CNAME .
@@ -3896,8 +3886,6 @@ tracker.piratepublic.com CNAME .
 *.tracker.piratepublic.com CNAME .
 piratesbaycc.com CNAME .
 *.piratesbaycc.com CNAME .
-pirlog.com CNAME .
-*.pirlog.com CNAME .
 pjointe.com CNAME .
 *.pjointe.com CNAME .
 bt.play-skill.com CNAME .
@@ -6184,8 +6172,6 @@ mp3-juice.icu CNAME .
 *.mp3-juice.icu CNAME .
 nocensor.icu CNAME .
 *.nocensor.icu CNAME .
-pelisplus.icu CNAME .
-*.pelisplus.icu CNAME .
 piratebay.icu CNAME .
 *.piratebay.icu CNAME .
 prox4you.icu CNAME .
@@ -7540,8 +7526,6 @@ zenkimex.com.mx CNAME .
 *.0d.kebhana.mx CNAME .
 pt.lax.mx CNAME .
 *.pt.lax.mx CNAME .
-bt.plc.mx CNAME .
-*.bt.plc.mx CNAME .
 soap2day.mx CNAME .
 *.soap2day.mx CNAME .
 uwatchfree.mx CNAME .
@@ -8472,8 +8456,6 @@ muhammadniaz.net CNAME .
 *.muhammadniaz.net CNAME .
 music-torrent.net CNAME .
 *.music-torrent.net CNAME .
-musicatube.net CNAME .
-*.musicatube.net CNAME .
 musicbits.net CNAME .
 *.musicbits.net CNAME .
 musichq.net CNAME .
@@ -11118,8 +11100,6 @@ leechinghell.pw CNAME .
 *.leechinghell.pw CNAME .
 mlwbd.pw CNAME .
 *.mlwbd.pw CNAME .
-moeweb.pw CNAME .
-*.moeweb.pw CNAME .
 myflixer.pw CNAME .
 *.myflixer.pw CNAME .
 nulledfree.pw CNAME .
@@ -11238,8 +11218,6 @@ www.tracker.nano-net.ro CNAME .
 *.www.tracker.nano-net.ro CNAME .
 torrent.net13.ro CNAME .
 *.torrent.net13.ro CNAME .
-opennetwork.ro CNAME .
-*.opennetwork.ro CNAME .
 rds-zone.ro CNAME .
 *.rds-zone.ro CNAME .
 rotorrent.ro CNAME .
@@ -13018,8 +12996,6 @@ flixtor.vc CNAME .
 *.flixtor.vc CNAME .
 gogoanime.vc CNAME .
 *.gogoanime.vc CNAME .
-myflixer.vc CNAME .
-*.myflixer.vc CNAME .
 putlocker.vc CNAME .
 *.putlocker.vc CNAME .
 yts.vc CNAME .

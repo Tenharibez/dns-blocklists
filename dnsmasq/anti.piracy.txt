@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 08 Jul 2023 22:26 UTC
-# Version: 2023.0708.2226.24
+# Last modified: 09 Jul 2023 21:53 UTC
+# Version: 2023.0709.2153.01
 # Syntax: DNSMasq
-# Number of entries: 6770
+# Number of entries: 6758
 #
 address=/zer0day.000webhostapp.com/#
 address=/0123456789nonexistent.com/#
@@ -3481,7 +3481,6 @@ address=/moe4sale.in/#
 address=/tracker.moeblog.cn/#
 address=/tracker.moecat.best/#
 address=/tracker.moeking.me/#
-address=/moeweb.pw/#
 address=/mohmo.net/#
 address=/mojaloss.net/#
 address=/mojaloss.stream/#
@@ -3554,10 +3553,8 @@ address=/moviekids.tv/#
 address=/movieking.cc/#
 address=/movielabor.com/#
 address=/moviemagnet.co/#
-address=/moviemaya.com/#
 address=/moviemela.live/#
 address=/movieminions.cc/#
-address=/moviemoza.com/#
 address=/movienoe.com/#
 address=/movienyt.net/#
 address=/movieorca.com/#
@@ -3647,7 +3644,6 @@ address=/mp3skull.site/#
 address=/mp3skulls.info/#
 address=/mp3songs.us/#
 address=/mp3sparks.com/#
-address=/mp3tx.com/#
 address=/mp4ba.com/#
 address=/mp4ba.la/#
 address=/mp4hdmovies.org/#
@@ -3679,7 +3675,6 @@ address=/murmurs.com/#
 address=/musgle.com/#
 address=/music-torrent.net/#
 address=/music-vid.com/#
-address=/musicatube.net/#
 address=/musicbits.net/#
 address=/musichq.net/#
 address=/musicneeds.com/#
@@ -3718,7 +3713,6 @@ address=/myflixer.pw/#
 address=/myflixer.ru/#
 address=/myflixer.to/#
 address=/myflixer.today/#
-address=/myflixer.vc/#
 address=/myflixer.ws/#
 address=/myflixerhd.ru/#
 address=/myflixertv.to/#
@@ -4091,7 +4085,6 @@ address=/openloadmovies.ac/#
 address=/openloadmovies.bz/#
 address=/openloadmovies.ch/#
 address=/openloadmovies.net/#
-address=/opennetwork.ro/#
 address=/openpiratbay.net/#
 address=/openpirate.org/#
 address=/opensharing.org/#
@@ -4134,7 +4127,6 @@ address=/otaku-streamers.com/#
 address=/otakustv.com/#
 address=/otakuworks.com/#
 address=/oteupload.com/#
-address=/otorrent4.com/#
 address=/otorrents.com/#
 address=/otxataba.net/#
 address=/otxatabanet.ru/#
@@ -4221,7 +4213,6 @@ address=/pelispelis.co/#
 address=/pelisplus.blog/#
 address=/pelisplus.co/#
 address=/pelisplus.gratis/#
-address=/pelisplus.icu/#
 address=/pelisplus.live/#
 address=/pelisplus.me/#
 address=/pelisplus.online/#
@@ -4230,7 +4221,6 @@ address=/pelisplusgt.com/#
 address=/pelisplushd.net/#
 address=/pepecine.to/#
 address=/per-fect.nl/#
-address=/perfectddl.com/#
 address=/petaleech.com/#
 address=/peteteo.com/#
 address=/phantombitz.com/#
@@ -4335,7 +4325,6 @@ address=/pirateunblocker.net/#
 address=/pirateworld.org/#
 address=/piratez.xyz/#
 address=/piratic.org/#
-address=/pirlog.com/#
 address=/pisexy.org/#
 address=/pitbulltorrent.eu/#
 address=/pitkini.org/#
@@ -4350,7 +4339,6 @@ address=/playit.pk/#
 address=/tracker.playmanija.net/#
 address=/playvidto.com/#
 address=/playwarez.com/#
-address=/bt.plc.mx/#
 address=/pldm.ml/#
 address=/pleer.com/#
 address=/plexbd.net/#
