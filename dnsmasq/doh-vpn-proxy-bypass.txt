@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 08 Jul 2023 22:22 UTC
-# Version: 2023.0708.2222.14
+# Last modified: 09 Jul 2023 21:48 UTC
+# Version: 2023.0709.2148.15
 # Syntax: DNSMasq
-# Number of entries: 5624
+# Number of entries: 5614
 #
 address=/0000a-fast-proxy.de/#
 address=/ns.00dani.me/#
@@ -49,7 +49,6 @@ address=/57824.com/#
 address=/dns.5ososea.com/#
 address=/family.5ososea.com/#
 address=/kids.5ososea.com/#
-address=/jp.68360612.xyz/#
 address=/7713.info/#
 address=/777surfer.info/#
 address=/dns.7vpn.com/#
@@ -4504,7 +4503,6 @@ address=/mockblock.com/#
 address=/ps1.modr.club/#
 address=/mofolinux.com/#
 address=/dns.molinero.dev/#
-address=/monsmousmada.tk/#
 address=/monthlyssh.net/#
 address=/monvpn.com/#
 address=/zrh1-ns01.monzoon.net/#
@@ -4515,10 +4513,8 @@ address=/dns.moulticast.net/#
 address=/movieproxy.com/#
 address=/vpn.mozilla.org/#
 address=/dns.mrkaran.dev/#
-address=/mrr933q4t.com/#
 address=/msr177.com/#
 address=/dns.msxnet.ru/#
-address=/muchgates97.life/#
 address=/mullvad.net/#
 address=/blockerads.multimediaconcept.fr/#
 address=/dns.murgi.de/#
@@ -4569,9 +4565,7 @@ address=/dns.neubsi.at/#
 address=/dns.neutopia.org/#
 address=/newads-cdn.com/#
 address=/newipnow.com/#
-address=/news-iisbangalore-lk2.com/#
 address=/newvpn.cf/#
-address=/newvpn.ga/#
 address=/doh.luigi.nexific.it/#
 address=/nextdns.io/#
 address=/ngrok.io/#
@@ -4627,7 +4621,6 @@ address=/dns.ofdoom.net/#
 address=/olympicproxy.net/#
 address=/onconnect.info/#
 address=/one.one.one.one/#
-address=/one-zs-lk3.com/#
 address=/doh.onedns.net/#
 address=/secure.onedns.cc/#
 address=/onion.am/#
@@ -4649,7 +4642,6 @@ address=/onion.sh/#
 address=/onion.to/#
 address=/onion.ws/#
 address=/onlineipchanger.com/#
-address=/onlineload-kja.live/#
 address=/onlineproxy.co/#
 address=/onlineproxy.us/#
 address=/adguard.onlyfriends.info/#
@@ -4702,7 +4694,6 @@ address=/ourproxy.net/#
 address=/overplay.net/#
 address=/ovpn.com/#
 address=/ovpn.to/#
-address=/owens-willis-teal.ga/#
 address=/1a.ns.ozer.im/#
 address=/packetriot.net/#
 address=/dns.paesa.es/#
@@ -4721,7 +4712,6 @@ address=/i.passcloud.xyz/#
 address=/doh.gcp.pathofgrace.com/#
 address=/leo.paulmihaipavel.com/#
 address=/rpz-public-resolver1.rrdns.pch.net/#
-address=/peekatwork.com/#
 address=/fuchur.pentament.de/#
 address=/peoplesproxy.com/#
 address=/perfect-privacy.com/#

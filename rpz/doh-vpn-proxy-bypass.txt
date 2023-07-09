@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1688854920 86400 3600 604800 30
+@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1688939280 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Enyrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 08 Jul 2023 22:22 UTC
-; Version: 2023.0708.2222.14
+; Last modified: 09 Jul 2023 21:48 UTC
+; Version: 2023.0709.2148.15
 ; Syntax: RPZ
-; Number of entries: 11248
+; Number of entries: 11228
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -1151,8 +1151,6 @@ dns.moonssif.com CNAME .
 *.dns.moonssif.com CNAME .
 movieproxy.com CNAME .
 *.movieproxy.com CNAME .
-mrr933q4t.com CNAME .
-*.mrr933q4t.com CNAME .
 msr177.com CNAME .
 *.msr177.com CNAME .
 my-proxy.com CNAME .
@@ -1177,8 +1175,6 @@ newads-cdn.com CNAME .
 *.newads-cdn.com CNAME .
 newipnow.com CNAME .
 *.newipnow.com CNAME .
-news-iisbangalore-lk2.com CNAME .
-*.news-iisbangalore-lk2.com CNAME .
 dns.nhtsky.com CNAME .
 *.dns.nhtsky.com CNAME .
 nightowlvpn.com CNAME .
@@ -1213,8 +1209,6 @@ nur68cnnc5.com CNAME .
 *.nur68cnnc5.com CNAME .
 vpn.nvidia.com CNAME .
 *.vpn.nvidia.com CNAME .
-one-zs-lk3.com CNAME .
-*.one-zs-lk3.com CNAME .
 onlineipchanger.com CNAME .
 *.onlineipchanger.com CNAME .
 onyx7.com CNAME .
@@ -1283,8 +1277,6 @@ doh.gcp.pathofgrace.com CNAME .
 *.doh.gcp.pathofgrace.com CNAME .
 leo.paulmihaipavel.com CNAME .
 *.leo.paulmihaipavel.com CNAME .
-peekatwork.com CNAME .
-*.peekatwork.com CNAME .
 peoplesproxy.com CNAME .
 *.peoplesproxy.com CNAME .
 perfect-privacy.com CNAME .
@@ -2407,10 +2399,6 @@ proxy.vpnmag.fr CNAME .
 *.proxy.vpnmag.fr CNAME .
 wez.fr CNAME .
 *.wez.fr CNAME .
-newvpn.ga CNAME .
-*.newvpn.ga CNAME .
-owens-willis-teal.ga CNAME .
-*.owens-willis-teal.ga CNAME .
 proxyvpn.ga CNAME .
 *.proxyvpn.ga CNAME .
 supervpn.ga CNAME .
@@ -2897,8 +2885,6 @@ irre.li CNAME .
 *.irre.li CNAME .
 tor.vasi.li CNAME .
 *.tor.vasi.li CNAME .
-muchgates97.life CNAME .
-*.muchgates97.life CNAME .
 bdns.link CNAME .
 *.bdns.link CNAME .
 ns3.link CNAME .
@@ -2909,8 +2895,6 @@ unblockit.link CNAME .
 *.unblockit.link CNAME .
 adguard.ihatemy.live CNAME .
 *.adguard.ihatemy.live CNAME .
-onlineload-kja.live CNAME .
-*.onlineload-kja.live CNAME .
 youtubeunblocked.live CNAME .
 *.youtubeunblocked.live CNAME .
 o1.lt CNAME .
@@ -10929,8 +10913,6 @@ dns.kawa.tf CNAME .
 *.dns.kawa.tf CNAME .
 dns.melalandia.tk CNAME .
 *.dns.melalandia.tk CNAME .
-monsmousmada.tk CNAME .
-*.monsmousmada.tk CNAME .
 sporabemer.tk CNAME .
 *.sporabemer.tk CNAME .
 suppheathcbelgperg.tk CNAME .
@@ -11179,8 +11161,6 @@ wonderland.ws CNAME .
 *.wonderland.ws CNAME .
 xite.ws CNAME .
 *.xite.ws CNAME .
-jp.68360612.xyz CNAME .
-*.jp.68360612.xyz CNAME .
 dns.886886886.xyz CNAME .
 *.dns.886886886.xyz CNAME .
 dns.andrewnw.xyz CNAME .

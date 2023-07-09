@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 08 Jul 2023 22:22 UTC
-# Version: 2023.0708.2222.14
+# Last modified: 09 Jul 2023 21:48 UTC
+# Version: 2023.0709.2148.15
 # Syntax: Domains (without subdomains)
-# Number of entries: 5624
+# Number of entries: 5614
 #
 0000a-fast-proxy.de
 ns.00dani.me
@@ -49,7 +49,6 @@ dns.52306.org
 dns.5ososea.com
 family.5ososea.com
 kids.5ososea.com
-jp.68360612.xyz
 7713.info
 777surfer.info
 dns.7vpn.com
@@ -4504,7 +4503,6 @@ mockblock.com
 ps1.modr.club
 mofolinux.com
 dns.molinero.dev
-monsmousmada.tk
 monthlyssh.net
 monvpn.com
 zrh1-ns01.monzoon.net
@@ -4515,10 +4513,8 @@ dns.moulticast.net
 movieproxy.com
 vpn.mozilla.org
 dns.mrkaran.dev
-mrr933q4t.com
 msr177.com
 dns.msxnet.ru
-muchgates97.life
 mullvad.net
 blockerads.multimediaconcept.fr
 dns.murgi.de
@@ -4569,9 +4565,7 @@ dns.neubsi.at
 dns.neutopia.org
 newads-cdn.com
 newipnow.com
-news-iisbangalore-lk2.com
 newvpn.cf
-newvpn.ga
 doh.luigi.nexific.it
 nextdns.io
 ngrok.io
@@ -4627,7 +4621,6 @@ dns.ofdoom.net
 olympicproxy.net
 onconnect.info
 one.one.one.one
-one-zs-lk3.com
 doh.onedns.net
 secure.onedns.cc
 onion.am
@@ -4649,7 +4642,6 @@ onion.sh
 onion.to
 onion.ws
 onlineipchanger.com
-onlineload-kja.live
 onlineproxy.co
 onlineproxy.us
 adguard.onlyfriends.info
@@ -4702,7 +4694,6 @@ ourproxy.net
 overplay.net
 ovpn.com
 ovpn.to
-owens-willis-teal.ga
 1a.ns.ozer.im
 packetriot.net
 dns.paesa.es
@@ -4721,7 +4712,6 @@ i.passcloud.xyz
 doh.gcp.pathofgrace.com
 leo.paulmihaipavel.com
 rpz-public-resolver1.rrdns.pch.net
-peekatwork.com
 fuchur.pentament.de
 peoplesproxy.com
 perfect-privacy.com
