@@ -7,8 +7,8 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 01 Jul 2023 05:51 UTC
-! Version: 2023.0701.0551.25
+! Last modified: 09 Jul 2023 21:56 UTC
+! Version: 2023.0709.2156.55
 ! Syntax: AdGuard
 !
 ||agency^$denyallow=battlefield.agency|baam.agency|robotzebra.agency|uphotel.agency|ws.agency
@@ -31,7 +31,7 @@
 ||esq^$denyallow=erika.esq
 ||fit^$denyallow=appetit.fit|clubb.fit|justget.fit|nic.fit|pridegym.fit|thebene.fit|tootally.fit
 ||foo^$denyallow=helloworld.foo
-||fyi^$denyallow=lunar.fyi
+||fyi^$denyallow=lunar.fyi|iusearchlinux.fyi
 ||*.gdn^
 ||gq^$denyallow=inege.gq|tvgelive.gq|siteproxy.gq|blockly.gq
 ||*.hair^
@@ -40,7 +40,7 @@
 ||*.loan^
 ||loans^$denyallow=nic.loans
 ||*.market^
-||ml^$denyallow=aire.ml|amap.ml|beatbump.ml|birdkey.ml|debula.ml|dmml.ml|esparrec.ml|exp0.ml|fedi.ml|ghostcloud.ml|google.ml|guya.ml|info-matin.ml|kawauso.ml|leam.ml|lemmy.ml|lingva.ml|loma.ml|masto.ml|mastodon.ml|mastodonte.ml|melody.ml|nothingprivate.ml|precure.ml|prompt.ml|stilic.ml|sumanko.ml|we-moon.ml
+||ml^$denyallow=aire.ml|amap.ml|beatbump.ml|birdkey.ml|debula.ml|dmml.ml|esparrec.ml|exp0.ml|fedi.ml|fmhy.ml|ghostcloud.ml|google.ml|guya.ml|info-matin.ml|kawauso.ml|leam.ml|lemmy.ml|lingva.ml|loma.ml|masto.ml|mastodon.ml|mastodonte.ml|melody.ml|nothingprivate.ml|precure.ml|prompt.ml|stilic.ml|sumanko.ml|we-moon.ml
 ||*.mom^
 ||monster^$denyallow=egybest.monster|yts.monster|cloudcdn.monster|fedi.monster|rollenspiel.monster|tts.monster|vipbj.monster
 ||mov^$denyallow=david.mov
@@ -52,7 +52,7 @@
 ||prof^$denyallow=casey.prof
 ||pw^$denyallow=libgen.pw|petridish.pw|palaugov.pw|dpc.pw|buttercup.pw|rezka.pw|darkcrystal.pw|xor.pw|fullhdfilmizlesene.pw|gopass.pw|vost.pw|core.pw|bittor.pw|plutonium.pw|nitter.pw
 ||quest^$denyallow=0x00.quest|amble.quest|bookshelf.quest|dice.quest|dont-panic.quest|epochal.quest|federation.quest|galaxy.quest|mylegendary.quest|nic.quest|prometheus.quest|squash.quest|teacher.quest|theculture.quest|toot.quest
-||*.rest^
+||rest^$denyallow=crystals.rest
 ||*.sbs^
 ||site^$denyallow=aana.site|adamxtweaking.company.site|alexforsale.site|amatriain.site|anitube.site|athousandwords.site|august-don.site|birb.site|blocklist.site|business.site|cdmstudy.site|chagratt.site|dannythe.site|dodi-repacks.site|enby.site|fediunam.site|finsup.site|first-party.site|fitgirl-repacks.site|fmoviesto.site|fomin.site|franv.site|gt-mod.site|heimdall.site|hellsite.site|ichinyo.site|ipv6-only.site|is4.site|iztasocial.site|kamima.site|lamer-ethos.site|lavenby.site|loophole.site|louisematic.site|melonsoda.site|metrolagu.site|miri.site|mstdn-jp.site|nic.site|notabird.site|notion.site|notube.site|rebelbase.site|saimaa.site|secluded.site|secreto.site|shoddy.site|skilltoy.site|srht.site|starkov.site|sully.site|theantisocial.site|thex.site|third-party.site|thisisjoes.site|tighnari.site|toot.site|triplering.site|vtubers.site|welsea.site
 ||*.skin^
