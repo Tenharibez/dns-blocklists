@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Jul 2023 05:59 UTC
-# Version: 2023.0709.0559.31
+# Last modified: 09 Jul 2023 23:07 UTC
+# Version: 2023.0709.2307.20
 # Syntax: Domains (without subdomains)
-# Number of entries: 41305
+# Number of entries: 41301
 #
 000space.com
 000webhost.com
@@ -1663,6 +1663,7 @@ ad-stir.com
 ad-survey.com
 ad-tech.com
 ad-track.jp
+ad-wiser-tracking.ch
 ad1.ru
 ad287.com
 ad2games.com
@@ -4121,6 +4122,7 @@ free.aol.com
 dns-01.ns.aol.com
 aomeng.net
 s362693299.aon.com
+aonforhaving.info
 aonunited.com
 aosmicdossety.website
 aosmicvirago.com
@@ -7271,9 +7273,9 @@ promos.camsoda.com
 camsoda1.com
 camstime.life
 can-get-so.me
+can-get-some.com
 can-get-some.in
 can-get-some.net
-eu.can-get-some.com
 can-postsmsnotice.com
 canadadrugsonline.com
 sslstats.canadapost.ca
@@ -9597,6 +9599,7 @@ dzv1ekshu2vbs.cloudfront.net
 dzxr711a4yw31.cloudfront.net
 server-54-230-216-203.mrs50.r.cloudfront.net
 europe-west1-bonnier-big-data.cloudfunctions.net
+europe-west1-niro-tracking.cloudfunctions.net
 southamerica-east1-loyal-skill-365616.cloudfunctions.net
 us-central1-analytics-236511.cloudfunctions.net
 us-central1-custom-site-analytics.cloudfunctions.net
@@ -11808,7 +11811,6 @@ dalysv.com
 damageddistance.com
 damdoor.com
 dameparts.com
-dammarsnektons.com
 dampdock.com
 dampwarabi.com
 danadarurat.net
@@ -11975,6 +11977,7 @@ browser-http-intake.logs.datadoghq.com
 mobile-http-intake.logs.datadoghq.com
 public-trace-http-intake.logs.datadoghq.com
 rum-http-intake.logs.datadoghq.com
+api-js.datadome.co
 js.datadome.co
 rtb-useast-v4.datadrives.ai
 xml-v4.datadrives.ai
@@ -12235,6 +12238,7 @@ deddsunland.com
 dedfearingles.info
 dedicatedmedia.com
 dedicationsubtract.com
+matomo.dedimax.com
 deductionadjacentwatchful.com
 deductionkeepingbabysitter.com
 deebcards-themier.com
@@ -15287,7 +15291,6 @@ empowercareer.com
 track.info.empr.com
 emptem.com
 emptivetss.space
-emqrjjveqnjjq.top
 emraudpeptone.com
 emseenerji.com
 emsservice.de
@@ -20327,6 +20330,7 @@ image-ad.jp
 image-thaihometown.com
 imageadvantage.net
 imageshh.com
+matomo.imagile.fr
 imagin3drag0n.com
 imaginaryspooky.com
 sdkv2.imaginationunwired.com
@@ -21432,6 +21436,7 @@ istripper.com
 istsldaheh.com
 iswhatappyouneed.net
 iswhelectual.cc
+matomo.it-connect.fr
 168.it168.com
 ingestion.webanalytics.italia.it
 italianbeepimpediment.com
@@ -21777,7 +21782,6 @@ jjfopb.xyz
 smetrics.jjill.com
 jjipogp.com
 jjkiahh.icu
-jjmbmkklzwebj.top
 jjmitsd.com
 jjnctjd.com
 analytics.jjshouse.com
@@ -21791,7 +21795,6 @@ jkthlsrdhni.com
 jkub.com
 jkxvvv.xyz
 jkyondcubchu.com
-jkyybewqmvlw.top
 jlaabpmergjoflssyg.com
 jldbnjghezv.com
 discover.jll.com
@@ -22126,6 +22129,7 @@ analytics.kallinich-media.de
 kalooga.com
 analytics.kaltura.com
 stats.kaltura.com
+kamalafooner.space
 kambalupflung.com
 kameleoon.com
 kameleoon.eu
@@ -22567,6 +22571,7 @@ koonbqw.com
 koora.live
 koovaubi.xyz
 koowo.com
+matomo.kopano.com
 kopeukasrsiha.com
 adat.koponyeg.hu
 kopsooli.com
@@ -24631,6 +24636,7 @@ medicineflogaccumulate.com
 ssl.o.medicinenet.com
 elqtracking.medidata.com
 mediego.com
+matomonuedigi.mediendesign.de
 medienparadies.com
 log.medietall.no
 medio.com
@@ -24971,6 +24977,7 @@ tracking.military.com
 militaryapp.net
 militaryverse.com
 see.milkshow.live
+matomo.milkywan.fr
 rtb-useast.milkywase.com
 secure.mill8grip.com
 millennialmedia.com
@@ -25969,7 +25976,6 @@ apilogduration.mytvnet.vn
 tracking.myunidays.com
 smetrics.myvi.in
 myvisitors.se
-vt.myvisualiq.net
 cmp.myway.be
 hp.myway.com
 mywebsavior.com
@@ -26001,7 +26007,6 @@ n0611.com
 n0622.com
 n0633.com
 n0644.com
-n0909.com
 n0v1cdn.com
 athena-event-provider.n11.com
 h.n11.com
@@ -26332,9 +26337,6 @@ nederland.live
 nedes.xyz
 nedestablish.com
 nedouseso.com
-nedstat.com
-nedstat.net
-nedstat.nl
 nedstatbasic.com
 nedstatbasic.net
 needfradka.com
@@ -26414,7 +26416,7 @@ loopa.net.au
 obkom.net.ua
 vads.net.vn
 log.vietnamdaily.net.vn
-yemen.net.ye
+adsl.yemen.net.ye
 ycembr.net-a-porter.com
 net-filter.com
 engage.net-rx.com
@@ -27158,6 +27160,7 @@ lq.nullusposolo.com
 nultoaly.net
 numarabiz.com
 numarapaneli.com
+sentry.numberly.net
 numbertrck.com
 numsodsi.com
 nunchaki.live
@@ -27224,7 +27227,6 @@ nynextlevel.com
 t.nypost.com
 nypthealing.com
 nypyzx.xyz
-nyrithenrebarro.info
 nythemorewasth.xyz
 a-reporting.nytimes.com
 als-svc.nytimes.com
@@ -27888,7 +27890,6 @@ opticlygremio.com
 opticsbd.com
 s.optidigital.com
 optidownloader.com
-optimahub.com
 optimallimit.com
 optimisticminiaturizationdowry.com
 optimix.asia
@@ -28054,7 +28055,6 @@ othersfohi.com
 otherwiseassurednessloaf.com
 otherwiseparticipate.com
 otigainareput.info
-otjccfldytgkkox.xyz
 otm-r.com
 otnolatrnup.com
 otomotifme.com
@@ -28344,7 +28344,6 @@ page1monk.com
 page9awry.com
 pageantbagauspice.com
 pagefair.com
-pagefair.net
 analytics.pagefly.io
 vebo-vast.pages.dev
 sc.pages03.net
@@ -28548,6 +28547,7 @@ secure.pass8heal.com
 passablejeepparliament.com
 passannouncing.com
 passendo.com
+matomo.passeportsante.net
 passeura.com
 passfixx.com
 passionatephilosophical.com
@@ -28665,7 +28665,6 @@ ashow.pcpop.com
 pcprotect.com
 pcspeeduppro.net
 pctlwm.com
-pctutu.com
 cdn.pctv.xyz
 pcwarezbox.com
 pcworlds.net
@@ -28832,7 +28831,6 @@ pc.personalcreations.com
 spc.personalcreations.com
 swa.personalcreations.com
 wa.personalcreations.com
-personalicanvas.com
 personalizedtab.com
 collect.personalwissen.de
 tracker.personizely.net
@@ -28977,7 +28975,6 @@ physicianurge.com
 physiqueusualconsulting.com
 phywi.org
 pi-stats.com
-piaads.com
 api-esp.piano.io
 buy-au.piano.io
 pianoalter.xyz
@@ -29141,7 +29138,6 @@ pjiptn.com
 pjqchcfwtw.com
 pjsefaqzyjv.com
 pjstat.com
-pkkylyx.xyz
 pkoqeg.com
 pkthyp.uno
 pktriot.net
@@ -29166,6 +29162,7 @@ planesforce.website
 planesknob.com
 planet-daily-news.com
 planet-news.ru
+planmybackup.co
 plannedcappuccino.com
 planscul.com
 deep.plant.chat
@@ -29187,7 +29184,6 @@ platinum-center.com
 platinumplay.eu
 platitudefivesnack.com
 custom.plausible.io
-plausiblecdn.co
 plavxml.com
 playamedia.com
 playamopartners.com
@@ -29587,7 +29583,6 @@ zt.pptv.com
 pqjprom.cn
 pqldzp.xyz
 pqrtd9hhtu9x.info
-pqszpa.com
 pr0m.site
 practicallyfire.com
 practicalwhich.info
@@ -29769,7 +29764,6 @@ pro-market.net
 pro119marketing.com
 pro6e.com
 proadscdn.com
-probableliving.com
 probationpresented.com
 probationtoll.com
 ads.proboards.com
@@ -29894,6 +29888,7 @@ protawe.com
 protecmedia.com
 protect4juls.space
 tracking.protective.com
+matomo.protectli.com
 protectorworstquake.com
 protectshielddata.com
 protectspokesmancalendar.com
@@ -30080,7 +30075,6 @@ pubplus.com
 pubpowerplatform.io
 pubpress.net
 pubscale.com
-ads.pubsqrd.com
 pubstack.io
 carl.pubsvs.com
 pubted.com
@@ -30361,7 +30355,6 @@ qiegwllnx1.xyz
 qifake.com
 qifwbpoo.com
 js.passport.qihucdn.com
-qingfengxq.com
 adlaunch.qingting.fm
 list.z.qingting.fm
 qinkuai.top
@@ -30619,7 +30612,6 @@ quietyellowday.com
 smetrics.quill.com
 quillkick.com
 quiltshiverpowerless.com
-quinod.com
 quintaldog.cz
 quintesse.io
 quisma.com
@@ -31101,6 +31093,7 @@ redintelligence.net
 redir4.net
 redir9.net
 redirect-path1.com
+redirecting7.eu
 redirectsstm.click
 redirectvoluum.com
 redirekted.com
@@ -31559,6 +31552,7 @@ gtrack.rightlivin.com
 track.rightlivin.com
 rightmedia.com
 tag.rightmessage.com
+rightsapphiresand.info
 rightstats.com
 rightypulverizetea.com
 rigi9bury.com
@@ -32615,6 +32609,7 @@ ablink.m.seatedapp.io
 seatedparanoiaenslave.com
 seatsmoke.com
 p593.seattlepi.com
+sebeewho.xyz
 secads.me
 app.secads.club
 euprod-knoxlog.secb2b.com
@@ -34430,7 +34425,6 @@ sqrsuy.shop
 clanker-events.squarespace.com
 events.squarespace.com
 squatdisloyal.com
-squeakycounter.com
 squeakyheart.pro
 squeezely.tech
 squetanonym.com
@@ -35065,6 +35059,7 @@ svarajwens.com
 svbank.com
 svk-native.ru
 svkmxwssih.com
+svntrk.com
 ssc.svoboda.org
 tk.svsound.com
 analytics.svt.se
@@ -36203,6 +36198,7 @@ xlog-va.tiktokv.com
 stat.tildacdn.com
 diypxh.tillys.com
 tilsimliyuzuk.com
+tiltwin.com
 tilyerholeman.com
 ssl-metrics.tim.it
 metrics.timberland.com
@@ -41023,6 +41019,7 @@ logsink.zedge.net
 zedo.com
 zedoaryrejects.com
 zeechumy.com
+zeekaihu.net
 bxbuvv.zeelool.com
 zeeshech.net
 zegrumse.net
@@ -41178,7 +41175,6 @@ zmedia.com
 server.zmedia.vn
 zmfdjb.xyz
 zmmeetamate.top
-zmusic-online.com
 znllfp.xyz
 znnodl.xyz
 znqip.net
