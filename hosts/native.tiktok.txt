@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 22 Jun 2023 07:30 UTC
-# Version: 2023.0622.0730.49
+# Last modified: 07 Jul 2023 22:11 UTC
+# Version: 2023.0707.2211.52
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 175
+# Number of entries: 180
 #
 0.0.0.0 gpm-mon-sg.byteoversea.com
 0.0.0.0 gpm-mon-va.byteoversea.com
@@ -19,10 +19,6 @@
 0.0.0.0 mon-csj-maliva-ios.byteoversea.com
 0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 mon-va-useast2a.byteoversea.com
-0.0.0.0 mssdk-sg.byteoversea.com
-0.0.0.0 mssdk-sg-bu.byteoversea.com
-0.0.0.0 mssdk-va.byteoversea.com
-0.0.0.0 mssdk-va-useast2a.byteoversea.com
 0.0.0.0 pc-mon-va.byteoversea.com
 0.0.0.0 rtlog.byteoversea.com
 0.0.0.0 sgee-log.byteoversea.com
@@ -39,8 +35,6 @@
 0.0.0.0 log-lf.snssdk.com
 0.0.0.0 log-lq.snssdk.com
 0.0.0.0 mon.snssdk.com
-0.0.0.0 mssdk.snssdk.com
-0.0.0.0 mssdk-bu.snssdk.com
 0.0.0.0 os-mon.snssdk.com
 0.0.0.0 pc-mon.snssdk.com
 0.0.0.0 xlog.snssdk.com
@@ -60,7 +54,7 @@
 0.0.0.0 business-api.tiktok.com
 0.0.0.0 analytics.us.tiktok.com
 0.0.0.0 analytics-exp.us.tiktok.com
-0.0.0.0 mssdk.us.tiktok.com
+0.0.0.0 analytics-ttp2.us.tiktok.com
 0.0.0.0 log.tiktokv.com
 0.0.0.0 log-i18n.tiktokv.com
 0.0.0.0 log-phx.tiktokv.com
@@ -116,6 +110,18 @@
 0.0.0.0 log9-normal-c-useast1a.tiktokv.com
 0.0.0.0 logbk.tiktokv.com
 0.0.0.0 mon.tiktokv.com
+0.0.0.0 mon-phx.tiktokv.com
+0.0.0.0 mon-ru.tiktokv.com
+0.0.0.0 mon-sg.tiktokv.com
+0.0.0.0 mon-useast2a.tiktokv.com
+0.0.0.0 mon-va.tiktokv.com
+0.0.0.0 mon15-checkout.tiktokv.com
+0.0.0.0 mon15-normal.tiktokv.com
+0.0.0.0 mon16-normal.tiktokv.com
+0.0.0.0 mon19-normal.tiktokv.com
+0.0.0.0 mon22-normal.tiktokv.com
+0.0.0.0 mon31-normal.tiktokv.com
+0.0.0.0 mon32-normal.tiktokv.com
 0.0.0.0 monbk.tiktokv.com
 0.0.0.0 rtc-logger-i18n.tiktokv.com
 0.0.0.0 rtc-logger-va.tiktokv.com
@@ -165,7 +171,6 @@
 0.0.0.0 log16-normal-useast8.us.tiktokv.com
 0.0.0.0 log19-applog-useast5.us.tiktokv.com
 0.0.0.0 mon.us.tiktokv.com
-0.0.0.0 mssdk.us.tiktokv.com
 0.0.0.0 rtc-logger.us.tiktokv.com
 0.0.0.0 rtlog.us.tiktokv.com
 0.0.0.0 rtlog16-applog-useast5.us.tiktokv.com

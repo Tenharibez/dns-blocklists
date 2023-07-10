@@ -39,12 +39,24 @@
 @@|dcape-*.amazon.com^
 @@|dp-gw-*.amazon.com^
 @@|dxz5jxhrrzigf.cloudfront.net^
+@@|msh.amazon.ca^
+@@|msh.amazon.cn^
+@@|msh.amazon.co.jp^
+@@|msh.amazon.com^
+@@|msh.amazon.com.br^
+@@|msh.amazon.com.mx^
 @@|msh.amazon.co.uk^
+@@|msh.amazon.de^
+@@|msh.amazon.es^
+@@|msh.amazon.fr^
+@@|msh.amazon.in^
+@@|msh.amazon.it^
 @@|prod.amazoncrl.com^
 @@|web.diagnostic.networking.aws.dev^
 ! Hulu, possibly other services
 ! https://github.com/Perflyst/PiHoleBlocklist/issues/138
 @@|mas-*.amazon.com^
+@@|softwareupdates.amazon.com^
 
 ! Amazon Shopping / Apps
 @@||images-amazon.com^
@@ -66,6 +78,7 @@
 @@|aax-fe.amazon.com^
 @@|aax-fe.amazon.com.au^
 @@|aax-fe.amazon.sg^
+@@|m.media-amazon.com^
 ! Amazon.com
 @@|d3ag4hukkh62yn.cloudfront.net^
 
@@ -453,9 +466,11 @@
 @@|us.lgeapi.com^
 @@|us.lgtvsdp.com^
 @@|us.rdx2.lgtvsdp.com^
+! https://github.com/hagezi/dns-blocklists/issues/1216
+@@||cdpsvc.lgtvcommon.com^
+@@||recommend.lgtvcommon.com^
 
-@@|meituan.net# Spotify^
-@@|www.meituan.net# Spotify^
+! Spotify
 ! Prevent problems with Spotify Premium
 @@||scdn.co^
 @@||spotify.com.akahost.net^
@@ -520,7 +535,7 @@
 @@|h-rbs-bank.online-metrix.net^
 @@|h-regionsbank2.online-metrix.net^
 @@|h-santanderbank.online-metrix.net^
-@@|h-sdk.online-metrix.net^
+!h-sdk.online-metrix.net
 @@|h-standardcharteredbank.online-metrix.net^
 @@|h-target.online-metrix.net^
 @@|h-tdbank.online-metrix.net^
@@ -570,6 +585,8 @@
 ! VOE Streams
 @@|35volitantplimsoles5.com^
 @@|www.35volitantplimsoles5.com^
+@@|sizyreelingly.com^
+@@|www.sizyreelingly.com^
 
 ! Xiaomi device updates
 @@||update.intl.miui.com^
@@ -601,6 +618,11 @@
 @@|www.freenet.de^
 @@|kiwisearchservices.com^
 @@|www.kiwisearchservices.com^
+@@|canyoublockit.com^
+@@|www.canyoublockit.com^
+@@|bgp.he.net^
+@@|24auto.de^
+@@|www.24auto.de^
 
 ! NextDNS
 @@||nextdns.io^
@@ -2858,7 +2880,6 @@
 @@|assets-secure.applicaster.com^
 
 ! TikTok
-@@|mcs-va.tiktokv.com^
 @@|*frontier*.byteoversea.com^
 @@|*frontier*.snssdk.com^
 @@|*frontier*.tiktokv.com^
@@ -2866,13 +2887,19 @@
 @@|*gecko*.snssdk.com^
 @@|*gecko*.tiktok*.com^
 @@|*mcs*.byteoversea.com^
-!*mcs*.snssdk.com
+@@|*mcs*.snssdk.com^
 @@|*mcs*.tiktok*.com^
 @@|*pitaya*.byteoversea.com^
 @@|*pitaya*.snssdk.com^
 @@|*pitaya*.tiktok*.com^
-@@|mon*-*.tiktok*.com^
-@@|mssdk*-*.tiktok*.com^
+@@|mon*-checkout-*.tiktok*.com^
+@@|mon*-normal-*.tiktok*.com^
+@@|mon*-platform-*.tiktok*.com^
+@@|mon*-tmp-*.tiktok*.com^
+@@|mon*-i*.tiktok*.com^
+@@|*mssdk*.byteoversea.com^
+@@|*mssdk*.snssdk.com^
+@@|*mssdk*.tiktok*.com^
 
 ! Live Chat on https://www.coextro.com/
 @@|tawk.to^
@@ -4100,4 +4127,185 @@
 
 ! pics, movies in wetv app
 @@|puui.qpic.cn^
+
+! https://github.com/hagezi/dns-blocklists/issues/1199
+@@|manga18sx.com^
+@@|www.manga18sx.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1202
+@@|messaginganalytics.athena.io^
+
+! https://github.com/hagezi/dns-blocklists/issues/1201
+@@|meatspin.com^
+@@|www.meatspin.com^
+
+! CNAME for various sites / referral links
+@@|cname.beehiiv.com^
+@@|link.mail.beehiiv.com^
+
+! Needed to view the offerings from https://www.buerger.de/unternehmen/werksverkauf/werksverkauf-ditzingen/
+@@||createsend1.com^
+
+! Prevent connection to the Cetelem account
+@@|tr.notification.cetelem.fr^
+@@|f1.np6.com^
+@@|f1.mailperformance.com^
+@@|tr.np6.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1205
+@@|cdn*.onnetwork.tv^
+@@|video*.onnetwork.tv^
+
+! https://github.com/hagezi/dns-blocklists/issues/1206
+@@|c.trackmytarget.com^
+@@|metric.picodi.com^
+
+! Commercial product for monitoring VDI environments
+@@||controlup.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1210
+@@|tracker.torrentbd.net^
+
+! https://github.com/hagezi/dns-blocklists/issues/1211
+@@|cdnjs.tacool.com^
+@@|fn-captcha.tacool.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1212
+@@||wishpond.com^
+
+! Prevents the documentation on docs.portainer.io from linking out properly
+@@|cta-redirect.hubspot.com^
+
+! https://www.augsburger-allgemeine.de/
+@@|azol.de^
+@@|www.azol.de^
+
+! The biggest price-comparison site in Sweden
+@@|prisjakt.nu^
+@@|www.prisjakt.nu^
+
+! https://github.com/hagezi/dns-blocklists/issues/1227
+@@|heureka.cz^
+@@|www.heureka.cz^
+
+! https://github.com/hagezi/dns-blocklists/issues/1226
+@@|submit.sb.avast.com^
+@@|streamback.ns1.ff.avast.com^
+
+! email marketing platform like mailchimp
+@@|vbout.com^
+@@|www.vbout.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1228
+@@|dojo.cc^
+@@|www.dojo.cc^
+
+! https://github.com/hagezi/dns-blocklists/issues/1231
+@@|qoe-1.yottaa.net^
+
+! https://github.com/hagezi/dns-blocklists/issues/1233
+@@|omns.americanexpress.com^
+@@|americanexpress.com.ssl.d2.sc.omtrdc.net^
+
+! Login page of the Tresorit Android app
+@@|log.tresorit.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1234
+@@|client-stream-events.mtg-api.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1236
+@@|jagoketik.com^
+@@|www.jagoketik.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1237
+@@|connect-line.gr^
+@@|www.connect-line.gr^
+
+! Huawei Weather Widget/App
+@@|hw.zuimeitianqi.com^
+
+! Subtitle on youku online video platform app
+@@|sub.ykimg.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1239
+@@|www.smartnews.be^
+
+! https://github.com/hagezi/dns-blocklists/issues/1238
+@@|cdn.listrakbi.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1240
+@@|ogp.me^
+@@|www.ogp.me^
+
+! https://github.com/hagezi/dns-blocklists/issues/1241
+@@|su.ff.avast.com^
+
+! https://www.reddit.com/r/nextdns/comments/14r6c76/wrong_blacklisted_website_httpsvcreatekcom/
+@@|vcreatek.com^
+@@|www.vcreatek.com^
+
+! Smart TV (Tivù Sat italiana): the television does not remember the MediaSet login credentials if blocked
+@@|enabler.datalake.mediaset.it^
+
+! https://github.com/hagezi/dns-blocklists/issues/1243
+@@|smartplugin.youbora.com^
+
+! Instituto Fe y Libertad in Guatemala
+@@|feylibertad.org^
+@@|www.feylibertad.org^
+
+! Uservoice
+@@|uservoice.com^
+@@|www.uservoice.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1246
+@@|api.useberry.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1247
+@@|administrator.pnclassaction.com^
+
+! crisp.chat window doesn't open
+@@|client.crisp.chat^
+
+! Russian artists send these kinds of links to all the sites where you can listen to their track (Spotify, Yandex, VK, Apple Music, etc.)
+@@|l.1mp.ru^
+
+! Details of products in Lazada Shopping App
+@@|filebroker-cdn.lazada.*^
+
+! Games
+@@|gameforge.com^
+@@|www.gameforge.com^
+@@|voodoo.io^
+@@|www.voodoo.io^
+@@|voodoo-tech.io^
+@@|www.voodoo-tech.io^
+
+! Yandex Forms
+@@|forms.yandex.com^
+
+! ConvertKit - Free landing pages for your next idea
+@@|ck.page^
+@@|www.ck.page^
+
+! https://github.com/hagezi/dns-blocklists/issues/1253
+@@|klikdokter.com^
+@@|www.klikdokter.com^
+@@|assets-thaingohkee9zeyohke8.medkomtek.com^
+
+! open source intelligence news
+@@|corbettreport.com^
+@@|www.corbettreport.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1256
+@@|system360.inistrack.net^
+@@|nsm.tr.netsalesmedia.pl^
+
+! Newsletter links
+@@|app.convertkit.com^
+@@|app.convertkit.com.cdn.cloudflare.net^
+
+! legit file sharing
+@@|transfer.sh^
+@@|www.transfer.sh^
 

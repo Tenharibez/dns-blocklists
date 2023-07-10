@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.hoster. hostmaster.hagezi.hoster. 1687556940 86400 3600 604800 30
+@ SOA rpz.hagezi.hoster. hostmaster.hagezi.hoster. 1688767440 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 23 Jun 2023 21:49 UTC
-; Version: 2023.0623.2149.55
+; Last modified: 07 Jul 2023 22:04 UTC
+; Version: 2023.0707.2204.13
 ; Syntax: RPZ
-; Number of entries: 4120
+; Number of entries: 4096
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -198,34 +198,14 @@ wox.cc CNAME .
 *.wox.cc CNAME .
 d-bride.cfd CNAME .
 *.d-bride.cfd CNAME .
-d-clock.cfd CNAME .
-*.d-clock.cfd CNAME .
 d-crowd.cfd CNAME .
 *.d-crowd.cfd CNAME .
-d-drama.cfd CNAME .
-*.d-drama.cfd CNAME .
-d-ghost.cfd CNAME .
-*.d-ghost.cfd CNAME .
-d-ivory.cfd CNAME .
-*.d-ivory.cfd CNAME .
 d-lodge.cfd CNAME .
 *.d-lodge.cfd CNAME .
 d-petty.cfd CNAME .
 *.d-petty.cfd CNAME .
-d-rough.cfd CNAME .
-*.d-rough.cfd CNAME .
-d-shake.cfd CNAME .
-*.d-shake.cfd CNAME .
 d-staff.cfd CNAME .
 *.d-staff.cfd CNAME .
-d-state.cfd CNAME .
-*.d-state.cfd CNAME .
-d-sugar.cfd CNAME .
-*.d-sugar.cfd CNAME .
-d-thank.cfd CNAME .
-*.d-thank.cfd CNAME .
-d-tough.cfd CNAME .
-*.d-tough.cfd CNAME .
 d-width.cfd CNAME .
 *.d-width.cfd CNAME .
 blogspot.ch CNAME .
@@ -1024,8 +1004,6 @@ free-blogz.com CNAME .
 *.free-blogz.com CNAME .
 freecities.com CNAME .
 *.freecities.com CNAME .
-freecyberzone.com CNAME .
-*.freecyberzone.com CNAME .
 freehomepage.com CNAME .
 *.freehomepage.com CNAME .
 freehosterz.com CNAME .
@@ -1706,6 +1684,8 @@ webs.com CNAME .
 *.webs.com CNAME .
 websimages.com CNAME .
 *.websimages.com CNAME .
+websitehostfree.com CNAME .
+*.websitehostfree.com CNAME .
 webspawner.com CNAME .
 *.webspawner.com CNAME .
 webstarts.com CNAME .
@@ -3012,8 +2992,6 @@ blogspot.kr CNAME .
 *.blogspot.kr CNAME .
 webnode.kr CNAME .
 *.webnode.kr CNAME .
-c.la CNAME .
-*.c.la CNAME .
 1a.lc CNAME .
 *.1a.lc CNAME .
 24.lc CNAME .
@@ -3266,8 +3244,6 @@ centerblog.net CNAME .
 *.centerblog.net CNAME .
 cjb.net CNAME .
 *.cjb.net CNAME .
-comcast.net CNAME .
-*.comcast.net CNAME .
 comunidades.net CNAME .
 *.comunidades.net CNAME .
 cramerhost.net CNAME .
@@ -3782,6 +3758,8 @@ odrazuu.pl CNAME .
 *.odrazuu.pl CNAME .
 osc.pl CNAME .
 *.osc.pl CNAME .
+p2a.pl CNAME .
+*.p2a.pl CNAME .
 phorum.pl CNAME .
 *.phorum.pl CNAME .
 poradnia-empatia.pl CNAME .
@@ -3974,8 +3952,6 @@ wapka.store CNAME .
 *.wapka.store CNAME .
 biz.tc CNAME .
 *.biz.tc CNAME .
-bz.tc CNAME .
-*.bz.tc CNAME .
 online.tc CNAME .
 *.online.tc CNAME .
 top.tc CNAME .

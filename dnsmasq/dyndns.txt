@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 24 Jun 2023 21:41 UTC
-# Version: 2023.0624.2141.11
+# Last modified: 09 Jul 2023 21:50 UTC
+# Version: 2023.0709.2150.54
 # Syntax: DNSMasq
-# Number of entries: 1564
+# Number of entries: 1559
 #
 address=/0000000000000000000000.com/#
 address=/0rg.us/#
@@ -15,6 +15,7 @@ address=/100mountain.com/#
 address=/10dv.com/#
 address=/120v.ac/#
 address=/1337.cx/#
+address=/16-b.it/#
 address=/1cooldns.com/#
 address=/1dumb.com/#
 address=/2288.org/#
@@ -25,6 +26,7 @@ address=/2mydns.net/#
 address=/2p.fm/#
 address=/2waky.com/#
 address=/3-a.net/#
+address=/32-b.it/#
 address=/3322.net/#
 address=/3322.org/#
 address=/360digit.com/#
@@ -119,7 +121,6 @@ address=/baden.ru/#
 address=/bagus.org/#
 address=/baikabibai.com/#
 address=/bakli.ru/#
-address=/bandweite.de/#
 address=/barbaforte.org/#
 address=/barratella.com/#
 address=/barrel-of-knowledge.info/#
@@ -251,7 +252,6 @@ address=/cpsnet.cz/#
 address=/crabdance.com/#
 address=/crackedsidewalks.com/#
 address=/csproject.org/#
-address=/ctproduction.net/#
 address=/cuesinc.com/#
 address=/cupddns.net/#
 address=/custom-gaming.net/#
@@ -289,7 +289,6 @@ address=/de-a.org/#
 address=/deaftone.com/#
 address=/dearabba.org/#
 address=/death-by-monkeys.com/#
-address=/death-education.com/#
 address=/dedyn.io/#
 address=/demosoftonline.com/#
 address=/demoteam.ch/#
@@ -306,7 +305,6 @@ address=/diskstation.org/#
 address=/ditchyourip.com/#
 address=/divakeramika.com/#
 address=/diyplans.org/#
-address=/dlinkddns.com/#
 address=/dmchub.org/#
 address=/dmtr.ru/#
 address=/dnet.hu/#
@@ -324,7 +322,6 @@ address=/dns05.com/#
 address=/dns1.us/#
 address=/dns2.us/#
 address=/dns2go.com/#
-address=/dns4e.com/#
 address=/dnsabr.com/#
 address=/dnsalias.com/#
 address=/dnsalias.net/#
@@ -628,7 +625,6 @@ address=/gally.jp/#
 address=/game-host.org/#
 address=/game-server.cc/#
 address=/garmanage.com/#
-address=/garypatel.com/#
 address=/gastright.com/#
 address=/geekgalaxy.com/#
 address=/geekhardware.com/#
@@ -750,7 +746,6 @@ address=/ilovecollege.info/#
 address=/imagetemplate.com/#
 address=/imagetemplate.net/#
 address=/imexsac.com/#
-address=/imprendum.com/#
 address=/in-the-band.net/#
 address=/independentonline.ro/#
 address=/inet2.org/#
@@ -864,7 +859,6 @@ address=/itsaol.com/#
 address=/iu4ever.org/#
 address=/iugaming.com/#
 address=/ivc.cc/#
-address=/ivi.pl/#
 address=/ix.tc/#
 address=/iz.rs/#
 address=/jade-hamburg.de/#
@@ -961,6 +955,7 @@ address=/medittech.com/#
 address=/mefound.com/#
 address=/mein-vigor.de/#
 address=/melakaboy.com/#
+address=/merlitec.com/#
 address=/merseine.com/#
 address=/merseine.nu/#
 address=/merseine.org/#
@@ -1076,7 +1071,6 @@ address=/netcabo.pt/#
 address=/netdorm.com/#
 address=/netlord.de/#
 address=/netmask.ca/#
-address=/networkfactory.org/#
 address=/networkguru.com/#
 address=/networkoutpost.com/#
 address=/nflfan.org/#
@@ -1558,6 +1552,7 @@ address=/yourtrap.com/#
 address=/z0d.eu/#
 address=/z86.ru/#
 address=/dyndns.za.org/#
+address=/zaantek.com/#
 address=/zaibar.ro/#
 address=/zanity.net/#
 address=/zapto.org/#

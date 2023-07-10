@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 24 Jun 2023 21:39 UTC
-# Version: 2023.0624.2139.53
+# Last modified: 09 Jul 2023 21:49 UTC
+# Version: 2023.0709.2149.38
 # Syntax: DNSMasq
-# Number of entries: 749
+# Number of entries: 747
 #
 address=/ns.00dani.me/#
 address=/dns.0ooo.icu/#
@@ -21,7 +21,6 @@ address=/dns.52306.org/#
 address=/dns.5ososea.com/#
 address=/family.5ososea.com/#
 address=/kids.5ososea.com/#
-address=/jp.68360612.xyz/#
 address=/dns.7vpn.com/#
 address=/dns.886886886.xyz/#
 address=/8888.google/#
@@ -734,7 +733,6 @@ address=/dns.wakgood.net/#
 address=/wantaquddin.com/#
 address=/abel.waringer-atg.de/#
 address=/dns.warpnine.de/#
-address=/kswro.web.id/#
 address=/doh.this.web.id/#
 address=/dns.wevpn.com/#
 address=/dns-weblock.wevpn.com/#

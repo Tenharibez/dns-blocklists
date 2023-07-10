@@ -126,6 +126,7 @@
 (\.|^)cse3\.chausport\.com$
 (\.|^)ct\.impactradius\.com$
 (\.|^)ct\.klclick\.com$
+(\.|^)c\.trackmytarget\.com$
 (\.|^)cts\.businesswire\.com$
 (\.|^)ct\.sendgrid\.net$
 (\.|^)customlinks\.appsflyer\.com$
@@ -191,6 +192,7 @@
 (\.|^)mandrillapp\.com$
 (\.|^)marketing\.tr\.netsalesmedia\.pl$
 (\.|^)media01\.eu$
+(\.|^)metric\.picodi\.com$
 (\.|^)m\.exactag\.com$
 (\.|^)micpn\.com$
 (\.|^)mktoweb\.com$

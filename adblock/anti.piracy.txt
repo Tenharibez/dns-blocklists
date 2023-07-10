@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 24 Jun 2023 21:43 UTC
-! Version: 2023.0624.2143.12
+! Last modified: 09 Jul 2023 21:53 UTC
+! Version: 2023.0709.2153.01
 ! Syntax: AdBlock
-! Number of entries: 6813
+! Number of entries: 6758
 !
 ||zer0day.000webhostapp.com^
 ||0123456789nonexistent.com^
@@ -43,7 +43,6 @@
 ||123movies.ag^
 ||123movies.archi^
 ||123movies.army^
-||123movies.church^
 ||123movies.coach^
 ||123movies.com^
 ||123movies.domains^
@@ -52,7 +51,6 @@
 ||123movies.fun^
 ||123movies.ga^
 ||123movies.gallery^
-||123movies.gr^
 ||123movies.guide^
 ||123movies.gy^
 ||123movies.haus^
@@ -128,7 +126,6 @@
 ||141jav.com^
 ||147job.com^
 ||107.182.30.76.16clouds.com^
-||freedom.1776.ga^
 ||1bt.ru^
 ||1clickdown.com^
 ||1fichier.com^
@@ -177,19 +174,14 @@
 ||tracker.3304399.com^
 ||337hhh.xyz^
 ||365watchtv.com^
-||36dm.club^
-||36dm.com^
-||tracker.3arbya.com^
 ||3dmgame.com^
 ||3dsdb.com^
 ||bt.3kb.xyz^
 ||3movierulz.sc^
 ||3netbd.com^
 ||3rcommunications.com^
-||3warez.com^
 ||generatory.3xg.pl^
 ||420project.org^
-||45rpmtorrents.com^
 ||480mkv.com^
 ||480ptvshows.com^
 ||4allprograms.net^
@@ -265,7 +257,6 @@
 ||54new.com^
 ||5mins.shop^
 ||5movies.buzz^
-||5movies.live^
 ||5movies.run^
 ||5movies.to^
 ||5moviesfree.net^
@@ -289,9 +280,7 @@
 ||7track.org^
 ||7ur.ru^
 ||87av.com^
-||open.8a.is^
 ||8ebooks.net^
-||8hacks.com^
 ||8kun.top^
 ||8millimeters.com^
 ||8putlocker.com^
@@ -309,7 +298,6 @@
 ||a8bt.com^
 ||aaa.army^
 ||aarsen.me^
-||abandon5000.com^
 ||abandonhouse.com^
 ||abbaspc.net^
 ||abcflixbd.com^
@@ -332,7 +320,6 @@
 ||acgnx.se^
 ||opentracker.acgnx.com^
 ||open.acgnxtracker.com^
-||acgsou.com^
 ||open.acgtracker.com^
 ||torrenttracker.nwc.acsalaska.net^
 ||activembd.com^
@@ -422,9 +409,7 @@
 ||alpharatio.cc^
 ||alt-torrent.com^
 ||altbinz.net^
-||altermind.net^
 ||alterupload.com^
-||tracker.altrosky.nl^
 ||amaderftp.net^
 ||amateur-hour.net^
 ||amazing-news.se^
@@ -455,7 +440,6 @@
 ||anime-legion.net^
 ||anime-loads.org^
 ||board.anime-miako.to^
-||tracker.anime-miako.to^
 ||anime-planet.com^
 ||anime-sharing.com^
 ||anime-tv.fun^
@@ -500,7 +484,6 @@
 ||animelayer.ru^
 ||animelon.com^
 ||animemolecules.com^
-||animemoviespot.com^
 ||animencodes.com^
 ||animeout.xyz^
 ||animeow.me^
@@ -512,7 +495,6 @@
 ||animerush.tv^
 ||animes.so^
 ||torrents.animes-bg.com^
-||animesa.ga^
 ||animeshow.tv^
 ||animesim.com^
 ||animesimple.com^
@@ -575,7 +557,6 @@
 ||apkpure.com^
 ||apksum.com^
 ||appdb.to^
-||applelinkbd.net^
 ||applenetbd.com^
 ||appmeter.ru^
 ||free.appnee.com^
@@ -598,7 +579,6 @@
 ||araditracker.com^
 ||arafnetbd.com^
 ||bt.arcadefire.net^
-||tracker.arcbox.cc^
 ||archivx.to^
 ||arconaitv.us^
 ||area51.to^
@@ -666,7 +646,6 @@
 ||autocadbnaqk.com^
 ||autocadgou.com^
 ||autocadtfesvb.com^
-||autocadtymafq.com^
 ||avabdnet.com^
 ||avantabg.com^
 ||avatar-bg.org^
@@ -682,12 +661,10 @@
 ||awesome-hd.me^
 ||axell24.ru^
 ||axemovies.net^
-||axxo.me^
 ||axxomovies.org^
 ||azibtorrent.com^
 ||azm.to^
 ||azmovies.xyz^
-||azshare.info^
 ||b2s-share.com^
 ||b98.tv^
 ||baberepublic.com^
@@ -771,7 +748,6 @@
 ||bedro.cloud^
 ||beeflix.biz^
 ||tracker.beeimg.com^
-||beemp3.cc^
 ||beemp3s.org^
 ||beetvapk.net^
 ||bellator.com^
@@ -786,7 +762,6 @@
 ||best-moviez.ws^
 ||best-series.me^
 ||tracker.best-torrents.net^
-||bestcracks.net^
 ||bestdjmix.com^
 ||bestfilez.net^
 ||bestfreestreaming.com^
@@ -878,7 +853,6 @@
 ||bitsources.com^
 ||bitsparadise.info^
 ||bitspyder.net^
-||tracker.bittor.pw^
 ||tracker.bittor.xyz^
 ||bittorent.biz^
 ||bittorex.com^
@@ -912,7 +886,6 @@
 ||blacktiesports.net^
 ||tracker.blackunicorn.xyz^
 ||blackz.ro^
-||blades-heaven.com^
 ||blagblagblag.org^
 ||blockbuster.to^
 ||100-postal2.blogspot.com^
@@ -970,7 +943,6 @@
 ||bludv.com^
 ||blue-bytez.com^
 ||blue-whitegt.com^
-||blue1city.net^
 ||bluebird-hd.org^
 ||tracker.bluefrog.pw^
 ||blues-brothers.biz^
@@ -1007,7 +979,6 @@
 ||bondhuitbd.com^
 ||bonjourmissmary.com^
 ||bonsaihd.fun^
-||bonsaihd.live^
 ||bookddl.com^
 ||bookgrill.com^
 ||books-share.com^
@@ -1018,7 +989,6 @@
 ||bootytorrents.com^
 ||labs.boramalper.org^
 ||borntonull.com^
-||bossbd.live^
 ||bossbd.net^
 ||bosscast.eu^
 ||bosscast.net^
@@ -1055,7 +1025,6 @@
 ||btbot.com^
 ||btbtt.com^
 ||btbtw.com^
-||tracker.btcake.com^
 ||t.btcland.xyz^
 ||btcyberstorm.com^
 ||btdb.eu^
@@ -1064,7 +1033,6 @@
 ||btdigg.org^
 ||btdoor.cc^
 ||btekbd.com^
-||btekinternet.com^
 ||bteye.org^
 ||btfensi.com^
 ||btgigs.info^
@@ -1115,7 +1083,6 @@
 ||burningseries.sx^
 ||burningseries.vc^
 ||bushtorrent.com^
-||scrapcomputers.busydizzys.com^
 ||butterproject.org^
 ||buycheapadobesoftware.com^
 ||bwtorrents.com^
@@ -1262,7 +1229,6 @@
 ||cloudtorrents.com^
 ||cloudvideo.tv^
 ||hd.club.tw^
-||torrent-comet.club-23.org^
 ||club-mst3k.com^
 ||clubfilm.ir^
 ||bruh.cluster.ws^
@@ -1276,7 +1242,6 @@
 ||cmovieshd.net^
 ||fh2.cmp-gaming.com^
 ||cnetworkbd.net^
-||cnp.cx^
 ||althub.co.za^
 ||mirror.aptus.co.tz^
 ||bioquantum.co.za^
@@ -1358,13 +1323,10 @@
 ||thepiratebays.com.se^
 ||tnetwork.com.bd^
 ||triangle.com.bd^
-||tracker1.wasabii.com.tw^
-||tracker2.wasabii.com.tw^
 ||watchmovies1.com.pk^
 ||wormsblast.com.pl^
 ||www.midea123.z-media.com.cn^
 ||zenkimex.com.mx^
-||zoomonline.com.bd^
 ||comandofilmetorrent.com^
 ||comandohdtorrents.com^
 ||comandotorrenthd.net^
@@ -1394,11 +1356,9 @@
 ||contego.ws^
 ||convivea.com^
 ||conway-sports.com^
-||coolmoviejagg.pro^
 ||coolmoviezone.online^
 ||coolwareznik.net^
 ||coppersurfer.tk^
-||tracker.coppersurfer.site^
 ||retracker01-msk-virt.corbina.net^
 ||coronamovies.net^
 ||tracker.corpscorp.online^
@@ -1417,7 +1377,6 @@
 ||cpasbien.sh^
 ||cpasbien.to^
 ||cpasbien3.pro^
-||cpasbienss.fr^
 ||cpleft.com^
 ||cpturbo.org^
 ||crack.ms^
@@ -1549,7 +1508,6 @@
 ||capital.cyberserver.hu^
 ||cyberwarez.info^
 ||cyclingtorrents.nl^
-||cynemas.online^
 ||cyonix.to^
 ||cytu.be^
 ||torrents.czteam.ro^
@@ -1571,7 +1529,6 @@
 ||danger.lv^
 ||danimados.com^
 ||danishbits.org^
-||danishtorrents.org^
 ||dark-angel.ws^
 ||darkanime.stream^
 ||darkdata.net^
@@ -1649,7 +1606,6 @@
 ||dendox.org^
 ||azn-project.depthstrike.com^
 ||derechosmadretierra.org^
-||derpyradio.net^
 ||desfichiers.com^
 ||deshonlinebd.com^
 ||desi6.com^
@@ -1778,7 +1734,6 @@
 ||dontorrent.uno^
 ||dontorrents.com^
 ||dontorrents.org^
-||tr.doogh.club^
 ||doopes.com^
 ||dopebox.cc^
 ||dosmovies.com^
@@ -1870,7 +1825,6 @@
 ||dvdseed.org^
 ||dwatchseries.to^
 ||dx-team.org^
-||tracker.dxdhd.com^
 ||dylan-park.com^
 ||irrenhaus.dyndns.dk^
 ||aam-bt.dyns.cx^
@@ -1886,7 +1840,6 @@
 ||eagletorrents.net^
 ||earn4files.com^
 ||tracker.eastgame.org^
-||easy-leech.to^
 ||easyitbd.com^
 ||easynews.com^
 ||tracker.eatshoe.com^
@@ -1907,7 +1860,6 @@
 ||ebookvortex.com^
 ||ebookvortex.net^
 ||ebox.live^
-||eclipsetorrents.org^
 ||economyofsound.com^
 ||ectlink.com^
 ||eddie4.nl^
@@ -1984,7 +1936,6 @@
 ||eolbd.com^
 ||epider.me^
 ||episodes-tv.com^
-||epizod.tv^
 ||rocketnet.epizy.com^
 ||epnetbd.com^
 ||eprojectfreetv.com^
@@ -1996,11 +1947,10 @@
 ||retracker.nn.ertelecom.ru^
 ||retracker.perm.ertelecom.ru^
 ||elmellowebmaster.es.tl^
-||eshiel.com^
+||escalaenbernal.com^
 ||estrenoslatinos.com^
 ||ethor.net^
 ||tracker.etn.fm^
-||etorrentsmexico.com^
 ||etproxy.com^
 ||bt.etree.org^
 ||tracker.etree.org^
@@ -2099,7 +2049,6 @@
 ||download.f60s.com^
 ||open.facedatabg.net^
 ||tv.fanclub.rocks^
-||fanclubt.com^
 ||fano.lv^
 ||tracker.fansub.id^
 ||ag-freedom.fansub-torrents.com^
@@ -2325,7 +2274,6 @@
 ||freebfg.org^
 ||freebookspot.es^
 ||freecrackpatch.com^
-||freecracksoftwares.net^
 ||freecrackzone.com^
 ||freecztorrent.eu^
 ||freedocumentaries.org^
@@ -2384,7 +2332,6 @@
 ||ftpbd.net^
 ||ftuapps.dev^
 ||tr.fuckbitcoin.xyz^
-||full-tv.xyz^
 ||fullactivator.com^
 ||fullcrackserial.net^
 ||fulldls.com^
@@ -2413,8 +2360,6 @@
 ||oh.fuuuuuck.com^
 ||git.fuwafuwa.moe^
 ||fux0r.fyi^
-||fux0r.top^
-||fux0r.xyz^
 ||fxp-terminal.info^
 ||fxtt.ru^
 ||fyber.org^
@@ -2437,7 +2382,6 @@
 ||gamecopyworld.com^
 ||gamecopyworld.eu^
 ||gamegear.nl^
-||gamegui.org^
 ||gameloo.info^
 ||gamemp3s.net^
 ||gamepciso.com^
@@ -2448,7 +2392,6 @@
 ||games4theworld.org^
 ||games4u.ws^
 ||gamesdrive.net^
-||gamespark.ga^
 ||gamesrouter.com^
 ||gamestorrent.co^
 ||gamestorrents.com^
@@ -2551,7 +2494,6 @@
 ||gomoviefree.sc^
 ||gomovies.click^
 ||gomovies.film^
-||gomovies.guru^
 ||gomovies.kim^
 ||gomovies.men^
 ||gomovies.uno^
@@ -2570,7 +2512,6 @@
 ||gostream.is^
 ||gostream-hd.xyz^
 ||gotwoot.net^
-||gounlimited.me^
 ||gounlimited.to^
 ||govod.tv^
 ||ipv6.govt.hu^
@@ -2597,7 +2538,6 @@
 ||storage.groupees.com^
 ||gtdb.cc^
 ||gtdb.to^
-||gtorrent.org^
 ||gtorrent.pro^
 ||gtorrent.ru^
 ||guiks.net^
@@ -2653,7 +2593,6 @@
 ||php.hdcmct.com^
 ||tracker.hdcmct.com^
 ||tracker.hddolby.com^
-||hddown.com^
 ||hdencode.com^
 ||hdf.world^
 ||hdfilme.cloud^
@@ -2725,7 +2664,6 @@
 ||hif.to^
 ||high-way.me^
 ||highlightstore.me^
-||tr.highstar.shop^
 ||highteahop.top^
 ||hikarinoakariost.info^
 ||torrents.hikarinokiseki.com^
@@ -2742,7 +2680,6 @@
 ||hitzwarez.net^
 ||tracker.hiyj.cn^
 ||share.hkg-fansub.info^
-||bt.hliang.com^
 ||t1.hloli.org^
 ||hlscat.com^
 ||hlusoe.info^
@@ -2916,7 +2853,6 @@
 ||itmn.org^
 ||itnetzone.com^
 ||itoma.info^
-||itorrent.io^
 ||itorrent.tv^
 ||itorrent.ws^
 ||itorrents.org^
@@ -2965,8 +2901,6 @@
 ||jkanime.online^
 ||jkanime.su^
 ||jkanime.video^
-||ns1.johnlongstreth.com^
-||ns2.johnlongstreth.com^
 ||join4films.com^
 ||jokerlivestream.com^
 ||jokerlivestream.me^
@@ -3000,7 +2934,6 @@
 ||eztv.k8.tf^
 ||torrentz2.k8.tf^
 ||kaat.pw^
-||kachajhal.com^
 ||kaizoku-fansubs.com^
 ||tracker.kali.org^
 ||sub.kamigami.org^
@@ -3013,7 +2946,6 @@
 ||kat.li^
 ||kat.rip^
 ||kat.to^
-||lt.www.kat.ph^
 ||katastrofa.com^
 ||katcr.co^
 ||katcr.to^
@@ -3177,7 +3109,6 @@
 ||laser-dentaire.org^
 ||latinbit.com^
 ||pt.lax.mx^
-||layarkaca21.onl^
 ||layarkaca21.ru^
 ||layarkacaxxi.biz^
 ||layer13.net^
@@ -3233,6 +3164,7 @@
 ||licensesnkey.com^
 ||lickmytaint.com^
 ||lien-torrent.com^
+||lifanmoe.net^
 ||lifemovie.org^
 ||ligaxxi.xyz^
 ||tracker.lilithraws.cf^
@@ -3313,7 +3245,6 @@
 ||lookmovie.media^
 ||lookmovie.mobi^
 ||lookmovie.studio^
-||lookmovie2.site^
 ||lopatins.ru^
 ||losmovies.app^
 ||losmovies.fun^
@@ -3327,7 +3258,6 @@
 ||lovethescene.net^
 ||warez.loxblog.com^
 ||lumpysoft.com^
-||lumsoft.us^
 ||lunchflix.com^
 ||lunchflix.org^
 ||tracker.lyretain.site^
@@ -3344,7 +3274,6 @@
 ||m4uhd.tv^
 ||tk.mabo.ltd^
 ||mabula.net^
-||mac-torrent-download.net^
 ||mac-torrents.com^
 ||mac-torrents.io^
 ||macappstorrent.com^
@@ -3381,6 +3310,7 @@
 ||mahou-shoujo.moe^
 ||majin2007.com^
 ||majomparade.com^
+||makegreatmusic.net^
 ||malacka.com^
 ||mamahd.es^
 ||mamahd.org^
@@ -3425,10 +3355,10 @@
 ||fs1.mebd.net^
 ||mechopirate.com^
 ||medbit.ru^
+||media-sharing.com^
 ||media-torrent.org^
 ||mediaboxbd.com^
 ||mediaboxhd.net^
-||mediaclub.tv^
 ||mediafire.com^
 ||mediafirefile.com^
 ||mediakey.dk^
@@ -3467,7 +3397,6 @@
 ||melen.net^
 ||melomaniacos.com^
 ||memsware.com^
-||tracker.merded.xyz^
 ||mesfichiers.org^
 ||metadownload.org^
 ||tracker.metal-torrents.com^
@@ -3492,6 +3421,7 @@
 ||midnight-scene.com^
 ||midnight-torrents.com^
 ||mikkisays.net^
+||milliontorrent.pl^
 ||mindwarppavilion.org^
 ||bt.mindwerks.net^
 ||newvoyages.mine.nu^
@@ -3505,7 +3435,6 @@
 ||minorstudio.com^
 ||miobt.com^
 ||miomio.tv^
-||open.miotracker.com^
 ||livetv.mirpur.online^
 ||mirpurnetbd.com^
 ||mirpurtech.com^
@@ -3527,6 +3456,7 @@
 ||mlmsoftwarez.in^
 ||tracker.mlsub.net^
 ||trackers.mlsub.net^
+||mlwbd.life^
 ||mlwbd.pw^
 ||mma-core.com^
 ||mma-torrents.com^
@@ -3551,7 +3481,6 @@
 ||tracker.moeblog.cn^
 ||tracker.moecat.best^
 ||tracker.moeking.me^
-||moeweb.pw^
 ||mohmo.net^
 ||mojaloss.net^
 ||mojaloss.stream^
@@ -3624,10 +3553,8 @@
 ||movieking.cc^
 ||movielabor.com^
 ||moviemagnet.co^
-||moviemaya.com^
 ||moviemela.live^
 ||movieminions.cc^
-||moviemoza.com^
 ||movienoe.com^
 ||movienyt.net^
 ||movieorca.com^
@@ -3667,6 +3594,7 @@
 ||movietopia.to^
 ||movietorrent.co^
 ||movietown.org^
+||movieultima.online^
 ||movieunlimited.net^
 ||moviewapi.in^
 ||moviewatcher.is^
@@ -3707,7 +3635,6 @@
 ||mp3lion.ru^
 ||mp3menu.com^
 ||mp3menu.net^
-||mp3menu.org^
 ||torrent.mp3quran.net^
 ||mp3rally.com^
 ||mp3scene.info^
@@ -3717,7 +3644,6 @@
 ||mp3skulls.info^
 ||mp3songs.us^
 ||mp3sparks.com^
-||mp3tx.com^
 ||mp4ba.com^
 ||mp4ba.la^
 ||mp4hdmovies.org^
@@ -3749,7 +3675,6 @@
 ||musgle.com^
 ||music-torrent.net^
 ||music-vid.com^
-||musicatube.net^
 ||musicbits.net^
 ||musichq.net^
 ||musicneeds.com^
@@ -3788,7 +3713,6 @@
 ||myflixer.ru^
 ||myflixer.to^
 ||myflixer.today^
-||myflixer.vc^
 ||myflixer.ws^
 ||myflixerhd.ru^
 ||myflixertv.to^
@@ -3818,6 +3742,7 @@
 ||mytracker.ru^
 ||myunblock.com^
 ||myustv.com^
+||rfc5746.mywaifu.best^
 ||tracker.mywaifu.best^
 ||adminion.n-blade.ru^
 ||nabtor.com^
@@ -3934,6 +3859,7 @@
 ||nmac.to^
 ||nms-bd.com^
 ||nmuca.org^
+||nnm.ru^
 ||nnm-club.info^
 ||nnm-club.me^
 ||nnm-club.ru^
@@ -4021,6 +3947,7 @@
 ||nulljungle.com^
 ||nullphp.net^
 ||nullphpscript.com^
+||tracker.nullrouted.me^
 ||nullscriptfullz.com^
 ||nullzone.fr^
 ||nunuyy.cc^
@@ -4126,6 +4053,7 @@
 ||onionplay.rs^
 ||onionplay.se^
 ||onionplay.si^
+||onionplay.to^
 ||onionplay.yt^
 ||online-fix.me^
 ||online-life.ru^
@@ -4157,7 +4085,6 @@
 ||openloadmovies.bz^
 ||openloadmovies.ch^
 ||openloadmovies.net^
-||opennetwork.ro^
 ||openpiratbay.net^
 ||openpirate.org^
 ||opensharing.org^
@@ -4200,7 +4127,6 @@
 ||otakustv.com^
 ||otakuworks.com^
 ||oteupload.com^
-||otorrent4.com^
 ||otorrents.com^
 ||otxataba.net^
 ||otxatabanet.ru^
@@ -4287,15 +4213,14 @@
 ||pelisplus.blog^
 ||pelisplus.co^
 ||pelisplus.gratis^
-||pelisplus.icu^
 ||pelisplus.live^
 ||pelisplus.me^
 ||pelisplus.online^
 ||pelisplus.org^
 ||pelisplusgt.com^
 ||pelisplushd.net^
+||pepecine.to^
 ||per-fect.nl^
-||perfectddl.com^
 ||petaleech.com^
 ||peteteo.com^
 ||phantombitz.com^
@@ -4317,6 +4242,7 @@
 ||pinoytorrents.net^
 ||piraat.xyz^
 ||piracyproxy.net^
+||piratbaytpb.one^
 ||piratbit.top^
 ||pirate-bay.info^
 ||pirate-bay.net^
@@ -4355,6 +4281,7 @@
 ||piratebayproxy.info^
 ||piratebayproxy.live^
 ||piratebayproxy.rocks^
+||piratebayproxy.top^
 ||piratebayproxyz.com^
 ||piratebays.org^
 ||piratebays.win^
@@ -4398,7 +4325,6 @@
 ||pirateworld.org^
 ||piratez.xyz^
 ||piratic.org^
-||pirlog.com^
 ||pisexy.org^
 ||pitbulltorrent.eu^
 ||pitkini.org^
@@ -4413,7 +4339,6 @@
 ||tracker.playmanija.net^
 ||playvidto.com^
 ||playwarez.com^
-||bt.plc.mx^
 ||pldm.ml^
 ||pleer.com^
 ||plexbd.net^
@@ -4534,6 +4459,7 @@
 ||proxybay.bz^
 ||proxybay.gdn^
 ||proxybay.onl^
+||proxybay.page^
 ||proxybay.pro^
 ||proxybay.tech^
 ||proxybay.xyz^
@@ -4567,7 +4493,6 @@
 ||pubfilm.one^
 ||old.pubfilms.club^
 ||public-tracker.cf^
-||tracker.publicbt.com^
 ||publicdomaintorrents.com^
 ||publicdomaintorrents.info^
 ||publichd.se^
@@ -4651,6 +4576,7 @@
 ||putlockershd.us^
 ||putlockerss.online^
 ||putlockertv.info^
+||putlockertv.ist^
 ||putlockertv.onl^
 ||putlockertv.to^
 ||puzo.org^
@@ -4767,6 +4693,7 @@
 ||d40969.acod.regrucolo.ru^
 ||rejetto.com^
 ||relizer.net^
+||reload-paradise.net^
 ||tracker.renfei.net^
 ||renrencili.com^
 ||repack.info^
@@ -4826,6 +4753,7 @@
 ||rom-world.com^
 ||romsnetwork.com^
 ||romtohome.com^
+||root-warez.com^
 ||rootsofts.com^
 ||rotorrent.ro^
 ||royal-orleans.com^
@@ -4841,6 +4769,7 @@
 ||run-ricky-run.com^
 ||rune-server.org^
 ||runwaybroadband.com^
+||rus-media.org^
 ||russianfilmhub.com^
 ||rustorka.com^
 ||rustorrents.info^
@@ -4901,6 +4830,7 @@
 ||sceneaccess.org^
 ||scenedemon.com^
 ||scenedemon.us^
+||scenefeed.org^
 ||scenefz.net^
 ||scenehd.org^
 ||sceneleech.org^
@@ -4984,6 +4914,7 @@
 ||serialsurf.com^
 ||serien.cam^
 ||serien.click^
+||serien.dev^
 ||serien.digital^
 ||serien.express^
 ||serien.fun^
@@ -5076,6 +5007,7 @@
 ||showboxmovies.net^
 ||showrss.info^
 ||showtimebd.com^
+||shubt.net^
 ||tracker.shuntv.net^
 ||shush.se^
 ||siambit.com^
@@ -5186,6 +5118,7 @@
 ||softmupparna.net^
 ||softpilot.win^
 ||softsapk.com^
+||softsclub.com^
 ||softserialskey.com^
 ||softswarez.com^
 ||softtorrents.org^
@@ -5393,6 +5326,7 @@
 ||szeneworld.eu^
 ||savaria.szerverem.hu^
 ||p5796a22a.dip0.t-ipconnect.de^
+||tracker.t-rb.org^
 ||t-ru.org^
 ||katcr.t0r.xyz^
 ||t2bot.ru^
@@ -5554,6 +5488,8 @@
 ||thepiratebay2.to^
 ||thepiratebay3.org^
 ||thepiratebay3.to^
+||thepiratebay9.info^
+||thepiratebay9.net^
 ||thepiratebaya.com^
 ||thepiratebayorg.org^
 ||thepiratebayproxylist.se^
@@ -5576,6 +5512,7 @@
 ||horriblesubs.theproxy.app^
 ||viprow.theproxy.app^
 ||cricfree.theproxya.net^
+||tracker.therarbg.com^
 ||thesefiles.com^
 ||thesegalleries.com^
 ||tracker.theshow.click^
@@ -5673,6 +5610,7 @@
 ||torhd.com^
 ||tracker.toritraders.com^
 ||toriyamaworld.com^
+||tr.torland.ga^
 ||torlock.com^
 ||torlock.live^
 ||torlock2.com^
@@ -5730,7 +5668,6 @@
 ||torrentazos.com^
 ||torrentbay.to^
 ||torrentbd.com^
-||torrentbd.net^
 ||torrentbit.net^
 ||torrentbits.ro^
 ||torrentbox.com^
@@ -5857,6 +5794,7 @@
 ||torrentqq51.com^
 ||torrentqq52.com^
 ||torrentqq53.com^
+||torrentqq71.com^
 ||torrentqq74.com^
 ||torrentquest.com^
 ||torrentradar.org^
@@ -6002,6 +5940,7 @@
 ||tri-tavern.com^
 ||tribalmixes.com^
 ||tricitytorrents.com^
+||triniwarez.com^
 ||triptorrents.com^
 ||tracker.trojangogogo.site^
 ||troypoint.com^
@@ -6597,7 +6536,10 @@
 ||xmovies8.si^
 ||xn--80a4b.com^
 ||xn--thepratebay-fcb.com^
+||budvartrekker.xn-s.eu^
+||hd-hu.xn-s.eu^
 ||xoomtv.xyz^
+||tterm.xorg.pl^
 ||xparadise.ru^
 ||xpau.se^
 ||xplorenetbd.com^
@@ -6707,6 +6649,7 @@
 ||yts.ai^
 ||yts.am^
 ||yts.digital^
+||yts.io^
 ||yts.la^
 ||yts.lat^
 ||yts.lc^
@@ -6719,11 +6662,13 @@
 ||yts.re^
 ||yts.st^
 ||yts.to^
+||yts.vc^
 ||yts.ws^
 ||yts.yt^
 ||yts.zone^
 ||yts-movie.cc^
 ||yts-torrents.org^
+||ytshindi.xyz^
 ||ytsmovietorrent.com^
 ||ytsstreaming.com^
 ||ytstorrent.com^
