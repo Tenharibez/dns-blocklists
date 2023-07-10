@@ -69,7 +69,7 @@
 ```
 #### PRO.PLUS
 ```
-1330613 (91%) included | 6567 (0%) removed | 122991 (8%) dead
+1221146 (91%) included | 6155 (0%) removed | 121347 (9%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
   1 |     100% |   0% |      0% | 1060811 | Predecessor: Multi Pro
@@ -99,10 +99,10 @@
 ```
 #### ULTIMATE
 ```
-2176496 (92%) included | 6225 (0%) removed | 188591 (8%) dead
+2046810 (91%) included | 5777 (0%) removed | 186832 (8%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% | 1330613 | Predecessor: Multi Pro++
+  1 |     100% |   0% |      0% | 1221146 | Predecessor: Multi Pro++
   2 |     100% |   0% |      0% |   41301 | Personal
   3 |      87% |   3% |     10% |     155 | Personal Wildcard Rules
   4 |     100% |   0% |      0% |   15339 | Fake

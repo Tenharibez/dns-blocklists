@@ -39,8 +39,8 @@
 | [Light](#light)             | 642358<br>133184     | |   |   |  | :green_circle: | | :yellow_square: | :green_circle: | :yellow_square: |
 | [Normal](#normal)       | 985787<br>338512     | |   |  | :green_circle: | :green_circle: | | :green_circle: | :green_circle: | :yellow_square: |
 | [Pro](#pro)              | 1060811<br>378690         | |  | :green_circle: | :green_circle: | :green_circle: | | :green_circle: | :green_circle: | :yellow_square: |
-| [Pro++](#proplus)    | 1330613<br>441405 | | :green_circle: | :green_circle: | :green_circle: | :green_circle: | | :green_circle: | :green_circle: | :green_circle: |
-| [Ultimate](#ultimate)    | 2176496<br>886689 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |
+| [Pro++](#proplus)    | 1221146<br>440668 | | :green_circle: | :green_circle: | :green_circle: | :green_circle: | | :green_circle: | :green_circle: | :green_circle: |
+| [Ultimate](#ultimate)    | 2046810<br>886349 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |
            
 *:green_circle: = contains the list named in the column caption*       
 *:yellow_square: = partially contains the list named in the column caption*       
@@ -104,7 +104,7 @@
          
 *More aggressive version of the Multi PRO blocklist. It may contain few false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *1330613 domains/hosts - 441405 compressed domains* | [Statistics](https://github.com/hagezi/dns-blocklists/blob/main/statistics.md#proplus)    
+**Entries:** *1221146 domains/hosts - 440668 compressed domains* | [Statistics](https://github.com/hagezi/dns-blocklists/blob/main/statistics.md#proplus)    
                                                 
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -123,7 +123,7 @@
          
 *Stricter version of the Multi PRO++ blocklist. It may contain false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *2176496 domains/hosts - 886689 compressed domains* | [Statistics](https://github.com/hagezi/dns-blocklists/blob/main/statistics.md#ultimate)    
+**Entries:** *2046810 domains/hosts - 886349 compressed domains* | [Statistics](https://github.com/hagezi/dns-blocklists/blob/main/statistics.md#ultimate)    
                                                 
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
